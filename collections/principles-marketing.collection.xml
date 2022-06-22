@@ -1,18 +1,109 @@
-<col:collection 
-  xmlns:col="http://cnx.rice.edu/collxml"
-  xmlns:md="http://cnx.rice.edu/mdml"
-  xmlns:sys="http://cnx.rice.edu/system-info"
-  xmlns="http://cnx.rice.edu/collxml">
-
+<col:collection xmlns:col="http://cnx.rice.edu/collxml" xmlns:md="http://cnx.rice.edu/mdml" xmlns="http://cnx.rice.edu/collxml">
   <col:metadata>
-    <md:uuid>2731eee8-0eb1-4d80-ae83-01b4af642ff6</md:uuid>
     <md:title>Principles of Marketing</md:title>
     <md:slug>principles-marketing</md:slug>
-    <md:license url="http://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution License 4.0</md:license>
-    <md:content-id>col6393</md:content-id>
     <md:language>en</md:language>
+    <md:uuid>2731eee8-0eb1-4d80-ae83-01b4af642ff6</md:uuid>
+    <md:content-id>col6393</md:content-id>
+    <md:license url="http://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution License 4.0</md:license>
   </col:metadata>
   <col:content>
-
+    <col:subcollection>
+      <md:title>Setting the Stage</md:title>
+      <col:content>
+        <col:subcollection>
+          <md:title>Marketing and Customer Value</md:title>
+          <col:content/>
+        </col:subcollection>
+        <col:subcollection>
+          <md:title>Strategic Planning in Marketing</md:title>
+          <col:content/>
+        </col:subcollection>
+      </col:content>
+    </col:subcollection>
+    <col:subcollection>
+      <md:title>Understanding the Marketplace</md:title>
+      <col:content>
+        <col:subcollection>
+          <md:title>Consumer Markets and Purchasing Behavior</md:title>
+          <col:content>
+            <col:module document="m00001"/>
+            <col:module document="m00002"/>
+            <col:module document="m00003"/>
+            <col:module document="m00004"/>
+            <col:module document="m00005"/>
+          </col:content>
+        </col:subcollection>
+        <col:subcollection>
+          <md:title>Business Markets and Purchasing Behavior</md:title>
+          <col:content/>
+        </col:subcollection>
+        <col:subcollection>
+          <md:title>Market Segmentation, Targeting, and Positioning</md:title>
+          <col:content/>
+        </col:subcollection>
+        <col:subcollection>
+          <md:title>Marketing Research and Market Intelligence</md:title>
+          <col:content/>
+        </col:subcollection>
+        <col:subcollection>
+          <md:title>Marketing in a Global Environment</md:title>
+          <col:content/>
+        </col:subcollection>
+        <col:subcollection>
+          <md:title>Marketing in a Diverse Marketplace</md:title>
+          <col:content/>
+        </col:subcollection>
+      </col:content>
+    </col:subcollection>
+    <col:subcollection>
+      <md:title>Product, Promotion, Price, and Place</md:title>
+      <col:content>
+        <col:subcollection>
+          <md:title>Products: Consumer Offerings</md:title>
+          <col:content/>
+        </col:subcollection>
+        <col:subcollection>
+          <md:title>Maintaining a Competitive Edge with New Offerings</md:title>
+          <col:content/>
+        </col:subcollection>
+        <col:subcollection>
+          <md:title>Services: The Intangible Product</md:title>
+          <col:content/>
+        </col:subcollection>
+        <col:subcollection>
+          <md:title>Pricing Products and Services</md:title>
+          <col:content/>
+        </col:subcollection>
+        <col:subcollection>
+          <md:title>Integrated Marketing Communications</md:title>
+          <col:content/>
+        </col:subcollection>
+        <col:subcollection>
+          <md:title>The Promotion Mix: Advertising and Public Relations</md:title>
+          <col:content/>
+        </col:subcollection>
+        <col:subcollection>
+          <md:title>The Promotion Mix: Personal Selling and Sales Promotion</md:title>
+          <col:content/>
+        </col:subcollection>
+        <col:subcollection>
+          <md:title>Direct, Online, Social Media, and Mobile Marketing</md:title>
+          <col:content/>
+        </col:subcollection>
+        <col:subcollection>
+          <md:title>Distribution: Delivering Customer Value</md:title>
+          <col:content/>
+        </col:subcollection>
+        <col:subcollection>
+          <md:title>Retailing and Wholesaling</md:title>
+          <col:content/>
+        </col:subcollection>
+      </col:content>
+    </col:subcollection>
+    <col:subcollection>
+      <md:title>Sustainable Marketing: The New Paradigm</md:title>
+      <col:content/>
+    </col:subcollection>
   </col:content>
 </col:collection>
