@@ -236,15 +236,6 @@
         </col:subcollection>
       </col:content>
     </col:subcollection>
-    <col:subcollection>
-      <md:title>Sustainable Marketing: The New Paradigm</md:title>
-      <col:content>
-          <col:module document="m00124"/>
-    <col:module document="m00125"/>
-    <col:module document="m00126"/>
-    <col:module document="m00127"/>
-    <col:module document="m00128"/>
-      </col:content>
-    </col:subcollection>
-  </col:content>
+    <col:module document="m00124"/>
+    </col:content>
 </col:collection>
