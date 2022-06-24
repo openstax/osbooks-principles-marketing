@@ -11,6 +11,7 @@
     <col:subcollection>
       <md:title>Setting the Stage</md:title>
       <col:content>
+        <col:module document="m00130"/>
         <col:subcollection>
           <md:title>Marketing and Customer Value</md:title>
           <col:content>
@@ -40,6 +41,7 @@
     <col:subcollection>
       <md:title>Understanding the Marketplace</md:title>
       <col:content>
+        <col:module document="m00129"/>
         <col:subcollection>
           <md:title>Consumer Markets and Purchasing Behavior</md:title>
           <col:content>
@@ -113,6 +115,7 @@
     <col:subcollection>
       <md:title>Product, Promotion, Price, and Place</md:title>
       <col:content>
+        <col:module document="m00131"/>
         <col:subcollection>
           <md:title>Products: Consumer Offerings</md:title>
           <col:content>
@@ -237,5 +240,5 @@
       </col:content>
     </col:subcollection>
     <col:module document="m00124"/>
-    </col:content>
+  </col:content>
 </col:collection>
