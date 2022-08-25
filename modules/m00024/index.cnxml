@@ -64,8 +64,8 @@
     </section>
     </content>
     <glossary>
-    <definition id="def-00001"><term>[4.4] bill of materials</term><meaning>a comprehensive inventory of the raw materials, assemblies, subassemblies, parts, and components</meaning></definition>
-    <definition id="def-00002"><term>[4.4] B2B buying process</term><meaning>encompasses 8 stages: problem recognition, need description, product specification, supplier search, proposal selection, supplier selection, order-routine specification, performance review</meaning></definition>
-    <definition id="def-00003"><term>[4.4] product specifications</term><meaning>a document carrying essential information to keep teams on track when designing and developing a product</meaning></definition>
+    <definition id="def-00001"><term>bill of materials</term><meaning>a comprehensive inventory of the raw materials, assemblies, subassemblies, parts, and components</meaning></definition>
+    <definition id="def-00002"><term>B2B buying process</term><meaning>encompasses 8 stages: problem recognition, need description, product specification, supplier search, proposal selection, supplier selection, order-routine specification, performance review</meaning></definition>
+    <definition id="def-00003"><term>product specifications</term><meaning>a document carrying essential information to keep teams on track when designing and developing a product</meaning></definition>
     </glossary>
 </document>
