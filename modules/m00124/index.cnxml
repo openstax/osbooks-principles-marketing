@@ -6,7 +6,7 @@
     <md:uuid>a6a51a59-b6b8-467b-9d96-c387b8a9b3aa</md:uuid>
   </metadata>
   <content>
-    <section class="learning-objectives" id="sect-00002">
+    <section class="learning-objectives" id="sect-00001">
     <title>Learning Outcomes</title>
     <para id="para-00001">By the end of this section, you will be able to:</para>
     <list id="list-00001">
@@ -14,11 +14,11 @@
     <item>Explain the three pillars of sustainable marketing.</item>
     </list>
     </section>
-    <section id="sect-00003">
+    <section id="sect-00002">
     <title>Sustainable Marketing</title>
     <para id="para-00002">Stakeholders increasingly demand purpose over profits from the brands they work for, shop for, invest in, and allow within their communities. In fact, an <term class="no-emphasis" id="term-00001"><emphasis class="colored-text">IBM</emphasis></term> study on consumer behavior indicated that 57 percent of consumers would alter consumption habits to be more environmentally conscious, and nearly 80 percent of survey respondents indicated that sustainability is essential.<cite id="rf-001-a" target-id="rf-001"><note class="delete-me" display="inline" id="note-00001"/></cite> Therefore, sustainability is a business imperative. As defined by Philip Kotler, Professor Emeritus at Northwestern University, “the concept of sustainable marketing holds that an organization should meet the needs of its present consumers without compromising the ability of future generations to fulfill their own needs.”<cite id="rf-002-a" target-id="rf-002"><note class="delete-me" display="inline" id="note-00002"/></cite> In other words, products and services consumed today should not harm consumers of tomorrow.</para>
     <para id="para-00003"><term id="term-00002">Sustainable marketing</term> infuses purpose into socially conscious brands, products, and services. Marketing seeks to differentiate the brand based on mission. Sustainable brands define a purpose, orient to stakeholders’ values, align purpose with strategy, and reflect sustainability in marketing. This business strategy gives brands an edge with stakeholders who seek brands that align with their values.</para>
-    <para id="para-00004">The three pillars of sustainable marketing include environmental sustainability, social good, and economic return (see <link target-id="fig-00001" document="m00124"/>). You may have heard the term “planet, people, and profits,” which describes the three pillars of sustainable marketing. Businesses meet the needs of the marketplace without sacrificing the future viability of the world. Companies are increasingly following an <term id="term-00003">environmental, social, and governance strategy</term> and use these <term id="term-00004">ESG pillars</term> to guide their work. The topic extends beyond sustainability into doing what’s right socially and ethically. Companies report their quantitative and qualitative results in annual disclosures to share the impact of ESG efforts.</para>
+    <para id="para-00004">The three pillars of sustainable marketing include environmental sustainability, social good, and economic return (see Figure 19.1). You may have heard the term “planet, people, and profits,” which describes the three pillars of sustainable marketing. Businesses meet the needs of the marketplace without sacrificing the future viability of the world. Companies are increasingly following an <term id="term-00003">environmental, social, and governance strategy</term> and use these <term id="term-00004">ESG pillars</term> to guide their work. The topic extends beyond sustainability into doing what’s right socially and ethically. Companies report their quantitative and qualitative results in annual disclosures to share the impact of ESG efforts.</para>
     <figure class="scaled-down" id="fig-00001"><media alt="The three pillars of sustainable marketing are (from top to bottom): environmental sustainability (planet); social good (people); and economic return (profits)."><image mime-type="image/png" src="../../media/MKT_Figure_App_01_001.png"/></media><caption>Three Pillars of Sustainable Marketing (attribution: Copyright Rice University, OpenStax, under CC BY 4.0 license)</caption></figure>
     <note class="link-to-learning" id="note-00003">
     <title>ESG</title>
@@ -48,13 +48,13 @@
     <para id="para-00013"><link url="https://openstax.org/r/partnershipmethodology">Learn more about the Measure Up initiative</link> to help businesses build fair and inclusive work spaces. In its work, it rank companies based on their diversity, equity, and inclusion (DEI) disclosure and performance metrics.</para>
     </note>
     </section>
-    <section class="knowledge-check" id="sect-00004">
+    <section class="knowledge-check" id="sect-00003">
     <title>Knowledge Check</title>
     <para id="para-00014">It’s time to check your knowledge on the concepts presented in this section. Refer to the Answer Key at the end of the book for feedback.</para>
-    <exercise id="exer-00001"><problem id="prob-00001"><para id="para-00015"><link class="os-embed" url="#exercise/MBT_Ch19_Sec1_KC1"/></para></problem></exercise>
-    <exercise id="exer-00002"><problem id="prob-00002"><para id="para-00016"><link class="os-embed" url="#exercise/MBT_Ch19_Sec1_KC2"/></para></problem></exercise>
+    <exercise id="exer-00001"><problem id="prob-00001"><para id="para-00015"><link class="os-embed" url="#exercise/MOT_App_A1_KC1"/></para></problem></exercise>
+    <exercise id="exer-00002"><problem id="prob-00002"><para id="para-00016"><link class="os-embed" url="#exercise/MOT_App_A1_KC2"/></para></problem></exercise>
     </section>
-    <section class="references" id="sect-00036">
+    <section class="references" id="sect-00004">
     <title>Endnotes</title>
     <note id="rf-001"><link target-id="rf-001-a"><span>1.</span></link><span>Karl Haller, Jim Lee, and Jane Cheung, “Meet the 2020 Consumers Driving Change,” Research Insights, June 2020, https://www.ibm.com/downloads/cas/EXK4XKX8#:~:text=Nearly%206%20in%2010%20consumers,this%20jumps%20to%2077%20percent.</span></note>
     <note id="rf-002"><link target-id="rf-002-a"><span>2.</span></link><span>Adanma Onuoha, “What Is Sustainable Marketing?” Network for Business Sustainability, October 12, 2021, https://nbs.net/articles/what-is-sustainable-marketing/.</span></note>
@@ -65,10 +65,10 @@
     </section>
     </content>
     <glossary>
-    <definition id="def-00004"><term>economic pillar (governance pillar)</term><meaning>the sustainability pillar that concerns profitability and business ethics</meaning></definition>
-    <definition id="def-00005"><term>environmental pillar</term><meaning>the sustainability pillar that focuses on reducing a company’s impact on the environment</meaning></definition>
-    <definition id="def-00007"><term>ESG pillars</term><meaning>the three pillars of environmental, social, and governance that guide corporate sustainability work</meaning></definition>
-    <definition id="def-00011"><term>social pillar</term><meaning>the sustainability pillar that focuses on creating an inclusive environment for the community</meaning></definition>
-    <definition id="def-00013"><term>sustainable marketing</term><meaning>a marketing strategy that infuses purpose into socially conscious products and services</meaning></definition>
+    <definition id="def-00001"><term>economic pillar (governance pillar)</term><meaning>the sustainability pillar that concerns profitability and business ethics</meaning></definition>
+    <definition id="def-00002"><term>environmental pillar</term><meaning>the sustainability pillar that focuses on reducing a company’s impact on the environment</meaning></definition>
+    <definition id="def-00003"><term>ESG pillars</term><meaning>the three pillars of environmental, social, and governance that guide corporate sustainability work</meaning></definition>
+    <definition id="def-00004"><term>social pillar</term><meaning>the sustainability pillar that focuses on creating an inclusive environment for the community</meaning></definition>
+    <definition id="def-00005"><term>sustainable marketing</term><meaning>a marketing strategy that infuses purpose into socially conscious products and services</meaning></definition>
     </glossary>
 </document>
