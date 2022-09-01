@@ -104,8 +104,6 @@
             <col:module document="m00046"/>
             <col:module document="m00047"/>
             <col:module document="m00048"/>
-            <col:module document="m00049"/>
-            <col:module document="m00050"/>
             <col:module document="m00051"/>
             <col:module document="m00052"/>
           </col:content>
@@ -237,8 +235,18 @@
             <col:module document="m00123"/>
           </col:content>
         </col:subcollection>
+        <col:subcollection>
+          <md:title>Sustainable Marketing: The New Paradigm</md:title>
+          <col:content>
+            <col:module document="m00136"/>
+            <col:module document="m00124"/>
+            <col:module document="m00132"/>
+            <col:module document="m00133"/>
+            <col:module document="m00134"/>
+            <col:module document="m00135"/>
+          </col:content>
+        </col:subcollection>
       </col:content>
     </col:subcollection>
-    <col:module document="m00124"/>
   </col:content>
 </col:collection>

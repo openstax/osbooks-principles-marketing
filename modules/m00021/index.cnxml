@@ -23,8 +23,8 @@
     <tgroup cols="2">
     <thead>
     <row>
-    <entry>Business-to-Consumer Market (B2C)</entry>
-    <entry>Business-to-Business Market (B2B)</entry>
+    <entry align="left">Business-to-Consumer Market (B2C)</entry>
+    <entry align="left">Business-to-Business Market (B2B)</entry>
     </row>
     </thead>
     <tbody>

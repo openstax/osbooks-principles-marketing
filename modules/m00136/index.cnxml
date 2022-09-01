@@ -1,0 +1,13 @@
+<document xmlns="http://cnx.rice.edu/cnxml" class="introduction">
+  <title>In the Spotlight</title>
+  <metadata xmlns:md="http://cnx.rice.edu/mdml">
+    <md:title/>
+    <md:content-id>m00136</md:content-id>
+    <md:uuid>7ebab0e9-03ce-4988-b1a5-8a9a8771c4eb</md:uuid>
+  </metadata>
+  <content class="introduction">
+    <section id="sect-00001">
+      <para id="para-00001">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi nec tortor quis augue fringilla auctor in id neque. Nam lacus felis, pellentesque sed finibus non, malesuada a dolor. Proin non aliquet dui, vitae tristique nunc. Mauris dignissim velit non turpis facilisis cursus. Aenean at egestas neque, sed mattis ante. In ultricies ac dui sit amet hendrerit. Sed commodo leo purus, sit amet tempor nulla pulvinar quis. Suspendisse enim ligula, ornare a est in, mattis dignissim ante. Etiam feugiat feugiat facilisis. Duis ornare diam commodo scelerisque tristique. Donec lacinia mi arcu, at finibus lacus finibus non. Interdum et malesuada fames ac ante ipsum primis in faucibus. Donec consequat purus vitae mi dapibus lacinia.</para>
+    </section>
+  </content>
+</document>
