@@ -1,4 +1,4 @@
-<document xmlns="http://cnx.rice.edu/cnxml">
+<document xmlns="http://cnx.rice.edu/cnxml" xmlns:m="http://www.w3.org/1998/Math/MathML">
   <title>The Use of Metrics in Evaluating New Products</title>
   <metadata xmlns:md="http://cnx.rice.edu/mdml">
     <md:title>The Use of Metrics in Evaluating New Products</md:title>
@@ -6,8 +6,65 @@
     <md:uuid>ebc51b4b-50cf-4691-b47f-7a95a7335839</md:uuid>
   </metadata>
   <content>
-<section id="sect-00001">
-<para id="para-00001"> </para>
-</section>
-  </content>
+    <section class="learning-objectives" id="sect-00001">
+    <title>Learning Outcomes</title>
+    <para id="para-00001">By the end of this section, you will be able to:</para>
+    <list id="list-00001">
+    <item>Explain the importance of establishing new product metrics.</item>
+    <item>Describe metrics used to evaluate the success or failure of new products.</item>
+    </list>
+    </section>
+    <section id="sect-00002">
+    <title>The Importance of Establishing New Product Metrics</title>
+    <para id="para-00002">There are few marketing activities that are as difficult to manage as new product development. Not only does a company have to juggle multiple tasks like new features and innovative technologies against factors like cost, risk, and time to market, but it has to ensure that it’s making the most efficient use of its limited resources on new products that will meet both its short-term and long-term strategic goals. In this section we’re going to review product development metrics that can measure the success (or failure) of your new product launch.</para>
+    <para id="para-00003"><term id="term-00001">Product metrics</term> are quantifiable data that a business tracks and analyzes to determine how successful its new product(s) are. One way that companies accomplish this is by using key performance indicators (KPIs). KPIs are target metrics set by a company as a way to measure if the product is delivering on expectations. An example of a KPI could be targeted new customers per month or revenue growth.</para>
+    <note class="link-to-learning" id="note-00001">
+    <title>KPIs</title>
+    <para id="para-00004">If you haven’t already heard the term KPI, and you plan on working at a business, it will become a part of your language. No matter what job role you hold in a company, KPIs are important to understand. Learn more about KPIs from there resources:</para>
+    <list id="list-00002">
+    <item>KPI.org: “<link url="https://openstax.org/r/kpibasics">What Is A Key Performance Indicator (KPI)?</link>”</item>
+    <item>HubSpot: <link url="https://openstax.org/r/choosingkpis">“How to Choose the Right KPIs for Your Business”</link></item>
+    <item>Toucan Toco: <link url="https://openstax.org/r/mostimportantkpis">“The Most Important KPIs to Track for Improved Marketing Efficiency”</link></item>
+    <item>The Marketing Journal: <link url="https://openstax.org/r/marketingjournal">“5 Marketing KPIs You Cannot Measure but Should Care About”</link></item>
+    <item>Virtual Strategist Video: “How to Develop Key Performance Indicators”
+    <media alt=""><iframe width="660" height="371.4" src="https://openstax.org/r/keyperformanceindicators"/></media></item>
+    </list>
+    </note>
+    </section>
+    <section id="sect-00003">
+    <title>Specific Metrics Used to Evaluate New Products</title>
+    <para id="para-00005">There are any number of metrics you can use to measure the success of a new product. For our purposes, we’re going to focus on just a few of the more common KPIs (see <link target-id="fig-00001" document="m00066"/>).</para>
+    <figure id="fig-00001"><media alt="Metrics that can be used to evaluate new products are R and D spending as a percentage of sales, current year percentage of sales, time to value or T T V, product adoption rate, and return on investment or R O I."><image mime-type="image/png" src="../../media/MKT_Figure_10_03_004.png"/></media><caption>Metrics to Evaluate New Products (attribution: Copyright Rice University, OpenStax, under CC BY 4.0 license)</caption></figure>
+    <list id="list-00003">
+    <item><emphasis effect="bold">Research and Development Spending as a Percentage of Sales:</emphasis> This metric is used to compare the effectiveness of R&amp;D expenditures between companies in the same industry. It’s important to use companies within the same industry because R&amp;D numbers vary widely based upon the industry. For example, pharmaceutical and software companies tend to spend considerable dollars on R&amp;D, whereas consumer product companies generally spend less. The percentage is calculated as R&amp;D dollars spent divided by total sales.</item>
+    <item><emphasis effect="bold">Current Year Percentage of Sales:</emphasis> This method calculates cost of goods sold, inventory, cash, and other financial line items as a percentage of sales and then applies that percentage to future sales estimates. It’s a “quick and dirty” way to estimate the product’s future value.<cite id="rf-026-a" target-id="rf-026"><note class="delete-me" display="inline" id="note-00002"/></cite></item>
+    <item><emphasis effect="bold">Time to Value (TTV)</emphasis>: Time to value refers to how long it takes new users to recognize your product’s value (sometimes referred to as the “aha!” moment in marketing). Obviously, the sooner this occurs, the better, although time to value varies widely depending upon the product itself.<cite id="rf-027-a" target-id="rf-027"><note class="delete-me" display="inline" id="note-00003"/></cite> For example, if you purchase a new book for your <term class="no-emphasis" id="term-00002"><emphasis class="colored-text">Kindle</emphasis></term>, it’s a matter of seconds before the book is available to you. On the other hand, if you subscribe to a magazine, it may be days or weeks before you see your first issue.</item>
+    <item><emphasis effect="bold">Product Adoption Rate:</emphasis> When launching a new product, this metric is almost always at or near the top of the product team’s list of KPIs to track. Product adoption (or user adoption) is the process by which people learn about a product and start using its features to meet their needs.<cite id="rf-028-a" target-id="rf-028"><note class="delete-me" display="inline" id="note-00004"/></cite> The formula for calculating the adoption rate: divide the number of new users by the total number of users.</item>
+    <item><emphasis effect="bold">Return on Investment:</emphasis> <term id="term-00003">Return on investment (ROI)</term> is a metric formula used to evaluate the profitability, or overall value, of an investment. In marketing, you can use ROI to measure the profitability of a new product launch. To calculate the marketing ROI, you would take the sales from that product, subtract the marketing costs, divide by the marketing costs, and multiple by 100.<cite id="rf-029-a" target-id="rf-029"><note class="delete-me" display="inline" id="note-00005"/></cite></item>
+    </list>
+    <para id="para-00006">For example, if sales grew by $100,000 as a result of the new product launch, but the cost of the marketing campaign was $20,000, the ROI would be:</para>
+    <para id="para-00007"><emphasis class="centered-text"><math xmlns="http://www.w3.org/1998/Math/MathML"><mrow><mtext>Return&#x00A0;on&#x00A0;Investment&#x00A0;</mtext><mrow><mo>(</mo><mrow><mtext>ROI</mtext></mrow><mo>)</mo></mrow><mo>=</mo><mfrac><mrow><mrow><mo>(</mo><mrow><mtext>Sales</mtext><mo>&#x2212;</mo><mtext>Costs</mtext></mrow><mo>)</mo></mrow></mrow><mrow><mtext>Costs</mtext></mrow></mfrac><mtext>&#x00A0;&#x00A0;</mtext><mo>&#x00D7;</mo><mtext>&#x00A0;</mtext><mn>100</mn></mrow></math></emphasis></para>
+    <para id="para-00008"><emphasis class="centered-text"><math xmlns="http://www.w3.org/1998/Math/MathML"><mrow><mtext>Return&#x00A0;on&#x00A0;Investment&#x00A0;</mtext><mrow><mo>(</mo><mrow><mtext>ROI</mtext></mrow><mo>)</mo></mrow><mo>=</mo><mfrac><mrow><mrow><mo>(</mo><mrow><mtext>$</mtext><mn>100</mn><mo>,</mo><mn>000</mn><mo>&#x2212;</mo><mtext>$</mtext><mn>20</mn><mo>,</mo><mn>000</mn></mrow><mo>)</mo></mrow></mrow><mrow><mtext>$</mtext><mn>20</mn><mo>,</mo><mn>000</mn></mrow></mfrac><mtext>&#x00A0;&#x00A0;</mtext><mo>&#x00D7;</mo><mtext>&#x00A0;</mtext><mn>100</mn><mo>=</mo><mn>400</mn></mrow></math></emphasis></para>
+    </section>
+    <section class="knowledge-check" id="sect-00004">
+    <title>Knowledge Check</title>
+    <para id="para-00009">It’s time to check your knowledge on the concepts presented in this section. Refer to the Answer Key at the end of the book for feedback.</para>
+    <exercise id="exer-00001"><problem id="prob-00001"><para id="para-00010"><link class="os-embed" url="#exercise/MBT_Ch10_Sec3_KC1"/></para></problem></exercise>
+    <exercise id="exer-00002"><problem id="prob-00002"><para id="para-00011"><link class="os-embed" url="#exercise/MBT_Ch10_Sec3_KC2"/></para></problem></exercise>
+    <exercise id="exer-00003"><problem id="prob-00003"><para id="para-00012"><link class="os-embed" url="#exercise/MBT_Ch10_Sec3_KC3"/></para></problem></exercise>
+    <exercise id="exer-00004"><problem id="prob-00004"><para id="para-00013"><link class="os-embed" url="#exercise/MBT_Ch10_Sec3_KC4"/></para></problem></exercise>
+    <exercise id="exer-00005"><problem id="prob-00005"><para id="para-00014"><link class="os-embed" url="#exercise/MBT_Ch10_Sec3_KC5"/></para></problem></exercise>
+    </section>
+    <section class="references" id="sect-00005">
+    <title>Endnotes</title>
+    <note id="rf-026"><link target-id="rf-026-a"><span>26.</span></link><span>Jay Fuchs, “The Percent of Sales Method: What It Is and How to Use It,” HubSpot Blog, May 5, 2020, from https://blog.hubspot.com/sales/percent-of-sales-method.</span></note>
+    <note id="rf-027"><link target-id="rf-027-a"><span>27.</span></link><span>Katryna Balboni, “11 Essential Product Metrics for Measuring Product-Led Growth,” Appcues Blog, accessed January 8, 2022, https://www.appcues.com/blog/product-led-growth-metrics.</span></note>
+    <note id="rf-028"><link target-id="rf-028-a"><span>28.</span></link><span>“What Is Product Adoption &amp; How Do You Measure It Properly?” Heap, accessed January 8, 2022,	https://heap.io/topics/what-is-product-adoption-how-do-you-measure-it-properly.</span></note>
+    <note id="rf-029"><link target-id="rf-029-a"><span>29.</span></link><span>Jason Fernando, “Return on Investment (ROI): How to Calculate It and What It Means,” Investopedia, June 30, 2022, https://www.investopedia.com/terms/r/returnoninvestment.asp.</span></note>
+    </section>
+    </content>
+    <glossary>
+    <definition id="def-00001"><term>product metrics</term><meaning>quantifiable data that a business tracks and analyzes to determine how successful its new products are</meaning></definition>
+    <definition id="def-00002"><term>return on investment (ROI)</term><meaning>a metric formula used to evaluate the profitability of an investment and, in marketing, the measurement of the profitability of a new product launch</meaning></definition>
+    </glossary>
 </document>

@@ -6,8 +6,113 @@
     <md:uuid>32a7c6c9-0d33-41a6-8232-30895c359fcb</md:uuid>
   </metadata>
   <content>
-<section id="sect-00001">
-<para id="para-00001"> </para>
-</section>
-  </content>
+    <section class="learning-objectives" id="sect-00001">
+    <title>Learning Outcomes</title>
+    <para id="para-00001">By the end of this section, you will be able to:</para>
+    <list id="list-00001">
+    <item>Discuss violations of patents, trademarks, and/or copyrights.</item>
+    <item>Describe ways to exercise due care in product development.</item>
+    </list>
+    </section>
+    <section id="sect-00002">
+    <title>Violations of Patents, Trademarks, and/or Copyrights</title>
+    <para id="para-00002">Before we proceed with a discussion of the areas of concern with respect to patents, trademarks, and copyrights in new product development, it would probably be helpful to have some definitions. <term id="term-00001">Patents</term> secure the right to exclude others from making, using, or offering for sale the invention you’ve developed. As a general rule, US patents last 20 years from when the application is filed with the US Patent Office. <term id="term-00002">Copyrights</term> are original works of authorship that include software, songs, television shows, and motion pictures. <term id="term-00003">Trademarks</term> are words or symbols legally registered or established by use as representing a company or product. Collectively, these terms are referred to as <term id="term-00004">intellectual property (IP)</term>.</para>
+    <para id="para-00003">You may think that intellectual property infringements are uncommon or, at least, limited to new product development by smaller companies, but nothing could be further from the truth. Patent lawsuits and ever-increasing scrutiny for anticompetitive behavior have cost “Big Tech” companies like Apple, Microsoft, and <term class="no-emphasis" id="term-00005"><emphasis class="colored-text">Google</emphasis></term> hundreds of millions of dollars.</para>
+    <para id="para-00004">For example, in March 2021, a jury ruled against Apple for patent infringement and ordered it to pay over $300 million to <term class="no-emphasis" id="term-00006"><emphasis class="colored-text">Personalized Media Communications LLC</emphasis></term>. That same year, a judge ruled that Google had infringed on five patents owned by <term class="no-emphasis" id="term-00007"><emphasis class="colored-text">Sonos</emphasis></term>, and if the ruling is upheld, it may result in the ban of imports of products like Google Home and Pixel smartphones.<cite id="rf-047-a" target-id="rf-047"><note class="delete-me" display="inline" id="note-00001"/></cite></para>
+    <para id="para-00005">Intellectual property infringement can have serious consequences in terms of both monetary fines and, of course, the reputation of the company. Penalties can include civil damages, lost profits, injunctions, payment of the other damaged party’s attorneys’ fees, and even felony charges with prison time.<cite id="rf-048-a" target-id="rf-048"><note class="delete-me" display="inline" id="note-00002"/></cite></para>
+    </section>
+    <section id="sect-00003">
+    <title>Methods of Exercising Due Care During Product Development</title>
+    <para id="para-00006">Intellectual property rights add immense value to a company’s assets. Imagine having a product team invest time, energy, and money developing and then launching a new product only to discover that the company’s intellectual property rights aren’t protected or—worse yet—that the product team has infringed on another company’s intellectual property rights. That’s why it’s important in the product development stage to do three things:</para>
+    <list id="list-00002">
+    <item><emphasis effect="bold">Conduct a Trademark Search:</emphasis> It’s critical to know whether anyone else is already using the mark <emphasis effect="italics">before</emphasis> time and resources are invested into developing a name and market recognition. For example, <term class="no-emphasis" id="term-00008"><emphasis class="colored-text">Takeda Pharmaceuticals USA</emphasis></term> Inc. was required to change the name of its antidepressant drug Brintellix to Trintellix because of consumer confusion between Brintellix and an anti-blood-clotting drug named Brilinta.<cite id="rf-049-a" target-id="rf-049"><note class="delete-me" display="inline" id="note-00003"/></cite></item>
+    <item><emphasis effect="bold">File a Trademark Application:</emphasis> Filing a trademark application provides the company with a bona fide statement of intention to use the mark within six months of the application.</item>
+    <item><emphasis effect="bold">Conduct a Patent Search:</emphasis> If the product relates to a technological or scientific invention, the company should also conduct a patent search. As noted above, the patent excludes others from making, using, or selling a claimed invention for 20 years.<cite id="rf-050-a" target-id="rf-050"><note class="delete-me" display="inline" id="note-00004"/></cite></item>
+    </list>
+    <para id="para-00007">Another issue that you may hear a lot about is the control or lack of control users have over their personal data. Companies that collect personal data have to carefully (and ethically) consider what information is embedded in systems design, how much data is really needed from users, where that data will be stored, and when and how it will be disposed of after use.<cite id="rf-051-a" target-id="rf-051"><note class="delete-me" display="inline" id="note-00005"/></cite></para>
+    <note class="companies-conscience" id="note-00006">
+    <title>Meta</title>
+    <figure id="fig-00001"><media alt="Rectangular pieces of chalk of different lengths are lined up in a row in rainbow order: red, orange, yellow, green, blue, indigo, and violet. The Facebook logo is on the indigo piece of chalk. Chalk dust of each color is in front of each piece of chalk."><image mime-type="image/jpeg" src="../../media/MKT_Figure_10_06_010.jpg"/></media><caption>The Art of Facebook (credit: “The Art of Facebook” by mkhmarketing.wordpress.com/about/flickr, CC BY 2.0)</caption></figure>
+    <para id="para-00008">Meta (formerly Facebook) has come under fire for several reasons recently, including a scandal that involved a whistleblower. This person revealed that the tech giant “chooses profits over safety” when they released internal research and documents and testified before the United States Senate.<cite id="rf-052-a" target-id="rf-052"><note class="delete-me" display="inline" id="note-00007"/></cite></para>
+    <para id="para-00009">However, the company has taken steps to ensure ethics in its new product development by hiring Zvika Krieger to its Responsible Innovation Team (RIT). Although the team has been in existence for some time, it’s growing in size with the emergence of new ethical issues. Krieger’s role focuses on ethical issues in both the engineering and the design processes.</para>
+    <para id="para-00010">The RIT focuses on the design and development stage of product development with the specific role of identifying ethical issues. Krieger oversees the team and its efforts to minimize harm and build products responsibly.<cite id="rf-053-a" target-id="rf-053"><note class="delete-me" display="inline" id="note-00008"/></cite></para>
+    </note>
+    </section>
+    <section class="chapter-summary" id="sect-00004">
+    <para id="para-00011">In this chapter we discussed the different forms of innovation as applied to new product development. The rewards of this development can include means to target a new market, to increase market share, and to increase revenue streams. Included in the risks are financial and technical feasibility and a lack of differentiation from existing products. There are seven stages to developing new products that include idea generation, idea screening and evaluation, concept development and testing, marketing strategy development, business analysis, product development, and test-marketing. The stages are followed by commercialization and evaluation of results.</para>
+    <para id="para-00012">Metrics are used to evaluate such things as R&amp;D spending as a percentage of sales, return on investment (ROI), the percentage of sales due to the new product release, and other key concepts.</para>
+    <para id="para-00013">New products succeed when there is synergy and quality of technology and marketing and when the product delivers benefits to users. By contrast, failure can be due to targeting the wrong market and misunderstanding consumer needs/wants. The adoption process was discussed and includes different categories of consumers.</para>
+    </section>
+    <section class="marketing-discussion" id="sect-00006">
+    <exercise id="exer-00001"><problem id="prob-00001"><para id="para-00014"><link class="os-embed" url="#exercise/MBT_Ch10_Sec1_DQ1"/></para></problem></exercise>
+    <exercise id="exer-00002"><problem id="prob-00002"><para id="para-00015"><link class="os-embed" url="#exercise/MBT_Ch10_Sec2_DQ2"/></para></problem></exercise>
+    <exercise id="exer-00003"><problem id="prob-00003"><para id="para-00016"><link class="os-embed" url="#exercise/MBT_Ch10_Sec5_DQ3"/></para></problem></exercise>
+    </section>
+    <section class="critical-thinking" id="sect-00005">
+    <exercise id="exer-00004"><problem id="prob-00004"><para id="para-00017"><link class="os-embed" url="#exercise/MBT_Ch10_Sec1_CTQ1"/></para></problem></exercise>
+    <exercise id="exer-00005"><problem id="prob-00005"><para id="para-00018"><link class="os-embed" url="#exercise/MBT_Ch10_Sec2_CTQ2"/></para></problem></exercise>
+    <exercise id="exer-00006"><problem id="prob-00006"><para id="para-00019"><link class="os-embed" url="#exercise/MBT_Ch10_Sec4_CTQ3"/></para></problem></exercise>
+    <exercise id="exer-00007"><problem id="prob-00007"><para id="para-00020"><link class="os-embed" url="#exercise/MBT_Ch10_Sec6_CTQ4"/></para></problem></exercise>
+    </section>
+    <section class="building-brand" id="sect-00007">
+    <para id="para-00021"><link url="https://openstax.org/r/the5psofpersonalbranding">Review this Ascent article by Aaron Weber and</link> pay attention to his explanation of the 5 Ps for building your personal brand. Write two paragraphs on what you feel your personal brand is today. Is it what you want it to be? Interview three colleagues, classmates, or family members and ask them to describe how they see your brand. Add a paragraph to your write-up describing their assessment.</para>
+    <para id="para-00022">Add another paragraph discussing your brand assessment compared to those you interviewed. Is it the same or different? Include changes you would like to make and the impact it would have on your personal brand.</para>
+    </section>
+    <section class="marketers-do" id="sect-00008">
+    <para id="para-00023">Using an online networking platform—for example, LinkedIn—network and connect with someone in product development. Explain that you have a college project and that you’d like to interview them. There are hundreds of product development professionals, and you will quickly find that professionals in this field love to talk about their products and ideas.</para>
+    <para id="para-00024">Use the following questions as a guide to dig deeper into their job responsibilities.</para>
+    <list list-type="enumerated" id="list-00003">
+    <item>Could you please outline your career and how you got started on this path?</item>
+    <item>Please outline for me your current job responsibilities.</item>
+    <item>Do you specialize in a particular product concept (food, fashion, etc.)?</item>
+    <item>How do you interact with and support your team or clients in this role?</item>
+    <item>What product have you worked on that you are most proud of or excited about?</item>
+    <item>What product did you work on that failed? What did you learn in that process?</item>
+    <item>What advice can you offer me if I choose to pursue product development as my career path?</item>
+    </list>
+    <para id="para-00025">As always, follow up with any questions that you have, being respectful of their time, and be sure to thank them for their information and help!</para>
+    </section>
+    <section class="company-case" id="sect-00009">
+    <section id="sect-00010">
+    <title>Maintaining a Competitive Edge with New Offerings—Ember</title>
+    <para id="para-00026">Every morning, millions of Americans wake up and prepare a cup of coffee. But as they sit down to drink it, the deluge of interruptions begins. Once the interruptions begin, that delicious dark roast often goes cold. Within the United States there are approximately 150 million coffee drinkers.<cite id="rf-054-a" target-id="rf-054"><note class="delete-me" display="inline" id="note-00009"/></cite> Throughout the day, people pour a cup of coffee, a cup of tea, or a variety of other hot drinks, only to be distracted and come back to a cold beverage. Many hot beverage drinkers have transitioned to the insulated travel mug where the drink stays hot for a while, but it too eventually gets cold.</para>
+    <para id="para-00027">Back in 2009, Clay Alexander was eating his breakfast. By the time he took his last bite, his scrambled eggs were cold. Alexander began experimenting with dinner plates that could stay hot and keep food at the same temperature throughout the meal. Then, one day as he was drinking coffee, he realized that using the same the technology with a coffee mug would be a transformative experience. In playing with the technology, he developed the Ember mug. (Watch this video for more information on the Ember mug development story.)</para>
+    <media alt=""><iframe width="660" height="371.4" src="https://openstax.org/r/embersfounderstory"/></media>
+    <para id="para-00028">Alexander’s first version of the Ember mug looked like something from <emphasis effect="italics">Weird Science</emphasis>. The prototype mug was not sleek or stylish and definitely was not easy to clean. But as he carried his early version of the Ember mug to work and around town, curious commuters began to ask questions. Alexander was raising awareness and piquing the interest of potential new consumers. Through his interactions, he knew that there was definitely interest in a product that could keep beverages at a constant temperature for a long period of time.</para>
+    <para id="para-00029">This new innovation was a juncture of cutting-edge digital technology and the low-tech coffee mug. Using technology to warm the cup and keep a hot beverage at a constant temperature, Ember transformed the common mug. The Ember mug was able to keep hot beverages at a constant temperature for hours.</para>
+    <para id="para-00030">Creating the new product required hours of development. Building the product meant developing, testing, creating more prototypes, more testing, and running a business analysis. The new product was great. There was nothing like it on the market. But would customers buy it? A new entrant in the market often comes with a high price tag. All the hours, months, and years of development are coupled with the high cost of creating brand awareness.</para>
+    <para id="para-00031">The biggest question with the Ember mug was, How would the customer respond? Innovators are the first to purchase new market entry products, and they typically look for and buy new products before the rest of the market. And for this product, that market would probably include the coffee connoisseur and die-hard coffee drinkers. As with any new product, the biggest obstacle would be creating awareness and connecting with consumers about the benefits of the Ember mug.</para>
+    <para id="para-00032">Alexander knew that consumers were already attached to their smartphones, so he incorporated the Ember technology into something they already used. Consumers could control the temperature of their Ember mug beverages through the Ember app on their smart phones. With dozens of settings to create and keep the perfect temperature, Ember technology was easy and very customizable.</para>
+    <para id="para-00033">Getting the product to market meant getting it right and easily educating the consumer on the benefits of the Ember mug. The Ember mug incorporates smart LEDs to indicate when the mug has the beverage at the perfect temperature. Using a built-in battery, the Ember mug can work all day if placed on its charging coaster or upward of two hours without the coaster after being fully charged. The Ember mug also comes with auto-sleep technology to know when to turn off as well as built-in temperature controls for the variable preferences of consumers.</para>
+    <figure id="fig-00002"><media alt="A photo shows a mug half filled with coffee. A few drops of coffee are going into the mug."><image mime-type="image/jpeg" src="../../media/MKT_Figure_10_06_011.jpg"/></media><caption>Mug with Coffee (credit: “coffepour.jpg” by Eric McGregor/flickr, CC BY 2.0)</caption></figure>
+    <para id="para-00034">Initially the Ember was only available for sale on the company’s website; however, as brand awareness increased and consumer demand picked up, the Ember could be purchased through both online and in-store retailers. The mug can now be purchased at Amazon, Best Buy, Costco, Starbucks, and several other locations.<cite id="rf-055-a" target-id="rf-055"><note class="delete-me" display="inline" id="note-00010"/></cite></para>
+    <para id="para-00035">Ember has been featured in leading publications such as <emphasis effect="italics">Forbes</emphasis>, <emphasis effect="italics">Fast Company</emphasis>, and <emphasis effect="italics">People</emphasis> as well as broadcast and digital media including <emphasis effect="italics">Today</emphasis>. With many positive reviews, excellent public relations, and organic word of mouth from customers, the Ember mug saw positive growth. Since the introduction of the original 10-ounce mug, Ember added a 14-ounce version as well as a travel mug and plenty of added charging options.</para>
+    </section>
+    <section id="sect-00011">
+    <title>Case Questions</title>
+    <exercise id="exer-00008"><problem id="prob-00008"><para id="para-00036"><link class="os-embed" url="#exercise/MBT_Ch10_Sec1_CQ1"/></para></problem></exercise>
+    <exercise id="exer-00009"><problem id="prob-00009"><para id="para-00037"><link class="os-embed" url="#exercise/MBT_Ch10_Sec2_CQ2"/></para></problem></exercise>
+    <exercise id="exer-00010"><problem id="prob-00010"><para id="para-00038"><link class="os-embed" url="#exercise/MBT_Ch10_Sec4_CQ3"/></para></problem></exercise>
+    <exercise id="exer-00011"><problem id="prob-00011"><para id="para-00039"><link class="os-embed" url="#exercise/MBT_Ch10_Sec5_CQ4"/></para></problem></exercise>
+    </section>
+    </section>
+    <section class="references" id="sect-00012">
+    <title>Endnotes</title>
+    <note id="rf-047"><link target-id="rf-047-a"><span>47.</span></link><span>Hannah Towey, “Big Tech Giants Apple and Google Are Losing Legal Battles Over Patents Amid a Recent Litigation Surge, Risking Hundreds of Millions in Potential Costs,” <emphasis effect="italics">Business Insider</emphasis>, August 16, 2021, https://www.businessinsider.com/big-tech-apple-google-optis-sonos-legal-battles-over-patents-2021-8.</span></note>
+    <note id="rf-048"><link target-id="rf-048-a"><span>48.</span></link><span>Adam Uzialko, “Tips to Avoid Intellectual Property Infringement,” <emphasis effect="italics">Business News Daily</emphasis>, June 29, 2022, https://www.businessnewsdaily.com/6043-intellectual-property-tips.html.</span></note>
+    <note id="rf-049"><link target-id="rf-049-a"><span>49.</span></link><span>“Brintellix (Vortioxetine) Renamed Trintellix (Vortioxetine) in U.S. to Avoid Name Confusion,” Takeda, May 16, 2016, from https://www.takeda.com/newsroom/newsreleases/2016/brintellix-vortioxetine-renamed-trintellix-vortioxetine-in-u.s.-to-avoid-name-confusion/.</span></note>
+    <note id="rf-050"><link target-id="rf-050-a"><span>50.</span></link><span>Sanford E. Warren Jr., “Protect Assets and Limit Liability: Three Things to Consider When Launching a New Product,” <emphasis effect="italics">IRMI Update</emphasis>, International Risk Management Institute Inc., April 2011, https://www.irmi.com/articles/expert-commentary/three-things-to-consider-when-launching-a-new-product.</span></note>
+    <note id="rf-051"><link target-id="rf-051-a"><span>51.</span></link><span>Michael Huth, “Rethinking Product Development and Usage to Make a Tech Business Ethical,” Nasdaq, February 10, 2021, https://www.nasdaq.com/articles/rethinking-product-development-and-usage-to-make-a-tech-business-ethical-2021-02-10.</span></note>
+    <note id="rf-052"><link target-id="rf-052-a"><span>52.</span></link><span>Brian McHugh, “Facebook Under Fire as Whistleblower Reveals Harmful Practices,” Marist Circle, October 25, 2021, https://www.maristcircle.com/citynational-news/2021/10/25/facebook-whistleblower-reveals-harmful-practices.</span></note>
+    <note id="rf-053"><link target-id="rf-053-a"><span>53.</span></link><span>David P. Rankin, “Facebook Hires New Director to Deal with Ethics in Engineering, Design,” The Law Offices of David P. Rankin, P.A.,” April 17, 2020, https://www.davidrankinlaw.com/facebook-hires-new-director-to-deal-with-ethics-in-engineering-design/.</span></note>
+    <note id="rf-054"><link target-id="rf-054-a"><span>54.</span></link><span>“Coffee Statistics 2022,” E-Imports, accessed July 24, 2022, https://www.e-importz.com/coffee-statistics.php</span></note>
+    <note id="rf-055"><link target-id="rf-055-a"><span>55.</span></link><span>“Find an Ember Retailer Near You,” Ember, accessed July 24, 2022, https://ember.com/pages/retailers</span></note>
+    </section>
+    </content>
+    <glossary>
+    <definition id="def-00001"><term>copyrights</term><meaning>original works of authorship that include software, songs, television shows, and motion pictures</meaning></definition>
+    <definition id="def-00002"><term>intellectual property</term><meaning>collective term used to describe patents, copyrights, and trademarks</meaning></definition>
+    <definition id="def-00003"><term>patents</term><meaning>the right to exclude others from making, using, or offering for sale an invention</meaning></definition>
+    <definition id="def-00004"><term>trademarks</term><meaning>words or symbols legally registered or established by use as representing a company or product</meaning></definition>
+    </glossary>
 </document>
