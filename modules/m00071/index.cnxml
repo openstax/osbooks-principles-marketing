@@ -6,8 +6,154 @@
     <md:uuid>e2db67bb-3560-451d-8661-2805264097ae</md:uuid>
   </metadata>
   <content>
-<section id="sect-00001">
-<para id="para-00001"> </para>
-</section>
-  </content>
+    <section class="learning-objectives" id="sect-00001">
+    <title>Learning Outcomes</title>
+    <para id="para-00001">By the end of this section, you will be able to:</para>
+    <list id="list-00001">
+    <item>Define services.</item>
+    <item>List the classification of services.</item>
+    <item>Describe the characteristics of services.</item>
+    </list>
+    </section>
+    <section id="sect-00002">
+    <title>Services Defined</title>
+    <para id="para-00002">You may have heard that the United States’ economy is primarily considered a service economy. But do you know why this is? <link target-id="fig-00001" document="m00071"/> provides the answer. It outlines the percentage each industry contributed to the gross domestic product (GDP) in 2020.<cite id="rf-003-a" target-id="rf-003"><note class="delete-me" display="inline" id="note-00001"/></cite> (A quick refresher from your economics course: the GDP is a measure of the total monetary value of all finished goods and services generated within a country’s borders during a specified period of time.) Which industries are the largest contributor to the GDP? Service industries. (Note that this figure does not include smaller industries such as utilities, or mining and agriculture.) When you total the service industries, they make up a whopping 67 percent of GDP versus only 10.8 percent for manufacturing.</para>
+    <figure id="fig-00001"><media alt="A bar graph shows industry percentages for service industries in 2020. The y-axis starts at 0 and goes up to 25 in increments of 5. The x-axis lists the service industries included. Percentages on the graph are: Finance, Insurance, Real Estate 22%; Professional Business Services 13%; Government 13%; Manufacturing 11%; Education, Health Care, Social Services 8%; Wholesale Trade 6%; Retail Trade 6%; Information 6%; Arts, Entertainment, Lodging 3%; Construction 4%; Transportation Warehousing 3%; Other Services 2%."><image mime-type="image/png" src="../../media/MKT_Figure_11_01_002.png"/></media><caption>Percentages Added by Industry to the US GDP in 2020 (data source: BEA; US Department of Commerce; attribution: Copyright Rice University, OpenStax, under CC BY 4.0 license)</caption></figure>
+    <para id="para-00003">In a nutshell, <term id="term-00001">services</term> are the nonphysical, intangible economic activities. On the other hand, physical goods are the things we can touch or handle, commonly called tangibles. Do you realize that, as you read this textbook, you’re participating in the services sector of the economy? That’s because education is considered part of the service sector. The service sector also includes things like banking, medical treatment, transportation, insurance, and many more categories. Based on the fact that the majority of contributions to the GDP in the United States are services, and more than half of the country’s workforce is employed in producing “intangibles,” it’s critical to understand this important sector from a marketing perspective.</para>
+    <para id="para-00004">Consider the challenges to marketers when selling services as opposed to products. A consumer can’t touch or see the service before they purchase, so it’s difficult to examine or evaluate benefits. Think about it: you can’t take a service out for a test drive the way you might if you were buying a new car. Yet it’s just as crucial for organizations that provide services to build brand awareness and brand loyalty.</para>
+    </section>
+    <section id="sect-00003">
+    <title>Classification of Services</title>
+    <para id="para-00005">Services are classified as people-based services or equipment-based services. And within those classifications, there are subcategories (see <link target-id="fig-00002" document="m00071"/>).</para>
+    <figure id="fig-00002"><media alt="Services are divided into people based and equipment based services. People based services includes unskilled labor, skilled labor, and professionals. Equipment based services include automated services, unskilled operators, and skilled operators."><image mime-type="image/png" src="../../media/MKT_Figure_11_01_003.png"/></media><caption>Services Classifications (attribution: Copyright Rice University, OpenStax, under CC BY 4.0 license)</caption></figure>
+    <section id="sect-00004">
+    <title>People-Based Services</title>
+    <para id="para-00006"><term id="term-00002">People-based services</term> are when people primarily deliver the service, rather than equipment or machinery (see <link target-id="fig-00003" document="m00071"/> for examples). It’s the individuals delivering the service, and the knowledge and skills that they possess, that add value and allow the service to be performed. People-based services can be broken down further into these subcategories:</para>
+    <list id="list-00002">
+    <item>services provided by unskilled labor: parking lot attendants, babysitters, and janitors</item>
+    <item>services provided by skilled labor: plumbers, caterers, and hairstylists</item>
+    <item>services provided by professionals: doctors, attorneys, college professors, and accountants</item>
+    </list>
+    <figure id="fig-00003"><media alt="Examples of the different types of jobs included in people based services are parking lot attendant and babysitter (unskilled labor); lumbers, hairstylists, and electricians (skilled labor); and accountants, physicians, and college professors (professionals)."><image mime-type="image/png" src="../../media/MKT_Figure_11_01_004.png"/></media><caption>People-Based Services (attribution: Copyright Rice University, OpenStax, under CC BY 4.0 license)</caption></figure>
+    </section>
+    <section id="sect-00005">
+    <title>Equipment-Based Services</title>
+    <para id="para-00007"><term id="term-00003">Equipment-based service</term> firms utilize equipment, machinery, and other forms of technology to perform service tasks (see <link target-id="fig-00004" document="m00071"/>). Similar to people-based services, equipment-based services can be further broken down into subcategories:</para>
+    <list id="list-00003">
+    <item>automated services: car washes and parking meters</item>
+    <item>equipment-based services operated by relatively unskilled operators: dry-cleaning equipment</item>
+    <item>equipment-based services operated by skilled operators: X-ray machines and ultrasound equipment</item>
+    </list>
+    <figure id="fig-00004"><media alt="Examples of the different types of jobs included in equipment based services are self service car wash and parking meter (automated services); dry cleaning equipment and taxi driver (unskilled operators); and pilot and ultrasound technician (skilled operators)."><image mime-type="image/png" src="../../media/MKT_Figure_11_01_005.png"/></media><caption>Equipment-Based Services (attribution: Copyright Rice University, OpenStax, under CC BY 4.0 license)</caption></figure>
+    <para id="para-00008">There is another way to categorize services, according to well-known author and professor Christopher Lovelock (1940–2008). He proposed four broad categories of services:</para>
+    <list id="list-00004">
+    <item>people processing: services toward people’s bodies</item>
+    <item>possession processing: services toward possessions</item>
+    <item>mental stimulus processing: services toward people’s mind</item>
+    <item>information processing: services toward intangible assets<cite id="rf-004-a" target-id="rf-004"><note class="delete-me" display="inline" id="note-00002"/></cite></item>
+    </list>
+    <para id="para-00009">In <link target-id="fig-00005" document="m00071"/>, the categories are defined on a two-dimensional matrix, wherein one of the dimensions is the direct recipient of the service and the other is the nature of the service act.<cite id="rf-005-a" target-id="rf-005"><note class="delete-me" display="inline" id="note-00003"/></cite></para>
+    <figure id="fig-00005"><media alt="Lovelock’s categories of services are divided into tangible and intangible actions. Tangible actions are further divided into people processing, or physical services such as haircut and physical therapy, and possession processing, or object services such as recycling and car service such as oil change. Intangible actions are divided into mental stimulus processing, or mental services such as education and counseling, and information processing, or asset services such as banking and legal counseling."><image mime-type="image/png" src="../../media/MKT_Figure_11_01_006.png"/></media><caption>Lovelock’s Categories of Service (attribution: Copyright Rice University, OpenStax, under CC BY 4.0 license)</caption></figure>
+    <note class="link-to-learning" id="note-00004">
+    <title>Lovelock</title>
+    <para id="para-00010">If you plan to continue toward a marketing degree, you’ll want to familiarize yourself with Christopher Lovelock’s work. You can run a search on Amazon.com for his books or a search in your browser for articles and more information. Start by reading his <link url="https://openstax.org/r/christopherlovelock">Wikipedia page</link> to learn about his academic background and achievements.</para>
+    </note>
+    <para id="para-00011">Let’s look at each of these categories in more depth. The first two categories (people processing and possession processing) involve tangible actions directed toward a person’s physical body or property, whereas mental stimulus processing and information processing involve intangible actions directed toward a person’s mind or information. We’ll expand on this in the sections below.</para>
+    </section>
+    <section id="sect-00006">
+    <title>People Processing</title>
+    <para id="para-00012">In <term id="term-00004">people processing</term> services, the customer is a direct recipient of the service, and the production and consumption of the service are simultaneous. Consider examples of services where you must be present in the service facility in order to interact with the service provider and receive the service, such as barbershops or hair salons, physical therapists’ offices, or restaurants.</para>
+    </section>
+    <section id="sect-00007">
+    <title>Possession Processing</title>
+    <para id="para-00013">The difference between people processing and <term id="term-00005">possession processing</term> is that the service is directed toward the customer’s physical possessions. In other words, production and consumption are separate. Your only involvement is dropping off the item that requires service or repair and explaining the problem. For example, once you have taken your car in for an oil change, you do not need to be physically at the location for the oil change to occur. Similarly, once you’ve dropped your clothes off at the dry cleaner’s, you don’t need to be physically present when the cleaning process is performed. These services are tangible because the direct recipient is one of your possessions rather than you as a person.</para>
+    </section>
+    <section id="sect-00008">
+    <title>Mental Stimulus Processing</title>
+    <para id="para-00014">In its simplest explanation, <term id="term-00006">mental stimulus processing</term> is when the services interact with your mind rather than your body. Time and mental effort are required from the customer to receive this type of service. What you’re doing right now—reading this textbook—is a prime example of mental stimulus processing. Other examples include psychotherapy or counseling services. The key here is that services rendered in this category are intangible.</para>
+    </section>
+    <section id="sect-00009">
+    <title>Information Processing</title>
+    <para id="para-00015"><term id="term-00007">Information processing</term> is the most intangible form of service, although it can be transformed into a tangible service output like reports, books, letters, DVDs, etc. Some examples of information processing services are things like meeting with your financial advisor regarding investment advice, legal services, and banking.<cite id="rf-006-a" target-id="rf-006"><note class="delete-me" display="inline" id="note-00005"/></cite></para>
+    <note class="link-to-learning" id="note-00006">
+    <title>Service Industry Stats and a Changing Industry</title>
+    <para id="para-00016">If you’d like more insight into service industries, check out the <link url="https://openstax.org/r/blsgov">US Bureau of Labor Statistics website</link>. It categorizes industries and provides interesting statistics on employment.</para>
+    <para id="para-00017">Companies are launching new services every day. Think about it—services like Uber didn’t exist 20 years ago. As a marketer, understanding services and their business models is critical. <link url="https://openstax.org/r/serviceindustries">Start here and read about on-demand service companies</link> and how services—and apps—are changing the industry. And also check out this <link url="https://openstax.org/r/articlesmallbusiness">article about the top 15 service businesses for 2022</link>.</para>
+    </note>
+    </section>
+    </section>
+    <section id="sect-00010">
+    <title>Characteristics of Services</title>
+    <para id="para-00018">As outlined in <link target-id="fig-00001" document="m00071"/>, service industries contribute the major percentage of the US GDP. It’s important to understand that this shift from the manufacturing sector to the service sector isn’t limited to the United States. Increasingly, the world economy is being characterized as a service economy. Looking at economic history, we can see a natural evolution in developing countries from the agricultural industry to the service sector as the mainstay of the economy. That’s why it’s critical for marketers to understand the characteristics of services.</para>
+    <para id="para-00019">As we pointed out above, some services come from physical products, such as getting a haircut or having your income tax return prepared by a professional. But other services are completely intangible. When you rent a hotel room, travel on an airplane, visit your doctor, attend a professional sporting event, or get advice from a lawyer or an accountant, you’re buying a service, so a marketer needs to consider the characteristics of services in order to get the right marketing messages to the right target market (see <link target-id="fig-00006" document="m00071"/>).</para>
+    <figure id="fig-00006"><media alt="The characteristics of services are intangibility, inseparability, variability, and perishability."><image mime-type="image/png" src="../../media/MKT_Figure_11_01_007.png"/></media><caption>Characteristics of Services (attribution: Copyright Rice University, OpenStax, under CC BY 4.0 license)</caption></figure>
+    <section id="sect-00011">
+    <title>Service Intangibility</title>
+    <para id="para-00020">By their very nature, services are <term id="term-00008">intangible</term>. This means they can’t be seen, tasted, felt, smelled, or heard before they are purchased. Consider the last time you purchased automobile insurance for your car. Other than the physical policy the company sends you (the only tangible asset), what you’ve paid for is completely intangible—it’s the company’s promise to pay claims against the policy.</para>
+    <para id="para-00021">Intangible services have a number of implications in marketing. The very fact that there’s nothing to touch, hear, smell, and so on typically increases the level of uncertainty that a consumer faces when choosing between services offered by your organization or those of competitors. Intangible services can seldom be tried out, inspected, or even given a “test drive” by a customer. Customers have to rely on the word of the marketers in order to assess what they’re actually going to get in return for what they’ve paid. In effect, they are buying a promise.</para>
+    <para id="para-00022">Savvy marketers reduce this uncertainty by creating physical “evidence” that allows the consumer to picture the service before it is purchased. For example, a hair salon may have imaging software that predicts how you would look with different hairstyles or colors. Companies like <term class="no-emphasis" id="term-00009"><emphasis class="colored-text">Zenni</emphasis></term> and <term class="no-emphasis" id="term-00010"><emphasis class="colored-text">Eyebuydirect</emphasis></term> have a virtual mirror that allows you to “try on eyeglasses” and see how the selected frames look on your face before you purchase.<cite id="rf-007-a" target-id="rf-007"><note class="delete-me" display="inline" id="note-00007"/></cite></para>
+    </section>
+    <section id="sect-00012">
+    <title>Service Inseparability</title>
+    <para id="para-00023">The order of production and consumption between a physical product and a service differs. Think about a box of Girl Scout cookies, a physical good or product. The cookies were produced, stored, sold, and finally consumed. That’s not the way it works with services. Like goods, services are sold, but they are produced and consumed simultaneously. They can’t be separated from the service providers, whether they are people or equipment.<cite id="rf-008-a" target-id="rf-008"><note class="delete-me" display="inline" id="note-00008"/></cite> For example, try to get money out of your bank on a weekend or evening without an ATM, or try to get a haircut without the physical presence of your stylist. That’s the concept of <term id="term-00011">service inseparability</term>—you can’t separate the delivery of the service from the presence of the customer. In other words, the service provider is physically connected to the service and is evaluated on the basis of their communication skills, language, demeanor, personal hygiene, and clothing.</para>
+    <para id="para-00024">The impact to the marketer in these services—in which the service provider and customer must both be present—is how service providers (sometimes called frontline employees) conduct themselves in the presence of the customer because it may determine the likelihood of repeat business.<cite id="rf-009-a" target-id="rf-009"><note class="delete-me" display="inline" id="note-00009"/></cite>There are also other marketing implications with this concept, such as customer cooperation and participation, not to mention the influence from other customers who may be present.</para>
+    </section>
+    <section id="sect-00013">
+    <title>Service Variability</title>
+    <para id="para-00025">Have you ever gone to a restaurant and had stellar customer service? You were seated promptly by a cheerful hostess; the busser filled up your water glass and refilled it several times during the evening; the waitstaff was attentive but not to the point of being annoying; and your dirty dishes were cleared promptly. But perhaps the next time you visit the same restaurant, your experience isn’t quite as amazing. The hostess isn’t as cheerful, and it takes her several minutes to seat you. It takes a while for someone to refill your water glass. The waitstaff isn’t nearly as attentive as they were during your first visit. What went wrong?</para>
+    <para id="para-00026">Perhaps what you’ve experienced is what’s known as <term id="term-00012">service variability</term>—the quality of the service depends on who provides it, when it is provided, and how it is provided. For example, <term class="no-emphasis" id="term-00013"><emphasis class="colored-text">Delta Air Lines</emphasis></term> prides itself on improving peoples’ lives and exceeding customer expectations.<cite id="rf-010-a" target-id="rf-010"><note class="delete-me" display="inline" id="note-00010"/></cite> However, because services are provided by humans who have human experiences where they may not be feeling well or they are having a bad day, the service may be variable between employees. One Delta employee may be cheerful and efficient, while another lags due to their energy and state of mind.</para>
+    <para id="para-00027">This is a challenge to marketers because products generally have little variability: each unit is built to certain specifications. For example, if you buy an <term class="no-emphasis" id="term-00014"><emphasis class="colored-text">Apple</emphasis></term> iPad Pro and your classmate purchases the same model, it’s likely that the two iPads will be virtually identical. The case color may be different, but otherwise they are the same. That’s not the case with a service, where there will undoubtedly be variations in the quality of the service depending on who offers the service, when it is offered, and at which location. Service-based companies need to rely on standardizing processes to the extent possible, frequent audits, customer surveys, and most importantly, customer feedback.</para>
+    </section>
+    <section id="sect-00014">
+    <title>Service Perishability</title>
+    <para id="para-00028">Unlike most goods, services can’t be produced and stored for later use or sale. Services are, in effect, performances by the service provider. That’s the concept of <term id="term-00015">service perishability</term>. Did you miss tonight’s concert because of traffic? Too bad, because a ticket for tonight’s concert can’t be used for tomorrow night’s performance. Hotel rooms that are not occupied, airline seats that are not purchased, and unused gym memberships cannot be reclaimed.<cite id="rf-011-a" target-id="rf-011"><note class="delete-me" display="inline" id="note-00011"/></cite> Because these items can’t be stored for later use, they are considered a perishable service. This is particularly important for marketers because the perishability factor and the fluctuating demand poses special problems in capacity planning, scheduling, product planning, and pricing.<cite id="rf-012-a" target-id="rf-012"><note class="delete-me" display="inline" id="note-00012"/></cite></para>
+    <para id="para-00029">One way that marketers deal with this problem is by manipulating demand. Consider how many restaurants offer “happy hours” with discounted food and drinks during the late afternoon or early evening. Restaurants do this because this time is typically the period where there is a lull before the start of the dinner rush.</para>
+    <note class="careers-marketing" id="note-00013">
+    <title>Salaries</title>
+    <para id="para-00030">You might be curious about the salaries of marketing jobs. There are numerous online resources that provide guides, but the best step to take is to check out popular sites like Monster, Indeed, and LinkedIn to view current job positions. They may not all include the salary, but most will include salary ranges. The following is a list of a few of resources to get you started.</para>
+    <list id="list-00005">
+    <item>Monster: <link url="https://openstax.org/r/highpayingmarketingjobs">“High-Paying Marketing Jobs”</link></item>
+    <item>Acadium: <link url="https://openstax.org/r/marketingjobsalaries">“How Much Do Marketers Make? Marketing Job Salaries in 2022”</link></item>
+    <item>All Business Schools: <link url="https://openstax.org/r/allbusinessschools">“Marketing Manager Salaries and Job Outlook”</link></item>
+    <item>Indeed: <link url="https://openstax.org/r/entrylevelmarketing">“Entry Level Marketing Salary in United States”</link></item>
+    </list>
+    </note>
+    </section>
+    </section>
+    <section class="knowledge-check" id="sect-00015">
+    <title>Knowledge Check</title>
+    <para id="para-00031">It’s time to check your knowledge on the concepts presented in this section. Refer to the Answer Key at the end of the book for feedback.</para>
+    <exercise id="exer-00001"><problem id="prob-00001"><para id="para-00032"><link class="os-embed" url="#exercise/MBT_Ch11_Sec1_KC1"/></para></problem></exercise>
+    <exercise id="exer-00002"><problem id="prob-00002"><para id="para-00033"><link class="os-embed" url="#exercise/MBT_Ch11_Sec1_KC2"/></para></problem></exercise>
+    <exercise id="exer-00003"><problem id="prob-00003"><para id="para-00034"><link class="os-embed" url="#exercise/MBT_Ch11_Sec1_KC3"/></para></problem></exercise>
+    <exercise id="exer-00004"><problem id="prob-00004"><para id="para-00035"><link class="os-embed" url="#exercise/MBT_Ch11_Sec1_KC4"/></para></problem></exercise>
+    <exercise id="exer-00005"><problem id="prob-00005"><para id="para-00036"><link class="os-embed" url="#exercise/MBT_Ch11_Sec1_KC5"/></para></problem></exercise>
+    </section>
+    <section class="references" id="sect-00016">
+    <title>Endnotes</title>
+    <note id="rf-003"><link target-id="rf-003-a"><span>3.</span></link><span>“Percentage Added to U.S. GDP by Industry 2020,” Stastista, June 3, 2021, https://www.statista.com/statistics/248004/percentage-added-to-the-us-gdp-by-industry/.</span></note>
+    <note id="rf-004"><link target-id="rf-004-a"><span>4.</span></link><span>Richa Saxena, “SM: Session3: Service Classification, Characteristics and Triangle,” <emphasis effect="italics">The Awakener</emphasis> (blog), November 26, 2015, http://richaprof.blogspot.com/2015/11/sm-session3-service-classification.html.</span></note>
+    <note id="rf-005"><link target-id="rf-005-a"><span>5.</span></link><span>Rakesh Panchal, “Service Marketing: Four Categories of Services,” <emphasis effect="italics">My View: M-bullshit</emphasis> (blog), April 7, 2014, http://misbullshit.blogspot.com/2014/04/service-marketing-four-categories-of.html.</span></note>
+    <note id="rf-006"><link target-id="rf-006-a"><span>6.</span></link><span>Ibid.</span></note>
+    <note id="rf-007"><link target-id="rf-007-a"><span>7.</span></link><span>Jake, “These 21 Alternatives to Warby Parker Also Let You Try-On Prescription Eyeglasses at Home in 2022,” Modern Fellows, July 28, 2022, https://www.modernfellows.com/alternatives-to-warby-parker/.</span></note>
+    <note id="rf-008"><link target-id="rf-008-a"><span>8.</span></link><span>“4 Characteristics of Service,” iEduNote, accessed November 11, 2021, https://www.iedunote.com/service-characteristics.</span></note>
+    <note id="rf-009"><link target-id="rf-009-a"><span>9.</span></link><span>Ibid.</span></note>
+    <note id="rf-010"><link target-id="rf-010-a"><span>10.</span></link><span>Delta Airlines, “Delta Airlines Mission &amp; Vision Analysis,” accessed June 15, 2022, https://mission-statement.com/delta-airlines/.</span></note>
+    <note id="rf-011"><link target-id="rf-011-a"><span>11.</span></link><span>“4 Characteristics of Service,” iEduNote, accessed November 11, 2021, https://www.iedunote.com/service-characteristics.</span></note>
+    <note id="rf-012"><link target-id="rf-012-a"><span>12.</span></link><span>S. R. Rao, “Implications of Unique Features of Services,” Citeman, December 14, 2007, https://www.citeman.com/2519-implications-of-unique-features-of-services.html.</span></note>
+    </section>
+    </content>
+    <glossary>
+    <definition id="def-00001"><term>equipment-based services</term><meaning>when machinery or equipment plays the primary role in the service delivery</meaning></definition>
+    <definition id="def-00002"><term>information processing</term><meaning>intangible actions directed at a customer’s assets, such as insurance or consulting</meaning></definition>
+    <definition id="def-00003"><term>intangible</term><meaning>unable to be seen, tasted, felt, smelled, or heard</meaning></definition>
+    <definition id="def-00004"><term>mental stimulus processing</term><meaning>situation in which the services interact with the customer’s mind rather than the body</meaning></definition>
+    <definition id="def-00005"><term>people-based services</term><meaning>tasks in which people, rather than equipment or machinery, play a major role in the delivery of the service</meaning></definition>
+    <definition id="def-00006"><term>people processing</term><meaning>services in which the customer is the direct recipient of the service and production and consumption are simultaneous</meaning></definition>
+    <definition id="def-00007"><term>possession processing</term><meaning>services in which the service is directed toward the customer’s physical possessions</meaning></definition>
+    <definition id="def-00008"><term>services</term><meaning>nonphysical, intangible economic activities</meaning></definition>
+    <definition id="def-00009"><term>service inseparability</term><meaning>concept where services must be produced and consumed concurrently</meaning></definition>
+    <definition id="def-00010"><term>service perishability</term><meaning>concept that states services cannot be stored in inventory for future use or sale</meaning></definition>
+    <definition id="def-00011"><term>service variability</term><meaning>concept that states the quality of the service depends on who, when, where, and how it is provided</meaning></definition>
+    </glossary>
 </document>
