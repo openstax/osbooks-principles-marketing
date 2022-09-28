@@ -6,8 +6,50 @@
     <md:uuid>af4d3e63-95d6-4922-817d-ee51e1db4656</md:uuid>
   </metadata>
   <content>
-<section id="sect-00001">
-<para id="para-00001"> </para>
-</section>
-  </content>
+    <section class="learning-objectives" id="sect-00001">
+    <title>Learning Outcomes</title>
+    <para id="para-00001">By the end of this section, you will be able to:</para>
+    <list id="list-00001">
+    <item>Identify sources of marketing information.</item>
+    <item>Describe the different categories of marketing information.</item>
+    </list>
+    </section>
+    <section id="sect-00002">
+    <title>Identify Sources of Marketing Information</title>
+    <para id="para-00002">Data, as mentioned in the first section of this chapter, comes from a variety of sources. In this section, we’ll investigate the sources of important marketing information and how these resources can be accessed to meet the needs of the institution. Online resources such as company websites, journal databases, and e-commerce locations could provide valuable resources to someone opening a new business. For instance, if a new product is to be sold, some companies will review competitors’ websites to glean information about comparable pricing before setting their price. The sources identified are closely aligned with the category of information and are described below.</para>
+    </section>
+    <section id="sect-00003">
+    <title>Describe the Different Categories of Marketing Information</title>
+    <para id="para-00003">Marketing information can be derived from many sources. We will review three types in this section—internal data, external data, and competitive intelligence—and further explain other types of data in the next section. External and internal data both have unique qualities that make them essential for businesses to utilize. Additionally, competitive intelligence refer to specific types of data that must be examined to further the company or organization’s continued success and effectiveness.</para>
+    <section id="sect-00004">
+    <title>External Data and Databases</title>
+    <para id="para-00004"><term id="term-00001">External data</term> is data that originates from outside the organization. Examples of external data would be information gleaned from customers through a customer service survey or reviews of a competitor’s website. Previously we learned about big data and the volume of information that is available daily. These data pieces would also be considered external data. Competitive and market intelligence is often gathered through these external sources of material. Data sources can include any stakeholder of the business or a competitor’s business, social media mentions, news articles, journal publications, and others. The only limitation of collecting external data is financial. Not all sources of information are free, and the time spent to collect these insights is also a valuable commodity as “time is money.” Once external information is collected and available for those within the institution, it can be considered internal data.</para>
+    </section>
+    <section id="sect-00005">
+    <title>Internal Data and Databases</title>
+    <para id="para-00005">Critical marketing intelligence can be data that already exists in the company’s databases. This data is called <term id="term-00002">internal data</term> and gives the company a historic view of what has worked in the past as well as identifies times when the company did not meet its goals. Internal data includes sales, promotional effectiveness, pricing, product launch information, research and development, and logistics information. Examples of internal data include the percentage of coupons redeemed, the sales volume at specific prices, the highest-grossing motion picture for a production company, and even the most-missed question on last unit’s marketing exam.</para>
+    <para id="para-00006">Businesses, organizations, nonprofits, and even colleges and universities use these types of data sources to make day-to-day and more comprehensive decisions. A <term id="term-00003">database</term> is a collection of related data. For instance, at the school you are currently attending, there are multiple databases—one for current students, one for alumni, and still another for faculty. Within each of these databases, there is information about that specific population. The current student database will be a list of all students who are enrolled in courses this term, with additional information such as what courses they are enrolled in, any past enrollments, grades earned, major, hometown, and academic advisor’s name.</para>
+    </section>
+    <section id="sect-00006">
+    <title>Competitive Intelligence</title>
+    <para id="para-00007">Marketing research can be conducted on every aspect of business and marketing. Understanding the competition and its strengths and weaknesses through an analysis of the industry and competing forces gives a company a competitive edge[term]. <emphasis effect="bold">Competitive intelligence</emphasis>[/term] is the collection of that information from the marketplace. A company’s position must be examined to determine if it matches with the needs of the customers.</para>
+    <para id="para-00008">This competitive intelligence may be related to any of the marketing mix elements: product, price, distribution, or promotion. Checking prices of competitors’ products to make sure a company’s pricing is competitive, conducting a promotional audit to verify reach of the messages, or examining the competitive industry’s distribution channels may allow the company to identify a new location, and all help to make the company more educated on future decisions. When in a competitive space, why do customers choose the competitor over the company’s products? Marketing research can come in many forms and helps managers to make data-driven decisions. Once this data is collected, it becomes part of the business or organization’s internal data cache.</para>
+    </section>
+    </section>
+    <section class="knowledge-check" id="sect-00007">
+    <title>Knowledge Check</title>
+    <para id="para-00009">It’s time to check your knowledge of the concepts presented in this section. Refer to the Answer Key at the end of the book for feedback.</para>
+    <exercise id="exer-00001"><problem id="prob-00001"><para id="para-00010"><link class="os-embed" url="#exercise/MBT_Ch6_Sec2_KC1"/></para></problem></exercise>
+    <exercise id="exer-00002"><problem id="prob-00002"><para id="para-00011"><link class="os-embed" url="#exercise/MBT_Ch6_Sec2_KC2"/></para></problem></exercise>
+    <exercise id="exer-00003"><problem id="prob-00003"><para id="para-00012"><link class="os-embed" url="#exercise/MBT_Ch6_Sec2_KC3"/></para></problem></exercise>
+    <exercise id="exer-00004"><problem id="prob-00004"><para id="para-00013"><link class="os-embed" url="#exercise/MBT_Ch6_Sec2_KC4"/></para></problem></exercise>
+    <exercise id="exer-00005"><problem id="prob-00005"><para id="para-00014"><link class="os-embed" url="#exercise/MBT_Ch6_Sec2_KC5"/></para></problem></exercise>
+    </section>
+    </content>
+    <glossary>
+    <definition id="def-00001"><term>competitive intelligence</term><meaning>a collection of information about competitors from the marketplace</meaning></definition>
+    <definition id="def-00002"><term>database</term><meaning>a collection of related data</meaning></definition>
+    <definition id="def-00003"><term>external data</term><meaning>data that originates from outside the organization</meaning></definition>
+    <definition id="def-00004"><term>internal data</term><meaning>critical marketing intelligence that already exists in the company’s records</meaning></definition>
+    </glossary>
 </document>

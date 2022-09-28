@@ -6,8 +6,318 @@
     <md:uuid>b0da0182-bcb3-44fb-8431-b527e4c3342f</md:uuid>
   </metadata>
   <content>
-<section id="sect-00001">
-<para id="para-00001"> </para>
-</section>
-  </content>
+    <section class="learning-objectives" id="sect-00001">
+    <title>Learning Outcomes</title>
+    <para id="para-00001">By the end of this section, you will be able to:</para>
+    <list id="list-00001">
+    <item>Identify and describe the steps in a marketing research plan.</item>
+    <item>Discuss the different types of data research.</item>
+    <item>Explain how data is analyzed.</item>
+    <item>Discuss the importance of effective research reports.</item>
+    </list>
+    </section>
+    <section id="sect-00002">
+    <title>Define the Problem</title>
+    <para id="para-00002">There are seven steps to a successful marketing research project (see <link target-id="fig-00001" document="m00036"/>). Each step will be explained as we investigate how a marketing research project is conducted.</para>
+    <figure id="fig-00001"><media alt="The seven steps to a successful market research project are: 1. define the problem; 2. develop the research plan; 3. select the data collection method; 4. design the sample; 5. collect the data; 6. analyze and interpret the data; and 7. prepare the research report."><image mime-type="image/png" src="../../media/MKT_Figure_06_03_003.png"/></media><caption>The Marketing Research Plan (attribution: Copyright Rice University, OpenStax, under CC BY 4.0 license)</caption></figure>
+    <para id="para-00003">The first step, defining the problem, is often a realization that more information is needed in order to make a data-driven decision. <term id="term-00001">Problem definition</term> is the realization that there is an issue that needs to be addressed. An entrepreneur may be interested in opening a small business but must first define the problem that is to be investigated. A marketing research problem in this example is to discover the needs of the community and also to identify a potentially successful business venture.</para>
+    <para id="para-00004">Many times, researchers define a research question or objectives in this first step. Objectives of this research study could include: identify a new business that would be successful in the community in question, determine the size and composition of a target market for the business venture, and collect any relevant primary and secondary data that would support such a venture. At this point, the definition of the problem may be “Why are cat owners not buying our new cat toy subscription service?”</para>
+    <para id="para-00005">Additionally, during this first step we would want to investigate our <term id="term-00002">target population</term> for research. This is similar to a target market, as it is the group that comprises the population of interest for the study. In order to have a successful research outcome, the researcher should start with an understanding of the problem in the current situational environment.</para>
+    </section>
+    <section id="sect-00003">
+    <title>Develop the Research Plan</title>
+    <para id="para-00006">Step two is to develop the research plan. What type of research is necessary to meet the established objectives of the first step? How will this data be collected? Additionally, what is the time frame of the research and budget to consider? If you must have information in the next week, a different plan would be implemented than in a situation where several months were allowed. These are issues that a researcher should address in order to meet the needs identified.</para>
+    <para id="para-00007">Research is often classified as coming from one of two types of data: primary and secondary. <term id="term-00003">Primary data</term> is unique information that is collected by the specific researcher with the current project in mind. This type of research doesn’t currently exist until it is pulled together for the project. Examples of primary data collection include survey, observation, experiment, or focus group data that is gathered for the current project.</para>
+    <para id="para-00008"><term id="term-00004">Secondary data</term> is any research that was completed for another purpose but can be used to help inform the research process. Secondary data comes in many forms and includes census data, journal articles, previously collected survey or focus group data of related topics, and compiled company data. Secondary data may be internal, such as the company’s sales records for a previous quarter, or external, such as an industry report of all related product sales. <term id="term-00005">Syndicated data</term>, a type of external secondary data, is available through subscription services and is utilized by many marketers. As you can see in <emphasis effect="bold">Table 6.1</emphasis>, primary and secondary data features are often opposite—the positive aspects of primary data are the negative side of secondary data.</para>
+    <table summary="" class="data-table" id="table-00001">
+    <tgroup cols="3">
+    <tbody>
+    <row>
+    <entry/>
+    <entry><emphasis effect="bold">Strengths</emphasis></entry>
+    <entry><emphasis effect="bold">Weaknesses</emphasis></entry>
+    </row>
+    <row>
+    <entry><emphasis effect="bold">Primary Data</emphasis></entry>
+    <entry>
+    <list id="list-00002">
+    <item>Can be structured to be exactly what is needed</item>
+    <item>Under complete control of researchers</item>
+    <item>Timely, current data</item>
+    </list>
+    </entry>
+    <entry>
+    <list id="list-00003">
+    <item>Expensive to implement</item>
+    <item>Takes time to compile</item>
+    <item>May not be generalizable beyond specific research question</item>
+    </list>
+    </entry>
+    </row>
+    <row>
+    <entry><emphasis effect="bold">Secondary Data</emphasis></entry>
+    <entry>
+    <list id="list-00004">
+    <item>Generally inexpensive or free</item>
+    <item>Can be accessed quickly</item>
+    <item>Available through a variety of sources</item>
+    </list>
+    </entry>
+    <entry>
+    <list id="list-00005">
+    <item>May not match required parameters</item>
+    <item>Can be outdated</item>
+    <item>Same data accessible by competitors</item>
+    </list>
+    </entry>
+    </row>
+    </tbody>
+    </tgroup>
+    <caption>The Strengths and Weaknesses of Primary and Secondary Data</caption>
+    </table>
+    <para id="para-00009">There are four research types that can be used: exploratory, descriptive, experimental, and ethnographic research designs (see <link target-id="fig-00002" document="m00036"/>). Each type has specific formats of data that can be collected. <term id="term-00006">Qualitative research</term> can be shared through words, descriptions, and open-ended comments. Qualitative data gives context but cannot be reduced to a statistic. <term id="term-00007">Qualitative data</term> examples are categorical and include case studies, diary accounts, interviews, focus groups, and open-ended surveys. By comparison, <term id="term-00008">quantitative data</term> is data that can be reduced to number of responses. The number of responses to each answer on a multiple-choice question is quantitative data. Quantitative data is numerical and includes things like age, income, group size, and height.</para>
+    <figure id="fig-00002"><media alt="The four research types are exploratory or qualitative, descriptive or quantitative, experimental or causal, and ethnographic. Exploratory is research conducted that is more general to learn more about the industry or market. Descriptive is data collected to describe the situation in the market and help define an opinion, attitude, or behavior. Experimental is studies that define a cause-and-effect relationship between two factors. Ethnographic is a method of collecting data that is conducted by observing people's natural behavior."><image mime-type="image/png" src="../../media/MKT_Figure_06_03_004.png"/></media><caption>Four Research Types (attribution: Copyright Rice University, OpenStax, under CC BY 4.0 license)</caption></figure>
+    <para id="para-00010"><term id="term-00009">Exploratory research</term> is usually used when additional general information in desired about a topic. When in the initial steps of a new project, understanding the landscape is essential, so exploratory research helps the researcher to learn more about the general nature of the industry. Exploratory research can be collected through focus groups, interviews, and review of secondary data. When examining an exploratory research design, the best use is when your company hopes to collect data that is generally qualitative in nature.<cite id="rf-007-a" target-id="rf-007"><note class="delete-me" display="inline" id="note-00001"/></cite></para>
+    <para id="para-00011">For instance, if a company is considering a new service for registered users but is not quite sure how well the new service will be received or wants to gain clarity of exactly how customers may use a future service, the company can host a focus group. Focus groups and interviews will be examined later in the chapter. The insights collected during the focus group can assist the company when designing the service, help to inform promotional campaign options, and verify that the service is going to be a viable option for the company.</para>
+    <para id="para-00012"><term id="term-00010">Descriptive research</term> design takes a bigger step into collection of data through primary research complemented by secondary data. Descriptive research helps explain the market situation and define an “opinion, attitude, or behavior” of a group of consumers, employees, or other stakeholders.<cite id="rf-008-a" target-id="rf-008"><note class="delete-me" display="inline" id="note-00002"/></cite> The most common method of deploying a descriptive research design is through the use of a survey. Several types of surveys will be defined later in this chapter. Descriptive data is quantitative in nature, meaning the data can be distilled into a statistic, such as in a table or chart.</para>
+    <para id="para-00013">Again, descriptive data is helpful in explaining the current situation. In the opening example of <term class="no-emphasis" id="term-00011"><span class="red-text">LEGO</span></term>, the company wanted to describe the situation regarding children’s use of its product. In order to gather a large group of opinions, a survey was created. The data that was collected through this survey allowed the company to measure the existing perceptions of parents so that alterations could be made to future plans for the company.</para>
+    <para id="para-00014"><term id="term-00012">Experimental research</term>, also known as <term id="term-00013">causal research</term>, helps to define a cause-and-effect relationship between two or more factors. This type of research goes beyond a correlation to determine which feature caused the reaction. Researchers generally use some type of experimental design to determine a causal relationship. An example is A/B testing, a situation where one group of research participants, group A, is exposed to one treatment and then compared to the group B participants, who experience a different situation. An example might be showing two different television commercials to a panel of consumers and then measuring the difference in perception of the product. Another example would be to have two separate packaging options available in different markets. This research would answer the question “Does one design sell better than the other?” Comparing that to the sales in each market would be part of a causal research study.<cite id="rf-009-a" target-id="rf-009"><note class="delete-me" display="inline" id="note-00003"/></cite></para>
+    <para id="para-00015">The final method of collecting data is through an ethnographic design. <term id="term-00014">Ethnographic research</term> is conducted in the field by watching people interact in their natural environment. For marketing research, ethnographic designs help to identify how a product is used, what actions are included in a selection, or how the consumer interacts with the product.<cite id="rf-010-a" target-id="rf-010"><note class="delete-me" display="inline" id="note-00004"/></cite></para>
+    <para id="para-00016">Examples of ethnographic research would be to observe how a consumer uses a particular product, such as baking soda. Although many people buy baking soda, its uses are vast. So are they using it as a refrigerator deodorizer, a toothpaste, to polish a belt buckle, or to use in baking a cake?</para>
+    </section>
+    <section id="sect-00004">
+    <title>Select the Data Collection Method</title>
+    <para id="para-00017"><term id="term-00015">Data collection</term> is the systematic gathering of information that addresses the identified problem. What is the best method to do that? Picking the right method of collecting data requires that the researcher understand the target population and the design picked in the previous step. There is no perfect method; each method has both advantages and disadvantages, so it’s essential that the researcher understand the target population of the research and the research objectives in order to pick the best option.</para>
+    <para id="para-00018">Sometimes the data desired is best collected by watching the actions of consumers. For instance, how many cars pass a specific billboard in a day? What website led a potential customer to the company’s website? When are consumers most likely to use the snack vending machines at work? What time of day has the highest traffic on a social media post? What is the most streamed television program this week? <term id="term-00016">Observational research</term> is the collecting of data based on actions taken by those observed. Many data observations do not require the researched individuals to participate in the data collection effort to be highly valuable. Some observation requires an individual to watch and record the activities of the target population through <term id="term-00017">personal observations</term>.</para>
+    <para id="para-00019"><term id="term-00018">Unobtrusive observation</term> happens when those being observed aren’t aware that they are being watched. An example of an unobtrusive observation would be to watch how shoppers interact with a new stuffed animal display by using a one-way mirror. Marketers can identify which products were handled more often while also determining which were ignored.</para>
+    <para id="para-00020">Other methods can use technology to collect the data instead. Instances of <term id="term-00019">mechanical observation</term> include the use of vehicle recorders, which count the number of vehicles that pass a specific location. Computers can also assess the number of shoppers who enter a store, the most popular entry point for train station commuters, or the peak time for cars to park in a parking garage.</para>
+    <para id="para-00021">When you want to get a more in-depth response from research participants, one method is to complete a <term id="term-00020">one-on-one interview</term>. One-on-one interviews allow the researcher to ask specific questions that match the respondent’s unique perspective as well as follow-up questions that piggyback on responses already completed. An interview allows the researcher to have a deeper understanding of the needs of the respondent, which is another strength of this type of data collection. The downside of personal interviews it that a discussion can be very time-consuming and results in only one respondent’s answers. Therefore, in order to get a large sample of respondents, the interview method may not be the most efficient method.</para>
+    <para id="para-00022">Taking the benefits of an interview and applying them to a small group of people is the design of a <term id="term-00021">focus group</term>. A focus group is a small number of people, usually 8 to 12, who meet the sample requirements (see <link target-id="fig-00003" document="m00036"/>). These individuals together are asked a series of questions where they are encouraged to build upon each other’s responses, either by agreeing or disagreeing with the other group members. Focus groups are similar to interviews in that they allow the researcher, through a moderator, to get more detailed information from a small group of potential stakeholders.</para>
+    <note class="link-to-learning" id="note-00005">
+    <title>Focus Groups</title>
+    <para id="para-00023">Focus groups are a common method for gathering insights into consumer thinking and habits. Companies will use this information to develop or shift their initiatives. The best way to understand a focus group is to watch a few examples or explanations. TED-Ed has this video that explains how focus groups work.</para>
+    <media alt=""><iframe width="660" height="371.4" src="https://openstax.org/r/howfocusgroupworks"/></media>
+    <para id="para-00024">You might be asking when it is best to use a focus group or a survey. Learn the differences, the pros and cons of each, and the specific types of <link url="https://openstax.org/r/surveymonkey">questions you ask in both situations in this article</link>.</para>
+    <para id="para-00025">Preparing for a focus group is critical to success. It requires knowing the material and questions while also managing the group of people. Watch this video to learn more about how to prepare for a focus group and the types of things to be aware of.</para>
+    <media alt=""><iframe width="660" height="371.4" src="https://openstax.org/r/preparingforfocusgroups"/></media>
+    </note>
+    <para id="para-00026">One of the benefits of a focus group over individual interviews is that synergy can be generated when a participant builds on another’s ideas. Additionally, for the same amount of time, a researcher can hear from multiple respondents instead of just one.<cite id="rf-011-a" target-id="rf-011"><note class="delete-me" display="inline" id="note-00006"/></cite> Of course, as with every method of data collection, there are downsides to a focus group as well. Focus groups have the potential to be overwhelmed by one or two aggressive personalities, and the format can discourage more reserved individuals from speaking up. Finally, like interviews, the responses in a focus group are qualitative in nature and are difficult to distill into an easy statistic or two.</para>
+    <figure id="fig-00003"><media alt="A group of five people sit around a table in a conference room. A sixth person is standing at the front of the room, next to a whiteboard with writing on it."><image mime-type="image/jpeg" src="../../media/MKT_Figure_06_03_005.jpg"/></media><caption>Focus Group Participants (credit: “Meeting” by UBC Learning Commons/flickr, CC BY 2.0)</caption></figure>
+    <para id="para-00027">Combining a variety of questions on one instrument is called a <term id="term-00022">survey</term> or <term id="term-00023">questionnaire</term>. Collecting primary data is commonly done through surveys due to their versatility. A survey allows the researcher to ask the same set of questions of a large group of respondents. Response rates of surveys are calculated by dividing the number of surveys completed by the total number attempted. Surveys are flexible and can collect a variety of quantitative and qualitative data. Questions can include simplified yes or no questions, select all that apply, questions that are on a scale, or a variety of open-ended types of questions. There are four types of surveys (see <emphasis effect="bold">Table 6.2</emphasis>) we will cover, each with strengths and weaknesses defined.</para>
+    <table summary="" class="data-table" id="table-00002">
+    <tgroup cols="3">
+    <tbody>
+    <row>
+    <entry/>
+    <entry><emphasis effect="bold">Strengths</emphasis></entry>
+    <entry><emphasis effect="bold">Weaknesses</emphasis></entry>
+    </row>
+    <row>
+    <entry><emphasis effect="bold">Mailed Surveys</emphasis></entry>
+    <entry>
+    <list id="list-00006">
+    <item>Ability to reach large population</item>
+    <item>Convenience of respondent</item>
+    </list>
+    </entry>
+    <entry>
+    <list id="list-00007">
+    <item>Time delays</item>
+    <item>Expensive</item>
+    </list>
+    </entry>
+    </row>
+    <row>
+    <entry><emphasis effect="bold">Phone Surveys</emphasis></entry>
+    <entry>
+    <list id="list-00008">
+    <item>Respondent can ask questions</item>
+    <item>Collection in real time</item>
+    </list>
+    </entry>
+    <entry>
+    <list id="list-00009">
+    <item>Time intensive</item>
+    <item>People don’t answer calls from numbers they don’t know</item>
+    </list>
+    </entry>
+    </row>
+    <row>
+    <entry><emphasis effect="bold">In-Person Surveys</emphasis></entry>
+    <entry>
+    <list id="list-00010">
+    <item>Respondent can ask questions</item>
+    <item>Follow-up questions can be asked based on answers</item>
+    </list>
+    </entry>
+    <entry>
+    <list id="list-00011">
+    <item>Time intensive</item>
+    <item>People avoid talking with strangers</item>
+    </list>
+    </entry>
+    </row>
+    <row>
+    <entry><emphasis effect="bold">Electronic Surveys</emphasis></entry>
+    <entry>
+    <list id="list-00012">
+    <item>Less time intensive than other methods</item>
+    <item>Less expensive</item>
+    </list>
+    </entry>
+    <entry>
+    <list id="list-00013">
+    <item>Identification as spam</item>
+    <item>Low response rate</item>
+    </list>
+    </entry>
+    </row>
+    </tbody>
+    </tgroup>
+    <caption>The Four Survey Method Options</caption>
+    </table>
+    <para id="para-00028">Let’s start off with <term id="term-00024">mailed surveys</term>—surveys that are sent to potential respondents through a mail service. Mailed surveys used to be more commonly used due to the ability to reach every household. In some instances, a mailed survey is still the best way to collect data. For example, every 10 years the United States conducts a census of its population (see <link target-id="fig-00004" document="m00036"/>). The first step in that data collection is to send every household a survey through the <term class="no-emphasis" id="term-00025"><span class="red-text">US Postal Service</span></term> (USPS). The benefit is that respondents can complete and return the survey at their convenience. The downside of mailed surveys are expense and timeliness of responses. A mailed survey requires postage, both when it is sent to the recipient and when it is returned. That, along with the cost of printing, paper, and both sending and return envelopes, adds up quickly. Additionally, physically mailing surveys takes time. One method of reducing cost is to send with bulk-rate postage, but that slows down the delivery of the survey. Also, because of the convenience to the respondent, completed surveys may be returned several weeks after being sent. Finally, some mailed survey data must be manually entered into the analysis software, which can cause delays or issues due to entry errors.</para>
+    <figure id="fig-00004"><media alt="The beginning of a United States census form says: Shape your future start here. United States Census 2020. Start questionnaire."><image mime-type="image/jpeg" src="../../media/MKT_Figure_06_03_006.jpg"/></media><caption>US Census Example (credit: “Census” by KSRE Photo/flickr, CC BY 2.0)</caption></figure>
+    <para id="para-00029"><term id="term-00026">Phone surveys</term> are completed during a phone conversation with the respondent. Although the traditional phone survey requires a data collector to talk with the participant, current technology allows for computer-assisted voice surveys or surveys to be completed by asking the respondent to push a specific button for each potential answer. Phone surveys are time intensive but allow the respondent to ask questions and the surveyor to request additional information or clarification on a question if warranted. Phone surveys require the respondent to complete the survey simultaneously with the collector, which is a limitation as there are restrictions for when phone calls are allowed. According to <term class="no-emphasis" id="term-00027"><span class="red-text">Telephone Consumer Protection Act</span></term>, approved by Congress in 1991, no calls can be made prior to 8:00 a.m. or after 9:00 p.m. in the recipient’s time zone.<cite id="rf-012-a" target-id="rf-012"><note class="delete-me" display="inline" id="note-00007"/></cite> Many restrictions are outlined in this original legislation and have been added to since due to ever-changing technology.</para>
+    <para id="para-00030"><term id="term-00028">In-person surveys</term> are when the respondent and data collector are physically in the same location. In-person surveys allow the respondent to share specific information, ask questions of the surveyor, and follow up on previous answers. Surveys collected through this method can take place in a variety of ways: through door-to-door collection, in a public location, or at a person’s workplace. Although in-person surveys are time intensive and require more labor to collect data than some other methods, in some cases it’s the best way to collect the required data. In-person surveys conducted through a door-to-door method is the follow-up used for the census if respondents do not complete the mailed survey. One of the downsides of in-person surveys is the reluctance of potential respondents to stop their current activity and answer questions. Furthermore, people may not feel comfortable sharing private or personal information during a face-to-face conversation.</para>
+    <para id="para-00031"><term id="term-00029">Electronic surveys</term> are sent or collected through digital means and is an opportunity that can be added to any of the above methods as well as some new delivery options. Surveys can be sent through email, and respondents can either reply to the email or open a hyperlink to an online survey (see <link target-id="fig-00005" document="m00036"/>). Additionally, a letter can be mailed that asks members of the survey sample to log in to a website rather than to return a mailed response. Many marketers now use links, QR codes, or electronic devices to easily connect to a survey. Digitally collected data has the benefit of being less time intensive and is often a more economical way to gather and input responses than more manual methods. A survey that could take months to collect through the mail can be completed within a week through digital means.</para>
+    <figure id="fig-00005"><media alt="An example of a survey has the board game café logo in the top left corner of the page. There are three questions shown. Question 4 is a multiple choice question: Do you enjoy playing board games? The answer choices are yes, no, and prefer not to answer. Question 5 is an open-ended question: What is your favorite board game? There is a blank to write in an answer after the question. Question 6 is a multiple choice question: Would you be interested in using a daily one-time fee, pass to use the “library” (which includes board games) at the Board Game Cafe? The answer choices are very interested, interested, somewhat interested, not interested, or prefer not to respond."><image mime-type="image/png" src="../../media/MKT_Figure_06_03_007.png"/></media><caption>Online Survey Example (attribution: Copyright Rice University, OpenStax, under CC BY 4.0 license)</caption></figure>
+    </section>
+    <section id="sect-00005">
+    <title>Design the Sample</title>
+    <para id="para-00032">Although you might want to include every possible person who matches your target market in your research, it’s often not a feasible option, nor is it of value. If you did decide to include everyone, you would be completing a <term id="term-00030">census</term> of the population. Getting everyone to participate would be time-consuming and highly expensive, so instead marketers use a <term id="term-00031">sample</term>, whereby a portion of the whole is included in the research. It’s similar to the samples you might receive at the grocery store or ice cream shop; it isn’t a full serving, but it does give you a good taste of what the whole would be like.</para>
+    <para id="para-00033">So how do you know who should be included in the sample? Researchers identify parameters for their studies, called <term id="term-00032">sample frames</term>. A sample frame for one study may be college students who live on campus; for another study, it may be retired people in Dallas, Texas, or small-business owners who have fewer than 10 employees. The individual entities within the sampling frame would be considered a <term id="term-00033">sampling unit</term>. A sampling unit is each individual respondent that would be considered as matching the sample frame established by the research. If a researcher wants businesses to participate in a study, then businesses would be the sampling unit in that case.</para>
+    <para id="para-00034">The number of sampling units included in the research is the <term id="term-00034">sample size</term>. Many calculations can be conducted to indicate what the correct size of the sample should be. Issues to consider are the size of the population, the confidence level that the data represents the entire population, the ease of accessing the units in the frame, and the budget allocated for the research.</para>
+    <para id="para-00035">There are two main categories of samples: probability and nonprobability (see <link target-id="fig-00006" document="m00036"/>). <term id="term-00035">Probability samples</term> are those in which every member of the sample has an identified likelihood of being selected. Several probability sample methods can be utilized. One probability sampling technique is called a <term id="term-00036">simple random sample</term>, where not only does every person have an identified likelihood of being selected to be in the sample, but every person also has an equal chance of exclusion. An example of a simple random sample would be to put the names of all members of a group into a hat and simply draw out a specific number to be included. You could say a raffle would be a good example of a simple random sample.</para>
+    <figure id="fig-00006"><media alt="Examples of probability samples and nonprobability samples are shown. Examples of probability samples are simple random sample and stratified random sample. Examples of nonprobability samples are convenience sample and judgment sample."><image mime-type="image/png" src="../../media/MKT_Figure_06_03_008.png"/></media><caption>Type of Samples (attribution: Copyright Rice University, OpenStax, under CC BY 4.0 license)</caption></figure>
+    <para id="para-00036">Another probability sample type is a <term id="term-00037">stratified random sample</term>, where the population is divided into groups by category and then a random sample of each category is selected to participate. For instance, if you were conducting a study of college students from your school and wanted to make sure you had all grade levels included, you might take the names of all students and split them into different groups by grade level—freshman, sophomore, junior, and senior. Then, from those categories, you would draw names out of each of the pools, or strata.</para>
+    <para id="para-00037">A <term id="term-00038">nonprobability sample</term> is a situation in which each potential member of the sample has an unknown likelihood of being selected in the sample. Research findings that are from a nonprobability sample cannot be applied beyond the sample. Several examples of nonprobability sampling are available to researchers and include two that we will look at more closely: convenience sampling and judgment sampling.</para>
+    <para id="para-00038">The first nonprobability sampling technique is a <term id="term-00039">convenience sample</term>. Just like it sounds, a convenience sample is when the researcher finds a group through a nonscientific method by picking potential research participants in a convenient manner. An example might be to ask other students in a class you are taking to complete a survey that you are doing for a class assignment or passing out surveys at a basketball game or theater performance.</para>
+    <para id="para-00039">A <term id="term-00040">judgment sample</term> is a type of nonprobability sample that allows the researcher to determine if they believe the individual meets the criteria set for the sample frame to complete the research. For instance, you may be interested in researching mothers, so you sit outside a toy store and ask an individual who is carrying a baby to participate.</para>
+    </section>
+    <section id="sect-00006">
+    <title>Collect the Data</title>
+    <para id="para-00040">Now that all the plans have been established, the instrument has been created, and the group of participants has been identified, it is time to start collecting data. As explained earlier in this chapter, data collection is the process of gathering information from a variety of sources that will satisfy the research objectives defined in step one. Data collection can be as simple as sending out an email with a survey link enclosed or as complex as an experiment with hundreds of consumers. The method of collection directly influences the length of this process. Conducting personal interviews or completing an experiment, as previously mentioned, can add weeks or months to the research process, whereas sending out an electronic survey may allow a researcher to collect the necessary data in a few days.<cite id="rf-013-a" target-id="rf-013"><note class="delete-me" display="inline" id="note-00008"/></cite></para>
+    </section>
+    <section id="sect-00007">
+    <title>Analyze and Interpret the Data</title>
+    <para id="para-00041">Once the data has been collected, the process of analyzing it may begin. <term id="term-00041">Data analysis</term> is the distillation of the information into a more understandable and actionable format. The analysis itself can take many forms, from the use of basic statistics to a more comprehensive data visualization process. First, let’s discuss some basic statistics that can be used to represent data.</para>
+    <para id="para-00042">The first is the mean of quantitative data. A <term id="term-00042">mean</term> is often defined as the arithmetic average of values. The formula is:</para>
+    <equation class="unnumbered" xmlns="http://cnx.rice.edu/cnxml" id="eq-00001"><math xmlns="http://www.w3.org/1998/Math/MathML"><mfrac><mrow><mi>Sum</mi><mo> </mo><mi>of</mi><mo> </mo><mi>Values</mi></mrow><mrow><mi>Number</mi><mo> </mo><mi>of</mi><mo> </mo><mi>Values</mi></mrow></mfrac></math></equation>
+    <para id="para-00043" xmlns="http://cnx.rice.edu/cnxml">A common use of the mean calculation is with exam scores. Say, for example, you have earned the following scores on your marketing exams: 72, 85, 68, and 77. To find the mean, you would add up the four scores for a total of 302. Then, in order to generate a mean, that number needs to be divided by the number of exam scores included, which is 4. The mean would be 302 divided by 4, for a mean test score of 75.5. Understanding the mean can help to determine, with one number, the weight of a particular value.</para>
+    <para id="para-00044">Another commonly used statistic is median. The <term id="term-00043">median</term> is often referred to as the middle number. To generate a median, all the numeric answers are placed in order, and the middle number is the median. Median is a common statistic when identifying the income level of a specific geographic region.<cite id="rf-014-a" target-id="rf-014"><note class="delete-me" display="inline" id="note-00009"/></cite> For instance, the median household income for Albuquerque, New Mexico, between 2015 and 2019 was $52,911.<cite id="rf-015-a" target-id="rf-015"><note class="delete-me" display="inline" id="note-00010"/></cite> In this case, there are just as many people with an income above the amount as there are below.</para>
+    <para id="para-00045"><term id="term-00044">Mode</term> is another statistic that is used to represent data of all types, as it can be used with quantitative or qualitative data and represents the most frequent answer. Eye color, hair color, and vehicle color can all be presented with a mode statistic. Additionally, some researchers expand on the concept of mode and present the <term id="term-00045">frequency</term> of all responses, not just identifying the most common response. Data such as this can easily be presented in a frequency graph,<cite id="rf-016-a" target-id="rf-016"><note class="delete-me" display="inline" id="note-00011"/></cite> such as the one in <link target-id="fig-00007" document="m00036"/>.</para>
+    <figure id="fig-00007"><media alt="A frequency graph shows how much time college students spend using social media. The title of the graph is Social Media Use of College Students. The Y axis shows percentages from 0% to 60% in increments of 10%. The x axis shows the amount of time college students use social media. The labels are less than an hour; 1 to 2 hours; 3 to 4 hours; 5 plus hours, and do not use social media. 3.5% of college students use social media for less than an hour; 20.28% of college students use social media between 1 to 2 hours; 51.05% of college students us social media between 3 to 4 hours; 24.48% of students use social media for more than 5 hours. 0.69% of students do not use social media."><image mime-type="image/png" src="../../media/MKT_Figure_06_03_009.png"/></media><caption>Frequency Graph (attribution: Copyright Rice University, OpenStax, under CC BY 4.0 license)</caption></figure>
+    <para id="para-00046">Additionally, researchers use other analyses to represent the data rather than to present the entirety of each response. For example, maybe the relationship between two values is important to understand. In this case, the researcher may share the data as a <term id="term-00046">cross tabulation</term> (see <link target-id="fig-00008" document="m00036"/>). Below is the same data as above regarding social media use cross tabulated with gender—as you can see, the data is more descriptive when you can distinguish between the gender identifiers and how much time is spent per day on social media.</para>
+    <figure id="fig-00008"><media alt="A frequency graph shows how much time college students spend using social media. The title of the graph is Social Media Use by Gender. The Y axis shows percentages from 0% to 60% in increments of 10%. The x axis shows the amount of time college students use social media. The labels are less than an hour; 1 to 2 hours; 3 to 4 hours; 5 plus hours, and do not use social media. The graph divides users into male, female, and non-binary. 5.2% of males and 4.5% of females use social media for less than an hour. 24.6% of males and 16.2% of females us social media between 1 and 2 hours. 57.1% of males, 48.6 of females, and 50.0% of non binary people use social media for 3 to 4 hours. 13% of males, 28.8% of females, and 50% of nonbinary people use social media for more than 5 hours. 1.8% of females do not use social media."><image mime-type="image/png" src="../../media/MKT_Figure_06_03_010.png"/></media><caption>Cross Tabulation (attribution: Copyright Rice University, OpenStax, under CC BY 4.0 license)</caption></figure>
+    <para id="para-00047">Not all data can be presented in a graphical format due to the nature of the information. Sometimes with qualitative methods of data collection, the responses cannot be distilled into a simple statistic or graph. In that case, the use of quotations, otherwise known as <term id="term-00047">verbatims</term>, can be used. These are direct statements presented by the respondents. Often you will see a verbatim statement when reading a movie or book review. The critic’s statements are used in part or in whole to represent their feelings about the newly released item.</para>
+    <note class="link-to-learning" id="note-00012">
+    <title>Infographics</title>
+    <para id="para-00048">As they say, a picture is worth a thousand words. For this reason, research results are often shown in a graphical format in which data can be taken in quickly, called an <term id="term-00048">infographic</term>.</para>
+    <para id="para-00049">Check out <link url="https://openstax.org/r/whatmakesgoodinfographic">this infographic on what components make for a good infographic.</link> As you can see, a good infographic needs four components: data, design, a story, and the ability to share it with others. Without all four pieces, it is not as valuable a resource as it could be. The ultimate infographic is represented as the intersection of all four.</para>
+    <para id="para-00050">Infographics are particularly advantageous online. Refer to <link url="https://openstax.org/r/infographicsbenefits">this infographic on why they are beneficial to use online</link>.</para>
+    </note>
+    </section>
+    <section id="sect-00008">
+    <title>Prepare the Research Report</title>
+    <para id="para-00051">The marketing research process concludes by sharing the generated data and makes recommendations for future actions. What starts as simple data must be interpreted into an analysis. All information gathered should be conveyed in order to make decisions for future marketing actions. One item that is often part of the final step is to discuss areas that may have been missed with the current project or any area of further study identified while completing it. Without the final step of the marketing research project, the first six steps are without value. It is only after the information is shared, through a formal presentation or report, that those recommendations can be implemented and improvements made. The first six steps are used to generate information, while the last is to initiate action. During this last step is also when an evaluation of the process is conducted. If this research were to be completed again, how would we do it differently? Did the right questions get answered with the survey questions posed to the respondents? Follow-up on some of these key questions can lead to additional research, a different study, or further analysis of data collected.</para>
+    </section>
+    <section id="sect-00009">
+    <title>Methods of Quantifying Marketing Research</title>
+    <para id="para-00052">One of the ways of sharing information gained through marketing research is to <term id="term-00049">quantify the research</term>. Quantifying the research means to take a variety of data and compile into a quantity that is more easily understood. This is a simple process if you want to know how many people attended a basketball game, but if you want to quantify the number of students who made a positive comment on a questionnaire, it can be a little more complicated. Researchers have a variety of methods to collect and then share these different scores. Below are some of the most common types used in business.</para>
+    <section id="sect-00010">
+    <title>Awareness</title>
+    <para id="para-00053">Is a customer aware of a product, brand, or company? What is meant by awareness? <term id="term-00050">Awareness</term> in the context of marketing research is when a consumer is familiar with the product, brand, or company. It does not assume that the consumer has tried the product or has purchased it. They are just aware. That is a measure that many businesses find valuable. There are several ways to measure awareness. For instance, the first type of awareness is <term id="term-00051">unaided awareness</term>. This type of awareness is when no prompts for a product, brand, or company are given. If you were collecting information on fast-food restaurants, you might ask a respondent to list all the fast-food restaurants that serve a chicken sandwich. <term id="term-00052">Aided awareness</term> would be providing a list of products, brands, or companies and the respondent selects from the list. For instance, if you give a respondent a list of fast-food restaurants and ask them to mark all the locations with a chicken sandwich, you are collecting data through an aided method. Collecting these answers helps a company determine how the business location compares to those of its competitors.<cite id="rf-017-a" target-id="rf-017"><note class="delete-me" display="inline" id="note-00013"/></cite></para>
+    </section>
+    <section id="sect-00011">
+    <title>Customer Satisfaction (CSAT)</title>
+    <para id="para-00054">Have you ever been asked to complete a survey at the end of a purchase? Many businesses complete research on buying, returning, or other customer service processes. A <term id="term-00053">customer satisfaction score</term>, also known as CSAT, is a measure of how satisfied customers are with the product, brand, or service. A CSAT score is usually on a scale of 0 to 100 percent.<cite id="rf-018-a" target-id="rf-018"><note class="delete-me" display="inline" id="note-00014"/></cite> But what constitutes a “good” CSAT score? Although what is identified as good can vary by industry, normally anything in the range from 75 to 85 would be considered good. Of course, a number higher than 85 would be considered exceptional.<cite id="rf-019-a" target-id="rf-019"><note class="delete-me" display="inline" id="note-00015"/></cite></para>
+    </section>
+    <section id="sect-00012">
+    <title>Customer Acquisition Cost (CAC) and Customer Effort Score (CES)</title>
+    <para id="para-00055">Other metrics often used are a customer acquisition cost (CAC) and customer effort score (CES). How much does it cost a company to gain customers? That’s the purpose of calculating the customer acquisition cost. To calculate the <term id="term-00054">customer acquisition cost</term>, a company would need to total all expenses that were accrued to gain new customers. This would include any advertising, public relations, social media postings, etc. When a total cost is determined, it is divided by the number of new customers gained through this campaign.</para>
+    <para id="para-00056">The final score to discuss is the <term id="term-00055">customer effort score</term>, also known as a CES. The CES is a “survey used to measure the ease of service experience with an organization.”<cite id="rf-020-a" target-id="rf-020"><note class="delete-me" display="inline" id="note-00016"/></cite> Companies that are easy to work with have a better CES than a company that is notorious for being difficult. An example would be to ask a consumer about the ease of making a purchase online by incorporating a one-question survey after a purchase is confirmed. If a number of responses come back negative or slightly negative, the company will realize that they need to investigate and develop a more user-friendly process.</para>
+    </section>
+    </section>
+    <section class="knowledge-check" id="sect-00013">
+    <title>Knowledge Check</title>
+    <para id="para-00057">It’s time to check your knowledge of the concepts presented in this section. Refer to the Answer Key at the end of the book for feedback.</para>
+    <exercise id="exer-00001"><problem id="prob-00001"><para id="para-00058"><link class="os-embed" url="#exercise/MBT_Ch6_Sec3_KC1"/></para></problem></exercise>
+    <exercise id="exer-00002"><problem id="prob-00002"><para id="para-00059"><link class="os-embed" url="#exercise/MBT_Ch6_Sec3_KC2"/></para></problem></exercise>
+    <exercise id="exer-00003"><problem id="prob-00003"><para id="para-00060"><link class="os-embed" url="#exercise/MBT_Ch6_Sec3_KC3"/></para></problem></exercise>
+    <exercise id="exer-00004"><problem id="prob-00004"><para id="para-00061"><link class="os-embed" url="#exercise/MBT_Ch6_Sec3_KC4"/></para></problem></exercise>
+    <exercise id="exer-00005"><problem id="prob-00005"><para id="para-00062"><link class="os-embed" url="#exercise/MBT_Ch6_Sec3_KC5"/></para></problem></exercise>
+    </section>
+    <section class="references" id="sect-00014">
+    <title>Endnotes</title>
+    <note id="rf-007"><link target-id="rf-007-a"><span>7.</span></link><span>Raimo Streefkerk, “Qualitative vs. Quantitative Research,” Methodology, Scribbr, revised August 13, 2021, https://www.scribbr.com/methodology/qualitative-quantitative-research/.</span></note>
+    <note id="rf-008"><link target-id="rf-008-a"><span>8.</span></link><span>“The 3 Types of Survey Research and When to Use Them,” SurveyMonkey, Momentive, last modified May 4, 2021, https://www.surveymonkey.com/mp/3-types-survey-research/.</span></note>
+    <note id="rf-009"><link target-id="rf-009-a"><span>9.</span></link><span>Ibid.</span></note>
+    <note id="rf-010"><link target-id="rf-010-a"><span>10.</span></link><span>Ken Anderson, “Ethnographic Research: A Key to Strategy,” <emphasis effect="italics">Harvard Business Review</emphasis>, March 2009, 24, https://hbr.org/2009/03/ethnographic-research-a-key-to-strategy.</span></note>
+    <note id="rf-011"><link target-id="rf-011-a"><span>11.</span></link><span>“Data Collection Methods: Definition, Examples and Sources,” <emphasis effect="italics">Online Survey Software and Data Intelligence Blog</emphasis>, QuestionPro, last modified July 21, 2022, https://www.questionpro.com/blog/data-collection-methods/.</span></note>
+    <note id="rf-012"><link target-id="rf-012-a"><span>12.</span></link><span>“Restrictions on Telemarketing, Telephone Solicitation, and Facsimile Advertising,” 47 C.F.R. 64.1200, 2021 comp., p. 486, sec. (c)(1), https://www.govinfo.gov/content/pkg/CFR-2021-title47-vol3/pdf/CFR-2021-title47-vol3-sec64-1200.pdf.</span></note>
+    <note id="rf-013"><link target-id="rf-013-a"><span>13.</span></link><span>Pritha Bhandari, “A Step-by-Step Guide to Data Collection,” Methodology, Scribbr, revised August 13, 2021, https://www.scribbr.com/methodology/data-collection/.</span></note>
+    <note id="rf-014"><link target-id="rf-014-a"><span>14.</span></link><span>Statistics.com, Glossary, s.v. “Median,” accessed November 21, 2021, https://www.statistics.com/glossary/median/.</span></note>
+    <note id="rf-015"><link target-id="rf-015-a"><span>15.</span></link><span>“Albuquerque City, New Mexico,” QuickFacts, United States Census Bureau, accessed November 23, 2021, https://www.census.gov/quickfacts/fact/table/albuquerquecitynewmexico/PST040219.</span></note>
+    <note id="rf-016"><link target-id="rf-016-a"><span>16.</span></link><span>Statistics.com, Glossary, s.v. “Mode,” accessed November 21, 2021, https://www.statistics.com/glossary/mode/; Statistics.com, Glossary, s.v. “Frequency Distribution,” accessed November 21, 2021, https://www.statistics.com/glossary/frequency-distribution/.</span></note>
+    <note id="rf-017"><link target-id="rf-017-a"><span>17.</span></link><span>“Unaided vs. Aided Brand Awareness Survey Questions: What Do They Tell You?,” SurveyMonkey, Momentive, last modified April 9, 2021, https://www.surveymonkey.com/mp/unaided-vs-aided-brand-awareness-survey-questions/.</span></note>
+    <note id="rf-018"><link target-id="rf-018-a"><span>18.</span></link><span>“What Is CSAT and How Do You Measure It?,” Experience Management, Qualtrics, last modified August 10, 2022, https://www.qualtrics.com/experience-management/customer/what-is-csat/.</span></note>
+    <note id="rf-019"><link target-id="rf-019-a"><span>19.</span></link><span>Dom Nicastro, “What Is Customer Satisfaction Score (CSAT)?,” CMSWire, Simpler Media Group, September 20, 2021, https://www.cmswire.com/customer-experience/what-is-customer-satisfaction-score-csat/.</span></note>
+    <note id="rf-020"><link target-id="rf-020-a"><span>20.</span></link><span>“Customer Effort Score (CES): Examples, Definition, and Calculations,” <emphasis effect="italics">Online Survey Software and Data Intelligence Blog</emphasis>, QuestionPro, last modified December 16, 2021, https://www.questionpro.com/blog/customer-effort-score/.</span></note>
+    </section>
+    </content>
+    <glossary>
+    <definition id="def-00001"><term>aided awareness</term><meaning>when a product, brand, or company list is provided to select from to measure awareness</meaning></definition>
+    <definition id="def-00002"><term>awareness</term><meaning>a consumer’s familiarity with a product, brand, or company</meaning></definition>
+    <definition id="def-00003"><term>causal research</term><meaning>studies that define a cause-and-effect relationship between two factors</meaning></definition>
+    <definition id="def-00004"><term>census</term><meaning>when all potential target population members are included in the research</meaning></definition>
+    <definition id="def-00005"><term>convenience sample</term><meaning>a nonprobability sample type where potential respondents to the research are selected by convenience rather than through any scientific method</meaning></definition>
+    <definition id="def-00006"><term>cross tabulation</term><meaning>an analysis of two variables and the frequency of each answer in relation to the other variable</meaning></definition>
+    <definition id="def-00007"><term>customer acquisition cost</term><meaning>the total expenses a company spends to gain a new customer</meaning></definition>
+    <definition id="def-00008"><term>customer effort score</term><meaning>a survey used to measure ease of service experience with an organization</meaning></definition>
+    <definition id="def-00009"><term>customer satisfaction score</term><meaning>also known as a CES, a survey used to measure ease of service experience with an organization</meaning></definition>
+    <definition id="def-00010"><term>data analysis</term><meaning>the distillation of information into a more understandable and actionable format</meaning></definition>
+    <definition id="def-00011"><term>data collection</term><meaning>systematic gathering of information that addresses an identified problem</meaning></definition>
+    <definition id="def-00012"><term>descriptive research</term><meaning>data collected to describe the situation in the market and help define an opinion, attitude, or behavior</meaning></definition>
+    <definition id="def-00013"><term>electronic surveys</term><meaning>surveys sent through digital means to respondents; respondents also reply to the survey digitally</meaning></definition>
+    <definition id="def-00014"><term>ethnographic research</term><meaning>method of collecting data that is conducted by observing people’s natural behavior</meaning></definition>
+    <definition id="def-00015"><term>experimental research</term><meaning>studies that define a cause-and-effect relationship between two factors</meaning></definition>
+    <definition id="def-00016"><term>exploratory research</term><meaning>research conducted that is more general to learn more about the industry or market</meaning></definition>
+    <definition id="def-00017"><term>focus group</term><meaning>a small group, typically 8 to 12 people, who are asked several questions by a moderator and encouraged to build upon each other’s responses</meaning></definition>
+    <definition id="def-00018"><term>frequency</term><meaning>a report of the number of each answer received</meaning></definition>
+    <definition id="def-00019"><term>infographic</term><meaning>a representation of data in a variety of visual presentations</meaning></definition>
+    <definition id="def-00020"><term>in-person surveys</term><meaning>surveys conducted when the respondent and data collector are face-to-face</meaning></definition>
+    <definition id="def-00021"><term>judgment sample</term><meaning>a nonprobability sample type where the potential participants are selected based on a perceived match to the sample frame</meaning></definition>
+    <definition id="def-00022"><term>mailed surveys</term><meaning>surveys sent to potential participants through a mail service, such as the United States Post Service</meaning></definition>
+    <definition id="def-00023"><term>mean</term><meaning>an arithmetic average of values</meaning></definition>
+    <definition id="def-00024"><term>mechanical observation</term><meaning>the use of electronic monitoring to record the actions of the observed</meaning></definition>
+    <definition id="def-00025"><term>median</term><meaning>the middle number when all answers are organized from smallest to largest; if an even number of data, the mean of the two middle answers is the median</meaning></definition>
+    <definition id="def-00026"><term>mode</term><meaning>the most common response</meaning></definition>
+    <definition id="def-00027"><term>nonprobability sample</term><meaning>a situation which each member of the population has an unknown chance of being selected to be part of the sample</meaning></definition>
+    <definition id="def-00028"><term>observational research</term><meaning>data collected by watching consumers and recording actions</meaning></definition>
+    <definition id="def-00029"><term>one-on-one interview</term><meaning>an interview that happens on an individual level between researcher and respondent</meaning></definition>
+    <definition id="def-00030"><term>personal observations</term><meaning>observations that are collected by human recorders</meaning></definition>
+    <definition id="def-00031"><term>phone surveys</term><meaning>surveys conducted through the use of a telephone that can be completed through digital or human methods</meaning></definition>
+    <definition id="def-00032"><term>primary data</term><meaning>unique information that is collected by the researcher with the current project in mind</meaning></definition>
+    <definition id="def-00033"><term>probability sample</term><meaning>a sample in which everyone has a known chance of being included in the research</meaning></definition>
+    <definition id="def-00034"><term>problem definition</term><meaning>the realization that there is an issue that needs to be addressed</meaning></definition>
+    <definition id="def-00035"><term>qualitative data</term><meaning>data that cannot be distilled into number of responses, such as responses to an interview</meaning></definition>
+    <definition id="def-00036"><term>qualitative research</term><meaning>data shared through words, descriptions, and open-ended comments</meaning></definition>
+    <definition id="def-00037"><term>quantitative data</term><meaning>data that can be reduced to number of responses, such as number of responses to each answer on a multiple-choice question</meaning></definition>
+    <definition id="def-00038"><term>quantify the research</term><meaning>to take a variety of data and compile it into a quantity that is easily understood</meaning></definition>
+    <definition id="def-00039"><term>questionnaire</term><meaning>also known as a survey, a series of several questions that can collect a variety of qualitative and quantitative data; can be distributed through several different methods</meaning></definition>
+    <definition id="def-00040"><term>sample</term><meaning>a portion of the entire population that is included in the research</meaning></definition>
+    <definition id="def-00041"><term>sample frame</term><meaning>a parameter that defines who will be included in the sample and who would not be included</meaning></definition>
+    <definition id="def-00042"><term>sample size</term><meaning>the number of respondents that are to be included in the research</meaning></definition>
+    <definition id="def-00043"><term>sampling unit</term><meaning>each individual entities that is included in the sample</meaning></definition>
+    <definition id="def-00044"><term>secondary data</term><meaning>any research that was completed, within the organization or outside of the organization, for another purpose</meaning></definition>
+    <definition id="def-00045"><term>simple random sample</term><meaning>a type of probability sample where every entity has an equal chance of being selected</meaning></definition>
+    <definition id="def-00046"><term>stratified random sample</term><meaning>a probability sample type where the population is divided into groups and then participants are selected from each stratum randomly</meaning></definition>
+    <definition id="def-00047"><term>survey</term><meaning>also known as a questionnaire, a series of several questions that can collect a variety of qualitative and quantitative data; can be distributed through several different methods</meaning></definition>
+    <definition id="def-00048"><term>syndicated data</term><meaning>a type of secondary data that is available through a subscription service</meaning></definition>
+    <definition id="def-00049"><term>target population</term><meaning>the group of people that are of interest for a study</meaning></definition>
+    <definition id="def-00050"><term>unaided awareness</term><meaning>when no prompts or lists of potential products, brands, or companies are given to test awareness</meaning></definition>
+    <definition id="def-00051"><term>unobtrusive observation</term><meaning>a type of observation research where the observed is not aware they are being monitored</meaning></definition>
+    <definition id="def-00052"><term>verbatims</term><meaning>exact quotations of responses to a qualitative question</meaning></definition>
+    </glossary>
 </document>
