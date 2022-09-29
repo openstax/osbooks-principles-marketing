@@ -28,17 +28,17 @@
     <title>Develop the Research Plan</title>
     <para id="para-00006">Step two is to develop the research plan. What type of research is necessary to meet the established objectives of the first step? How will this data be collected? Additionally, what is the time frame of the research and budget to consider? If you must have information in the next week, a different plan would be implemented than in a situation where several months were allowed. These are issues that a researcher should address in order to meet the needs identified.</para>
     <para id="para-00007">Research is often classified as coming from one of two types of data: primary and secondary. <term id="term-00003">Primary data</term> is unique information that is collected by the specific researcher with the current project in mind. This type of research doesn’t currently exist until it is pulled together for the project. Examples of primary data collection include survey, observation, experiment, or focus group data that is gathered for the current project.</para>
-    <para id="para-00008"><term id="term-00004">Secondary data</term> is any research that was completed for another purpose but can be used to help inform the research process. Secondary data comes in many forms and includes census data, journal articles, previously collected survey or focus group data of related topics, and compiled company data. Secondary data may be internal, such as the company’s sales records for a previous quarter, or external, such as an industry report of all related product sales. <term id="term-00005">Syndicated data</term>, a type of external secondary data, is available through subscription services and is utilized by many marketers. As you can see in <emphasis effect="bold">Table 6.1</emphasis>, primary and secondary data features are often opposite—the positive aspects of primary data are the negative side of secondary data.</para>
+    <para id="para-00008"><term id="term-00004">Secondary data</term> is any research that was completed for another purpose but can be used to help inform the research process. Secondary data comes in many forms and includes census data, journal articles, previously collected survey or focus group data of related topics, and compiled company data. Secondary data may be internal, such as the company’s sales records for a previous quarter, or external, such as an industry report of all related product sales. <term id="term-00005">Syndicated data</term>, a type of external secondary data, is available through subscription services and is utilized by many marketers. As you can see in <link target-id="table-00001" document="m00036"/>, primary and secondary data features are often opposite—the positive aspects of primary data are the negative side of secondary data.</para>
     <table summary="" class="data-table" id="table-00001">
     <tgroup cols="3">
     <tbody>
     <row>
     <entry/>
-    <entry><emphasis effect="bold">Strengths</emphasis></entry>
-    <entry><emphasis effect="bold">Weaknesses</emphasis></entry>
+    <entry align="center"><emphasis effect="bold">Strengths</emphasis></entry>
+    <entry align="center"><emphasis effect="bold">Weaknesses</emphasis></entry>
     </row>
     <row>
-    <entry><emphasis effect="bold">Primary Data</emphasis></entry>
+    <entry align="center"><emphasis effect="bold">Primary Data</emphasis></entry>
     <entry>
     <list id="list-00002">
     <item>Can be structured to be exactly what is needed</item>
@@ -55,7 +55,7 @@
     </entry>
     </row>
     <row>
-    <entry><emphasis effect="bold">Secondary Data</emphasis></entry>
+    <entry align="center"><emphasis effect="bold">Secondary Data</emphasis></entry>
     <entry>
     <list id="list-00004">
     <item>Generally inexpensive or free</item>
@@ -103,17 +103,17 @@
     </note>
     <para id="para-00026">One of the benefits of a focus group over individual interviews is that synergy can be generated when a participant builds on another’s ideas. Additionally, for the same amount of time, a researcher can hear from multiple respondents instead of just one.<cite id="rf-011-a" target-id="rf-011"><note class="delete-me" display="inline" id="note-00006"/></cite> Of course, as with every method of data collection, there are downsides to a focus group as well. Focus groups have the potential to be overwhelmed by one or two aggressive personalities, and the format can discourage more reserved individuals from speaking up. Finally, like interviews, the responses in a focus group are qualitative in nature and are difficult to distill into an easy statistic or two.</para>
     <figure id="fig-00003"><media alt="A group of five people sit around a table in a conference room. A sixth person is standing at the front of the room, next to a whiteboard with writing on it."><image mime-type="image/jpeg" src="../../media/MKT_Figure_06_03_005.jpg"/></media><caption>Focus Group Participants (credit: “Meeting” by UBC Learning Commons/flickr, CC BY 2.0)</caption></figure>
-    <para id="para-00027">Combining a variety of questions on one instrument is called a <term id="term-00022">survey</term> or <term id="term-00023">questionnaire</term>. Collecting primary data is commonly done through surveys due to their versatility. A survey allows the researcher to ask the same set of questions of a large group of respondents. Response rates of surveys are calculated by dividing the number of surveys completed by the total number attempted. Surveys are flexible and can collect a variety of quantitative and qualitative data. Questions can include simplified yes or no questions, select all that apply, questions that are on a scale, or a variety of open-ended types of questions. There are four types of surveys (see <emphasis effect="bold">Table 6.2</emphasis>) we will cover, each with strengths and weaknesses defined.</para>
+    <para id="para-00027">Combining a variety of questions on one instrument is called a <term id="term-00022">survey</term> or <term id="term-00023">questionnaire</term>. Collecting primary data is commonly done through surveys due to their versatility. A survey allows the researcher to ask the same set of questions of a large group of respondents. Response rates of surveys are calculated by dividing the number of surveys completed by the total number attempted. Surveys are flexible and can collect a variety of quantitative and qualitative data. Questions can include simplified yes or no questions, select all that apply, questions that are on a scale, or a variety of open-ended types of questions. There are four types of surveys (see <link target-id="table-00002" document="m00036"/>) we will cover, each with strengths and weaknesses defined.</para>
     <table summary="" class="data-table" id="table-00002">
     <tgroup cols="3">
     <tbody>
     <row>
     <entry/>
-    <entry><emphasis effect="bold">Strengths</emphasis></entry>
-    <entry><emphasis effect="bold">Weaknesses</emphasis></entry>
+    <entry align="center"><emphasis effect="bold">Strengths</emphasis></entry>
+    <entry align="center"><emphasis effect="bold">Weaknesses</emphasis></entry>
     </row>
     <row>
-    <entry><emphasis effect="bold">Mailed Surveys</emphasis></entry>
+    <entry align="center"><emphasis effect="bold">Mailed Surveys</emphasis></entry>
     <entry>
     <list id="list-00006">
     <item>Ability to reach large population</item>
@@ -128,7 +128,7 @@
     </entry>
     </row>
     <row>
-    <entry><emphasis effect="bold">Phone Surveys</emphasis></entry>
+    <entry align="center"><emphasis effect="bold">Phone Surveys</emphasis></entry>
     <entry>
     <list id="list-00008">
     <item>Respondent can ask questions</item>
@@ -143,7 +143,7 @@
     </entry>
     </row>
     <row>
-    <entry><emphasis effect="bold">In-Person Surveys</emphasis></entry>
+    <entry align="center"><emphasis effect="bold">In-Person Surveys</emphasis></entry>
     <entry>
     <list id="list-00010">
     <item>Respondent can ask questions</item>
@@ -158,7 +158,7 @@
     </entry>
     </row>
     <row>
-    <entry><emphasis effect="bold">Electronic Surveys</emphasis></entry>
+    <entry align="center"><emphasis effect="bold">Electronic Surveys</emphasis></entry>
     <entry>
     <list id="list-00012">
     <item>Less time intensive than other methods</item>
