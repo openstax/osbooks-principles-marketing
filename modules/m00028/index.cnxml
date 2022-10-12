@@ -6,8 +6,101 @@
     <md:uuid>98013801-8b4a-422d-8d8e-823bd2179e46</md:uuid>
   </metadata>
   <content>
-<section id="sect-00001">
-<para id="para-00001"> </para>
-</section>
-  </content>
+    <section class="learning-objectives" id="sect-00001">
+    <title>Learning Outcomes</title>
+    <para id="para-00001">By the end of this section, you will be able to:</para>
+    <list id="list-00001">
+    <item>Describe the challenges of segmenting B2B markets.</item>
+    <item>Discuss the advantages of segmenting B2B markets.</item>
+    <item>Explain methods of segmenting B2B markets.</item>
+    </list>
+    </section>
+    <section id="sect-00002">
+    <title>Challenges of Segmenting B2B Markets</title>
+    <para id="para-00002">Just like its consumer market counterpart, business-to-business (B2B) market segmentation focuses on identifying unique market segments based on common characteristics. However, segmenting a B2B market is in many ways far more challenging than segmenting a consumer market because the motivations, processes, and considerations of B2B buyers are quite different from those of business-to-consumer (B2C) buyers. Let’s take a closer look.</para>
+    <list id="list-00002">
+    <item><emphasis effect="bold">Challenge #1: Dealing with Highly Complex B2B Markets.</emphasis> As discussed in “<link document="m00020">Business Markets and Purchasing Behavior</link>,” decision-making in B2B markets is quite different from decision-making in B2C markets. In a B2C market, the consumer is often the only decision maker involved in making a purchase. That’s not the case in B2B markets, where you’re often dealing with a buying center—all the people in the organization who have varying influence on the B2B buy decision. You may also recall from this chapter that buying centers have a variety of members who play different roles, such as users, initiators, influencers, gatekeepers, decision-makers, etc. Accordingly, it can be difficult to identify precisely who the target buyer is.<cite id="rf-018-a" target-id="rf-018"><note class="delete-me" display="inline" id="note-00001"/></cite></item>
+    <item><emphasis effect="bold">Challenge #2: Dealing with More Rational Buyers.</emphasis> Although the view is somewhat controversial, it is said that B2B buyers are more “rational.” Consumers tend to buy what they want and are more affected by emotions in buying decisions. Alternatively, B2B buyers typically buy what they need, and buying decisions are more deliberate, particularly in terms of price. Accordingly, in B2B markets, the marketer must determine the drivers of those needs.</item>
+    <item><emphasis effect="bold">Challenge #3: Complexity of B2B Products.</emphasis> Just as the decision-making unit in a B2B transaction is more complex, so too are the B2B products themselves. When you make a major purchase, like a high-definition TV, your choice is likely made on the basis of fairly simple criteria. You might evaluate things like screen size, resolution, and your budget. However, in the B2B market, even the simplest of products may have to be integrated into a larger system. For example, a new payroll system might have to be integrated into the company’s human resources information system (HRIS). Another consideration with respect to the complexity of B2B products is that many B2B purchases are frequently tweaked to meet the company’s detailed specifications, whereas consumer products are almost always standardized.<cite id="rf-019-a" target-id="rf-019"><note class="delete-me" display="inline" id="note-00002"/></cite></item>
+    </list>
+    </section>
+    <section id="sect-00003">
+    <title>Advantages of Segmenting B2B Markets</title>
+    <para id="para-00003">Market segmentation is a tried-and-true method that’s been around since the 1950s, but there is still some confusion about how to use it in a B2B setting because it’s not as clear-cut as other forms of market segmentation. How does a marketer target the characteristics of something impersonal like a business? Despite the challenges of segmenting B2B markets, it still plays a critical role. Let’s examine some of the advantages.<cite id="rf-020-a" target-id="rf-020"><note class="delete-me" display="inline" id="note-00003"/></cite></para>
+    <list id="list-00003">
+    <item><emphasis effect="bold">Improved Campaign Performance</emphasis>. Similar to the previous example of a company using specialty magazines to reach the right target audience with the right message, B2B marketers can do the same. For example, <term class="no-emphasis" id="term-00001"><span class="red-text">Mailchimp</span></term>, a marketing automation platform and email marketing service, examined user data to compare segmented marketing campaigns with non-segmented campaigns. The statistics based upon a comparison of 18 million email recipients were eye-opening. Campaigns directed toward defined market segments saw increases in a number of areas, including a 14.3 percent higher email open rate.<cite id="rf-021-a" target-id="rf-021"><note class="delete-me" display="inline" id="note-00004"/></cite></item>
+    <item><emphasis effect="bold">Improved Customer Loyalty and Retention</emphasis>. In our discussion of consumer market segmentation, we pointed out that market segmentation allows marketers to better understand what consumers are looking for in a product or service, and the same holds true with B2B market segmentation. The more marketers know about their customers’ business objectives and challenges, the more they can attempt to meet their needs. That not only builds confidence in the brand but also ultimately leads to greater customer retention and loyalty.<cite id="rf-022-a" target-id="rf-022"><note class="delete-me" display="inline" id="note-00005"/></cite></item>
+    <item><emphasis effect="bold">Assistance in Product Development</emphasis>. By using market segmentation, a company can refine its products or services to better meet the needs of its B2B customers. For example, let’s say your company’s product is payroll software. Having better identified the needs of the target market, your company may be able to add new features and functionality to make it even more attractive for the target market and possibly add a new revenue stream by making the product useful for another market segment.</item>
+    <item><emphasis effect="bold">Improved Profitability</emphasis>. Implementing a market segmentation strategy accomplishes three important goals. First, targeting the right B2B customers with the right message increases your company’s competitiveness. Second, it enables the marketer to properly price products with the best price for its different customer segments. Third, it helps identify the best prices with which to target new customers and ensure that your organization’s offerings are neither overpriced nor underpriced, thereby increasing profitability.<cite id="rf-023-a" target-id="rf-023"><note class="delete-me" display="inline" id="note-00006"/></cite></item>
+    </list>
+    </section>
+    <section id="sect-00004">
+    <title>Methods of Segmenting B2B Markets</title>
+    <para id="para-00004">How do you segment B2B markets? Just like with consumer markets, there is a variety of methods. Marketers can segment B2B markets based on firmographics, technographics, needs-based segmentation, value-based segmentation, and behavioral segmentation (see <link target-id="fig-00001" document="m00028"/>). We will look at each of these in the following sections.</para>
+    <figure id="fig-00001"><media alt="The different methods of segmenting B 2 B markets are firmographics, technographics, needs based segmentation, values based segmentation, and behavioral segmentation."><image mime-type="image/png" src="../../media/MKT_Figure_05_02_007.png"/></media><caption>Methods of Segmenting B2B Markets (attribution: Copyright Rice University, OpenStax, under CC BY 4.0 license)</caption></figure>
+    <section id="sect-00005">
+    <title>Firmographics</title>
+    <para id="para-00005">Where demographics are concerned with people, <term id="term-00002">firmographics</term> are concerned with companies. They are a grouping of B2B customers based on shared company attributes. There are five general categories of firmographics:</para>
+    <list id="list-00004">
+    <item><emphasis effect="bold">Industry.</emphasis> What are the organization’s primary activities? Once you’ve determined that piece of information, you can use market segmentation to group firms that are in a similar line of business.</item>
+    <item><emphasis effect="bold">Location.</emphasis> The mantra in the real estate industry is that there are three things that matter: location, location, location. Just like with geographic segmentation in the B2C market, a marketer can choose a city, state, country or even a continent, depending on the line of business. For instance, depending on the cybersecurity challenges or threats faced by customers in different countries or regions, a cybersecurity firm may offer different cybersafety features in its software.<cite id="rf-024-a" target-id="rf-024"><note class="delete-me" display="inline" id="note-00007"/></cite></item>
+    <item><emphasis effect="bold">Size.</emphasis> Will your company target small and midsize operations or Fortune 500 companies? The needs of these organizations are vastly different. Firmographic size typically involves two components: revenue and number of employees.</item>
+    <item><emphasis effect="bold">Legal Structure.</emphasis> In firmographics, legal structure denotes the legal status of a firm. For example, is the organization a sole proprietorship, a limited liability company, a corporation, or a nonprofit firm? Is it an independent business, a parent company, or a subsidiary of another business?<cite id="rf-025-a" target-id="rf-025"><note class="delete-me" display="inline" id="note-00008"/></cite> All of these factors are important to know in order to create targeted content.</item>
+    <item><emphasis effect="bold">Performance.</emphasis> Customer segments can be broken down based on performance, such as market share, quarterly or annual sales figures, and growth and/or losses (both in employees and revenue).</item>
+    </list>
+    </section>
+    <section id="sect-00006">
+    <title>Segmenting Customers Based on Technographics</title>
+    <para id="para-00006"><term id="term-00003">Technographic segmentation</term> is based on the various hardware and software technologies used by B2B customers. It allows the marketer to organize prospects by their technology ownership and usage and narrow the market to those prospects who want to invest in new technological solution in the future.<cite id="rf-026-a" target-id="rf-026"><note class="delete-me" display="inline" id="note-00009"/></cite></para>
+    </section>
+    <section id="sect-00007">
+    <title>Needs-Based Segmentation</title>
+    <para id="para-00007">Think about it: What’s the point of marketing a product or a service to an organization that doesn’t need it? <term id="term-00004">Needs-based segmentation</term> is the concept that a marketer should focus limited resources on those customers that need the product and have the ability to purchase it.</para>
+    <para id="para-00008">Needs-based segmentation clusters groups of customers on the basis of what they need or want when seeking a product. Does your company’s product offer the features or benefits that the B2B buyer is seeking? Will the product meet the buyer’s (or company’s) needs? Those are the questions marketers need to answer when segmenting the B2B market based on needs. The late Theodore Levitt, an economist and a professor at <term class="no-emphasis" id="term-00005">Harvard Business School</term> once said, “People don’t want to buy a quarter-inch drill; they want a quarter-inch hole.”<cite id="rf-027-a" target-id="rf-027"><note class="delete-me" display="inline" id="note-00010"/></cite> Accordingly, rather than segmenting a market based on firmographics, many marketers choose to segment it based on what is valued by decision influencers.</para>
+    </section>
+    <section id="sect-00008">
+    <title>Value-Based Segmentation</title>
+    <para id="para-00009"><term id="term-00006">Value-based segmentation</term> (sometimes called tiering or profitability segmentation) groups customers according to the potential value they may bring to a business. It places potential customers with the same value level (or “transactional worth”) into individual segments for target marketing. In its simplest terms, this approach is like the usage-based segmentation strategy of B2C markets. A marketer examines previous purchase data to determine how much a company buys, how frequently it buys, and the value of the purchases.<cite id="rf-028-a" target-id="rf-028"><note class="delete-me" display="inline" id="note-00011"/></cite></para>
+    </section>
+    <section id="sect-00009">
+    <title>Behavioral Segmentation</title>
+    <para id="para-00010">Behavioral segmentation considers the behavior of customers toward a company’s products or services. We’re not talking about two-way mirrors or covert operations here. This can be as simple as determining how the customer interacted with your company’s website, what content they interacted with, and whether the customer opened your last marketing email. The marketer then segments customers on the basis of their interaction with the company and attempts to discern if customers within that segment have become more interested or less interested over time. Behavioral segmentation is often used together with value-based segmentation to identify which customers should be pursued to get greater value out of them.<cite id="rf-029-a" target-id="rf-029"><note class="delete-me" display="inline" id="note-00012"/></cite></para>
+    <note class="link-to-learning" id="note-00013">
+    <title>The Importance of Segmentation</title>
+    <para id="para-00011">For more information on the importance of segmenting B2B customers, check out this video, The Importance of Segmenting Your Customers. This video is from <term class="no-emphasis" id="term-00007"><span class="red-text">B2B Business International Market Research</span></term>, a market research company, and it speaks to the importance and value of knowing your customers.</para>
+    <media alt=""><iframe width="660" height="371.4" src="https://openstax.org/r/theimportanceofsegmenting"/></media>
+    </note>
+    </section>
+    </section>
+    <section class="knowledge-check" id="sect-00010">
+    <title>Knowledge Check</title>
+    <para id="para-00012">It’s time to check your knowledge on the concepts presented in this section. Refer to the Answer Key at the end of the book for feedback.</para>
+    <exercise id="exer-00001"><problem id="prob-00001"><para id="para-00013"><link class="os-embed" url="#exercise/MBT_Ch5_Sec2_KC1"/></para></problem></exercise>
+    <exercise id="exer-00002"><problem id="prob-00002"><para id="para-00014"><link class="os-embed" url="#exercise/MBT_Ch5_Sec2_KC2"/></para></problem></exercise>
+    <exercise id="exer-00003"><problem id="prob-00003"><para id="para-00015"><link class="os-embed" url="#exercise/MBT_Ch5_Sec2_KC3"/></para></problem></exercise>
+    <exercise id="exer-00004"><problem id="prob-00004"><para id="para-00016"><link class="os-embed" url="#exercise/MBT_Ch5_Sec2_KC4"/></para></problem></exercise>
+    <exercise id="exer-00005"><problem id="prob-00005"><para id="para-00017"><link class="os-embed" url="#exercise/MBT_Ch5_Sec2_KC5"/></para></problem></exercise>
+    </section>
+    <section class="references" id="sect-00011">
+    <title>Endnotes</title>
+    <note id="rf-018"><link target-id="rf-018-a"><span>18.</span></link><span>“Market Segmentation Strategies: 3 Major Challenges B2B Enterprises Face and Ways to Tackle Them,” Thoughts, Infiniti Research, December 12, 2018, https://www.infinitiresearch.com/thoughts/challenges-b2b-market-segmentation/.</span></note>
+    <note id="rf-019"><link target-id="rf-019-a"><span>19.</span></link><span>Paul Hague and Matthew Harrison, “Market Segmentation in B2B Markets,” B2B International, last modified June 22, 2022, https://www.b2binternational.com/publications/b2b-segmentation-research/.</span></note>
+    <note id="rf-020"><link target-id="rf-020-a"><span>20.</span></link><span>“How Organizations Can Benefit from B2B Market Segmentation,” <emphasis effect="italics">B2B Global Zone</emphasis> (blog), Kompass International, May 4, 2021, https://www.solutions.kompass.com/blog/how-organizations-can-benefit-from-b2b-market-segmentation/.</span></note>
+    <note id="rf-021"><link target-id="rf-021-a"><span>21.</span></link><span>Kit Smith, “The Complete Guide to B2B Market Segmentation,” Sopro, April 20, 2021, https://sopro.io/added-value/blog/b2b-market-segmentation-guide/.</span></note>
+    <note id="rf-022"><link target-id="rf-022-a"><span>22.</span></link><span>Rohit Roy, “How to Do Market Segmentation: 5 Most Effective Types of B2B Market Segmentation Strategies,” Clodura, May 13, 2020, https://clodura.ai/blog/how-to-do-market-segmentation-5-most-effective-types-of-b2b-market-segmentation-strategies/.</span></note>
+    <note id="rf-023"><link target-id="rf-023-a"><span>23.</span></link><span>Emily Pribanic, “Benefits of Market Segmentation for Business,” MarTech, TechFunnel, updated January 6, 2020, https://www.techfunnel.com/martech/benefits-of-market-segmentation-for-business/.</span></note>
+    <note id="rf-024"><link target-id="rf-024-a"><span>24.</span></link><span>Roy, “Market Segmentation.”</span></note>
+    <note id="rf-025"><link target-id="rf-025-a"><span>25.</span></link><span>Roy, “Market Segmentation.”</span></note>
+    <note id="rf-026"><link target-id="rf-026-a"><span>26.</span></link><span>Roy, “Market Segmentation.”</span></note>
+    <note id="rf-027"><link target-id="rf-027-a"><span>27.</span></link><span>Mark Eardley, “B2B Customer Centricity: Why It’s Vital for Needs-Based Segmentation,” MarkLives.com, June 19, 2018, https://www.marklives.com/2018/06/b2b-customer-centricity-why-its-vital-for-needs-based-segmentation/.</span></note>
+    <note id="rf-028"><link target-id="rf-028-a"><span>28.</span></link><span>Roy, “Market Segmentation.”</span></note>
+    <note id="rf-029"><link target-id="rf-029-a"><span>29.</span></link><span>Roy, “Market Segmentation.”</span></note>
+    </section>
+    </content>
+    <glossary>
+    <definition id="def-00001"><term>firmographics</term><meaning>a grouping of B2B customers based on shared company attributes; includes five categories: industry, location, size, legal structure, and performance</meaning></definition>
+    <definition id="def-00002"><term>needs-based segmentation</term><meaning>dividing the market up into smaller groups of people who have approximately the same needs</meaning></definition>
+    <definition id="def-00003"><term>technographic segmentation</term><meaning>organizing B2B prospects by their technology ownership and usage</meaning></definition>
+    <definition id="def-00004"><term>value-based segmentation</term><meaning>evaluating groups of customers in terms of the revenue they generate and the costs of establishing and maintaining relationships with them</meaning></definition>
+    </glossary>
 </document>

@@ -6,8 +6,44 @@
     <md:uuid>b8b727af-e728-488b-bdbe-05b2d0905e40</md:uuid>
   </metadata>
   <content>
-<section id="sect-00001">
-<para id="para-00001"> </para>
-</section>
-  </content>
+    <section class="learning-objectives" id="sect-00001">
+    <title>Learning Outcomes</title>
+    <para id="para-00001">By the end of this section, you will be able to:</para>
+    <list id="list-00001">
+    <item>List and describe the essential factors in effective market segmentation.</item>
+    </list>
+    </section>
+    <section id="sect-00002">
+    <title>Essential Factors in Effective Market Segmentation</title>
+    <para id="para-00002">There’s an acronym you can remember for the essential factors in effective and successful market segmentation—<term id="term-00001">ADAMS</term>. The acronym stands for five criteria:</para>
+    <list id="list-00002">
+    <item><emphasis effect="bold">A</emphasis>ccessible</item>
+    <item><emphasis effect="bold">D</emphasis>ifferentiable</item>
+    <item><emphasis effect="bold">A</emphasis>ctionable</item>
+    <item><emphasis effect="bold">M</emphasis>easurable</item>
+    <item><emphasis effect="bold">S</emphasis>ubstantial</item>
+    </list>
+    <para id="para-00003">First, a market segment should be accessible. Can you reach consumers in that segment at an affordable cost, given the strengths and abilities of your marketing department? For example, if you discover that certain segments respond more effectively to outdoor advertising, social media campaigns, TV infomercials, or print ads, does your organization have the capabilities (and budget) to reach that segment?</para>
+    <para id="para-00004">Second, a market segment should be differentiable. In an ideal world, a market segment should be internally homogeneous (i.e., consumers within that segment have similar preferences and characteristics) but externally heterogeneous (i.e., different segments should be quite distinct and different from each other). You have to clearly define the differences between market segments so that the marketing programs directed at them can be implemented without overlap.</para>
+    <para id="para-00005">Third, a market segment should be actionable. Is it practical (or profitable) to execute a marketing strategy aimed at that segment? A market segment should be able to respond to a certain marketing strategy and have outcomes—e.g., awareness, interest, or purchase—that can be easily quantified.</para>
+    <para id="para-00006">Fourth, a market segment should be measurable. You should be able to accurately estimate the size of the market segment in terms of either sales value or number of customers so that you can decide whether, how, and to what extent you should focus your efforts on that segment.</para>
+    <para id="para-00007">Finally, a market segment should be substantial. It doesn’t make sense to waste resources to market the product or service to a group too small to justify the expenditure of resources.<cite id="rf-051-a" target-id="rf-051"><note class="delete-me" display="inline" id="note-00001"/></cite></para>
+    </section>
+    <section class="knowledge-check" id="sect-00003">
+    <title>Knowledge Check</title>
+    <para id="para-00008">It’s time to check your knowledge on the concepts presented in this section. Refer to the Answer Key at the end of the book for feedback.</para>
+    <exercise id="exer-00001"><problem id="prob-00001"><para id="para-00009"><link class="os-embed" url="#exercise/MBT_Ch5_Sec4_KC1"/></para></problem></exercise>
+    <exercise id="exer-00002"><problem id="prob-00002"><para id="para-00010"><link class="os-embed" url="#exercise/MBT_Ch5_Sec4_KC2"/></para></problem></exercise>
+    <exercise id="exer-00003"><problem id="prob-00003"><para id="para-00011"><link class="os-embed" url="#exercise/MBT_Ch5_Sec4_KC3"/></para></problem></exercise>
+    <exercise id="exer-00004"><problem id="prob-00004"><para id="para-00012"><link class="os-embed" url="#exercise/MBT_Ch5_Sec4_KC4"/></para></problem></exercise>
+    <exercise id="exer-00005"><problem id="prob-00005"><para id="para-00013"><link class="os-embed" url="#exercise/MBT_Ch5_Sec4_KC5"/></para></problem></exercise>
+    </section>
+    <section class="references" id="sect-00004">
+    <title>Endnotes</title>
+    <note id="rf-051"><link target-id="rf-051-a"><span>51.</span></link><span>“5 Requirements for Effective Segmentation,” <emphasis effect="italics">Commence CRM Blog</emphasis>, Commence, February 18, 2021, https://commence.com/blog/2021/02/18/requirements-for-segmentation/.</span></note>
+    </section>
+    </content>
+    <glossary>
+    <definition id="def-00001"><term>ADAMS</term><meaning>the essential factors in effective market segmentation—accessible, differentiable, actionable, measurable, and substantial</meaning></definition>
+    </glossary>
 </document>
