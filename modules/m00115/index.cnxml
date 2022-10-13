@@ -37,10 +37,10 @@
     <tgroup cols="4">
     <tbody>
     <row class="header-row">
-    <entry><emphasis effect="bold">Mode</emphasis></entry>
-    <entry><emphasis effect="bold">Speed</emphasis></entry>
-    <entry><emphasis effect="bold">Cost</emphasis></entry>
-    <entry><emphasis effect="bold">Accessibility</emphasis></entry>
+    <entry align="center"><emphasis effect="bold">Mode</emphasis></entry>
+    <entry align="center"><emphasis effect="bold">Speed</emphasis></entry>
+    <entry align="center"><emphasis effect="bold">Cost</emphasis></entry>
+    <entry align="center"><emphasis effect="bold">Accessibility</emphasis></entry>
     </row>
     <row>
     <entry>Trucking</entry>
