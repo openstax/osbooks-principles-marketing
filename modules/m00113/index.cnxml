@@ -6,8 +6,83 @@
     <md:uuid>997062c3-56b0-449f-aa81-eb79a555e0dd</md:uuid>
   </metadata>
   <content>
-<section id="sect-00001">
-<para id="para-00001"> </para>
-</section>
-  </content>
+    <section class="learning-objectives" id="sect-00001">
+    <title>Learning Outcomes</title>
+    <para id="para-00001">By the end of this section, you will be able to:</para>
+    <list id="list-00001">
+    <item>Describe how channel members are selected.</item>
+    <item>Explain how channel members are managed and motivated.</item>
+    <item>Discuss how channel conflict is handled.</item>
+    <item>Summarize the metrics used for channel member evaluation.</item>
+    </list>
+    </section>
+    <section id="sect-00002">
+    <title>Selecting Channel Members</title>
+    <para id="para-00002">After a manufacturer has evaluated its distribution channel options, it now needs to select the right channel members and manage and motivate them to operate effectively and efficiently. In addition, the manufacturer must also address any conflicts that may arise in the marketing channel. A <term id="term-00001">channel member</term>, also known as an intermediary, is a company that works in a network with other companies to help move products from manufacturers to final consumers. Channel members perform a variety of important tasks that collectively create value for the consumer.</para>
+    <para id="para-00003">The channel members that a company selects depends entirely on the company’s evaluation of the channel member alternatives. Manufacturers should examine each channel member’s years in business and experience carrying product lines. They should also evaluate each member’s reputation and its profitability. <term class="no-emphasis" id="term-00002"><span class="red-text">PetVivo</span></term>, maker of biomedical devices for pets, selected <term class="no-emphasis" id="term-00003"><span class="red-text">Vetcove</span></term> to distribute a device for pets with osteoporosis. Because PetVivo needed to reach veterinary hospitals and clinics across all 50 states, Vetcove was the right choice because of its experience serving over 13,000 veterinary hospitals and clinics. Its expertise and reputation were attractive characteristics for PetVivo.<cite id="rf-006-a" target-id="rf-006"><note class="delete-me" display="inline" id="note-00001"/></cite></para>
+    </section>
+    <section id="sect-00003">
+    <title>Managing and Motivating Channel Members</title>
+    <para id="para-00004">After channel members have been selected, manufacturers must continuously manage and motivate members to work together to achieve their collective goals. It’s similar to a partnership or relationship where companies depend on one another to marshal the product along the marketing channel.</para>
+    <para id="para-00005">The qualities of an effective channel relationship include collaboration, transparency, and cohesion. When members work together toward a common goal of delivering value to the consumer, the channel is more effective. Companies like <term class="no-emphasis" id="term-00004"><span class="red-text">L’Oréal</span></term> and <term class="no-emphasis" id="term-00005">Procter &amp; Gamble</term> must work harmoniously to build mutually beneficial relationships with their distribution network because it's critical to meeting the needs of their consumers. Failure to do so could be detrimental to channel members if customer value declines because of conflict.</para>
+    <para id="para-00006">In addition to managing relationships, manufacturers must also find ways to reinforce channel member performance. Manufacturers can provide incentives, such as bonuses and other types of rewards, when channel members meet the manufacturer’s goals. In addition to incentives, manufacturers can also listen to and support channel members by providing them with helpful sales materials, product samples, and the right messaging.</para>
+    </section>
+    <section id="sect-00004">
+    <title>Evaluating Channel Members</title>
+    <para id="para-00007">Manufacturers must systematically evaluate channel member performance to ensure that each member is meeting standards. Failure to evaluate performance can lead to inefficiencies in the channel and a decline in customer-perceived value.</para>
+    </section>
+    <section id="sect-00005">
+    <title>Handling Channel Conflict</title>
+    <para id="para-00008">Sometimes channel members experience conflict during the distribution process. <term id="term-00006">Channel conflict</term> is when companies in the distribution channel have disagreements due to a competitive versus collaborative mindset. For example, a channel member may cause conflict because its focus isn’t on creating value but on driving down costs at the expense of the customer. This could create conflict in the channel if channel partners and ultimately consumers are impacted by an excessive profit orientation.</para>
+    <section id="sect-00006">
+    <title>Vertical Conflict</title>
+    <para id="para-00009">A <term id="term-00007">vertical conflict</term> is a conflict that exists between different levels of a vertical channel. When the goals of manufacturers, wholesalers, and retailers aren’t aligned in the marketing channel, the customer will ultimately suffer, either by paying more for a product or experiencing a product shortage.</para>
+    <para id="para-00010"><term id="term-00008">Disintermediation</term> is the process of removing an intermediary from a marketing channel. It occurs when manufacturers have discovered an opportunity to sell directly to end users or final consumers. It can also occur if a manufacturer pivots from its traditional distribution strategy to something completely different. In a classic example, the birth of <term class="no-emphasis" id="term-00009"><span class="red-text">Apple</span></term> iTunes essentially put traditional outlets for purchasing music out of business. In another example, traditional movie theaters are experiencing disintermediation as streaming services like <term class="no-emphasis" id="term-00010">Netflix</term> and <term class="no-emphasis" id="term-00011">HBOMax</term> are releasing new films that 10 years ago would have been released only in theaters.</para>
+    </section>
+    <section id="sect-00007">
+    <title>Horizontal Conflict</title>
+    <para id="para-00011">A <term id="term-00012">horizontal conflict</term> is when there is disagreement among firms at the same level in the marketing channel. For example, <term class="no-emphasis" id="term-00013"><span class="red-text">Holiday Inn</span></term> has a variety of locations in New York City. If one Holiday Inn drives its prices down to outcompete its partners, that could cause conflict among the other Holiday Inn locations that perceive it as stealing customers through pricing tactics.</para>
+    </section>
+    <section id="sect-00008">
+    <title>The Use of Metrics in Evaluating Channel Members</title>
+    <para id="para-00012">In order to evaluate channel performance, companies use key metrics including inventory turnover rate, order accuracy rate, time to ship, total units in storage, and percentage of on-time shipments. By monitoring these metrics, companies can assess their performance and make adjustments as needed. <link target-id="fig-00001" document="m00113"/> presents key metrics used in evaluating channel member performance. Let’s look at each of these more closely.</para>
+    <figure id="fig-00001"><media alt="Key metrics of performance include order accuracy rate, inventory turnover rate, time to ship, total units in storage, total number of orders, and percentage of on-time shipments."><image mime-type="image/png" src="../../media/MKT_Figure_17_04_011.png"/></media><caption>Performance Metrics (attribution: Copyright Rice University, OpenStax, under CC BY 4.0 license)</caption></figure>
+    <para id="para-00013"><term id="term-00014">Inventory turnover rate</term> is a metric that measures how quickly inventory is turned over or sold. <term class="no-emphasis" id="term-00015"><span class="red-text">Trader Joe’s</span></term> faced a dilemma with the COVID-19 pandemic as consumers stocked up on nonperishable goods like pasta and rice. As consumer demand increased, Trader Joe’s supply warehouses were virtually empty as they waited for new inventory to come in. When metrics fall outside what a company considers normal or acceptable, it can then make adjustments, such as introduce new products to fill demand as in the case of Trader Joe’s.<cite id="rf-007-a" target-id="rf-007"><note class="delete-me" display="inline" id="note-00002"/></cite></para>
+    <para id="para-00014"><term id="term-00016">Order accuracy rate</term> is an important ecommerce metric. It measures the percentage of orders that are processed, fulfilled, and shipped to consumers without any errors. If you’ve purchased a pair of sneakers and the wrong size arrives at your home, this constitutes order inaccuracy. These errors can be costly to companies, who then need to process, fulfill, and send another order.</para>
+    <para id="para-00015"><term id="term-00017">Time to ship</term>, also known as order cycle time, is the length of time from when a customer places an order to when it reaches them. <term class="no-emphasis" id="term-00018">Amazon.com</term> has redefined consumer expectations related to shipping. With high expectations that purchased items will arrive quickly, online shoppers say that delivery time influences their purchase decision. The time-to-ship metric is a useful tool to measure how quickly a manufacturer can get its products through channel members to consumers.</para>
+    <para id="para-00016"><term id="term-00019">Total units in storage</term> is a metric used to evaluate warehouse efficiency. This is a real-time metric that changes as items are sold and leave the warehouse and new inventory moves in. This metric also provides insight into warehousing and inventory costs as well as the number of SKUs, or stock-keeping units, a warehouse is managing at any given time. SKUs are unique numbers assigned to every single product in a warehouse.</para>
+    <para id="para-00017">The <term id="term-00020">total number of orders</term> is an important metric. The total number of orders is the sum of all orders that a company received in a given time period. It provides insight into consumer demand and helps manufacturers to plan accordingly. For seasonal products like winter coats and pumpkin-flavored cookies, the total number of orders may fluctuate throughout the year. Evaluating the total number of orders over time helps manufacturers watch for fluctuations and plan accordingly.</para>
+    <para id="para-00018"><term id="term-00021">Percentage of on-time shipments</term> is a metric used to evaluate how well a channel member meets its promise of delivering goods on time. This metric is especially important to industries that market perishable goods like meat and dairy. Imagine if the Greek yogurt manufacturer <term class="no-emphasis" id="term-00022"><span class="red-text">Chobani</span></term> (<link target-id="fig-00002" document="m00113"/>) worked with an intermediary that only met its delivery date 50 percent of the time. This would directly impact the shelf life of the product at the retail level and cost everyone in the channel money.</para>
+    <figure id="fig-00002"><media alt="A close-up of a container of Chobani Greek yogurt."><image mime-type="image/jpeg" src="../../media/MKT_Figure_17_04_012.jpg"/></media><caption>Chobani Greek Yogurt (credit: “Blood Orange Yogurt” by tbiley/flickr, CC BY 2.0)</caption></figure>
+    <para id="para-00019">Alongside time to ship, measuring average delivery days looks at the average number of days it takes shipping carriers to deliver purchased goods to consumers. This is important to consumers who value the timely delivery of products purchased online. Manufacturers may choose to work with a company like Amazon.com because of its core competency of fulfilling and delivering products to consumers relatively quickly.</para>
+    </section>
+    </section>
+    <section class="knowledge-check" id="sect-00009">
+    <title>Knowledge Check</title>
+    <para id="para-00020">It’s time to check your knowledge on the concepts presented in this section. Refer to the Answer Key at the end of the book for feedback.</para>
+    <exercise id="exer-00001"><problem id="prob-00001"><para id="para-00021"><link class="os-embed" url="#exercise/MBT_Ch17_Sec4_KC1"/></para></problem></exercise>
+    <exercise id="exer-00002"><problem id="prob-00002"><para id="para-00022"><link class="os-embed" url="#exercise/MBT_Ch17_Sec4_KC2"/></para></problem></exercise>
+    <exercise id="exer-00003"><problem id="prob-00003"><para id="para-00023"><link class="os-embed" url="#exercise/MBT_Ch17_Sec4_KC3"/></para></problem></exercise>
+    <exercise id="exer-00004"><problem id="prob-00004"><para id="para-00024"><link class="os-embed" url="#exercise/MBT_Ch17_Sec4_KC4"/></para></problem></exercise>
+    <exercise id="exer-00005"><problem id="prob-00005"><para id="para-00025"><link class="os-embed" url="#exercise/MBT_Ch17_Sec4_KC5"/></para></problem></exercise>
+    </section>
+    <section class="references" id="sect-00010">
+    <title>Endnotes</title>
+    <note id="rf-006"><link target-id="rf-006-a"><span>6.</span></link><span>“Petvivo Holdings, Inc. Announces Distribution of Its Veterinary Medical Device, Spryng<sup>TM</sup>, by Vetcove, Inc.,” Yahoo! Finance, Yahoo, January 5, 2022, https://finance.yahoo.com/news/petvivo-holdings-inc-announces-distribution-123000670.html.</span></note>
+    <note id="rf-007"><link target-id="rf-007-a"><span>7.</span></link><span>Jennifer Strailey, “Trader Joe’s Talks Supply Chain, TP and a Return to Normalcy,” Winsight Grocery Business, Winsight, May 4, 2020, https://www.winsightgrocerybusiness.com/retailers/trader-joes-talks-supply-chain-tp-return-normalcy.</span></note>
+    </section>
+    </content>
+    <glossary>
+    <definition id="def-00001"><term>channel conflict</term><meaning>disagreements between companies in the marketing channel due to a competitive versus a collaborative mindset</meaning></definition>
+    <definition id="def-00002"><term>channel member (intermediary)</term><meaning>a company that works in a network with other companies to help gets products from manufacturers to final consumers</meaning></definition>
+    <definition id="def-00003"><term>disintermediation</term><meaning>the process of removing an intermediary from a marketing channel</meaning></definition>
+    <definition id="def-00004"><term>horizontal conflict</term><meaning>when there is disagreement among firms at the same level in the marketing channel</meaning></definition>
+    <definition id="def-00005"><term>inventory turnover rate</term><meaning>a metric that measures how quickly inventory is turned over, or sold</meaning></definition>
+    <definition id="def-00006"><term>order accuracy rate</term><meaning>a metric that measures the percentage of orders that are processed, fulfilled, and shipped to consumers without any errors</meaning></definition>
+    <definition id="def-00007"><term>percentage of on-time shipments</term><meaning>a metric used to evaluate how well a channel member meets its promise of delivering goods on time</meaning></definition>
+    <definition id="def-00008"><term>time to ship</term><meaning>also known as order cycle time, the length of time from when a customer places an order to when it reaches them</meaning></definition>
+    <definition id="def-00009"><term>total number of orders</term><meaning>the sum of all orders that a company received in a given time period</meaning></definition>
+    <definition id="def-00010"><term>total units in storage</term><meaning>a metric used to evaluate warehouse efficiency that changes as items are sold and leave the warehouse and new inventory moves in</meaning></definition>
+    <definition id="def-00011"><term>vertical conflict</term><meaning>a conflict that exists between different levels of a vertical channel</meaning></definition>
+    </glossary>
 </document>

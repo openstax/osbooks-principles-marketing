@@ -6,8 +6,108 @@
     <md:uuid>43f49678-07ed-479e-b75d-b7677ce83f80</md:uuid>
   </metadata>
   <content>
-<section id="sect-00001">
-<para id="para-00001"> </para>
-</section>
-  </content>
+    <section class="learning-objectives" id="sect-00001">
+    <title>Learning Outcomes</title>
+    <para id="para-00001">By the end of this section, you will be able to:</para>
+    <list id="list-00001">
+    <item>Define and describe logistics.</item>
+    <item>Explain the functions of logistics.</item>
+    <item>Describe logistics information management.</item>
+    <item>Describe integrated logistics management.</item>
+    <item>Characterize third-party logistics (3PL) providers.</item>
+    </list>
+    </section>
+    <section id="sect-00002">
+    <title>Logistics Defined</title>
+    <para id="para-00002">An important function of the supply is logistics, which includes all the activities involved in the flow of products from manufacturers to consumers. Logistics is the planning, organizing, and controlling of the movement of raw materials and ultimately finished goods from manufacturers to final consumers.</para>
+    <para id="para-00003">For example, the logistics involved in getting orange juice to consumers includes a variety of activities, such as packing and transporting. It is critical that there is a coordinated effort between all channel members involved in that process. The functions or purpose of logistics is explored next.</para>
+    <section id="sect-00003">
+    <title>Functions of Logistics</title>
+    <para id="para-00004">Getting products from manufacturers to final consumers requires the coordinated efforts of all channel members. These efforts require an understanding of key activities that need to occur as products flow through the marketing channel. The major functions of logistics explored next include warehousing, inventory management, and transportation.</para>
+    <para id="para-00005"><term id="term-00001">Warehousing</term> is the stocking, maintaining, and controlling of products while they await the next step in their journey to the final consumer. Warehousing requires receiving and storing new stock, picking and packing ordered items, and shipping products off to their next destination. Depending on the product, warehousing may also involve maintaining control of the warehouse’s temperature to ensure that perishable goods or food that needs to be held at a certain temperature don’t spoil.</para>
+    <para id="para-00006"><term id="term-00002">Inventory management</term> is a function that involves identifying the type of inventory and how much a company has on hand at any given time. Managing inventory is a critical logistics function because it ensures that there isn't too much or too little on hand.</para>
+    <para id="para-00007">Transportation is the physical movement of products by either road, water, or air (see <link target-id="fig-00001" document="m00115"/>). Companies must determine which method or methods of transportation make the most sense given the nature of the product, the location of the target market, and costs associated with each method. Transportation also involves all the activities such as the generation of shipping documents, the calculation of delivery time, and the need for additional resources like technology or special equipment. For example, an ice cream manufacturer would need to ensure that the transportation methods it selects to distribute its products are temperature controlled to maintain the integrity and safety of the products.</para>
+    <figure id="fig-00001"><media alt="Tall cranes place shipping containers on a boat that is docked. Shipping containers are stacked on top of each other. Rows of shipping containers are also on the ground in beside the boat."><image mime-type="image/jpeg" src="../../media/MKT_Figure_17_06_014.jpg"/></media><caption>Shipping Containers (credit: “LARS MAERSK” by Bernard Spragg.NZ/flickr, Public Domain)</caption></figure>
+    <para id="para-00008">There are three factors that companies must consider in selecting a mode of transportation. First is the product itself. Products that are hazardous, perishable, or problematic to handle may impact transportation methods. Location is a second factor that can impact the mode of transportation. Companies must consider shipping origin, which is the location where the product is shipping from. They must also consider the shipping destination, or the location where the product must land. A company transporting products from China to the United States, for example, needs to select transportation methods that allow it to move products over large bodies of water. The third factor impacting transportation methods is any special considerations related to time or urgency. Companies need to consider how quickly they need products moved from origin to destination. There are a variety of transportation methods available, including trucking, rail, water carriers, air carriers, or some combination of these.</para>
+    <para id="para-00009">In <link target-id="table-00001" document="m00115"/> different modes of transportation are presented along with their relative speed of delivery, cost, and accessibility. Accessibility means how readily available or convenient the mode of transportation is. For example, trucking is an accessible mode of transportation because of the strong road infrastructure in the United States. Let’s compare the different modes of transportation based on these characteristics.</para>
+    <para id="para-00010">Trucking or road transportation makes the most sense for companies that are transporting between destinations that are connected by land. It is highly accessible, meaning that trucking is readily available to companies looking for a low-cost mode of transportation.</para>
+    <para id="para-00011">Rail is a second mode of transportation that is best suited for moving goods in cases where speed of delivery is not urgent and low transportation costs are important. Similar to rail, water carriers offer an even slower mode of transportation at an even lower cost than rail, making it a popular mode for moving consumer goods from China to the United States.</para>
+    <para id="para-00012">For some companies, more than one mode of transportation is needed. Multimodal transportation involves companies using two or more types of transportation to move goods from origin to destination. For example, <term class="no-emphasis" id="term-00003">Apple</term> may use air to ship iPhones to European airports but then trucks to continue the journey in getting iPhones to warehouses or distribution centers and retailers.</para>
+    <table summary="" id="table-00001">
+    <tgroup cols="4">
+    <tbody>
+    <row class="header-row">
+    <entry><emphasis effect="bold">Mode</emphasis></entry>
+    <entry><emphasis effect="bold">Speed</emphasis></entry>
+    <entry><emphasis effect="bold">Cost</emphasis></entry>
+    <entry><emphasis effect="bold">Accessibility</emphasis></entry>
+    </row>
+    <row>
+    <entry>Trucking</entry>
+    <entry>Moderate</entry>
+    <entry>Low</entry>
+    <entry>High</entry>
+    </row>
+    <row>
+    <entry>Railroads</entry>
+    <entry>Slow</entry>
+    <entry>Low</entry>
+    <entry>Moderate</entry>
+    </row>
+    <row>
+    <entry>Water Carriers</entry>
+    <entry>Very slow</entry>
+    <entry>Very low</entry>
+    <entry>Moderate</entry>
+    </row>
+    <row>
+    <entry>Air Carriers</entry>
+    <entry>Fast</entry>
+    <entry>Very high</entry>
+    <entry>Low</entry>
+    </row>
+    <row>
+    <entry>Digital</entry>
+    <entry>Very fast</entry>
+    <entry>Very low</entry>
+    <entry>Very High</entry>
+    </row>
+    </tbody>
+    </tgroup>
+    <caption>Modes of Transportation and Relative Factors</caption>
+    </table>
+    </section>
+    <section id="sect-00004">
+    <title>Logistics Information Management</title>
+    <para id="para-00013">For a supply chain to be effective, manufacturers, suppliers, channel members, and customers need useful logistical information that can help them make informed decisions. Logistics information management is the recording and reporting of useful information that channel members can analyze and validate during the process of moving products.</para>
+    <para id="para-00014">Channel members use a system to access and manage logistics information in real time. This information allows members to develop demand forecasts, where they predict what and how much consumers will demand in the future, which in turn helps them to make decisions about how much raw materials and other supplies they need to meet consumer demand.</para>
+    </section>
+    <section id="sect-00005">
+    <title>Integrated Logistics Management</title>
+    <para id="para-00015">Integrated logistics management means that every element of logistics works cohesively to ensure that products flow from manufacturer to final consumer in an efficient and effective way. Companies must first begin by defining the objectives of logistics management. For example, in the procurement and distribution of agricultural products, the supply chain might collectively set objectives that everyone along the chain commits to. They may, for example, set objectives to minimize costs, meet delivery times 95 percent of the time, and communicate openly and honestly about product availability and product flow in a consistent and systematic way. Or they may strive cohesively to manage inventory more effectively to reduce the possibility of shortage or surplus.</para>
+    <para id="para-00016">Whatever objectives they set for the supply chain, each member strives to integrate its activities and information with the activities and information of other members to ensure cohesive and synergistic handling of products for the ultimate purpose of meeting the wants and needs of the consumer.</para>
+    </section>
+    <section id="sect-00006">
+    <title>Third-Party Logistics (3PL) Providers</title>
+    <para id="para-00017">A <term id="term-00004">third-party logistics provider</term> is a company that is contracted by a channel member to handle one or more of the functional areas of logistics. 3PL providers can be warehouses, distribution centers, or fulfillment centers that have expertise in managing certain logistical activities.</para>
+    <para id="para-00018">The advantages of working with 3PL providers is that logistics is their core competency, it is less expensive to outsource, and they offer flexibility. Owning warehouses and trucking systems requires a great deal of capital. Companies would much rather work with a 3PL provider than assume the financial risk of owning and operating their own transportation and warehousing systems.</para>
+    <para id="para-00019">Imagine if pet food maker <term class="no-emphasis" id="term-00005"><span class="red-text">Purina</span></term> had to purchase its own warehousing and trucking business to store and move its goods all over the United States. It would be very costly and require a large capital commitment. In addition, 3PL providers offer the advantage of strategic location. They often market themselves as being located in the precisely right zones that a supply chain needs to reach targeted consumers.</para>
+    <para id="para-00020">The downside of using 3PL providers is the loss of control. Manufacturers are essentially turning over logistics responsibilities to other companies, who assume control of communication and interaction with suppliers. To combat this, manufacturers should continuously analyze performance metrics and communicate with 3PL providers.</para>
+    </section>
+    </section>
+    <section class="knowledge-check" id="sect-00007">
+    <title>Knowledge Check</title>
+    <para id="para-00021">It’s time to check your knowledge on the concepts presented in this section. Refer to the Answer Key at the end of the book for feedback.</para>
+    <exercise id="exer-00001"><problem id="prob-00001"><para id="para-00022"><link class="os-embed" url="#exercise/MBT_Ch17_Sec6_KC1"/></para></problem></exercise>
+    <exercise id="exer-00002"><problem id="prob-00002"><para id="para-00023"><link class="os-embed" url="#exercise/MBT_Ch17_Sec6_KC2"/></para></problem></exercise>
+    <exercise id="exer-00003"><problem id="prob-00003"><para id="para-00024"><link class="os-embed" url="#exercise/MBT_Ch17_Sec6_KC3"/></para></problem></exercise>
+    <exercise id="exer-00004"><problem id="prob-00004"><para id="para-00025"><link class="os-embed" url="#exercise/MBT_Ch17_Sec6_KC4"/></para></problem></exercise>
+    <exercise id="exer-00005"><problem id="prob-00005"><para id="para-00026"><link class="os-embed" url="#exercise/MBT_Ch17_Sec6_KC5"/></para></problem></exercise>
+    </section>
+    </content>
+    <glossary>
+    <definition id="def-00001"><term>inventory management</term><meaning>a function that involves identifying the type of inventory and how much a company has on hand at any given time </meaning></definition>
+    <definition id="def-00002"><term>third-party logistics (3PL) provider</term><meaning>a company that is contracted by a channel member to handle one or more of the functional areas of logistics; often warehouses, distribution centers, or fulfillment centers that have expertise in managing certain logistical activities</meaning></definition>
+    <definition id="def-00003"><term>warehousing</term><meaning>the stocking, maintaining, and controlling of products while they await the next step in their journey to the final consumer</meaning></definition>
+    </glossary>
 </document>
