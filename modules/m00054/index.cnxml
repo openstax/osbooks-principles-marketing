@@ -6,8 +6,152 @@
     <md:uuid>44f6ba7a-48f9-4b87-a68b-51fde9009dbb</md:uuid>
   </metadata>
   <content>
-<section id="sect-00001">
-<para id="para-00001"> </para>
-</section>
-  </content>
+    <section class="learning-objectives" id="sect-00001">
+    <title>Learning Outcomes</title>
+    <para id="para-00001">By the end of this section, you will be able to:</para>
+    <list id="list-00001">
+    <item>Differentiate between products, services, and experiences.</item>
+    <item>Describe how consumer and business/industrial products are classified.</item>
+    <item>Identify the four levels of a product.</item>
+    </list>
+    </section>
+    <section id="sect-00002">
+    <title>Products and Services Defined</title>
+    <para id="para-00002">When a customer makes a purchase, they expect value from that exchange. Think about what you ate for breakfast today. You paid money to receive a product that satisfied your hunger. Is that all the value you received? Perhaps not. If you ate eggs, bacon, and coffee at a restaurant, you had both a product and a service experience. Maybe someone at the restaurant handed you a menu, took your order, brought your food, refilled your coffee, cleaned up dishes, and collected payment for your meal. The eggs, bacon, and coffee were the product, while the acts of the restaurant staff were a service. And the summation of it all was the product–service experience.</para>
+    <para id="para-00003"><emphasis effect="bold"><term id="term-00001">Products</term></emphasis> are tangible items that are part of an exchange between a buyer and seller. Products can be seen, touched, owned, and stored. For example, the computer or tablet you’re using to read this textbook is a product. You may have visited a store to see and touch the product before purchasing to ensure it met your needs. Post-purchase, the computer or tablet is yours to own and store for later use as you please. The tangible nature of the product allows the consumer to possess it.</para>
+    <para id="para-00004"><emphasis effect="bold"><term id="term-00002">Services</term></emphasis> are intangible solutions that are also an exchange between buyer and seller. Unlike products, services cannot be touched, owned, or stored for later use. For example, a college course on marketing is a service. Students cannot own the course; they cannot store it for later, nor will they have a tangible object representing the course. Another defining feature of a service is the customer is typically a part of the service experience. Imagine buying tickets to your favorite band in concert. You will have to attend the concert to realize the full benefit of the service experience.</para>
+    <para id="para-00005">While a computer is a true product and a marketing class is a true service, many exchanges between buyer and seller fall somewhere in the middle of the product–service continuum (see <emphasis effect="bold">Figure 9.2</emphasis>). Think back to the restaurant breakfast at the top of this section; restaurants are a prime example of an exchange that includes products and services. Marketers are typically working with an offering that falls on the product–service continuum. This means that they need to understand how to influence consumer behavior in the search for products and services.</para>
+    <figure id="fig-00001"><media alt="A horizontal double sided arrow shows examples along the product service continuum. The left side of the arrow represents pure product; the right side represents pure service. The example furthest left is food purchased from a store. The example at the center of the continuum is food purchased at a restaurant. The example furthest right is a cooking lesson."><image mime-type="image/png" src="../../media/MKT_Figure_09_01_002.png"/></media><caption>The Product–Service Continuum (attribution: Copyright Rice University, OpenStax, under CC BY 4.0 license)</caption></figure>
+    </section>
+    <section id="sect-00003">
+    <title>Customer Experience</title>
+    <para id="para-00006"><emphasis effect="bold"><term id="term-00003">Customer experience (CX)</term></emphasis> is the overarching impression that customers have of a brand. Therefore, each touchpoint with a product or service becomes a part of the customer experience. A strong customer experience integrates technology, marketing, sales, and customer service to deliver a strong brand perception.</para>
+    <para id="para-00007">For example, if you have ever visited an <term class="no-emphasis" id="term-00004"><span class="red-text">Apple Store</span></term>, you probably have experienced one of the most lauded customer experiences there is. From the moment you walk in, you are surrounded by products and transported into a world of technology. Each touchpoint, from the check-in on an iPad to the latest products that are available for use, reinforces the brand through customer experience. Brands with strong customer experience tend to have more loyal customers who become brand advocates.</para>
+    <note class="marketing-practice" id="note-00001">
+    <title>Netflix</title>
+    <para id="para-00008"><term class="no-emphasis" id="term-00005"><span class="red-text">Netflix</span></term>, a service that has become so ubiquitous that it is often referred by the slang term “Netflixing,” has perfected the customer experience (<emphasis effect="bold">Figure 9.3</emphasis>). Using technology as a driver, Netflix predicts its customers’ viewing preferences using an algorithm, removing friction from the user experience and making the brand an essential part of its customers’ lives. Netflix’s use of personalization is common among companies that excel in customer experience. The customer is at the center of the experience that is entirely tailored to them.</para>
+    <figure id="fig-00002"><media alt="A screenshot of a Netflix ad. A magnifying glass is held over the word Netflix. Underneath it says See what’s next. Watch anywhere. Cancel anytime."><image mime-type="image/jpeg" src="../../media/MKT_Figure_09_01_003.jpg"/></media><caption>Netflix (credit: “Netflix logo on the PC monitor, photographed through a magnifying glass” by Marco Verch/flickr, CC BY 2.0)</caption></figure>
+    <para id="para-00009">Once users enter the Netflix website, they see an experience that makes their viewing opportunity seamless and flexible. Netflix lets the user know right away that it streams thousands of movies and television shows on various devices. The sign-up involves three easy steps, and then the customer is brought into a viewing world built around them.</para>
+    <para id="para-00010">The Netflix algorithm analyzes viewing habits based on a variety of factors, including:</para>
+    <list id="list-00002">
+    <item>Viewing history</item>
+    <item>Genre or category</item>
+    <item>Time of day watched</item>
+    <item>How long the user watched</item>
+    <item>Devices currently streaming</item>
+    <item>Rating history for similar content</item>
+    <item>Other Netflix users with similar preferences on the platform<sup>3</sup></item>
+    </list>
+    <para id="para-00011">As the algorithm learns more about the viewer, the customer experience improves, becoming essential to customers’ lives and building brand loyalty.</para>
+    </note>
+    </section>
+    <section id="sect-00004">
+    <title>Classifications of Consumer and Business Products</title>
+    <para id="para-00012">Product managers classify products first by whether they are consumer products or industrial products. This classification is essential because businesses typically make product purchase decisions to create a consumer good. Meanwhile, consumers are buying products for their personal use. Therefore, this distinction impacts how product managers design, market, and sell products.</para>
+    <para id="para-00013">Consumer products are classified into four main categories (see <emphasis effect="bold">Table 9.1</emphasis>):</para>
+    <list list-type="enumerated" id="list-00003">
+    <item><term id="term-00006">Convenience products</term> are products that consumers can purchase easily, quickly, and without a lot of thoughtful decision-making. Convenience product purchases may be habitual in that the consumer buys the same brand each time. In addition, they are typically lower-priced and have wide distribution, so they are easily accessible to consumers. Frozen waffles, bar soap, milk, and bathroom cleaners are examples of convenience products.</item>
+    <item><term id="term-00007">Shopping products</term> require more thought from the consumer. Consumers may research and shop around for shopping products, seeking the best quality or price. Shopping products are typically available at a few retail stores and online, and they may be priced higher than convenience products. Exercise equipment, technology, clothing, and airline tickets are shopping products.</item>
+    <item><term id="term-00008">Specialty products</term> have unique qualities that consumers will make an extra effort to seek out. The product’s unique nature typically means that the consumer will not comparison shop and will spend a significant amount of time and money to procure the product. Luxury cars, rare breeds of saltwater fish, fine art, and jewelry are examples of specialty products.</item>
+    <item><term id="term-00009">Unsought products</term> are consumer goods that a buyer doesn’t anticipate purchasing. As a result, the consumer is often not aware of the product or does not think it is needed. A flat tire that needs repairing, a roof damaged in a storm that needs to be replaced, and funeral services are examples of unsought products.</item>
+    </list>
+    <table summary="" id="table-00001">
+    <title>Types of Products</title>
+    <tgroup cols="4">
+    <thead>
+    <row class="header-row">
+    <entry><emphasis effect="bold">Type of Product</emphasis></entry>
+    <entry><emphasis effect="bold">Price</emphasis></entry>
+    <entry><emphasis effect="bold">Consumer Decision-Making Process</emphasis></entry>
+    <entry><emphasis effect="bold">Distribution</emphasis></entry>
+    </row>
+    </thead>
+    <tbody>
+    <row>
+    <entry>Convenience</entry>
+    <entry>Low</entry>
+    <entry>This is a habitual/automatic purchase process that involves little comparison shopping.</entry>
+    <entry>Widespread distribution at several retail outlets</entry>
+    </row>
+    <row>
+    <entry>Shopping</entry>
+    <entry>Low-Mid</entry>
+    <entry>There is time spent on the consumer decision-making process and comparison shopping for price and quality.</entry>
+    <entry>Selective distribution at retail outlets that match customer and brand type</entry>
+    </row>
+    <row>
+    <entry>Specialty</entry>
+    <entry>High</entry>
+    <entry>Having a specific brand or product in mind means little comparison shopping. Typically, this is a special purchase with a lot of planning.</entry>
+    <entry>Exclusive distribution at one or a select few retail outlets</entry>
+    </row>
+    <row>
+    <entry>Unsought</entry>
+    <entry>Variable</entry>
+    <entry>The consumer is unaware or uninterested, so they exert little thought or comparison shopping.</entry>
+    <entry>Variable distribution depends on the product</entry>
+    </row>
+    </tbody>
+    </tgroup>
+    </table>
+    </section>
+    <section id="sect-00005">
+    <title>Classifications of Business and Industrial Products</title>
+    <para id="para-00014">Businesses purchase products to aid in manufacturing or creating consumer products or services. For example, if you have ever been to a doughnut shop, you might think about how the bakers produce a doughnut. The bakers have probably purchased baking equipment, ingredients for the doughnuts, boxes to package the doughnuts, and a service to make deliveries. Business and industrial products are classified as follows:</para>
+    <list list-type="enumerated" id="list-00004">
+    <item><emphasis effect="bold"><term id="term-00010">Raw materials</term></emphasis> are the products that a business needs to purchase in order to make a consumer good, such as flour, sugar, and yeast in our doughnut example.</item>
+    <item><emphasis effect="bold"><term id="term-00011">Manufactured materials and parts</term></emphasis> are products used to create the product. For example, large baking sheets are manufactured materials specific to a bakery and purchased to enable product creation.</item>
+    <item><emphasis effect="bold"><term id="term-00012">Capital items</term></emphasis> are assets that are valuable to the business and have tangible value. For example, our bakery’s large ovens would be considered a capital item.</item>
+    <item><emphasis effect="bold"><term id="term-00013">Supplies and services</term></emphasis> are goods and services that are typically disposed of and do not contain a tangible value. For example, the bakery’s boxes are part of its supplies to package doughnuts.</item>
+    </list>
+    </section>
+    <section id="sect-00006">
+    <title>The Three Levels of Product</title>
+    <para id="para-00015">In marketing, we often say that consumers do not make rational decisions—this consumer decision-making process ties directly to how we think about products. Therefore, product marketers should ask themselves, “What’s the problem the consumer is trying to solve?” The answer to this question gets to the root of the core product. The <emphasis effect="bold"><term id="term-00014">core product</term></emphasis> is what your customer is actually buying: convenience, ego, ease, flexibility, etc. For example, if you have ever purchased single-use plastic water bottles, you were likely purchasing a core product of convenience.</para>
+    <para id="para-00016">The second level of a product is the <emphasis effect="bold"><term id="term-00015">actual product</term></emphasis>: a toaster, a waffle, or a sports car, for example. The actual product includes the product features, brand, level of quality, packaging, and design.</para>
+    <para id="para-00017">The third level of a product is the <emphasis effect="bold"><term id="term-00016">augmented product</term></emphasis>: warranties, customer service, product support, etc. The augmented product is the unseen aspects of the product essential to its service to you. For example, <term class="no-emphasis" id="term-00017"><span class="red-text">Butterball</span></term> launches a turkey talk-line that provides tips on cooking the perfect Thanksgiving turkey each Thanksgiving. So if you have turkey roasting questions, the talk-line is ready and waiting to answer your questions in this augmented product. A hotel might provide concierge services to obtain tickets to events or limousine service, dry cleaning services, recommendations for local restaurants, etc. All of these would be augmented services. (see <emphasis effect="bold">Figure 9.4</emphasis>).</para>
+    <figure id="fig-00003"><media alt="The three levels of a product are shown as three circles nested inside one another. The circle in the center is Core Product: How can I solve the customers problem? The circle in the middle is Actual Product: What is the offering to solve the problem? And the outermost circle is “Augmented Product: What are the services to supplement the product."><image mime-type="image/png" src="../../media/MKT_Figure_09_01_004.png"/></media><caption>Three Levels of a Product (attribution: Copyright Rice University, OpenStax, under CC BY 4.0 license)</caption></figure>
+    <note class="careers-marketing" id="note-00002">
+    <title>Product Marketer</title>
+    <para id="para-00018">A product marketer, also sometimes known as a product marketing manager, promotes a product and its features to a target market. Learn more about this job role through this article from <link url="https://openstax.org/r/productmarketingmanager">HubSpot</link>, including a job description, necessary qualifications, and job responsibilities. Also, check out this video from a Google employee about being a product marketer.</para>
+    <media alt="atoms_isotopes">
+    <iframe width="660" height="371.4" src="https://openstax.org/r/productmarketing101"/>
+    </media>
+    <para id="para-00019">If this job interests you, <link url="https://openstax.org/r/whatdoesaproductmarketingmanagerdo">check out this article from Indeed</link> that outlines more details, including the typical salary, necessary skills, and education requirements. Or refer to this <link url="https://openstax.org/r/theultimateguidetogettingajobinproductmarketing">guide on how to take the next step and get a job in product marketing</link>.</para>
+    <para id="para-00020">Lastly, to start preparing for a job in this role, check out this mock interview for the product marketing manager role.</para>
+    <media alt="atoms_isotopes">
+    <iframe width="660" height="371.4" src="https://openstax.org/r/productmarketinginterview"/>
+    </media>
+    </note>
+    </section>
+    <section class="knowledge-check" id="sect-00007">
+    <title>Knowledge Check</title>
+    <para id="para-00021">It’s time to check your knowledge on the concepts presented in this section. Refer to the Answer Key at the end of the book for feedback.</para>
+    <exercise id="exer-00001"><problem id="prob-00001"><para id="para-00022"><link class="os-embed" url="#exercise/MBT_Ch9_Sec1_KC1"/></para></problem></exercise>
+    <exercise id="exer-00002"><problem id="prob-00002"><para id="para-00023"><link class="os-embed" url="#exercise/MBT_Ch9_Sec1_KC2"/></para></problem></exercise>
+    <exercise id="exer-00003"><problem id="prob-00003"><para id="para-00024"><link class="os-embed" url="#exercise/MBT_Ch9_Sec1_KC3"/></para></problem></exercise>
+    <exercise id="exer-00004"><problem id="prob-00004"><para id="para-00025"><link class="os-embed" url="#exercise/MBT_Ch9_Sec1_KC4"/></para></problem></exercise>
+    <exercise id="exer-00005"><problem id="prob-00005"><para id="para-00026"><link class="os-embed" url="#exercise/MBT_Ch9_Sec1_KC5"/></para></problem></exercise>
+    </section>
+    <section class="references" id="sect-00008">
+      <title>References</title>
+      <note id="note-00003"><link><span>3.</span></link><span>Erica Schneider, “How Netflix Creates Immersive Experiences with Exceptional Design and UX,” <emphasis effect="italics">All Things Data-Driven Marketing</emphasis> (blog), CXL, August 27, 2021, https://cxl.com/blog/netflix-design/.</span></note>
+      </section>
+    </content>
+    <glossary>
+    <definition id="def-00001"><term>actual product</term><meaning>product available for purchase</meaning></definition>
+    <definition id="def-00002"><term>augmented product</term><meaning>product having unseen aspects essential to customers</meaning></definition>
+    <definition id="def-00003"><term>capital items</term><meaning>assets valuable to a business that also have tangible value</meaning></definition>
+    <definition id="def-00004"><term>convenience products</term><meaning>products that consumers can purchase easily, quickly, and without a lot of thoughtful decision-making</meaning></definition>
+    <definition id="def-00005"><term>core product</term><meaning>product solution that the customer is actually buying: convenience, ego, ease, flexibility, etc.</meaning></definition>
+    <definition id="def-00006"><term>customer experience</term><meaning>the overarching impression that customers have of a brand</meaning></definition>
+    <definition id="def-00007"><term>manufactured materials and parts</term><meaning>products used to create a product</meaning></definition>
+    <definition id="def-00008"><term>products</term><meaning>tangible items that are part of an exchange between a buyer and a seller</meaning></definition>
+    <definition id="def-00009"><term>raw materials</term><meaning>products that a business needs to purchase in order to make a consumer good</meaning></definition>
+    <definition id="def-00010"><term>services</term><meaning>intangible solutions that are an exchange between buyer and seller</meaning></definition>
+    <definition id="def-00011"><term>shopping products</term><meaning>products that require more thought from the consumer as they seek the best quality or price</meaning></definition>
+    <definition id="def-00012"><term>specialty products</term><meaning>products that have unique qualities that consumers will make an extra effort to seek out</meaning></definition>
+    <definition id="def-00013"><term>supplies and services</term><meaning>goods and services that are typically disposed of and do not contain a tangible value</meaning></definition>
+    <definition id="def-00014"><term>unsought products</term><meaning>consumer goods that a buyer doesn’t anticipate purchasing</meaning></definition>
+    </glossary>   
 </document>
