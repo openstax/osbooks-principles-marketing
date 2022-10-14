@@ -54,10 +54,10 @@
     <table summary="" id="table-00001">
     <tgroup cols="3">
     <thead>
-    <row class="header-row">
-    <entry><emphasis effect="bold">Brand Type</emphasis></entry>
-    <entry><emphasis effect="bold">Advantages</emphasis></entry>
-    <entry><emphasis effect="bold">Disadvantages</emphasis></entry>
+    <row>
+    <entry align="left"><emphasis effect="bold">Brand Type</emphasis></entry>
+    <entry align="left"><emphasis effect="bold">Advantages</emphasis></entry>
+    <entry align="left"><emphasis effect="bold">Disadvantages</emphasis></entry>
     </row>
     </thead>
     <tbody>
