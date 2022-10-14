@@ -22,8 +22,8 @@
     <tgroup cols="2">
     <tbody>
     <row>
-    <entry align="center"><emphasis effect="bold">Characteristic</emphasis></entry>
-    <entry align="center"><emphasis effect="bold">Definition</emphasis></entry>
+    <entry><emphasis effect="bold">Characteristic</emphasis></entry>
+    <entry><emphasis effect="bold">Definition</emphasis></entry>
     </row>
     <row>
     <entry>Attitude</entry>
