@@ -64,11 +64,13 @@
     <para id="para-00018">Consider Coca-Cola, whose brand name remains unchanged. However, in some countries, the slogan is slightly tweaked to have a more local meaning, but with the same underlying promotional message. Refer to <link target-id="table-00001" document="m00042"/> for some of the Coca-Cola slogans used around the world.<cite id="rf-080-a" target-id="rf-080"><note class="delete-me" display="inline" id="note-00011"/></cite></para>
     <table summary="" id="table-00001">
     <tgroup cols="2">
-    <tbody>
+    <thead>
     <row>
     <entry><emphasis effect="bold">Country</emphasis></entry>
     <entry><emphasis effect="bold">Slogan</emphasis></entry>
     </row>
+    </thead>
+    <tbody>
     <row>
     <entry>India</entry>
     <entry>Always the Real Thing</entry>

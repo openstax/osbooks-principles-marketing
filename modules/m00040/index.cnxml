@@ -20,11 +20,13 @@
     <para id="para-00003"><emphasis effect="italics">Harvard Business Review</emphasis> has a published list of the seven common characteristics found with companies that have been successful in international expansion.<cite id="rf-022-a" target-id="rf-022"><note class="delete-me" display="inline" id="note-00002"/></cite> The list includes attitude, aptitude, magnitude, latitude, rectitude, exactitude, and fortitude, each of which is defined in</para>
     <table summary="" id="table-00001">
     <tgroup cols="2">
-    <tbody>
+    <thead>
     <row>
     <entry><emphasis effect="bold">Characteristic</emphasis></entry>
     <entry><emphasis effect="bold">Definition</emphasis></entry>
     </row>
+    </thead>
+    <tbody>
     <row>
     <entry>Attitude</entry>
     <entry>Global expansion is a priority.</entry>
