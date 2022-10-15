@@ -6,8 +6,50 @@
     <md:uuid>40051640-09c7-4a04-84ba-d8cd23211b97</md:uuid>
   </metadata>
   <content>
-<section id="sect-00001">
-<para id="para-00001"> </para>
-</section>
-  </content>
+    <section class="learning-objectives" id="sect-00001">
+    <title>Learning Outcomes</title>
+    <para id="para-00001">By the end of this section, you will be able to:</para>
+    <list id="list-00001">
+    <item>List the pricing strategies for new products.</item>
+    <item>Explain each pricing strategy for new products.</item>
+    </list>
+    </section>
+    <section id="sect-00002">
+    <title>Price Skimming</title>
+    <para id="para-00002">When a new product is introduced to the market, marketers often use one of three pricing strategies. Remember that when a company introduces a new product to the market, a good deal of financial resources have already been used even before the first unit is sold. Therefore, it is important for marketers to choose an appropriate price that both appeals to buyers and helps to recuperate the costs of research and development so that the company can begin to maximize profits more quickly.</para>
+    <para id="para-00003"><term id="term-00001">Price skimming</term> is a new-product strategy in which marketers choose to initially set a high price for a product or service and lower it over time. The goal of price skimming is to attract the segment of the market that is willing to pay the highest possible price for the product. Once achieved, the price is lowered to attract another segment of the market and so on. The term <emphasis effect="italics">skimming</emphasis> comes from the skimming the cream, layer by layer, from raw milk—or in this case, each segment of customers.</para>
+    <para id="para-00004">Innovative technology often uses price skimming. For example, when <term class="no-emphasis" id="term-00002"><span class="red-text">Sony</span></term> launched the PlayStation 3, it was set at a fairly high price of $599. With little competition and a well-established brand, it was successful. Each year thereafter, it lowered the price—and gained new customers—until it eventually reached a price of $299.<cite id="rf-033-a" target-id="rf-033"><note class="delete-me" display="inline" id="note-00001"/></cite></para>
+    </section>
+    <section id="sect-00003">
+    <title>Market Penetration Pricing</title>
+    <para id="para-00005">The opposite of price skimming is <term id="term-00003">penetration pricing</term>. The penetration pricing strategy is one in which the new product or service is set at the lowest price possible. This strategy’s objective is to penetrate the market, or gain as many customers in all segments as possible from the beginning of the product life cycle.</para>
+    <para id="para-00006">In the late 1990s, <term class="no-emphasis" id="term-00004"><span class="red-text">Netflix</span></term> introduced its movie rental service. For a monthly subscription fee, users could rent four movies at a time with no return date. The low initial price targeted the most segments of the market and allowed customers to try the new service with little effort or financial impact.</para>
+    </section>
+    <section id="sect-00004">
+    <title>Break-Even Pricing</title>
+    <para id="para-00007"><term id="term-00005">Break-even pricing</term> is a pricing strategy in which marketers choose a price that will cover all of the costs of manufacturing. The break-even point is when the number of units produced equals the revenue for the product. The break-even point will produce zero profit but will cover all associated costs.</para>
+    <para id="para-00008">The break-even formula is calculated by dividing the total fixed costs by the production unit price minus variable unit costs. The break-even point in units will tell a marketer exactly how many units must be sold in order to start making a profit.</para>
+    <equation class="unnumbered" xmlns="http://cnx.rice.edu/cnxml" id="eq-00001"><math xmlns="http://www.w3.org/1998/Math/MathML"><mi>Break</mi><mo> </mo><mi>Even</mi><mo>=</mo><mfrac><mrow><mi>Fixed</mi><mo> </mo><mi>Costs</mi></mrow><mrow><mo>(</mo><mi>Unit</mi><mo> </mo><mi>Price</mi><mo>-</mo><mi>Variable</mi><mo> </mo><mi>Unit</mi><mo> </mo><mi>Costs</mi><mo>)</mo></mrow></mfrac></math></equation>
+    <para id="para-00009" xmlns="http://cnx.rice.edu/cnxml">Let’s look at an example. Assume you are opening a new gourmet cookie shop and you have estimated your projected costs. You’d like to know how many units you must sell in order to break even and then start making a profit. Let’s assume your fixed costs are $20,000. This includes rent, deliveries, ingredients, and new signage. You have estimated your variable costs to be $1.50 per unit, or cookie. You plan to charge $2.00 per cookie. How many units must you sell to break even? Using the formula above, you find that you must sell 40,000 cookies in order to break even.</para>
+    <equation class="unnumbered" xmlns="http://cnx.rice.edu/cnxml" id="eq-00002"><math xmlns="http://www.w3.org/1998/Math/MathML"><mtable columnspacing="0px" columnalign="right center left"><mtr><mtd><mi>Break</mi><mo> </mo><mi>Even</mi></mtd><mtd><mo>=</mo></mtd><mtd><mfrac><mrow><mo>$</mo><mn>20</mn><mo>,</mo><mn>000</mn></mrow><mrow><mo>(</mo><mo>$</mo><mn>2</mn><mo>.</mo><mn>00</mn><mo>-</mo><mo>$</mo><mn>1</mn><mo>.</mo><mn>50</mn><mo>)</mo><mo> </mo></mrow></mfrac></mtd></mtr><mtr><mtd><mi>Break</mi><mo> </mo><mi>Even</mi></mtd><mtd><mo>=</mo></mtd><mtd><mfrac><mrow><mo>$</mo><mn>20</mn><mo>,</mo><mn>000</mn></mrow><mrow><mo>(</mo><mo>$</mo><mn>5</mn><mo>.</mo><mn>0</mn><mo>)</mo><mo> </mo></mrow></mfrac></mtd></mtr><mtr><mtd/><mtd><mo>=</mo></mtd><mtd><mo> </mo><mn>40</mn><mo>,</mo><mn>000</mn><mo> </mo><mi>Units</mi></mtd></mtr></mtable></math></equation>
+    </section>
+    <section class="knowledge-check" id="sect-00005" xmlns="http://cnx.rice.edu/cnxml">
+    <title>Knowledge Check</title>
+    <para id="para-00010">It’s time to check your knowledge on the concepts presented in this section. Refer to the Answer Key at the end of the book for feedback.</para>
+    <exercise id="exer-00001"><problem id="prob-00001"><para id="para-00011"><link class="os-embed" url="#exercise/MBT_Ch12_Sec4_KC1"/></para></problem></exercise>
+    <exercise id="exer-00002"><problem id="prob-00002"><para id="para-00012"><link class="os-embed" url="#exercise/MBT_Ch12_Sec4_KC2"/></para></problem></exercise>
+    <exercise id="exer-00003"><problem id="prob-00003"><para id="para-00013"><link class="os-embed" url="#exercise/MBT_Ch12_Sec4_KC3"/></para></problem></exercise>
+    <exercise id="exer-00004"><problem id="prob-00004"><para id="para-00014"><link class="os-embed" url="#exercise/MBT_Ch12_Sec4_KC4"/></para></problem></exercise>
+    <exercise id="exer-00005"><problem id="prob-00005"><para id="para-00015"><link class="os-embed" url="#exercise/MBT_Ch12_Sec4_KC5"/></para></problem></exercise>
+    </section>
+    <section class="references" id="sect-00006">
+    <title>Endnotes</title>
+    <note id="rf-033"><link target-id="rf-033-a"><span>33.</span></link><span>Bharath Sivakumar, “Price Skimming: Definition, Strategy, &amp; Examples,” Feedough, July 17, 2021, https://www.feedough.com/price-skimming-definition-examples/.</span></note>
+    </section>
+    </content>
+    <glossary>
+    <definition id="def-00001"><term>break-even pricing</term><meaning>pricing strategy in which marketers choose a price that will cover all the costs of manufacturing</meaning></definition>
+    <definition id="def-00002"><term>penetration pricing</term><meaning>new product or service strategy that sets the lowest price possible in order to reach the majority of the market in the introduction stage</meaning></definition>
+    <definition id="def-00003"><term>price skimming</term><meaning>pricing strategy in which a company initially sets a high price for a product or service and lowers it over time as new segments of the market are reached</meaning></definition>
+    </glossary>
 </document>
