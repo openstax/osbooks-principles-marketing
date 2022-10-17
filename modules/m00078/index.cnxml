@@ -100,7 +100,7 @@
     <section id="sect-00011">
     <title>Understanding the Demand Curve</title>
     <para id="para-00013">The <term id="term-00016">demand curve</term> is a graph that shows how the demand for a product or service varies with the change in price. As you can see from <link target-id="fig-00002" document="m00078"/>, the price (p) is located on the vertical axis and the quantity (q) demanded is located on the horizontal axis. As the price of a product increases, the demand of the product decreases.</para>
-    <figure id="fig-00002"><media alt="The demand curve is represented on a line graph, with price p represented on the vertical axis and quantity q represented on the horizontal axis. Supply is represented by a line; as price increases, quantity also increases. Demand is also represented by a line; as price decreases, quantity decreases. Where the two lines intersect is indicated on the graph."><image mime-type="image/png" src="../../media/MKT_Figure_12_03_005.png"/></media><caption>Demand Curve (attribution: Copyright Rice University, OpenStax, under CC BY 4.0 license)</caption></figure>
+    <figure class="scaled-down" id="fig-00002"><media alt="The demand curve is represented on a line graph, with price p represented on the vertical axis and quantity q represented on the horizontal axis. Supply is represented by a line; as price increases, quantity also increases. Demand is also represented by a line; as price decreases, quantity decreases. Where the two lines intersect is indicated on the graph."><image mime-type="image/png" src="../../media/MKT_Figure_12_03_005.png"/></media><caption>Demand Curve (attribution: Copyright Rice University, OpenStax, under CC BY 4.0 license)</caption></figure>
     <para id="para-00014">The relationship between price and demand shown in the figure above is contingent on certain conditions remaining constant. Such conditions include substitute goods, personal income, and consumer tastes, which are discussed further below. Changes in these conditions can cause a change in demand that might not follow this basic concept of the demand curve.</para>
     </section>
     <section id="sect-00012">
@@ -120,7 +120,7 @@
     <section id="sect-00014">
     <title>Factors in Demand Elasticity</title>
     <para id="para-00020">When determining the demand elasticity of products and services, there are several factors to keep in mind. These include substitutes, the effect of income, time, and cross-elasticity of demand (see <link target-id="fig-00003" document="m00078"/>). Let’s explore each of these in depth.</para>
-    <figure id="fig-00003"><media alt="The factors in demand elasticity are availability of substitutes, income, time, and cross elasticity of demand."><image mime-type="image/png" src="../../media/MKT_Figure_12_03_006.png"/></media><caption>Factors in Demand Elasticity (attribution: Copyright Rice University, OpenStax, under CC BY 4.0 license)</caption></figure>
+    <figure class="scaled-down" id="fig-00003"><media alt="The factors in demand elasticity are availability of substitutes, income, time, and cross elasticity of demand."><image mime-type="image/png" src="../../media/MKT_Figure_12_03_006.png"/></media><caption>Factors in Demand Elasticity (attribution: Copyright Rice University, OpenStax, under CC BY 4.0 license)</caption></figure>
     </section>
     <section id="sect-00015">
     <title>Availability of Substitutes</title>
