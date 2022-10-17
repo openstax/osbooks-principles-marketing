@@ -130,7 +130,7 @@
     <equation class="unnumbered" xmlns="http://cnx.rice.edu/cnxml" id="eq-00007"><math xmlns="http://www.w3.org/1998/Math/MathML"><mtable columnspacing="0px" columnalign="right center left"><mtr><mtd><mi>Customer</mi><mo> </mo><mi>Lifetime</mi><mo> </mo><mi>Value</mi></mtd><mtd><mo>=</mo></mtd><mtd><mo> </mo><mo>(</mo><mi>Annual</mi><mo> </mo><mi>Profit</mi><mo> </mo><mi>per</mi><mo> </mo><mi>Customer</mi><mo> </mo><mo>⤫</mo><mo> </mo><mi>Average</mi><mo> </mo><mi>Number</mi><mo> </mo><mi>of</mi><mo> </mo><mi>Years</mi><mo> </mo><mi>Retained</mi><mo>)</mo><mo> </mo></mtd></mtr><mtr><mtd/><mtd/><mtd><mo>-</mo><mo> </mo><mi>Customer</mi><mo> </mo><mi>Acquisition</mi><mo> </mo><mi>Cost</mi></mtd></mtr></mtable></math></equation>
     <para id="para-00037" xmlns="http://cnx.rice.edu/cnxml">The annual profit per customer considers the cost of goods sold and customer acquisition cost.</para>
     <exercise class="unnumbered" id="exer-00001">
-    <problem id="prob-00001"><para id="para-00038">Give the customer lifetime value calculation a try for yourself. What is the customer lifetime value for each of the four segments in the example shown in Table 2.1?</para>
+    <problem id="prob-00001"><para id="para-00038"><emphasis effect="bold">Give the customer lifetime value calculation a try for yourself. What is the customer lifetime value for each of the four segments in the example shown in Table 2.1?</emphasis></para>
     <table summary="" id="table-00001">
     <tgroup cols="4">
     <thead>
@@ -178,9 +178,9 @@
           <para id="para-00049">Gen Z emerging professionals: $66,400</para>
     </solution>
     </exercise>
-    <exercise class="unnumbered" id="exer-00002"><problem id="prob-00002"><para id="para-00050">Which segment would you choose if you were tasked with starting a new campaign that maximized CLV?</para></problem>
+    <exercise class="unnumbered" id="exer-00002"><problem id="prob-00002"><para id="para-00050"><emphasis effect="bold">Which segment would you choose if you were tasked with starting a new campaign that maximized CLV?</emphasis></para></problem>
     <solution id="sol-00002"><para id="para-00051">Correct Answer: Millennial singles have the highest CLV.</para></solution></exercise>
-    <exercise class="unnumbered" id="exer-00003"><problem id="prob-00003"><para id="para-00052">Let’s suppose the customer experience team could increase the average number of years that the Gen Z segment retains from two to eight. Which segment would then have the highest CLV?</para></problem>
+    <exercise class="unnumbered" id="exer-00003"><problem id="prob-00003"><para id="para-00052"><emphasis effect="bold">Let’s suppose the customer experience team could increase the average number of years that the Gen Z segment retains from two to eight. Which segment would then have the highest CLV?</emphasis></para></problem>
     <solution id="sol-00003"><para id="para-00053">Correct Answer: Gen Z would have the highest CLV at $270,400.</para></solution></exercise>
     </note>
     </section>
