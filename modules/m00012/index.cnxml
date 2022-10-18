@@ -6,8 +6,66 @@
     <md:uuid>135a27e9-0239-4da1-b703-331876a2b79f</md:uuid>
   </metadata>
   <content>
-<section id="sect-00001">
-<para id="para-00001"> </para>
-</section>
-  </content>
+    <section class="learning-objectives" id="sect-00001">
+    <title>Learning Outcomes</title>
+    <para id="para-00001">By the end of this section, you will be able to:</para>
+    <list id="list-00001">
+    <item>Define customer relationship management (CRM).</item>
+    <item>Describe the impact of CRM on customer loyalty and retention.</item>
+    <item>Explain how CRM builds customer equity.</item>
+    </list>
+    </section>
+    <section id="sect-00002">
+    <title>The Impact of CRM on Customer Loyalty and Retention</title>
+    <para id="para-00002">In the final analysis, companies want to accomplish two things: improve customer service relationships and improve customer retention. It is typically easier and less expensive to retain a loyal customer than acquire a new one. One way to accomplish that is through <term id="term-00001">customer relationship management (CRM)</term>—the means through which companies track, manage, and analyze customer interactions.<cite id="rf-045-a" target-id="rf-045"><note class="delete-me" display="inline" id="note-00001"/></cite></para>
+    <para id="para-00003">There are a number of CRM software systems available in the marketplace, and most accomplish the same thing. They basically track and work with data about customers. For example, they link and analyze customer contact information. They store and track contact with company representatives, such as phone calls, emails, live chat conversations, service requests, purchases, and returns. One good example of CRM software is <term class="no-emphasis" id="term-00002"><span class="red-text">Salesforce</span></term>, which is the market leader for CRM software in North America, Western Europe, Latin America, and the Asia-Pacific region.<cite id="rf-046-a" target-id="rf-046"><note class="delete-me" display="inline" id="note-00002"/></cite></para>
+    <para id="para-00004">There are many types of CRM software; however, most CRM software focuses primarily on one of the following major categories:</para>
+    <list id="list-00002">
+    <item><emphasis effect="bold">Operational.</emphasis> Operational CRM software deals with three types of operations: marketing, sales, and service automation. Operational CRM software is intended to assist businesses in automating how they approach leads and potential customers in order to convert those potential customers into actual customers.<cite id="rf-047-a" target-id="rf-047"><note class="delete-me" display="inline" id="note-00003"/></cite></item>
+    <item><emphasis effect="bold">Analytical</emphasis><emphasis effect="italics">.</emphasis> Analytical CRM software is all about data management and analysis. The software is designed to collect, organize, and analyze the inputted data, providing management with insights needed to better understand market trends, understand customer needs and wants, and make data-driven strategic decisions.<cite id="rf-048-a" target-id="rf-048"><note class="delete-me" display="inline" id="note-00004"/></cite></item>
+    <item><emphasis effect="bold">Collaborative.</emphasis> No business functions on an island. When businesses share customer data with one another, they gain insights and additional perspectives on customer behavior that is mutually beneficial. This collaboration allows each business to obtain information that it would not otherwise have access to. <cite id="rf-049-a" target-id="rf-049"><note class="delete-me" display="inline" id="note-00005"/></cite></item>
+    </list>
+    <para id="para-00005">Before we can explore how CRM impacts customer loyalty and retention, it’s probably a good time for a few definitions. <term id="term-00003">Customer loyalty</term> is an ongoing positive relationship between a customer and a business. Customer loyalty is at the crux of repeat purchases of your product versus those of your competitors. One common way to accomplish this is to offer reward/loyalty cards. For example, you may have a frequent flyer card from an airline or a loyalty card from <term class="no-emphasis" id="term-00004">Starbucks</term> or a retailer like <term class="no-emphasis" id="term-00005"><span class="red-text">Designer Shoe Warehouse (DSW)</span></term>, which rewards VIP customers with points for each purchase.</para>
+    <para id="para-00006"><term id="term-00006">Customer retention</term> is a closely related concept; it refers to a company’s ability to transform new customers into returning customers. In its simplest terms, it’s how you keep your customers coming back for more. The goal of customer retention is to reduce the number of customer defections, or those who buy your product at least once and then not again.</para>
+    <para id="para-00007">How does CRM impact customer loyalty and retention? Let’s take a look at some of the ways CRM accomplishes this:</para>
+    <list id="list-00003">
+    <item><emphasis effect="bold">Leveraging Customer Data</emphasis><emphasis effect="italics">.</emphasis> With CRM, a business can gather data on your existing customers and prospective customers so that their experience is a more positive one. For example, you can keep track of important dates such as customer birthdays or purchase anniversaries, and CRM software can send automatic emails to them with coupons or other incentives.<cite id="rf-050-a" target-id="rf-050"><note class="delete-me" display="inline" id="note-00006"/></cite></item>
+    <item><emphasis effect="bold">Enhanced Customer Communications</emphasis><emphasis effect="italics">.</emphasis> CRM software can be programmed to automatically send thank you notes to customers, send newsletters regarding new products, and send customer satisfaction surveys or polls so that you can glean more insight into your customers’ levels of satisfaction with your product or service.<cite id="rf-051-a" target-id="rf-051"><note class="delete-me" display="inline" id="note-00007"/></cite></item>
+    <item><emphasis effect="bold">Ascertaining Customer Needs.</emphasis> Fostering customer loyalty begins with understanding what your customers want and need. An effective CRM program can track customers’ purchase history, habits and preferences, and even web and email interaction. From this information, you can gain valuable insights that will aid you in developing targeted marketing strategies.<cite id="rf-052-a" target-id="rf-052"><note class="delete-me" display="inline" id="note-00008"/></cite></item>
+    <item><emphasis effect="bold">Gathering Feedback.</emphasis> We’d previously mentioned distributing customer surveys through use of your CRM software. This will provide you with valuable feedback not only about customers’ perceptions of your product or service but also about their customer experiences. Have you ever received a message from <term class="no-emphasis" id="term-00007"><span class="red-text">Amazon</span></term> after an online purchase, asking if you’d review the item you purchased? That’s likely the result of an effective CRM system.<cite id="rf-053-a" target-id="rf-053"><note class="delete-me" display="inline" id="note-00009"/></cite></item>
+    <item><emphasis effect="bold">Managing Customer Loyalty Programs.</emphasis> CRM software can assist you in identifying prospective loyalty program members and track member rewards. Loyalty programs reward members for purchases and have been shown to increase customer retention. For example, according to research, approximately 84 percent of customers indicate that loyalty programs are an incentive to remain with a brand, and 66 percent report that their spending behavior is actually altered by the ability to earn rewards.<cite id="rf-054-a" target-id="rf-054"><note class="delete-me" display="inline" id="note-00010"/></cite></item>
+    </list>
+    </section>
+    <section id="sect-00003">
+    <title>The Role of CRM in Building Customer Equity</title>
+    <para id="para-00008">We have already talked about customer equity—the potential profit a company earns from all of its customers, both current and potential—and customer equity is a core CRM benchmark. CRM isn’t a one-way communication street to customers. It’s a two-way street that allows customers to define and consequently shape offerings in terms of their requirements. This paves the way for open, honest dialogue that can ultimately lead to benefits to customers, thus resulting in higher customer equity.</para>
+    </section>
+    <section class="knowledge-check" id="sect-00004">
+    <title>Knowledge Check</title>
+    <para id="para-00009">It’s time to check your knowledge on the concepts presented in this section. Refer to the Answer Key at the end of the book for feedback.</para>
+    <exercise id="exer-00001"><problem id="prob-00001"><para id="para-00010"><link class="os-embed" url="#exercise/MBT_Ch1_Sec6_KC1"/></para></problem></exercise>
+    <exercise id="exer-00002"><problem id="prob-00002"><para id="para-00011"><link class="os-embed" url="#exercise/MBT_Ch1_Sec6_KC2"/></para></problem></exercise>
+    <exercise id="exer-00003"><problem id="prob-00003"><para id="para-00012"><link class="os-embed" url="#exercise/MBT_Ch1_Sec6_KC3"/></para></problem></exercise>
+    <exercise id="exer-00004"><problem id="prob-00004"><para id="para-00013"><link class="os-embed" url="#exercise/MBT_Ch1_Sec6_KC4"/></para></problem></exercise>
+    <exercise id="exer-00005"><problem id="prob-00005"><para id="para-00014"><link class="os-embed" url="#exercise/MBT_Ch1_Sec6_KC5"/></para></problem></exercise>
+    </section>
+    <section class="references" id="sect-00005">
+    <title>Endnotes</title>
+    <note id="rf-045"><link target-id="rf-045-a"><span>45.</span></link><span>Wesley Chai, Tim Ehrens, and Karolina Kiwak, “CRM (Customer Relationship Management),” SearchCustomerExperience, TechTarget, September 25, 2020, https://www.techtarget.com/searchcustomerexperience/definition/CRM-customer-relationship-management.</span></note>
+    <note id="rf-046"><link target-id="rf-046-a"><span>46.</span></link><span>“Salesforce Ranked #1 in CRM Market Share for Eighth Consecutive Year,” News &amp; Insights, Salesforce, December 16, 2021, https://www.salesforce.com/news/stories/salesforce-ranked-1-in-crm-market-share-for-eighth-consecutive-year/.</span></note>
+    <note id="rf-047"><link target-id="rf-047-a"><span>47.</span></link><span>“A Brief on Three Types of CRM: Operational, Analytical, Collaborative,” <emphasis effect="italics">OroCRM Blog</emphasis>, Oro, April 1, 2020, https://oroinc.com/orocrm/blog/a-brief-on-three-types-of-crm-operational-analytical-collaborative/.</span></note>
+    <note id="rf-048"><link target-id="rf-048-a"><span>48.</span></link><span>Oro, “Brief on Three Types.”</span></note>
+    <note id="rf-049"><link target-id="rf-049-a"><span>49.</span></link><span>Ibid.</span></note>
+    <note id="rf-050"><link target-id="rf-050-a"><span>50.</span></link><span>“How CRM Can Help in Strengthening Customer Loyalty,” <emphasis effect="italics">Commence CRM Blog</emphasis>, Commence, July 26, 2020, https://commence.com/blog/2020/07/26/crm-strengthening-customer-loyalty/.</span></note>
+    <note id="rf-051"><link target-id="rf-051-a"><span>51.</span></link><span>Commence, “How CRM Can Help.”</span></note>
+    <note id="rf-052"><link target-id="rf-052-a"><span>52.</span></link><span>Ibid.</span></note>
+    <note id="rf-053"><link target-id="rf-053-a"><span>53.</span></link><span>Ibid.</span></note>
+    <note id="rf-054"><link target-id="rf-054-a"><span>54.</span></link><span>Lindsey Peacock, “7 Innovative Customer Loyalty Programs to Keep Them Coming Back,” <emphasis effect="italics">Ecommerce Marketing Blog</emphasis>, Shopify, June 22, 2022, https://www.shopify.com/blog/loyalty-program.</span></note>
+    </section>
+    </content>
+    <glossary>
+    <definition id="def-00001"><term>customer loyalty</term><meaning>an ongoing positive relationship between a customer and a business</meaning></definition>
+    <definition id="def-00002"><term>customer relationship management (CRM)</term><meaning>all strategies, techniques, tools, and technologies used by companies to develop, acquire, and retain customers</meaning></definition>
+    <definition id="def-00003"><term>customer retention</term><meaning>the ability of a company to turn customers into repeat buyers and prevent them from switching to a competitor</meaning></definition>
+    </glossary>
 </document>
