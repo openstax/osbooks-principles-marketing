@@ -6,8 +6,91 @@
     <md:uuid>20678311-50d2-44a0-b95f-c4cafac731a7</md:uuid>
   </metadata>
   <content>
-<section id="sect-00001">
-<para id="para-00001"> </para>
-</section>
-  </content>
+    <section class="learning-objectives" id="sect-00001">
+    <title>Learning Outcomes</title>
+    <para id="para-00001">By the end of this section, you will be able to:</para>
+    <list id="list-00001">
+    <item>List the key performance indicators (KPIs) for measuring the effectiveness of an advertising campaign.</item>
+    <item>Describe how each KPI is measured.</item>
+    </list>
+    </section>
+    <section id="sect-00002">
+    <title>Key Metrics in Measuring Success</title>
+    <para id="para-00002">The most well-planned advertising campaigns are only effective if they bring about some result. Marketers use performance metrics to determine the effectiveness of a campaign.</para>
+    <para id="para-00003"><term id="term-00001">Key performance indicators (KPIs)</term> are indicators that measure how an advertising campaign is achieving certain goals or objectives. There are several KPIs marketers choose to measure to determine the impact of an advertising campaign. These metrics help marketers make changes to campaigns in order to meet the goals and objectives set forth.</para>
+    <section id="sect-00003">
+    <title>Brand Recognition</title>
+    <para id="para-00004"><term id="term-00002">Brand recognition</term> refers to the ability of a campaign audience to recognize and identify a specific brand. It measures the extent to which an audience can identify a brand with only a logo or photo. Depending on the advertising media used, marketers will choose the most appropriate metric to measure brand recognition. There are also numerous brand-tracking software programs that will gather this data for marketers.</para>
+    </section>
+    <section id="sect-00004">
+    <title>Brand Awareness</title>
+    <para id="para-00005">While brand recognition and brand awareness sound very similar, there is a distinct difference. <term id="term-00003">Brand awareness</term> takes recognition a step further to determine if audiences can recall information about the brand. Awareness often seeks to determine the emotions and impressions that a campaign has raised with specific advertisements.</para>
+    </section>
+    <section id="sect-00005">
+    <title>Impressions (Ad Views)</title>
+    <para id="para-00006">During an advertising campaign, marketers are also interested in quantifying how many times an advertisement appears in a chosen medium, known as <term id="term-00004">impressions</term>. To calculate impressions, you need to first determine the rating of the advertisement. The rating is simply a percentage of the target audience that is reached with an advertisement. This data is often gathered by outside firms, such as Nielsen, a long-time marketing research firm.</para>
+    <para id="para-00007">The following is the accepted impressions formula:</para>
+    <equation class="unnumbered" xmlns="http://cnx.rice.edu/cnxml" id="eq-00001"><math xmlns="http://www.w3.org/1998/Math/MathML"><mi>Impressions</mi><mo> </mo><mo>=</mo><mo> </mo><mi>Rating</mi><mo> </mo><mo>⤫</mo><mo> </mo><mi>Target</mi><mo> </mo><mi>Population</mi><mo> </mo><mo>⤫</mo><mo> </mo><mi>Number</mi><mo> </mo><mi>of</mi><mo> </mo><mi>Ads</mi><mo> </mo><mi>Run</mi></math></equation>
+    <para id="para-00008" xmlns="http://cnx.rice.edu/cnxml">Let’s assume that one of your television advertisements ran 2 times this week. Your target audience is 1 million people. You discover that your ad has a rating of 30 percent, or 0.30. Using the impressions formula</para>
+    <equation class="unnumbered" xmlns="http://cnx.rice.edu/cnxml" id="eq-00002"><math xmlns="http://www.w3.org/1998/Math/MathML"><mi>Impressions</mi><mo> </mo><mo>=</mo><mo> </mo><mn>0</mn><mo>.</mo><mn>30</mn><mo>⤫</mo><mo> </mo><mn>1</mn><mo>,</mo><mn>000</mn><mo>,</mo><mn>000</mn><mo> </mo><mo>⤫</mo><mo> </mo><mn>2</mn><mo> </mo><mo>=</mo><mo> </mo><mn>600</mn><mo>,</mo><mn>000</mn><mo> </mo><mi>Impressions</mi></math></equation>
+    <note class="link-to-learning" id="note-00001" xmlns="http://cnx.rice.edu/cnxml">
+    <title>Nielsen</title>
+    <para id="para-00009">If you’re going to be a marketer, you’re going to need to know <term class="no-emphasis" id="term-00005"><span class="red-text">Nielsen Company</span></term>, a “global leader in audience measurement, data and analytics, shaping the future of media.”<cite id="rf-010-a" target-id="rf-010"><note class="delete-me" display="inline" id="note-00002"/></cite> To better understand what the Nielsen Company is about, <link url="https://openstax.org/r/investopedia">read this Investopedia article.</link></para>
+    <para id="para-00010">Check out Nielsen’s <link url="https://openstax.org/r/annualmarketingreport">2022 Global Annual Marketing Report</link> about current trends.</para>
+    </note>
+    </section>
+    <section id="sect-00006">
+    <title>Conversion Rate</title>
+    <para id="para-00011">A <term id="term-00006">conversion rate</term> refers to the percentage of an audience that has completed a desired action. The formula for conversion rate is</para>
+    <equation class="unnumbered" xmlns="http://cnx.rice.edu/cnxml" id="eq-00003"><math xmlns="http://www.w3.org/1998/Math/MathML"><mi>Conversion</mi><mo> </mo><mi>Rate</mi><mo>=</mo><mfrac><mfenced><mrow><mi>Number</mi><mo> </mo><mi>of</mi><mo> </mo><mi>Converts</mi></mrow></mfenced><mrow><mo>(</mo><mi>Audience</mi><mo> </mo><mi>Size</mi><mo>)</mo></mrow></mfrac><mo>×</mo><mo> </mo><mn>100</mn></math></equation>
+    <para id="para-00012" xmlns="http://cnx.rice.edu/cnxml">For example, a web page advertisement may be attempting to get a viewer to click on the advertisement.</para>
+    <para id="para-00013">The conversion rate, then, would be the percentage of those viewers who clicked on the advertisement. Using our example of the web page advertisement, let’s assume that our audience size 500,000 and the number of converts (that is, the number of viewers who click the ad) is 100,000. Our conversion rate would be</para>
+    <equation class="unnumbered" xmlns="http://cnx.rice.edu/cnxml" id="eq-00004"><math xmlns="http://www.w3.org/1998/Math/MathML"><mi>Conversion</mi><mo> </mo><mi>Rate</mi><mo>=</mo><mfenced><mfrac><mrow><mn>100</mn><mo>,</mo><mn>000</mn></mrow><mrow><mn>500</mn><mo>,</mo><mn>000</mn></mrow></mfrac></mfenced><mo> </mo><mo>⤫</mo><mo> </mo><mn>100</mn><mo>%</mo><mo> </mo><mo>=</mo><mo> </mo><mn>0</mn><mo>.</mo><mn>020</mn><mo>,</mo><mi>or</mi><mo> </mo><mn>2</mn><mo>.</mo><mn>0</mn><mo>%</mo></math></equation>
+    <para id="para-00014" xmlns="http://cnx.rice.edu/cnxml">While industry averages can vary, generally a conversion rate somewhere between 2 percent and 5 percent for traditional marketing and above 10% for digital marketing is considered effective.<cite id="rf-011-a" target-id="rf-011"><note class="delete-me" display="inline" id="note-00003"/></cite></para>
+    </section>
+    <section id="sect-00007">
+    <title>Return on Ad Spend (ROAS)</title>
+    <para id="para-00015">Marketers are also often interested in calculating the return on advertising spending. <term id="term-00007">Return on ad spend (ROAS)</term> is a metric that measures the amount of revenue earned for every dollar spending on advertising. Unlike the other metrics discussed, ROAS utilizes the revenue from advertising. To calculate ROAS, you will simply divide the revenue for a given period by the advertising dollars in the period. The ROAS formula is</para>
+    <equation class="unnumbered" xmlns="http://cnx.rice.edu/cnxml" id="eq-00005"><math xmlns="http://www.w3.org/1998/Math/MathML"><mi>ROAS</mi><mo>=</mo><mfrac><mi>Revenue</mi><mrow><mi>Advertising</mi><mo> </mo><mi>Dollars</mi></mrow></mfrac></math></equation>
+    <para id="para-00016" xmlns="http://cnx.rice.edu/cnxml">Let’s assume your company spent $1,000 on an online campaign in a given month. The revenue generated from this campaign was $5,000. Your ROAS for this campaign in this period would be $5, or a 5:1 ratio:</para>
+    <equation class="unnumbered" xmlns="http://cnx.rice.edu/cnxml" id="eq-00006"><math xmlns="http://www.w3.org/1998/Math/MathML"><mi>ROAS</mi><mo>=</mo><mfrac><mrow><mo>$</mo><mn>5</mn><mo>,</mo><mn>000</mn></mrow><mrow><mo>$</mo><mn>1</mn><mo>,</mo><mn>000</mn></mrow></mfrac><mo> </mo><mo>=</mo><mo>$</mo><mn>5</mn></math></equation>
+    <para id="para-00017" xmlns="http://cnx.rice.edu/cnxml">In other words, for every $1 spent on advertisement, your company generated $5 in revenue.</para>
+    </section>
+    </section>
+    <section class="knowledge-check" id="sect-00008">
+    <title>Knowledge Check</title>
+    <para id="para-00018">It’s time to check your knowledge on the concepts presented in this section. Refer to the Answer Key at the end of the book for feedback.</para>
+    <exercise id="exer-00001"><problem id="prob-00001"><para id="para-00019"><link class="os-embed" url="#exercise/MBT_Ch14_Sec3_KC1"/></para></problem></exercise>
+    <exercise id="exer-00002"><problem id="prob-00002"><para id="para-00020"><link class="os-embed" url="#exercise/MBT_Ch14_Sec3_KC2"/></para></problem></exercise>
+    <exercise id="exer-00003"><problem id="prob-00003"><para id="para-00021"><link class="os-embed" url="#exercise/MBT_Ch14_Sec3_KC3"/></para></problem></exercise>
+    <exercise id="exer-00004"><problem id="prob-00004"><para id="para-00022"><link class="os-embed" url="#exercise/MBT_Ch14_Sec3_KC4"/></para></problem></exercise>
+    <exercise id="exer-00005"><problem id="prob-00005"><para id="para-00023"><link class="os-embed" url="#exercise/MBT_Ch14_Sec3_KC5"/></para></problem></exercise>
+    </section>
+    <note class="marketing-dashboard" id="note-00004">
+    <title>Measuring the Impact of Advertising</title>
+    <para id="para-00024">When marketing professionals purchase advertising, they are primarily interested in who will see it. Advertising is dependent on views, as it is not direct response like search or email marketing. Therefore, marketing professionals are looking for the biggest bang for their buck. This is where cost per thousand (CPM) comes in. The “M” in cost per thousand represents the Latin term <emphasis effect="italics">mille</emphasis>. CPM is the cost to advertise to 1,000 people.</para>
+    <para id="para-00025">An advertisement’s cost per thousand depends on a variety of factors. One such factor is how targeted an ad is to a given audience. Targetability increases the cost per thousand. Another factor is whether the media is digital or traditional. Traditional media (television, radio, print, and outdoor) have a higher CPM than digital advertising. Niche media may have higher CPM than mass media.</para>
+    <para id="para-00026">There are some legitimate criticisms of CPM. First, an ad view does not indicate an intent to purchase. It simply means that a prospective customer saw the ad. We have no way of knowing whether the ad was persuasive or changed behavior. CPM does not allow us to track behavior. Next, ad views may be duplicative or not properly targeted, potentially wasting the impression. For example, if you see an ad for the same running shoe three times and you’re not a runner, the brand wasted three impressions on you because you have no intent to purchase. Finally, ads may not run or load as intended, wasting advertising dollars on a failed impression.</para>
+    <equation class="unnumbered" xmlns="http://cnx.rice.edu/cnxml" id="eq-00007"><math xmlns="http://www.w3.org/1998/Math/MathML"><mi>CPM</mi><mo>=</mo><mfrac><mfenced><mrow><mi>Campaign</mi><mo> </mo><mi>Cost</mi></mrow></mfenced><mrow><mo>(</mo><mi>Impressions</mi><mo>)</mo></mrow></mfrac><mo>×</mo><mo> </mo><mn>1</mn><mo>,</mo><mn>000</mn></math></equation>
+    <exercise class="unnumbered" id="exer-00006" xmlns="http://cnx.rice.edu/cnxml"><problem id="prob-00006"><para id="para-00027">Let’s revisit our ice cream shop from <link document="m00075">Integrated Marketing Communications</link>. We decided to run an advertising campaign in the local newspaper. We paid $1,000 for 2,000 impressions. What is our CPM?</para></problem>
+    <solution id="sol-00001"><para id="para-00028">Correct Answer: $500</para></solution></exercise>
+    <exercise class="unnumbered" id="exer-00007"><problem id="prob-00007"><para id="para-00029">Last period, we acquired 15 customers from our advertising campaign with an average customer lifetime value of $50. Did our advertising campaign have a profitable result in the last period?</para></problem>
+    <solution id="sol-00002"><para id="para-00030">Correct Answer: No. We spent $1,000 on advertising and gained $750 in profit.</para></solution></exercise>
+    <exercise class="unnumbered" id="exer-00008"><problem id="prob-00008"><para id="para-00031">Let’s say we decide to reallocate our $1,000 advertising spend on a more targeted campaign. Do you expect that our CPM will increase or decrease?</para></problem>
+    <solution id="sol-00003"><para id="para-00032">Correct Answer: CPM will most likely increase because targeted media typically has a higher CPM.</para></solution></exercise>
+    </note>
+    <section class="references" id="sect-00009">
+    <title>Endnotes</title>
+    <note id="rf-010"><link target-id="rf-010-a"><span>10.</span></link><span>“About Nielsen,” Nielsen Overview, https://www.nielsen.com/about-us/about/#:~:text=Nielsen%20is%20a%20global%20leader,trusted%20intelligence%20that%20fuels%20action.</span></note>
+    <note id="rf-011"><link target-id="rf-011-a"><span>11.</span></link><span>“Conversion Rate of Online Shoppers in the United States from 4th Quarter 2020 to 4th Quarter 2021, by Device,” Statista, accessed July 8, 2022, https://www.statista.com/statistics/234884/us-online-shopper-conversion-rate-by-device/.</span></note>
+    </section>
+    </content>
+    <glossary>
+    <definition id="def-00001"><term>brand awareness</term><meaning>metric used to determine if audiences can recall information about a brand</meaning></definition>
+    <definition id="def-00002"><term>brand recognition</term><meaning>the ability of a campaign audience to recognize and identify a specific brand</meaning></definition>
+    <definition id="def-00003"><term>conversion rate</term><meaning> the percentage of an audience that has completed a desired action</meaning></definition>
+    <definition id="def-00004"><term>impressions</term><meaning>quantifying how many times an advertisement appears in a medium</meaning></definition>
+    <definition id="def-00005"><term>key performance indicators (KPIs)</term><meaning>indicators (metrics) that measure how an advertising campaign is achieving certain goals or objectives</meaning></definition>
+    <definition id="def-00006"><term>return on ad spend (ROAS)</term><meaning>metric that measures the amount of revenue earned for every dollar spent on advertising</meaning></definition>
+    </glossary>
 </document>
