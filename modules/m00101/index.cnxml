@@ -46,8 +46,8 @@
     <para id="para-00012">Within the sales process, an organization pays a salesperson salary and/or commission to make sales. This is an example of a cost to acquire a customer. As you can imagine, we want our cost to acquire to stay low. For example, if we sold multimillion-dollar airplanes, it would be reasonable to spend thousands of dollars on a salesperson to make that sale. However, if we were selling several-hundred-dollar televisions, our cost to acquire a customer must be much lower.</para>
     <para id="para-00013">Sales promotion is another promotional expense. For example, if a pizza brand provides samples at Costco, this might encourage a customer to purchase pizza. And if that customer keeps buying pizza, the cost of the pizza sample was worth it for the value that the customer will bring over the life of the relationship. Other categories of promotional costs include advertising, public relations, social media, search, and direct marketing.</para>
     <para id="para-00014">The formula for cost of acquisition is the total cost of marketing activities divided by number of customers acquired.</para>
-    <equation id="eq-00001"/>
-    <para id="para-00015">In this formula, you will see an assumption that all customers are worth the same amount, but as savvy marketers, we know that this is untrue. This is why we need to use a variety of marketing metrics when evaluating campaigns.</para>
+    <equation class="unnumbered" xmlns="http://cnx.rice.edu/cnxml" id="eq-00001"><math xmlns="http://www.w3.org/1998/Math/MathML"><mi>Cost</mi><mo> </mo><mi>of</mi><mo> </mo><mi>Acquistion</mi><mo>=</mo><mfrac><mrow><mi>Total</mi><mo> </mo><mi>Cost</mi><mo> </mo><mi>of</mi><mo> </mo><mi>Marketing</mi><mo> </mo><mi>Activities</mi></mrow><mrow><mi>Number</mi><mo> </mo><mi>of</mi><mo> </mo><mi>Customers</mi><mo> </mo><mi>Acquired</mi></mrow></mfrac></math></equation>
+    <para id="para-00015" xmlns="http://cnx.rice.edu/cnxml">In this formula, you will see an assumption that all customers are worth the same amount, but as savvy marketers, we know that this is untrue. This is why we need to use a variety of marketing metrics when evaluating campaigns.</para>
     <exercise class="unnumbered" id="exer-00001">
     <problem id="prob-00001"><para id="para-00016"><emphasis class="bold">Give the cost of acquisition calculation a try for yourself. What is the cost of acquisition in the example provided below?</emphasis></para>
     <table summary="" id="table-00001">
@@ -95,19 +95,22 @@
     </table></problem>
     <solution id="sol-00001">
     <para id="para-00017">Solution:</para>
-    <equation id="eq-00002"/>
-    <para id="para-00018">Formula:</para>
-    <equation id="eq-00003"/></solution></exercise>
-    <exercise class="unnumbered" id="exer-00002">
+    <equation class="unnumbered" xmlns="http://cnx.rice.edu/cnxml" id="eq-00002"><math xmlns="http://www.w3.org/1998/Math/MathML"><mo>$</mo><mn>5</mn><mo>.</mo><mn>74</mn><mo> </mo><mi>per</mi><mo> </mo><mi>customer</mi></math></equation>
+    <para id="para-00018" xmlns="http://cnx.rice.edu/cnxml">Formula:</para>
+    <equation class="unnumbered" xmlns="http://cnx.rice.edu/cnxml" id="eq-00003"><math xmlns="http://www.w3.org/1998/Math/MathML"><mo>$</mo><mn>4</mn><mo>,</mo><mn>650</mn><mo>,</mo><mn>000</mn><mo>/</mo><mn>810</mn><mo>,</mo><mn>000</mn></math></equation>  
+  </solution></exercise>
+    <exercise class="unnumbered" id="exer-00002" xmlns="http://cnx.rice.edu/cnxml">
     <problem id="prob-00002"><para id="para-00019"><emphasis class="bold">What additional information do you need to determine whether the cost of acquisition is appropriate for the product or service?</emphasis></para></problem>
     <solution id="sol-00002"><para id="para-00020">The price of the product/service, total sales, expenses, and margins associated with the product or service</para></solution></exercise>
     <exercise class="unnumbered" id="exer-00003">
     <problem id="prob-00003"><para id="para-00021"><emphasis class="bold">Let’s suppose that this example is for a national bookseller. The bookseller has an average profit per customer of $90 over the customer’s lifetime. Would the cost per acquisition that you calculated provide a good value for the bookseller? Why or why not?</emphasis></para></problem>
-    <solution id="sol-00003"><para id="para-00022">Yes. It is worth it to spend $5.74 to acquire a customer worth $90 on average over the lifespan of the relationship; <equation id="eq-00004"/></para></solution></exercise>
+    <solution id="sol-00003"><para id="para-00022">Yes. It is worth it to spend $5.74 to acquire a customer worth $90 on average over the lifespan of the relationship;</para>
+      <equation class="unnumbered" xmlns="http://cnx.rice.edu/cnxml" id="eq-00004"><math xmlns="http://www.w3.org/1998/Math/MathML"><mo>$</mo><mn>90</mn><mo> </mo><mo>></mo><mo> </mo><mo>$</mo><mn>5</mn><mo>.</mo><mn>74</mn></math></equation>
+    </solution></exercise>
     </note>
     </section>
     </section>
-    <section class="knowledge-check" id="sect-00008">
+    <section class="knowledge-check" id="sect-00008" xmlns="http://cnx.rice.edu/cnxml">
     <title>Knowledge Check</title>
     <para id="para-00023">It’s time to check your knowledge on the concepts presented in this section. Refer to the Answer Key at the end of the book for feedback.</para>
     <exercise id="exer-00004"><problem id="prob-00004"><para id="para-00024"><link class="os-embed" url="#exercise/MBT_Ch15_Sec5_KC1"/></para></problem></exercise>
