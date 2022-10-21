@@ -50,7 +50,7 @@
     <equation id="eq-00002"><math xmlns="http://www.w3.org/1998/Math/MathML"><mi>Net</mi><mo> </mo><mi>Profit</mi><mo> </mo><mi>Margin</mi><mo>=</mo><mfrac><mfenced><mrow><mi>Revenue</mi><mo>-</mo><mi>COGS</mi><mo>-</mo><mi>Other</mi><mo> </mo><mi>Taxes</mi><mo> </mo><mo>&amp;</mo><mo> </mo><mi>Expenses</mi></mrow></mfenced><mi>Revenue</mi></mfrac><mo>×</mo><mo> </mo><mn>100</mn></math></equation>
     <para id="para-00021" xmlns="http://cnx.rice.edu/cnxml">The calculation is expressed as a percentage.</para>
     <exercise class="unnumbered" id="exer-00001">
-    <problem id="prob-00001"><para id="para-00022">Suppose your sandwich shop is interested in its profit margins for a single order. Look at the chart and calculate the gross and net profit margins.</para>
+    <problem id="prob-00001"><para id="para-00022"><emphasis effect="bold">Suppose your sandwich shop is interested in its profit margins for a single order. Look at the chart and calculate the gross and net profit margins.</emphasis></para>
     <table summary="" id="table-00001">
     <tgroup cols="2">
     <tbody>
@@ -74,18 +74,17 @@
     </tgroup>
     </table></problem>
     <solution id="sol-00001">
-    <para id="para-00023">Answer:</para>
     <para id="para-00024">Gross profit margin: 44%</para>
     <para id="para-00025">Net profit margin: 24%</para>
     </solution>
     </exercise>
-    <exercise class="unnumbered" id="exer-00002"><problem id="prob-00002"><para id="para-00026">Which measure is more accurate?</para></problem>
-    <solution id="sol-00002"><para id="para-00027">Answer:</para>
+    <exercise class="unnumbered" id="exer-00002"><problem id="prob-00002"><para id="para-00026"><emphasis effect="bold">Which measure is more accurate?</emphasis></para></problem>
+    <solution id="sol-00002">
     <para id="para-00028">Net profit margin considers all expenses, so it is a more accurate measure than gross profit margin that only considers COGS.</para>
     </solution>
     </exercise>
-    <exercise class="unnumbered" id="exer-00003"><problem id="prob-00003"><para id="para-00029">Your business partner, Priya, wants to decrease the revenue of a single order to $5.50. How will that impact your profit margins?</para></problem>
-    <solution id="sol-00003"><para id="para-00030">Answer:</para>
+    <exercise class="unnumbered" id="exer-00003"><problem id="prob-00003"><para id="para-00029"><emphasis effect="bold">Your business partner, Priya, wants to decrease the revenue of a single order to $5.50. How will that impact your profit margins?</emphasis></para></problem>
+    <solution id="sol-00003">
     <para id="para-00031">Profitability per order will decrease if revenue decreases unless COGS or other expenses are reduced in turn.</para>
     </solution>
     </exercise>
