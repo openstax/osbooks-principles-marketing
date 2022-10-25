@@ -27,7 +27,7 @@
     <section id="sect-00004">
     <title>The 5A Framework</title>
     <para id="para-00006">The <term id="term-00001">5A framework</term> is the map of the customer’s needs. Through the 5A framework (see <link target-id="fig-00002" document="m00086"/>), marketers create messaging that moves the customer through the funnel, or customer journey with the brand. The 5As provide the marketer with clear steps on the role of the messaging at each step of the framework.</para>
-    <figure id="fig-00002"><media alt="The 5 A framework is shown as a triangle pointed down. As you move through the steps, the size of the area of the triangle represented by each step gets smaller. The steps are aware, appeal, ask, act, and advocacy."><image mime-type="image/png" src="../../media/MKT_Figure_13_04_010.png"/></media><caption>The 5A Framework (attribution: Copyright Rice University, OpenStax, under CC BY 4.0 license)</caption></figure>
+    <figure class="scaled-down" id="fig-00002"><media alt="The 5 A framework is shown as a triangle pointed down. As you move through the steps, the size of the area of the triangle represented by each step gets smaller. The steps are aware, appeal, ask, act, and advocacy."><image mime-type="image/png" src="../../media/MKT_Figure_13_04_010.png"/></media><caption>The 5A Framework (attribution: Copyright Rice University, OpenStax, under CC BY 4.0 license)</caption></figure>
     <para id="para-00007">Let’s look at the five steps of the 5A framework in more detail:</para>
     <list id="list-00002">
     <item><emphasis effect="bold">Aware</emphasis>: The first stage in the customer journey with any product is to be aware that the product exists. It is difficult for a product to be desired by the customer if they don’t know about it.
@@ -179,11 +179,11 @@
     </tbody>
     </tgroup>
     </table></problem>
-    <solution id="sol-00001"><para id="para-00041">Correct Answer: $2.29</para></solution></exercise>
+    <solution id="sol-00001"><para id="para-00041">$2.29</para></solution></exercise>
     <exercise class="unnumbered" id="exer-00002"><problem id="prob-00002"><para id="para-00042"><emphasis effect="bold">Last period, the RCOI was $1.90. What factors might impact the change from the previous period to this period?</emphasis></para></problem>
-    <solution id="sol-00002"><para id="para-00043">Correct Answer: RCOI considers all aspects of the IMC relationship, so as the relationship grows, the RCOI does as well.</para></solution></exercise>
+    <solution id="sol-00002"><para id="para-00043">RCOI considers all aspects of the IMC relationship, so as the relationship grows, the RCOI does as well.</para></solution></exercise>
     <exercise class="unnumbered" id="exer-00003"><problem id="prob-00003"><para id="para-00044"><emphasis effect="bold">What is the value of the RCOI calculation?</emphasis></para></problem>
-    <solution id="sol-00003"><para id="para-00045">Correct Answer: It determines the marketing communication campaigns that yield the most profitable customers.</para></solution></exercise>
+    <solution id="sol-00003"><para id="para-00045">It determines the marketing communication campaigns that yield the most profitable customers.</para></solution></exercise>
     </note>
     <note class="link-to-learning" id="note-00006">
     <title>Don Schultz</title>
