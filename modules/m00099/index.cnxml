@@ -25,7 +25,7 @@
     <para id="para-00007">According to <term class="no-emphasis" id="term-00007"><span class="red-text">Salesforce</span></term>, a company known for one of the most popular CRMs on the market, CRM software “is a technology for managing all your company’s relationships and interactions with customers and potential customers. The goal is simple: Improve business relationships to grow your business.”<cite id="rf-002-a" target-id="rf-002"><note class="delete-me" display="inline" id="note-00002"/></cite></para>
     <note class="link-to-learning" id="note-00003">
     <title>Difference between CRMs and SFA</title>
-    <para id="para-00008">Check out this short <link url="https://openstax.org/r/sfavscrm">article</link> from SelectHub that outlines in more detail the difference between CRMs and SFAs.</para>
+    <para id="para-00008">Check out this <link url="https://openstax.org/r/sfavscrm">short article from SelectHub</link> that outlines in more detail the difference between CRMs and SFAs.</para>
     </note>
     </section>
     <section id="sect-00003">
@@ -93,4 +93,20 @@
     <note id="rf-002"><link target-id="rf-002-a"><span>2.</span></link><span>“CRM 101: What Is CRM?,” Salesforce, accessed June 25, 2022, https://www.salesforce.com/crm/what-is-crm/.</span></note>
     </section>
     </content>
+    <glossary>
+      <definition id="def-00001"><term>adaptive selling</term><meaning>an approach to personal selling in which selling behaviors are altered during the sales interaction or across customer interactions, based on information about the nature of the selling situation</meaning></definition>
+      <definition id="def-00002"><term>AIDA model</term><meaning>the model consumers go through when becoming interested in a product. First the product must grab their attention, then they gain interest, they have a desire for the product, and they act to acquire the product</meaning></definition>
+      <definition id="def-00003"><term>approach</term><meaning>the stage of the sales process where the salesperson makes the initial approach to introduce the product to the customer</meaning></definition>
+      <definition id="def-00004"><term>consultative selling</term><meaning>focuses on the expertise of a salesperson with problem solving</meaning></definition>
+      <definition id="def-00005"><term>customer relationship management</term><meaning>the process sales personnel undertake to work with the customer to build the relationship and move into the role of a trusted advisor</meaning></definition>
+      <definition id="def-00006"><term>formula selling</term><meaning>an approach in which the sales presentation is designed to move the customer through the stages in the decision-making process, such as get the customer’s attention, develop interest, build desire, and secure action</meaning></definition>
+      <definition id="def-00007"><term>need/satisfaction format</term><meaning>a type of customized sales presentation in which the salesperson first identifies the prospective customer’s needs and then tries to offer a solution that satisfies those needs</meaning></definition>
+      <definition id="def-00008"><term>pre-approach stage</term><meaning>the stage of the sales process where the salesperson will work to understand the needs of the customer and begin working with them to become a customer</meaning></definition>
+      <definition id="def-00009"><term>presentation</term><meaning>the stage of the sales process where the salesperson showcases the features about a product that will be of most benefit to the prospect based on the needs uncovered during the pre-approach and approach stages</meaning></definition>
+      <definition id="def-00010"><term>prospect</term><meaning>a potential qualified customer who has the willingness, financial capacity, authority, and eligibility to buy the salesperson’s offering</meaning></definition>
+      <definition id="def-00011"><term>qualification</term><meaning>the process the salesperson undertakes to make sure the sales lead is a good fit for the product they are selling</meaning></definition>
+      <definition id="def-00012"><term>sales force automation</term><meaning>a software tool that helps organizations acquire customers</meaning></definition>
+      <definition id="def-00013"><term>sales leads</term><meaning>a database of potential customers that sales professionals work to create and develop through lead generation</meaning></definition>
+      <definition id="def-00014"><term>selling process</term><meaning>includes all of the steps the salesperson will implement as they work with the buyer to become a customer</meaning></definition>
+      </glossary>
 </document>
