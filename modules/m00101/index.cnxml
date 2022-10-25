@@ -94,9 +94,9 @@
     </tgroup>
     </table></problem>
     <solution id="sol-00001">
-    <equation class="unnumbered" xmlns="http://cnx.rice.edu/cnxml" id="eq-00002"><math xmlns="http://www.w3.org/1998/Math/MathML"><mo>$</mo><mn>5</mn><mo>.</mo><mn>74</mn><mo> </mo><mi>per</mi><mo> </mo><mi>customer</mi></math></equation>
+    <equation class="unnumbered" xmlns="http://cnx.rice.edu/cnxml" id="eq-00002"><math xmlns="http://www.w3.org/1998/Math/MathML"><mo>$</mo><mn>5.74</mn><mo> </mo><mi>per</mi><mo> </mo><mi>customer</mi></math></equation>
     <para id="para-00018" xmlns="http://cnx.rice.edu/cnxml">Formula:</para>
-    <equation class="unnumbered" xmlns="http://cnx.rice.edu/cnxml" id="eq-00003"><math xmlns="http://www.w3.org/1998/Math/MathML"><mo>$</mo><mn>4</mn><mo>,</mo><mn>650</mn><mo>,</mo><mn>000</mn><mo>/</mo><mn>810</mn><mo>,</mo><mn>000</mn></math></equation>  
+    <equation class="unnumbered" xmlns="http://cnx.rice.edu/cnxml" id="eq-00003"><math xmlns="http://www.w3.org/1998/Math/MathML"><mo>$</mo><mn>4,650,000</mn><mo>/</mo><mn>810,000</mn></math></equation>  
   </solution></exercise>
     <exercise class="unnumbered" id="exer-00002" xmlns="http://cnx.rice.edu/cnxml">
     <problem id="prob-00002"><para id="para-00019"><emphasis class="bold">What additional information do you need to determine whether the cost of acquisition is appropriate for the product or service?</emphasis></para></problem>
@@ -104,7 +104,11 @@
     <exercise class="unnumbered" id="exer-00003">
     <problem id="prob-00003"><para id="para-00021"><emphasis class="bold">Let’s suppose that this example is for a national bookseller. The bookseller has an average profit per customer of $90 over the customer’s lifetime. Would the cost per acquisition that you calculated provide a good value for the bookseller? Why or why not?</emphasis></para></problem>
     <solution id="sol-00003"><para id="para-00022">Yes. It is worth it to spend $5.74 to acquire a customer worth $90 on average over the lifespan of the relationship;</para>
-      <equation class="unnumbered" xmlns="http://cnx.rice.edu/cnxml" id="eq-00004"><math xmlns="http://www.w3.org/1998/Math/MathML"><mo>$</mo><mn>90</mn><mo> </mo><mo>></mo><mo> </mo><mo>$</mo><mn>5</mn><mo>.</mo><mn>74</mn></math></equation>
+      <equation class="unnumbered" xmlns="http://cnx.rice.edu/cnxml" id="eq-00004"><math xmlns="http://www.w3.org/1998/Math/MathML">
+        <mrow>
+         <mi>&#x0024;</mi><mn>90</mn><mo>&#x003E;</mo><mi>&#x0024;</mi><mn>5.74</mn>
+        </mrow>
+       </math></equation>
     </solution></exercise>
     </note>
     </section>
