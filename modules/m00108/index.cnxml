@@ -6,8 +6,108 @@
     <md:uuid>c3368c74-f526-4743-ae6b-6e1f064e93e1</md:uuid>
   </metadata>
   <content>
-<section id="sect-00001">
-<para id="para-00001"> </para>
-</section>
-  </content>
+    <section class="learning-objectives" id="sect-00001">
+    <title>Learning Outcomes</title>
+    <para id="para-00001">By the end of this section, you will be able to:</para>
+    <list id="list-00001">
+    <item>Describe ethical issues with respect to digital marketing and social media.</item>
+    <item>Explain why ethical issues exist.</item>
+    </list>
+    </section>
+    <section id="sect-00002">
+    <title>Privacy, Transparency, and Awareness</title>
+    <para id="para-00002">While digital marketing tools and social media provide online marketers with effective ways to engage with customers, build relationships, and drive consumers toward a purchase, there are ethical issues that marketers must consider when utilizing these tools.</para>
+    <para id="para-00003">First, because of the highly targeted capabilities of digital and social media, companies have access to large amounts of personal data, including name, email address, phone number, as well as personal interests, social and political views, and shopping behavior. Consumers are increasingly concerned about data privacy. In a recent survey by <term class="no-emphasis" id="term-00001"><span class="red-text">KPMG</span></term>, 86 percent of the respondents have a growing concern about data privacy, and 78 percent fear the amount of data being collected.<cite id="rf-034-a" target-id="rf-034"><note class="delete-me" display="inline" id="note-00001"/></cite></para>
+    <para id="para-00004">Given this growth in distrust of how personal data is handled, some companies have responded with updated policies designed to be more transparent about how data will be used. Seventy-five percent of consumers polled reported that they want increased transparency.<cite id="rf-035-a" target-id="rf-035"><note class="delete-me" display="inline" id="note-00002"/></cite></para>
+    <para id="para-00005">In 2021, <term class="no-emphasis" id="term-00002">Apple</term> released features for iPhone and iPad users that allow consumers to have stronger control of how their data is used.<cite id="rf-036-a" target-id="rf-036"><note class="delete-me" display="inline" id="note-00003"/></cite> Using pop-ups, Apple device users will be able to allow or disallow companies to track their activity across apps and the websites they link to. This move by Apple resulted in some back-and-forth commentary by <term class="no-emphasis" id="term-00003">Meta</term>’s Mark Zuckerberg and Apple CEO Tim Cook. Tech companies like <term class="no-emphasis" id="term-00004">Facebook</term> and <term class="no-emphasis" id="term-00005">Google</term> depend on being able to target the advertising on their applications to users using personal data. Giving greater privacy control to iPhone users presents a threat to the core of their business models.</para>
+    <para id="para-00006">Social media platforms in particular mine personal data and then use it to sell advertising space on news feeds of consumers who match the demographics and psychographics of a company’s target market. With nearly 71 percent of social media users taking the time to check their privacy settings on social media, it’s clear that this issue is front and center for a majority of users.<cite id="rf-037-a" target-id="rf-037"><note class="delete-me" display="inline" id="note-00004"/></cite> Companies can respect the privacy of their users by being transparent about what data they collect and how they use it.</para>
+    </section>
+    <section id="sect-00003">
+    <title>Tracking Consumer Data</title>
+    <para id="para-00007">The reality is that it’s not just social media companies and search engines that track consumer data. A majority of companies use tracking codes to follow consumers and data about them as they navigate the web. Zoho, a productivity and collaboration app, reported that in the B2B space, about 72 percent of businesses do not inform customers that they are being tracked by third parties.<cite id="rf-038-a" target-id="rf-038"><note class="delete-me" display="inline" id="note-00005"/></cite></para>
+    </section>
+    <section id="sect-00004">
+    <title>The Use of Client Reviews</title>
+    <para id="para-00008"><term id="term-00006">Client reviews</term> involve feedback that a customer or client posts directly to a platform that can accessed by consumers during the buying process. Companies that use client or customer reviews include Amazon.com, Wayfair, and Lands’ End. Customers rate their experience with the product typically by assigning stars and commenting on their satisfaction.</para>
+    <para id="para-00009">Reviews can be helpful to consumers during the search phase of the buying process because reviews provide a real-world glimpse into the favorability of a product. For example, <term class="no-emphasis" id="term-00007">Wayfair</term> invites customers to post pictures of items like sofas and end tables once a customer has styled the room. This provides shoppers a real-life view of the product, its color, and its size, among other things.</para>
+    <para id="para-00010">Beyond the reviews on e-commerce sites, Google serves as a major player in the customer review space. Consumers often rely on Google reviews when deciding on whether to hire a local business. In addition to Google, consumers can find reviews for travel on Tripadvisor, restaurant reviews on Zomato, and reviews of software programs on G2.</para>
+    <para id="para-00011">Marketers recognize the power of customer reviews as a digital promotional tool, as consumers report that they perceive reviews as more credible than messages created by the company itself.</para>
+    <note class="companies-conscience" id="note-00006">
+    <title>Apple’s Taking Big Steps to Protect Privacy</title>
+    <figure id="fig-00001"><media alt="A hand is shown holding an iPhone wit different apps visible on its home screen."><image mime-type="image/jpeg" src="../../media/MKT_Figure_16_04_011.jpg"/></media><caption>Apple iPhone (credit: “iPhone 5s applications” by Marco Verch/flickr, CC BY 2.0)</caption></figure>
+    <para id="para-00012">In January 2022, Apple took one of its most impactful steps toward protecting the privacy of iCloud users, the iCloud Private Relay.<cite id="rf-039-a" target-id="rf-039"><note class="delete-me" display="inline" id="note-00007"/></cite> When enabled on Apple devices, this feature hides a user’s IP address from the websites they visit, essentially masking a user’s entire online footprint.</para>
+    <para id="para-00013">The privacy feature is a game changer in the digital marketing space, as companies like Meta and Google depend on seeing a consumer’s online journey to learn more about who they are and what interests they have. Tracking online activity allows companies to serve users with relevant marketing messages and offerings.</para>
+    <para id="para-00014">In addition to the privacy relay, Apple also released “Hide My Email,” which allows Apple device users to enter a unique email address on websites without sharing their actual email address.<cite id="rf-040-a" target-id="rf-040"><note class="delete-me" display="inline" id="note-00008"/></cite> Emails that are sent to a randomly generated address are then forwarded to a user’s inbox, thereby hiding a user’s actual email address.</para>
+    <para id="para-00015">Finally, Apple has updated its Mail app such that it prevents marketers from tracking whether or not someone has opened an email.<cite id="rf-041-a" target-id="rf-041"><note class="delete-me" display="inline" id="note-00009"/></cite> Email marketers measure the percentage of people who open marketing emails to determine their level of engagement and the effectiveness of the email.</para>
+    <para id="para-00016">Apple appears to be taking consumer privacy to another level. By offering a collection of privacy-centric features, it is equipping consumers with tools to protect their personal information and navigate the web unseen.</para>
+    <para id="para-00017">Check out Apple’s website to <link url="https://openstax.org/r/abouticloud">learn more about iCloud Private Relay</link>. Also <link url="https://openstax.org/r/howappleicloud">read about it in this <emphasis effect="italics">Wired</emphasis> article</link>.</para>
+    </note>
+    </section>
+    <section class="chapter-summary" id="sect-00005">
+    <para id="para-00018">Direct, online, and social media marketing include a mix of useful tools that help marketers engage with targeted consumers in a way that is personalized and is designed to drive the audience to follow through on the desired marketing action. With the explosion in internet and mobile device usage coupled with advancements in digital technology, online marketing tools have been developed to help marketers meet consumers in the digital space. These tools are capable of connecting online marketers to carefully targeted individuals. With the development of these tools come ethical issues related to privacy. As consumer concern for privacy protection grows, companies will need to adapt their privacy policies to be more transparent about how they use consumer data.</para>
+    </section>
+    <section class="marketing-discussion" id="sect-00006">
+    <exercise id="exer-00001"><problem id="prob-00001"><para id="para-00019"><link class="os-embed" url="#exercise/MBT_Ch16_Sec1_DQ1"/></para></problem></exercise>
+    <exercise id="exer-00002"><problem id="prob-00002"><para id="para-00020"><link class="os-embed" url="#exercise/MBT_Ch16_Sec1_DQ2"/></para></problem></exercise>
+    <exercise id="exer-00003"><problem id="prob-00003"><para id="para-00021"><link class="os-embed" url="#exercise/MBT_Ch16_Sec4_DQ3"/></para></problem></exercise>
+    <exercise id="exer-00004"><problem id="prob-00004"><para id="para-00022"><link class="os-embed" url="#exercise/MBT_Ch16_Sec4_DQ4"/></para></problem></exercise>
+    </section>
+    <section class="critical-thinking" id="sect-00007">
+    <exercise id="exer-00005"><problem id="prob-00005"><para id="para-00023"><link class="os-embed" url="#exercise/MBT_Ch16_Sec1_CTQ1"/></para></problem></exercise>
+    <exercise id="exer-00006"><problem id="prob-00006"><para id="para-00024"><link class="os-embed" url="#exercise/MBT_Ch16_Sec1_CTQ2"/></para></problem></exercise>
+    <exercise id="exer-00007"><problem id="prob-00007"><para id="para-00025"><link class="os-embed" url="#exercise/MBT_Ch16_Sec1_CTQ3"/></para></problem></exercise>
+    </section>
+    <section class="building-brand" id="sect-00008">
+    <para id="para-00026">Goal-setting is the development of an action plan designed to motivate and guide an individual, group, or organization to reach a goal. There are several models of goal setting; one of the popular ones is SMART goal-setting. SMART stands for goals that are specific, measurable, action-oriented, realistic, and time-bound.</para>
+    <para id="para-00027">Consider a goal you might set for yourself that’s SMART. For example, if your goal is to intern at a marketing firm ,you might establish the following SMART goals:</para>
+    <list id="list-00002">
+    <item>Specific: Create a list of possible companies you want to target for an internship, and indicate why.</item>
+    <item>Measurable: Quantify the number of contacts at each company you plan to make in a week, and map those to calendar dates.</item>
+    <item>Action-oriented: Develop a plan for reaching out to and making appointments with those contacts.</item>
+    <item>Realistic: Is what you’re setting reasonable when you consider your work schedule, schoolwork, personal responsibilities, etc.? Set goals that are achievable.</item>
+    <item>Time-bound: Consider all of the steps, and decide how much time it will take you to complete this goal.</item>
+    </list>
+    <para id="para-00028">Now set yourself two goals around building your personal brand. Is there a skill you wish to learn or a website you want to develop? Whatever your goals are, be sure to consider the SMART goal-setting model as you develop them.</para></section>
+    <section class="marketers-do" id="sect-00009">
+    <para id="para-00029">Check out <link url="https://openstax.org/r/ananet">the Association of National Advertisers (ANA) website</link>, and scan the wealth of information available. It offers a content library, newsstand, marketing futures, blogs, and podcasts. Throughout this information, you will learn more about many aspects of current trends, future opportunities, and simply what it is that marketers are doing now. Being educated on the many associations and the information available can inspire you to look at marketing careers in a different light.</para>
+    <para id="para-00030">Navigate to the Content Library, then the Media Channels section. (In order to see the link to the Content Library, you need to hover over “Resources” at the top of the page.) From this section, review the various pieces of content available, and choose one to read. After reading, write a two-paragraph summary on what you learned, what you found most interesting, and why.</para>
+    </section>
+    <section class="company-case" id="sect-00010">
+    <section id="sect-00011">
+    <title>Publix</title>
+    <para id="para-00031">Founded in 1930, supermarket chain <term class="no-emphasis" id="term-00008"><span class="red-text">Publix</span></term> started with one store in Winter Haven, Florida. It now has over 1,200 stores throughout the Southeast. The company was founded on the promise of superior customer service. With unwavering dedication to quality and value, Publix is now one of the 10 largest-volume supermarket chains in the country.</para>
+    <para id="para-00032">Publix is employee-owned, and the pride and dedication of its employees shows in the daily interactions with customers and the communities it serves. Walk into any Publix grocery store, and the spacious aisles and displays provide for ease and access. The brightly lit shelves and soft music make for a pleasant shopping experience. With a wide selection of quality products and its own Publix brand, customers are typically delighted with the availability of premium and well-priced items.</para>
+    <para id="para-00033">A hallmark of the Publix shopping experience is the checkout. Its friendly Publix cashiers and abundance of grocery baggers make shopping a pleasure. No matter how big or small an order might be, the baggers are always eager to help customers out to the car with their groceries.</para>
+    <para id="para-00034">As the company worked to develop the superior in-store shopping experience, consumer preferences for grocery shopping began to change. Amazon, a leader in online shopping, bought <term class="no-emphasis" id="term-00009"><span class="red-text">Whole Foods</span></term>. Adding to its already “everything store” approach, <term class="no-emphasis" id="term-00010">Amazon</term> was now able to deliver groceries within a two-hour window.</para>
+    <para id="para-00035">In 2016, Publix began a pilot with Instacart. <term class="no-emphasis" id="term-00011"><span class="red-text">Instacart</span></term> is an online ordering and delivery platform, partnering primarily with grocery and drugstore chains nationwide. Publix had plans in place to launch Instacart with all Publix locations by 2020.</para>
+    <para id="para-00036">When COVID-19 began raging throughout the United States and economies were shuttered, demand for grocery delivery was high. Publix and Instacart rallied to meet the need. Each Publix location was tasked with getting its merchandise uploaded on its website, and Instacart was quickly hiring employees to shop for and deliver groceries to homes across its market area.</para>
+    <para id="para-00037">Using a mobile app, Publix consumers continue to use Instacart to shop for grocery delivery. Through the robust Publix website, consumers are able to place orders for party trays, bakery items, and whole-meal catering solutions. Publix regularly posts updates on food recalls and highlights of its sustainability efforts. Consumers who opt in can join the Publix Club to receive emails with coupons and weekly discounts on groceries.</para>
+    <para id="para-00038">Publix has an active social media presence. With over 3 million <term class="no-emphasis" id="term-00012">Facebook</term> followers, loyal consumers often comment on their good finds, grocery deals, and favorite products. Publix provides its followers with favorite recipes and new products.</para>
+    <para id="para-00039">Through <term class="no-emphasis" id="term-00013">Instagram</term>, Publix shares photos of some of its food products as well as ways it supports its communities and helps with environmental sustainability issues. Customers regularly like and comment on the Instagram posts featuring Publix food items and holiday meal ideas.<cite id="rf-042-a" target-id="rf-042"><note class="delete-me" display="inline" id="note-00010"/></cite></para>
+    <para id="para-00040">To learn more about these companies, <link url="https://openstax.org/r/publix">visit the Publix website</link> and <link url="https://openstax.org/r/instacart">the Instacart website</link>.</para>
+    </section>
+    <section id="sect-00012">
+    <title>Case Questions</title>
+    <exercise id="exer-00008"><problem id="prob-00008"><para id="para-00041"><link class="os-embed" url="#exercise/MBT_Ch16_Sec1_CQ1"/></para></problem></exercise>
+    <exercise id="exer-00009"><problem id="prob-00009"><para id="para-00042"><link class="os-embed" url="#exercise/MBT_Ch16_Sec2_CQ2"/></para></problem></exercise>
+    <exercise id="exer-00010"><problem id="prob-00010"><para id="para-00043"><link class="os-embed" url="#exercise/MBT_Ch16_Sec3_CQ3"/></para></problem></exercise>
+    <exercise id="exer-00011"><problem id="prob-00011"><para id="para-00044"><link class="os-embed" url="#exercise/MBT_Ch16_Sec2_CQ4"/></para></problem></exercise>
+    </section>
+    </section>
+    <section class="references" id="sect-00013">
+    <title>Endnotes</title>
+    <note id="rf-034"><link target-id="rf-034-a"><span>34.</span></link><span>Lance Whitney, “Data Privacy Is a Growing Concern for More Consumers,” TechRepublic, TechnologyAdvice, August 17, 2021, https://www.techrepublic.com/article/data-privacy-is-a-growing-concern-for-more-consumers/.</span></note>
+    <note id="rf-035"><link target-id="rf-035-a"><span>35.</span></link><span>Whitney, “Data Privacy.”</span></note>
+    <note id="rf-036"><link target-id="rf-036-a"><span>36.</span></link><span>David Price, “iOS 15 Latest Version, Problems &amp; New Features for iPhones,” <emphasis effect="italics">Macworld</emphasis>, August 18, 2022, https://www.macworld.com/article/675711/ios-15-latest-version-problems-new-features-for-iphone.html.</span></note>
+    <note id="rf-037"><link target-id="rf-037-a"><span>37.</span></link><span>Peter Suciu, “There Isn’t Enough Privacy on Social Media and That Is a Real Problem,” <emphasis effect="italics">Forbes</emphasis>, June 26, 2020, https://www.forbes.com/sites/petersuciu/2020/06/26/there-isnt-enough-privacy-on-social-media-and-that-is-a-real-problem/.</span></note>
+    <note id="rf-038"><link target-id="rf-038-a"><span>38.</span></link><span>“Zoho Privacy Survey Finds 62% of Businesses Aren’t Telling Customers about Third-Party Ad Trackers Collecting Their Data,” Business Wire, December 15, 2020, https://www.businesswire.com/news/home/20201215005426/en/Zoho-Privacy-Survey-Finds-62-of-Businesses-Aren%E2%80%99t-Telling-Customers-About-Third-Party-Ad-Trackers-Collecting-Their-Data.</span></note>
+    <note id="rf-039"><link target-id="rf-039-a"><span>39.</span></link><span>“About iCloud Private Relay,” Apple Support, Apple, July 11, 2022, https://support.apple.com/en-us/HT212614.</span></note>
+    <note id="rf-040"><link target-id="rf-040-a"><span>40.</span></link><span>“What Is Hide My Email?,” Apple Support, Apple, January 31, 2022, https://support.apple.com/en-us/HT210425.</span></note>
+    <note id="rf-041"><link target-id="rf-041-a"><span>41.</span></link><span>Rob Kaczanowski, “How Apple’s Mail Privacy Changes Affect Email Open Tracking,” <emphasis effect="italics">Postmark Blog</emphasis>, Postmark, November 9, 2021, https://postmarkapp.com/blog/how-apples-mail-privacy-changes-affect-email-open-tracking.</span></note>
+    <note id="rf-042"><link target-id="rf-042-a"><span>42.</span></link><span>Mike Miller, “Publix Supermarket Makes Shopping and Road Tripping a Pleasure,” Florida Back Roads Travel, March 24, 2022, https://www.florida-backroads-travel.com/publix-supermarket.html; Todd Jones, “A Message about Coronavirus (VOVID-19) from Publix CEO Todd Jones,” Publix Press Release, https://corporate.publix.com/newsroom/news-stories/covid-19-message-from-ceo; Russell Redman, “Publix Rolls Out 15-Minute Grocery Delivery via Instacart,” SN Supermarket News, April 28, 2022, https://www.supermarketnews.com/online-retail/publix-rolls-out-15-minute-grocery-delivery-instacart</span></note>
+    </section>
+    </content>
+    <glossary>
+    <definition id="def-00001"><term>client reviews</term><meaning>involve feedback that a customer or client posts directly to a platform that can accessed by consumers during the buying process</meaning></definition>
+    </glossary>
 </document>
