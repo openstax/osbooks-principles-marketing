@@ -6,8 +6,248 @@
     <md:uuid>9169e283-0b5a-4e1d-aee2-efe0ac93c1e0</md:uuid>
   </metadata>
   <content>
-<section id="sect-00001">
-<para id="para-00001"> </para>
-</section>
-  </content>
+    <section class="learning-objectives" id="sect-00001">
+    <title>Learning Outcomes</title>
+    <para id="para-00001">By the end of this section, you will be able to:</para>
+    <list id="list-00001">
+    <item>Characterize various store retailers.</item>
+    <item>Characterize various non-store retailers</item>
+    </list>
+    </section>
+    <para id="para-00002">Retailers, in some form or another, have been around for most of human history. As early as 800 BCE in ancient Athens, Greece, businesspeople sold their goods in developed markets at the city’s center.<cite id="rf-008-a" target-id="rf-008"><note class="delete-me" display="inline" id="note-00001"/></cite> Throughout history, this type of business has grown and become more specialized based on the needs of customers and the ability we now have to travel fairly easily. Today, retailers are often defined by their product lines—a group of products that are related to one another. Retailers are broken into two main categories, store or non-store retailers, which are further broken into retail types. Retail types are defined by their product lines. See <link target-id="table-00001" document="m00118"/> for a breakdown of retail types, the typical product focus for that retail type, and examples of retailers that fall into that type.</para>
+    <table summary="" id="table-00001">
+    <tgroup cols="3">
+    <thead>
+    <row>
+    <entry align="left"><emphasis effect="bold">Retail Type</emphasis></entry>
+    <entry align="left"><emphasis effect="bold">Product Focus</emphasis></entry>
+    <entry align="left"><emphasis effect="bold">Example</emphasis></entry>
+    </row>
+    </thead>
+    <tbody>
+    <row>
+    <entry><emphasis effect="bold">Store Retailers</emphasis></entry>
+    <entry/>
+    <entry/>
+    </row>
+    <row>
+    <entry>Specialty Store</entry>
+    <entry>Single product line</entry>
+    <entry>AutoZone</entry>
+    </row>
+    <row>
+    <entry>Department store</entry>
+    <entry>Wide variety of product lines</entry>
+    <entry><term class="no-emphasis" id="term-00001">JCPenney</term>, Kohl’s</entry>
+    </row>
+    <row>
+    <entry>Supermarket</entry>
+    <entry>Multiple product lines; focused mostly on grocery with limited services</entry>
+    <entry>Publix, <term class="no-emphasis" id="term-00002">Kroger</term>, <term class="no-emphasis" id="term-00003">Save A Lot</term></entry>
+    </row>
+    <row>
+    <entry>Superstore</entry>
+    <entry>Combination of supermarket and department store</entry>
+    <entry>Target, <term class="no-emphasis" id="term-00004">Walmart</term></entry>
+    </row>
+    <row>
+    <entry>Convenience Store</entry>
+    <entry>Limited range of everyday items</entry>
+    <entry>7-11, <term class="no-emphasis" id="term-00005">Speedway</term></entry>
+    </row>
+    <row>
+    <entry>Category killer</entry>
+    <entry>Very large superstores with wide product lines within a category</entry>
+    <entry><term class="no-emphasis" id="term-00006">Best Buy</term>, Lowe’s, Home Depot, <term class="no-emphasis" id="term-00007">Staples</term>, <term class="no-emphasis" id="term-00008">Office Depot</term></entry>
+    </row>
+    <row>
+    <entry>Discount store</entry>
+    <entry>Broad range of products with few or no services</entry>
+    <entry>Dollar General, Dollar Tree, <term class="no-emphasis" id="term-00009">Family Dollar</term></entry>
+    </row>
+    <row>
+    <entry>Off-price retailer</entry>
+    <entry>Brand name overstock, irregulars, and closeouts</entry>
+    <entry>T.J.Maxx, <term class="no-emphasis" id="term-00010">Ross</term></entry>
+    </row>
+    <row>
+    <entry>Factory outlet</entry>
+    <entry>Overstock or over-manufactured brand-name items, usually clothing; typically in a mall setting with other factory outlets</entry>
+    <entry>Sawgrass Mills Factory Outlet, <term class="no-emphasis" id="term-00011">Indiana Premium Outlets</term>, <term class="no-emphasis" id="term-00012">Osage Outlets</term>; <term class="no-emphasis" id="term-00013">Hanes Outlet</term>, <term class="no-emphasis" id="term-00014">L.L.Bean Outlet</term></entry>
+    </row>
+    <row>
+    <entry>Warehouse club</entry>
+    <entry>Bulk items at discount for paid membership</entry>
+    <entry>Sam’s Club, <term class="no-emphasis" id="term-00015">BJ’s</term>, Costco</entry>
+    </row>
+    <row>
+    <entry><emphasis effect="bold">Non-store retailers</emphasis></entry>
+    <entry/>
+    <entry>Vending machines, direct-mail catalogs, television home shopping online, telemarketing, direct selling</entry>
+    </row>
+    <row>
+    <entry>Automatic vending</entry>
+    <entry>Unmanned with very limited product line located in places store retailers are not</entry>
+    <entry>Snack and beverage machines in a hospital waiting room</entry>
+    </row>
+    <row>
+    <entry>Direct mail and catalogs</entry>
+    <entry>Limited product lines advertised through the mail</entry>
+    <entry>Tiffany &amp; Co.’s Blue Book, <term class="no-emphasis" id="term-00016">L.L.Bean</term>, <term class="no-emphasis" id="term-00017">Fingerhut</term></entry>
+    </row>
+    <row>
+    <entry>Television home shopping</entry>
+    <entry>Limited product lines advertised on television</entry>
+    <entry>Home Shopping Network, QVC</entry>
+    </row>
+    <row>
+    <entry>Online retailing</entry>
+    <entry>Can be wide or limited product lines of products offered for sale via the Internet</entry>
+    <entry>Amazon</entry>
+    </row>
+    <row>
+    <entry>Telemarketing</entry>
+    <entry>Very limited product line sold via the telephone</entry>
+    <entry/>
+    </row>
+    <row>
+    <entry>Direct selling</entry>
+    <entry>Very limited product line sold by salespeople who are very knowledgeable about the product and sell directly to a business or end user; used in B2C, but more often in B2B</entry>
+    <entry><para id="para-00003">Kirby Vacuums (B2C)</para>
+    <para id="para-00004">Publishing companies (B2B)</para>
+    <para id="para-00005">Technology companies (B2B)</para></entry>
+    </row>
+    </tbody>
+    </tgroup>
+    <caption>Types of Retailers (attribution: Copyright Rice University, OpenStax, under CC BY 4.0 license)</caption>
+    </table>
+    <section id="sect-00002">
+    <title>Store Retailers</title>
+    <para id="para-00006">Retailers tend to be the easiest of the channel members to identify because we see them everywhere we go, both in person and online. A <term id="term-00018">store retailer</term> is a traditional brick-and-mortar establishment where products are displayed for customers to purchase. Store retailers can be categorized in many ways based on their strategy mix, which includes a combination of store hours, location, product assortment, and prices.<cite id="rf-009-a" target-id="rf-009"><note class="delete-me" display="inline" id="note-00002"/></cite></para>
+    <para id="para-00007">As the number of store retailers has decreased significantly over the years due to their higher operating costs, some companies have found more innovative ways to provide their products in a similar setting. For example, <term class="no-emphasis" id="term-00019"><span class="red-text">Amazon Go</span></term> is a store retailer that allows customers to shop in-store, but has eliminated the use of cashiers (and long lines). As customers choose the products they want, the automated store keeps track of the purchase and charges the customers when they exit the store.<cite id="rf-010-a" target-id="rf-010"><note class="delete-me" display="inline" id="note-00003"/></cite></para>
+    <section id="sect-00003">
+    <title>Specialty Stores</title>
+    <para id="para-00008"><term id="term-00020">Specialty stores</term> focus on selling a single type of product or a single product line. The employees of specialty stores are often very knowledgeable about the products they sell and offer high levels of customer service. For example, when you need a new battery in your car, you may head straight to <term class="no-emphasis" id="term-00021"><span class="red-text">AutoZone</span></term>, a retailer specializing in vehicle parts. When you arrive, an associate will be able to assist you in choosing the correct battery for the make and model of your car, and sometimes, they may be able to install it for you.</para>
+    </section>
+    <section id="sect-00004">
+    <title>Department Stores</title>
+    <para id="para-00009"><term id="term-00022">Department stores</term> are typically larger than specialty stores and have separate areas or departments for similar product lines. For example, areas could include shoes, kids’ clothing, housewares, and so on. Each compartmentalized area may mimic the look and feel of a specialty store to make for a more intimate experience, but often the sales associates are not highly trained in each area. For example, <term class="no-emphasis" id="term-00023"><span class="red-text">Kohl’s</span></term>, a department store chain in the United States, has separate departments containing women’s fashion, shoes, kitchenware, and toys.</para>
+    </section>
+    <section id="sect-00005">
+    <title>Supermarkets</title>
+    <para id="para-00010">A <term id="term-00024">supermarket</term> is defined as a store that mostly focuses on a product mix of grocery items but also carries household and personal items and offers limited services. One example is <term class="no-emphasis" id="term-00025"><span class="red-text">Publix</span></term>, an employee-owned supermarket chain that opened in 1930 and has nearly 1,000 stores in the southeastern United States.<cite id="rf-011-a" target-id="rf-011"><note class="delete-me" display="inline" id="note-00004"/></cite> Publix’s average retail size is roughly 32,000 square feet, and more than 50 percent of its shelves are dedicated to grocery items. The other 50 percent consists of cleaning items, toiletries, over-the-counter medicines, beer/liquor, and personal hygiene products. Like most supermarkets, Publix also offers a deli, a bakery, hot food bars, a pharmacy, some apparel, and sometimes even pool supplies, toys, and other nonfood items.</para>
+    </section>
+    <section id="sect-00006">
+    <title>Convenience Stores</title>
+    <para id="para-00011">Named for their convenient location, a <term id="term-00026">convenience store</term> is a small retail business that stocks a limited range of everyday items, such as groceries, snacks, soft drinks, tobacco, toiletries, and lottery tickets (see <link target-id="fig-00001" document="m00118"/>). In the United States, convenience stores are most often linked to gas stations. Convenience stores offer consumers the convenience of stopping to fill up their tank and running inside for a few essential items without having to drive to a supermarket or other retailer. The first convenience store in the United States opened in Texas in 1927 and later became known as <term class="no-emphasis" id="term-00027"><span class="red-text">7-11</span></term>. In 2020, there were approximately 150,000 convenience stores in the United States.<cite id="rf-012-a" target-id="rf-012"><note class="delete-me" display="inline" id="note-00005"/></cite></para>
+    <figure id="fig-00001"><media alt="An assortment of candy and chips are shown in the center of a convenience store. Coolers with cold beverages line the wall."><image mime-type="image/jpeg" src="../../media/MKT_Figure_18_02_004.jpg"/></media><caption>Convenience Store (credit: “Wawa Miami” by Phillip Pessar/flickr, CC BY 2.0)</caption></figure>
+    </section>
+    <section id="sect-00007">
+    <title>Superstores</title>
+    <para id="para-00012"><term id="term-00028">Superstores</term> are very large retailers that have characteristics of both supermarkets and department stores (see <link target-id="fig-00002" document="m00118"/>). Like supermarkets, they sell a wide range of grocery items. But they also have considerable space dedicated to nonfood departments, as do department stores. <term class="no-emphasis" id="term-00029">Target</term> operates 1,927 retail stores in the United States. Some of its stores are considered superstores, where consumers can purchase not only (nearly) everything on their grocery list, but also clothing, household goods, electronics, toys, and sporting equipment.</para>
+    <figure id="fig-00002"><media alt="A Target storefront shows it’s trademark bullseye to the left of the store name and over the store entrance."><image mime-type="image/jpeg" src="../../media/MKT_Figure_18_02_005.jpg"/></media><caption>Superstore (credit: “Target” by Mike Mozart, JeepersMedia/flickr, CC BY 2.0)</caption></figure>
+    </section>
+    <section id="sect-00008">
+    <title>Category Killers</title>
+    <para id="para-00013"><term id="term-00030">Category killers</term> are large superstores or big-box retailers that are bigger, cheaper, and more convenient than other types of stores. Because of their sheer size, they have the advantage of buying products in very large quantities, which gives them a strong negotiation position for the price they pay to distributors. In turn, they can then offer discounted prices to consumers. These stores are called category killers because they often put nearby specialty stores out of business. <term class="no-emphasis" id="term-00031"><span class="red-text">Home Depot</span></term> and <term class="no-emphasis" id="term-00032"><span class="red-text">Lowe’s</span></term> are considered category killers because of their exhaustive inventory selection and low prices. The popularity of this big-box format means that smaller hardware stores may find it difficult to compete.</para>
+    </section>
+    <section id="sect-00009">
+    <title>Discount Stores</title>
+    <para id="para-00014">During the 2008 recession, many retailers began closing their doors. But <term class="no-emphasis" id="term-00033"><span class="red-text">Dollar General</span></term> was one retailer that saw exponential growth during this time.<cite id="rf-013-a" target-id="rf-013"><note class="delete-me" display="inline" id="note-00006"/></cite> Dollar General and competitor <term class="no-emphasis" id="term-00034"><span class="red-text">Dollar Tree</span></term> are <term id="term-00035">discount stores</term>—stores that sell a broad range of products at lower prices than competitors. While discount stores offer lower prices and often less variety than competitors, they often also offer fewer services and little customer service. As inflation put pressure on household budgets in 2022, shoppers from a range of income levels turned to dollar stores to save money on everyday necessities.</para>
+    <note class="link-to-learning" id="note-00007">
+    <title>Dollar Stores and the Community</title>
+    <para id="para-00015">Learn more about the impact dollar stores have on the community and commerce. It’s not always positive. Experts speak in this video about the potential negative impact and issues.</para>
+    <media alt=""><iframe width="660" height="371.4" src="https://openstax.org/r/dealornodeal"/></media>
+    </note>
+    </section>
+    <section id="sect-00010">
+    <title>Off-Price Retailers</title>
+    <para id="para-00016">Retailers that provide high-quality, name-brand goods at deeply discounted prices are considered <term id="term-00036">off-price retailers</term>. These retailers often purchase brand names that are irregular, closeouts, overstock, and off-season. While these retailers offer goods within more than one product line, often consumers cannot be guaranteed to find the same brand or item(s) in a store twice. <term class="no-emphasis" id="term-00037"><span class="red-text">T.J.Maxx</span></term>, one of the largest clothing retailers in the country, utilizes this strategy. The company’s buyers purchase over-ordered or over-manufactured products from distributors at deeply discounted prices. This merchandise is then offered to the consumer at lower prices than can be found in department stores.</para>
+    </section>
+    <section id="sect-00011">
+    <title>Factory Outlets</title>
+    <para id="para-00017">In some ways, <term id="term-00038">factory outlets</term> are similar to off-price retailers (see <link target-id="fig-00003" document="m00118"/>). The goods found in factory outlets are typically over-manufactured and sold at lower prices. However, factory outlet goods are sold directly from the manufacturer rather than through a third party. Many clothing manufacturers have factory outlets, which are typically clustered together in a factory outlet mall, a space where numerous factory outlets are located. For example, you may see <term class="no-emphasis" id="term-00039"><span class="red-text">Coach</span></term>, <term class="no-emphasis" id="term-00040"><span class="red-text">Gap</span></term>, or <term class="no-emphasis" id="term-00041"><span class="red-text">Lands’ End</span></term> stores in outlet malls. <term class="no-emphasis" id="term-00042"><span class="red-text">Sawgrass Mills Factory Outlet</span></term>, located in Sunrise, Florida, is the largest factory outlet mall in the United States. It houses over 350 factory outlet stores, including <term class="no-emphasis" id="term-00043"><span class="red-text">Adidas</span></term>, <term class="no-emphasis" id="term-00044"><span class="red-text">LEGO</span></term>, and <term class="no-emphasis" id="term-00045"><span class="red-text">Zales</span></term>.<cite id="rf-014-a" target-id="rf-014"><note class="delete-me" display="inline" id="note-00008"/></cite></para>
+    <figure id="fig-00003"><media alt="The words Fashion Outlet are over the entrance way to an outlet. Large stores are on either side of the sign."><image mime-type="image/jpeg" src="../../media/MKT_Figure_18_02_006.jpg"/></media><caption>Outlet Mall (credit: “DSCF1532.JPG” by jkonrath/flickr, CC BY 2.0)</caption></figure>
+    </section>
+    <section id="sect-00012">
+    <title>Warehouse Clubs</title>
+    <para id="para-00018"><term id="term-00046">Warehouse clubs</term> (see <link target-id="fig-00004" document="m00118"/>) are a type of retailer that sells goods in bulk at discounted prices to members only. Shoppers must first become members of the warehouse club before they are allowed to purchase. <term class="no-emphasis" id="term-00047"><span class="red-text">Costco</span></term> and <term class="no-emphasis" id="term-00048"><span class="red-text">Sam’s Club</span></term> are two of the largest warehouse clubs in the United States, and both offer a limited variety of perishable and nonperishable goods. Warehouse clubs operate out of enormous, no-frills, low-cost facilities that resemble warehouses.</para>
+    <figure id="fig-00004"><media alt="Costco Wholesale is written on the storefront above the doors; people are walking in and out of the doors."><image mime-type="image/jpeg" src="../../media/MKT_Figure_18_02_007.jpg"/></media><caption>Warehouse Club (credit: “Costco (East Lyme, Connecticut)” by jjbers/flickr, CC BY 2.0)</caption></figure>
+    </section>
+    </section>
+    <section id="sect-00013">
+    <title>Non-store Retailers</title>
+    <para id="para-00019"><term id="term-00049">Non-store retailers</term> are those retailers that operate outside of the traditional brick-and-mortar location. There are six main types of non-store retailers, and we will examine each in the following sections.</para>
+    <section id="sect-00014">
+    <title>Automatic Vending</title>
+    <para id="para-00020">Also referred to as vending machines, <term id="term-00050">automatic vending</term> is the use of an electronic device that dispenses a product (see <link target-id="fig-00005" document="m00118"/>). There is no direct human contact in the transaction. Traditionally, automatic vending machines would dispense items such as potato chips, candy, and soft drinks. However, more recently, companies have found automatic vending to be successful with other items, from cell phones to hot meals to automobiles. <term class="no-emphasis" id="term-00051"><span class="red-text">Carvana</span></term> is an automatic vending non-store retailer. Using Carvana, consumers can purchase their cars online, complete with financing, and pick up their vehicles at one of its vending machines or have it delivered with little or no human interaction needed. Debuting its 27th car vending machine in Atlanta, Georgia, in 2020 Carvana now has a location that is 12 stories high and holds 43 vehicles.<cite id="rf-015-a" target-id="rf-015"><note class="delete-me" display="inline" id="note-00009"/></cite> The company unveiled its first car vending machine in 2012, taking automobile shopping—and automatic vending—to a whole new level!</para>
+    <figure id="fig-00005"><media alt="A tall Carvana building is made of glass. Through the glass, you can see a car on each floor of the building. The word Carvana is at the top of the building."><image mime-type="image/jpeg" src="../../media/MKT_Figure_18_02_008.jpg"/></media><caption>Automobile Vending Machine (credit: “Carvana Delorean Back to the Future time machine” by zombieite/flickr, CC BY 2.0)</caption></figure>
+    </section>
+    <section id="sect-00015">
+    <title>Direct Mail and Catalogs</title>
+    <para id="para-00021"><term id="term-00052">Direct mail</term> involves solicited or unsolicited advertising of products and services to prospective customers through the mail (<link target-id="fig-00006" document="m00118"/>). Direct mail and catalogs are likely the oldest form of non-store retailing. The first mail-order catalog in the United States was <term class="no-emphasis" id="term-00053"><span class="red-text">Tiffany &amp; Co.</span></term>’s <emphasis effect="italics">Blue Book</emphasis> in 1845.<cite id="rf-016-a" target-id="rf-016"><note class="delete-me" display="inline" id="note-00010"/></cite> The company still uses catalogs in addition to store retail locations, and the catalogs feature some of the rarest diamonds and jewels in the world. A more popular mail-order catalog that began in the 1800s was the <term class="no-emphasis" id="term-00054"><span class="red-text">Sears Roebuck and Co.</span></term> catalog, the “big book,” which came to feature hundreds of pages of products offered by the company; the last was published in 1993. With the rise of the Internet, catalogs and direct mail are not as prevalent in marketing today, but it is still a retailing strategy that works for many companies.</para>
+    <figure id="fig-00006"><media alt="A pile of catalogs. The Patagonia catalog is visible on the top of the pile."><image mime-type="image/jpeg" src="../../media/MKT_Figure_18_02_009.jpg"/></media><caption>Mail-Order Catalogs (credit: “catalog” by nicolas.boullosa/flickr, CC BY 2.0)</caption></figure>
+    </section>
+    <section id="sect-00016">
+    <title>Television Home Shopping</title>
+    <para id="para-00022">Another example of a non-store retailer is television home shopping. <term id="term-00055">Television home shopping</term> primarily targets women over the age of 40 and is a business practice in which products or services are sold via television. There are some cable network stations that are dedicated solely to home shopping 24 hours a day, 7 days a week. One example is <term class="no-emphasis" id="term-00056"><span class="red-text">QVC</span></term>, which stands for Quality, Value, and Convenience. The company was founded in 1986 and purchased its rival <term class="no-emphasis" id="term-00057"><span class="red-text">Home Shopping Network (HSN)</span></term> in 2017. It generated $14.1 billion in profits in 2018.<cite id="rf-017-a" target-id="rf-017"><note class="delete-me" display="inline" id="note-00011"/></cite> The 2015 Hollywood movie <emphasis effect="italics">Joy</emphasis>, starring Jennifer Lawrence, showcases real-life entrepreneur Joy Mangano and the power of QVC as a non-store retailer.</para>
+    <para id="para-00023">Similar to online shopping, consumers can order products directly from a company via telephone or the Internet. Unlike the Internet and direct-mail catalogs, however, viewers can see the product being demonstrated or modeled in real time. While QVC hosts are demonstrating products, control room employees are able to monitor sales in real time as they are placed.</para>
+    </section>
+    <section id="sect-00017">
+    <title>Online Retailing</title>
+    <para id="para-00024"><term id="term-00058">Online retailing</term> allows consumers to search and purchase products remotely over the Internet. Although the Internet’s public birthday is debatable, online retailing started shortly thereafter. Though <term class="no-emphasis" id="term-00059">Amazon</term> (started by Jeff Bezos in 1995 as a book retailer) was not the first online retailer, its inception prompted thousands of companies to follow suit. In 2021, US consumers spent $5.4 trillion at online retail stores, a figure that is expected to increase. It is anticipated that, by 2023, online shopping will make up 22 percent of retail sales across the globe.<cite id="rf-018-a" target-id="rf-018"><note class="delete-me" display="inline" id="note-00012"/></cite></para>
+    </section>
+    <section id="sect-00018">
+    <title>Telemarketing</title>
+    <para id="para-00025"><term id="term-00060">Telemarketing</term> is the attempted sale or marketing of goods and services to potential customers via telephone. The telephone has been used as a sales tool since shortly after its invention. The 1970s, however, was the decade when technology became advanced enough that call centers—a centralized location or department that handles calls from customers—became an economical way of contacting potential customers. Over the next few decades, telemarketing became a staple in marketers’ strategies. But this resulted in consumers being annoyed with these calls and a rise in scamming calls, particularly those targeting the elderly. In 1991, the <term class="no-emphasis" id="term-00061">Federal Trade Commission (FTC)</term> addressed this problem with new rules for telemarketers, but it was not until 2003 that the Do Not Call Registry was created.<cite id="rf-019-a" target-id="rf-019"><note class="delete-me" display="inline" id="note-00013"/></cite> Even with these changes, legitimate and non-legitimate telemarketing finds its way onto phones. While many (legitimate) companies still utilize this form of non-store retailing, telemarketing is generally used (and more widely accepted) in business-to-business (B2B) settings.</para>
+    </section>
+    <section id="sect-00019">
+    <title>Direct Selling</title>
+    <para id="para-00026"><term id="term-00062">Direct selling</term> is selling products and services directly to the consumer in a non-retail setting. Direct selling typically consists of a salesperson attempting to sell a product or service to a potential customer at their residence or place of employment. This practice was very popular in the 1950 and 1960s when women were often stay-at-home mothers and/or homemakers. Salespeople would bring the product—a vacuum, for example—to the consumer’s home and demonstrate its benefits in an attempt to make a sale. With the rise of two-income families and the Internet, direct selling is not used frequently today in the consumer market. It is, however, still a widely used practice in B2B. However, it remains effective for some companies, such as <term class="no-emphasis" id="term-00063"><span class="red-text">Kirby</span></term>, which still sends salespeople door-to-door to sell its vacuums.</para>
+    </section>
+    </section>
+    <section class="knowledge-check" id="sect-00020">
+    <title>Knowledge Check</title>
+    <para id="para-00027">It’s time to check your knowledge on the concepts presented in this section. Refer to the Answer Key at the end of the book for feedback.</para>
+    <exercise id="exer-00001"><problem id="prob-00001"><para id="para-00028"><link class="os-embed" url="#exercise/MBT_Ch18_Sec2_KC1"/></para></problem></exercise>
+    <exercise id="exer-00002"><problem id="prob-00002"><para id="para-00029"><link class="os-embed" url="#exercise/MBT_Ch18_Sec2_KC2"/></para></problem></exercise>
+    <exercise id="exer-00003"><problem id="prob-00003"><para id="para-00030"><link class="os-embed" url="#exercise/MBT_Ch18_Sec2_KC3"/></para></problem></exercise>
+    <exercise id="exer-00004"><problem id="prob-00004"><para id="para-00031"><link class="os-embed" url="#exercise/MBT_Ch18_Sec2_KC4"/></para></problem></exercise>
+    <exercise id="exer-00005"><problem id="prob-00005"><para id="para-00032"><link class="os-embed" url="#exercise/MBT_Ch18_Sec2_KC5"/></para></problem></exercise>
+    </section>
+    <section class="references" id="sect-00021">
+    <title>Endnotes</title>
+    <note id="rf-008"><link target-id="rf-008-a"><span>8.</span></link><span>Susan Meyer, “The History and Evolution of Retail Stores: From Mom and Pop to Online Shops,” <emphasis effect="italics">BigCommerce Blog</emphasis>, BigCommerce, last modified July 15, 2022, https://www.bigcommerce.com/blog/retail/.</span></note>
+    <note id="rf-009"><link target-id="rf-009-a"><span>9.</span></link><span>“Retail Industry Sectors: Types of Retail,” Domain (Industry) Knowledgebase, TechnoFunc, accessed September 2, 2022, https://www.technofunc.com/index.php/domain-knowledge/retail-industry/item/retail-industry-sectors-types-of-retail.</span></note>
+    <note id="rf-010"><link target-id="rf-010-a"><span>10.</span></link><span>“Amazon Go,” Amazon.com, accessed September 2, 2022, https://www.amazon.com/b?ie=UTF8&amp;node=16008589011.</span></note>
+    <note id="rf-011"><link target-id="rf-011-a"><span>11.</span></link><span>“Company Overview,” Corporate Homepage, Publix Super Markets, accessed September 2, 2022, https://corporate.publix.com/about-publix/company-overview.</span></note>
+    <note id="rf-012"><link target-id="rf-012-a"><span>12.</span></link><span>“About NACS,” NACS, accessed September 2, 2022, https://www.convenience.org/About-NACS.</span></note>
+    <note id="rf-013"><link target-id="rf-013-a"><span>13.</span></link><span>Daniel Gross, “The Almighty Dollar (Store),” Slate, June 13, 2009, https://slate.com/business/2009/06/dollar-general-is-the-retail-store-that-figured-out-how-to-beat-the-recession.html.</span></note>
+    <note id="rf-014"><link target-id="rf-014-a"><span>14.</span></link><span>“About Sawgrass Mills,” Sawgrass Mills, Simon Property Group, accessed September 2, 2022, https://www.simon.com/mall/sawgrass-mills/about.</span></note>
+    <note id="rf-015"><link target-id="rf-015-a"><span>15.</span></link><span>“Carvana Debuts Flagship Car Vending Machine in Atlanta,” Investor Relations, Carvana, November 18, 2020, https://investors.carvana.com/news-releases/2020/11-18-2020-110046117.</span></note>
+    <note id="rf-016"><link target-id="rf-016-a"><span>16.</span></link><span>“10 Oldest Mail Order Catalogs in the World,” Oldest.org, last modified May 17, 2022, https://www.oldest.org/artliterature/mail-order-catalogs/.</span></note>
+    <note id="rf-017"><link target-id="rf-017-a"><span>17.</span></link><span>Jake Rossen, “15 Things You Might Not Know about QVC,” <emphasis effect="italics">Mental Floss</emphasis>, August 12, 2015, https://www.mentalfloss.com/article/67266/14-things-you-might-not-know-about-qvc.</span></note>
+    <note id="rf-018"><link target-id="rf-018-a"><span>18.</span></link><span>Carmen Ang, “Timeline: Key Events in the History of Online Shopping,” Visual Capitalist, updated October 6, 2021, https://www.visualcapitalist.com/history-of-online-shopping/.</span></note>
+    <note id="rf-019"><link target-id="rf-019-a"><span>19.</span></link><span>“Do Not Call,” Federal Communications Commission, last modified June 22, 2016, https://www.fcc.gov/general/do-not-call.</span></note>
+    </section>
+    </content>
+    <glossary>
+    <definition id="def-00001"><term>automatic vending</term><meaning>the use of an electronic device that dispenses a product</meaning></definition>
+    <definition id="def-00002"><term>category killers</term><meaning>large superstores, most often chains stores, that are bigger, cheaper, and more convenient than competitors</meaning></definition>
+    <definition id="def-00003"><term>convenience store</term><meaning>a small retail business that stocks a limited range of everyday items such as groceries, snacks, soft drinks, tobacco, toiletries, and lottery tickets</meaning></definition>
+    <definition id="def-00004"><term>department stores</term><meaning>larger retailers that have separated areas—or departments—for similar product lines</meaning></definition>
+    <definition id="def-00005"><term>direct mail</term><meaning>solicited or unsolicited advertising of products and services to prospective customers through the mail</meaning></definition>
+    <definition id="def-00006"><term>direct selling</term><meaning>a marketing strategy that involves selling products and services directly to the consumer in a non-retail setting</meaning></definition>
+    <definition id="def-00007"><term>factory outlets</term><meaning>retailers that offer overstocked merchandise at discounted prices</meaning></definition>
+    <definition id="def-00008"><term>non-store retailers</term><meaning>retailers that operate outside of traditional brick-and-mortar locations</meaning></definition>
+    <definition id="def-00009"><term>off-price retailers</term><meaning>retailers that provide high-quality goods at lower prices</meaning></definition>
+    <definition id="def-00010"><term>online retailing</term><meaning>a business model that allows consumers to search and purchase products remotely over the Internet</meaning></definition>
+    <definition id="def-00011"><term>specialty stores</term><meaning>retailers that focus on selling a single type of product or a single product line</meaning></definition>
+    <definition id="def-00012"><term>store retailer</term><meaning>a traditional brick-and-mortar establishment where products are displayed for customers to purchase</meaning></definition>
+    <definition id="def-00013"><term>supermarket</term><meaning>retailer that mostly focuses on a product mix of grocery items but also carries household and personal items and offers limited services</meaning></definition>
+    <definition id="def-00014"><term>superstores</term><meaning>very large retailers that have characteristics of both supermarkets and department stores</meaning></definition>
+    <definition id="def-00015"><term>telemarketing</term><meaning>the attempted sale, or marketing, of goods and services to potential customers via telephone</meaning></definition>
+    <definition id="def-00016"><term>television home shopping</term><meaning>a business practice in which products or services are sold via television</meaning></definition>
+    <definition id="def-00017"><term>warehouse clubs</term><meaning>retailers that sell goods in bulk at discounted prices</meaning></definition>
+    </glossary>
 </document>
