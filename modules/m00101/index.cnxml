@@ -55,40 +55,40 @@
     <thead>
     <row>
     <entry align="left"><emphasis effect="bold">Type of Promotion</emphasis></entry>
-    <entry align="left"><emphasis effect="bold">Expense</emphasis></entry>
-    <entry align="left"><emphasis effect="bold">Yield</emphasis></entry>
+    <entry align="center"><emphasis effect="bold">Expense</emphasis></entry>
+    <entry align="center"><emphasis effect="bold">Yield</emphasis></entry>
     </row>
     </thead>
     <tbody>
     <row>
     <entry>Television Advertising</entry>
-    <entry>$1,250,000</entry>
-    <entry>400,000 customers</entry>
+    <entry align="right">$1,250,000</entry>
+    <entry align="right">400,000 customers</entry>
     </row>
     <row>
     <entry>Catalog Mailing</entry>
-    <entry>$750,000</entry>
-    <entry>250,000 customers</entry>
+    <entry align="right">$750,000</entry>
+    <entry align="right">250,000 customers</entry>
     </row>
     <row>
     <entry>Search Engine Marketing</entry>
-    <entry>$550,000</entry>
-    <entry>90,000 customers</entry>
+    <entry align="right">$550,000</entry>
+    <entry align="right">90,000 customers</entry>
     </row>
     <row>
     <entry>Outdoor Activation</entry>
-    <entry>$1,500,000</entry>
-    <entry>70,000 customers</entry>
+    <entry align="right">$1,500,000</entry>
+    <entry align="right">70,000 customers</entry>
     </row>
     <row>
     <entry>Ad Agency Fees</entry>
-    <entry>$600,000</entry>
-    <entry>0 customers</entry>
+    <entry align="right">$600,000</entry>
+    <entry align="right">0 customers</entry>
     </row>
     <row>
     <entry><emphasis effect="bold">TOTAL</emphasis></entry>
-    <entry>$4,650,000</entry>
-    <entry>810,000 customers</entry>
+    <entry align="right">$4,650,000</entry>
+    <entry align="right">810,000 customers</entry>
     </row>
     </tbody>
     </tgroup>
@@ -96,7 +96,7 @@
     <solution id="sol-00001">
     <equation class="unnumbered" xmlns="http://cnx.rice.edu/cnxml" id="eq-00002"><math xmlns="http://www.w3.org/1998/Math/MathML"><mo>$</mo><mn>5.74</mn><mo> </mo><mi>per</mi><mo> </mo><mi>customer</mi></math></equation>
     <para id="para-00018" xmlns="http://cnx.rice.edu/cnxml">Formula:</para>
-    <equation class="unnumbered" xmlns="http://cnx.rice.edu/cnxml" id="eq-00003"><math xmlns="http://www.w3.org/1998/Math/MathML"><mo>$</mo><mn>4,650,000</mn><mo>/</mo><mn>810,000</mn></math></equation>  
+    <equation class="unnumbered" xmlns="http://cnx.rice.edu/cnxml" id="eq-00003"><math xmlns="http://www.w3.org/1998/Math/MathML"><mo>$</mo><mn>4,650,000</mn><mo>&#xA0;</mo><mo>/</mo><mo>&#xA0;</mo><mn>810,000</mn></math></equation>  
   </solution></exercise>
     <exercise class="unnumbered" id="exer-00002" xmlns="http://cnx.rice.edu/cnxml">
     <problem id="prob-00002"><para id="para-00019"><emphasis class="bold">What additional information do you need to determine whether the cost of acquisition is appropriate for the product or service?</emphasis></para></problem>
