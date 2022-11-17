@@ -29,14 +29,16 @@
     <para id="para-00006">Step two is to develop the research plan. What type of research is necessary to meet the established objectives of the first step? How will this data be collected? Additionally, what is the time frame of the research and budget to consider? If you must have information in the next week, a different plan would be implemented than in a situation where several months were allowed. These are issues that a researcher should address in order to meet the needs identified.</para>
     <para id="para-00007">Research is often classified as coming from one of two types of data: primary and secondary. <term id="term-00003">Primary data</term> is unique information that is collected by the specific researcher with the current project in mind. This type of research doesn’t currently exist until it is pulled together for the project. Examples of primary data collection include survey, observation, experiment, or focus group data that is gathered for the current project.</para>
     <para id="para-00008"><term id="term-00004">Secondary data</term> is any research that was completed for another purpose but can be used to help inform the research process. Secondary data comes in many forms and includes census data, journal articles, previously collected survey or focus group data of related topics, and compiled company data. Secondary data may be internal, such as the company’s sales records for a previous quarter, or external, such as an industry report of all related product sales. <term id="term-00005">Syndicated data</term>, a type of external secondary data, is available through subscription services and is utilized by many marketers. As you can see in <link target-id="table-00001" document="m00036"/>, primary and secondary data features are often opposite—the positive aspects of primary data are the negative side of secondary data.</para>
-    <table summary="" class="data-table" id="table-00001">
+    <table summary="" id="table-00001">
     <tgroup cols="3">
-    <tbody>
+    <thead>
     <row>
-    <entry/>
+    <entry align="center">&#160;</entry>
     <entry align="center"><emphasis effect="bold">Strengths</emphasis></entry>
     <entry align="center"><emphasis effect="bold">Weaknesses</emphasis></entry>
     </row>
+    </thead>
+    <tbody>
     <row>
     <entry align="center"><emphasis effect="bold">Primary Data</emphasis></entry>
     <entry>
@@ -92,7 +94,7 @@
     <para id="para-00019"><term id="term-00018">Unobtrusive observation</term> happens when those being observed aren’t aware that they are being watched. An example of an unobtrusive observation would be to watch how shoppers interact with a new stuffed animal display by using a one-way mirror. Marketers can identify which products were handled more often while also determining which were ignored.</para>
     <para id="para-00020">Other methods can use technology to collect the data instead. Instances of <term id="term-00019">mechanical observation</term> include the use of vehicle recorders, which count the number of vehicles that pass a specific location. Computers can also assess the number of shoppers who enter a store, the most popular entry point for train station commuters, or the peak time for cars to park in a parking garage.</para>
     <para id="para-00021">When you want to get a more in-depth response from research participants, one method is to complete a <term id="term-00020">one-on-one interview</term>. One-on-one interviews allow the researcher to ask specific questions that match the respondent’s unique perspective as well as follow-up questions that piggyback on responses already completed. An interview allows the researcher to have a deeper understanding of the needs of the respondent, which is another strength of this type of data collection. The downside of personal interviews it that a discussion can be very time-consuming and results in only one respondent’s answers. Therefore, in order to get a large sample of respondents, the interview method may not be the most efficient method.</para>
-    <para id="para-00022">Taking the benefits of an interview and applying them to a small group of people is the design of a <term id="term-00021">focus group</term>. A focus group is a small number of people, usually 8 to 12, who meet the sample requirements (see <link target-id="fig-00003" document="m00036"/>). These individuals together are asked a series of questions where they are encouraged to build upon each other’s responses, either by agreeing or disagreeing with the other group members. Focus groups are similar to interviews in that they allow the researcher, through a moderator, to get more detailed information from a small group of potential stakeholders.</para>
+    <para id="para-00022">Taking the benefits of an interview and applying them to a small group of people is the design of a <term id="term-00021">focus group</term>. A focus group is a small number of people, usually 8 to 12, who meet the sample requirements. These individuals together are asked a series of questions where they are encouraged to build upon each other’s responses, either by agreeing or disagreeing with the other group members. Focus groups are similar to interviews in that they allow the researcher, through a moderator, to get more detailed information from a small group of potential stakeholders (see <link target-id="fig-00003" document="m00036"/>).</para>
     <note class="link-to-learning" id="note-00005">
     <title>Focus Groups</title>
     <para id="para-00023">Focus groups are a common method for gathering insights into consumer thinking and habits. Companies will use this information to develop or shift their initiatives. The best way to understand a focus group is to watch a few examples or explanations. TED-Ed has this video that explains how focus groups work.</para>
@@ -104,14 +106,16 @@
     <para id="para-00026">One of the benefits of a focus group over individual interviews is that synergy can be generated when a participant builds on another’s ideas. Additionally, for the same amount of time, a researcher can hear from multiple respondents instead of just one.<cite id="rf-011-a" target-id="rf-011"><note class="delete-me" display="inline" id="note-00006"/></cite> Of course, as with every method of data collection, there are downsides to a focus group as well. Focus groups have the potential to be overwhelmed by one or two aggressive personalities, and the format can discourage more reserved individuals from speaking up. Finally, like interviews, the responses in a focus group are qualitative in nature and are difficult to distill into an easy statistic or two.</para>
     <figure id="fig-00003"><media alt="A group of five people sit around a table in a conference room. A sixth person is standing at the front of the room, next to a whiteboard with writing on it."><image mime-type="image/jpeg" src="../../media/MKT_Figure_06_03_005.jpg"/></media><caption>Focus Group Participants (credit: “Meeting” by UBC Learning Commons/flickr, CC BY 2.0)</caption></figure>
     <para id="para-00027">Combining a variety of questions on one instrument is called a <term id="term-00022">survey</term> or <term id="term-00023">questionnaire</term>. Collecting primary data is commonly done through surveys due to their versatility. A survey allows the researcher to ask the same set of questions of a large group of respondents. Response rates of surveys are calculated by dividing the number of surveys completed by the total number attempted. Surveys are flexible and can collect a variety of quantitative and qualitative data. Questions can include simplified yes or no questions, select all that apply, questions that are on a scale, or a variety of open-ended types of questions. There are four types of surveys (see <link target-id="table-00002" document="m00036"/>) we will cover, each with strengths and weaknesses defined.</para>
-    <table summary="" class="data-table" id="table-00002">
+    <table summary="" id="table-00002">
     <tgroup cols="3">
-    <tbody>
+    <thead>
     <row>
-    <entry/>
+    <entry align="center">&#160;</entry>
     <entry align="center"><emphasis effect="bold">Strengths</emphasis></entry>
     <entry align="center"><emphasis effect="bold">Weaknesses</emphasis></entry>
     </row>
+  </thead>
+  <tbody>
     <row>
     <entry align="center"><emphasis effect="bold">Mailed Surveys</emphasis></entry>
     <entry>
@@ -288,7 +292,7 @@
     <definition id="def-00019"><term>infographic</term><meaning>a representation of data in a variety of visual presentations</meaning></definition>
     <definition id="def-00020"><term>in-person surveys</term><meaning>surveys conducted when the respondent and data collector are face-to-face</meaning></definition>
     <definition id="def-00021"><term>judgment sample</term><meaning>a nonprobability sample type where the potential participants are selected based on a perceived match to the sample frame</meaning></definition>
-    <definition id="def-00022"><term>mailed surveys</term><meaning>surveys sent to potential participants through a mail service, such as the United States Post Service</meaning></definition>
+    <definition id="def-00022"><term>mailed surveys</term><meaning>surveys sent to potential participants through a mail service, such as the US Postal Service</meaning></definition>
     <definition id="def-00023"><term>mean</term><meaning>an arithmetic average of values</meaning></definition>
     <definition id="def-00024"><term>mechanical observation</term><meaning>the use of electronic monitoring to record the actions of the observed</meaning></definition>
     <definition id="def-00025"><term>median</term><meaning>the middle number when all answers are organized from smallest to largest; if an even number of data, the mean of the two middle answers is the median</meaning></definition>

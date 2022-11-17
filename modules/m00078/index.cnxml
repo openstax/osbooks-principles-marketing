@@ -70,8 +70,8 @@
     </section>
     <section id="sect-00004">
     <title>Cost-Based Objective</title>
-    <para id="para-00005">A fairly simple way to price products and services is using the <term id="term-00004">cost-based objective</term>. This pricing objective sets prices based on the costs of doing business, which were explained earlier in the chapter. The biggest pitfall of utilizing this pricing objective is that it might not align well with the customer’s value perception. Remember, customers don’t know (or care) what the cost of doing business is, so long as they are receiving a value in their purchase. Therefore, marketers run the risk of overpricing the product. Marketers using this objective also run the risk of pricing their products too low and failing to maximize profits.</para>
-    <para id="para-00006">Consider the manufacturing of a smartphone. Assume the total cost to the manufacturer to produce one smartphone is $3,000. This cost includes all expenses to the company for producing this one smartphone (product costs, variable and fixed expenses). The company chooses to set the selling price of this smartphone to include these costs plus a profit of 10 percent, which sets the final price at <math display="inline" xmlns="http://www.w3.org/1998/Math/MathML"><mo>$</mo><mn>3</mn><mo>,</mo><mn>300</mn><mo>&#xA0;</mo><mo>(</mo><mn>3</mn><mo>,</mo><mn>000</mn><mo>&#xA0;</mo><mo>+</mo><mo>&#xA0;</mo><mn>10</mn><mo>%</mo><mo>&#xA0;</mo><mo>&#xD7;</mo><mo>&#xA0;</mo><mn>3</mn><mo>,</mo><mn>000</mn><mo>)</mo></math>.<cite id="rf-021-a" target-id="rf-021" xmlns="http://cnx.rice.edu/cnxml"><note class="delete-me" display="inline" id="note-00015"/></cite></para>
+    <para id="para-00005">A fairly simple way to price products and services is using the <term id="term-00004">cost-based objective</term>. This pricing objective sets prices based on the costs of doing business, which were explained earlier in the chapter. The biggest pitfall of utilizing this pricing objective is that it might not align well with the customer’s value perception. Remember, customers don’t know (or care) what the cost of doing business is, so long as they receive value in their purchase. Therefore, marketers run the risk of overpricing the product. Marketers using this objective also run the risk of pricing their products too low and failing to maximize profits.</para>
+    <para id="para-00006">Consider the manufacturing of a smartphone. Assume the total cost to the manufacturer to produce one smartphone is $3,000. This cost includes all expenses to the company for producing this one smartphone (product costs, variable and fixed expenses). The company chooses to set the selling price of this smartphone to include these costs plus a profit of 10 percent, which sets the final price at <math display="inline" xmlns="http://www.w3.org/1998/Math/MathML"><mo>$</mo><mn>3</mn><mo>,</mo><mn>300</mn><mo> </mo><mo>(</mo><mn>3</mn><mo>,</mo><mn>000</mn><mo> </mo><mo>+</mo><mo> </mo><mn>10</mn><mo>%</mo><mo> </mo><mo>×</mo><mo> </mo><mn>3</mn><mo>,</mo><mn>000</mn><mo>)</mo></math>.<cite id="rf-021-a" target-id="rf-021" xmlns="http://cnx.rice.edu/cnxml"><note class="delete-me" display="inline" id="note-00015"/></cite></para>
     </section>
     <section id="sect-00005" xmlns="http://cnx.rice.edu/cnxml">
     <title>Sales-Oriented Objective</title>
@@ -150,12 +150,12 @@
     <section id="sect-00021">
     <title>Analyze the External Environment</title>
     <para id="para-00027">The fourth step in determining prices is to analyze the external environment. The external environment is comprised of factors outside of the organization that impact marketing decisions. While marketers cannot directly change these factors, they should be aware of how they might impact pricing decisions.</para>
-    <para id="para-00028">One way to remember the factors of the external environment is through the acronym PESTEL: political, environmental, social, technological, economic, and legal.<cite id="rf-028-a" target-id="rf-028"><note class="delete-me" display="inline" id="note-00009"/></cite> Questions to consider when analyzing the external environment as it relates to pricing are included in <link target-id="table-00002" document="m00078"/>.</para>
+    <para id="para-00028">One way to remember the factors of the external environment is through the acronym <term class="no-emphasis" id="term-00028">PESTLE</term>: political, economic, social, technological, legal, and environmental.<cite id="rf-028-a" target-id="rf-028"><note class="delete-me" display="inline" id="note-00009"/></cite> Questions to consider in a <term class="no-emphasis" id="term-00029">PESTLE analysis</term> when analyzing the external environment as it relates to pricing are included in <link target-id="table-00002" document="m00078"/>.</para>
     <table summary="" id="table-00002">
     <tgroup cols="3">
     <thead>
     <row>
-    <entry align="left"><emphasis effect="bold">Factor</emphasis></entry>
+    <entry align="left"><emphasis effect="bold">Factors</emphasis></entry>
     <entry align="left"><emphasis effect="bold">Question</emphasis></entry>
     <entry align="left"><emphasis effect="bold">Example</emphasis></entry>
     </row>
@@ -167,9 +167,9 @@
     <entry>A price cap on certain pharmaceuticals would limit the price a company could charge.</entry>
     </row>
     <row>
-    <entry>Environmental</entry>
-    <entry>What are the environmental concerns of the product?</entry>
-    <entry>A highly toxic product or process may need to have a higher price to properly and safely dispose of byproducts.</entry>
+    <entry>Economic</entry>
+    <entry>What is the current economic climate?</entry>
+    <entry>During inflation or deflation, prices may need to increase or decrease.</entry>
     </row>
     <row>
     <entry>Social</entry>
@@ -182,26 +182,26 @@
     <entry>If technology for a product is becoming obsolete, a decrease in price may be necessary.</entry>
     </row>
     <row>
-    <entry>Economic</entry>
-    <entry>What is the current economic climate?</entry>
-    <entry>During inflation or deflation, prices may need to increase or decrease.</entry>
-    </row>
-    <row>
     <entry>Legal</entry>
     <entry>What current legislation is impacting the industry?</entry>
     <entry>A new vehicle emission law may require new technology, thus increasing the price of vehicles.</entry>
     </row>
-    </tbody>
+    <row>
+      <entry>Environmental</entry>
+      <entry>What are the environmental concerns of the product?</entry>
+      <entry>A highly toxic product or process may need to have a higher price to properly and safely dispose of byproducts.</entry>
+      </row>
+      </tbody>
     </tgroup>
-    <caption>PESTEL Analysis</caption>
+    <caption>PESTLE Factors</caption>
     </table>
     <note class="link-to-learning" id="note-00010">
-    <title>PESTEL</title>
+    <title>PESTLE Analysis</title>
     <para id="para-00029">There are hundreds of online resources that discuss PESTEL. Here are a few to start with:</para>
     <list id="list-00002">
-    <item>The Corporate Finance Institute provides a <link url="https://openstax.org/r/corporatefinanceinstitute">PESTEL walk-through</link>.</item>
-    <item>The Oxford College of Marketing outlines the <link url="https://openstax.org/r/oxfordcollegeofmarketing">advantages and disadvantages of a PESTEL analysis</link>.</item>
-    <item><link url="https://openstax.org/r/scanningtheenvironment">Business-to-you provides a video, sample analysis, and a full list of PESTEL factors</link>.</item>
+    <item>The Corporate Finance Institute provides a <link url="https://openstax.org/r/corporatefinanceinstitute">PESTLE walk-through</link>.</item>
+    <item>The Oxford College of Marketing outlines the <link url="https://openstax.org/r/oxfordcollegeofmarketing">advantages and disadvantages of a PESTLE analysis</link>.</item>
+    <item><link url="https://openstax.org/r/scanningtheenvironment">Business-to-you provides a video, sample analysis, and a full list of PESTLE factors</link>.</item>
     </list>
     </note>
     <section id="sect-00022">
