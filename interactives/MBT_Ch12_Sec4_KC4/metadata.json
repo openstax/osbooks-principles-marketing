@@ -1,0 +1,22 @@
+{
+  "errata_id": "43703c217e43b57bc99a9ebe1efc589531d74f0e3fd7b8d05abe23c60904e29c",
+  "attachments": [],
+  "tags": [
+    "book:stax-mktg",
+    "lo:stax-mktg:12-4-2",
+    "context-cnxmod:40051640-09c7-4a04-84ba-d8cd23211b97",
+    "book-slug:principles-marketing",
+    "module-slug:principles-marketing:12-4-pricing-strategies-for-new-products"
+  ],
+  "books": [
+    {
+      "name": "stax-mktg",
+      "lo": [
+        "12-4-2"
+      ]
+    }
+  ],
+  "context": [
+    "m00079"
+  ]
+}
