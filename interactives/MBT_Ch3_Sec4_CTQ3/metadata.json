@@ -1,0 +1,25 @@
+{
+  "errata_id": "66874538505448ee80d73444391fee0d89e1657581536cb27813ac0950aa42ae",
+  "attachments": [],
+  "tags": [
+    "type:practice",
+    "context-cnxmod:f934773c-9e72-4130-9952-9d7beb84f5a8",
+    "book:stax-mktg",
+    "lo:stax-mktg:3-4-1",
+    "lo:stax-mktg:3-4-2",
+    "book-slug:principles-marketing",
+    "module-slug:principles-marketing:3-4-ethical-issues-in-consumer-buying-behavior"
+  ],
+  "books": [
+    {
+      "name": "stax-mktg",
+      "lo": [
+        "3-4-1",
+        "3-4-2"
+      ]
+    }
+  ],
+  "context": [
+    "m00005"
+  ]
+}
