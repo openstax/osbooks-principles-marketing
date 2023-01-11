@@ -1,0 +1,91 @@
+{
+  "UI": {
+    "showSolutionButton": "Show solution",
+    "tryAgainButton": "Retry",
+    "checkAnswerButton": "Check",
+    "tipsLabel": "Show tip",
+    "scoreBarLabel": "You got :num out of :total points",
+    "tipAvailable": "Tip available",
+    "feedbackAvailable": "Feedback available",
+    "readFeedback": "Read feedback",
+    "wrongAnswer": "Wrong answer",
+    "correctAnswer": "Correct answer",
+    "shouldCheck": "Should have been checked",
+    "shouldNotCheck": "Should not have been checked",
+    "noInput": "Please answer before viewing the solution"
+  },
+  "behaviour": {
+    "enableRetry": true,
+    "enableSolutionsButton": true,
+    "singlePoint": true,
+    "randomAnswers": true,
+    "showSolutionsRequiresInput": true,
+    "type": "auto",
+    "confirmCheckDialog": false,
+    "confirmRetryDialog": false,
+    "autoCheck": false,
+    "passPercentage": 100,
+    "showScorePoints": true,
+    "enableCheckButton": true
+  },
+  "overallFeedback": [
+    {
+      "from": 0,
+      "to": 0,
+      "feedback": "Wrong"
+    },
+    {
+      "from": 1,
+      "to": 99,
+      "feedback": "Almost!"
+    },
+    {
+      "from": 100,
+      "to": 100,
+      "feedback": "Correct!"
+    }
+  ],
+  "question": "Which of the critical Cs of pricing includes taking into the consideration the value of the product to retailers and suppliers?",
+  "isSolutionPublic": true,
+  "isFreeResponseSupported": false,
+  "answers": [
+    {
+      "text": "Cost",
+      "correct": false,
+      "tipsAndFeedback": {
+        "tip": "",
+        "chosenFeedback": "That&#8217;s not correct. The customer dimension of the critical Cs of pricing refers to the value that buyers will receive from an exchange process.",
+        "notChosenFeedback": ""
+      }
+    },
+    {
+      "text": "Competition",
+      "correct": false,
+      "tipsAndFeedback": {
+        "tip": "",
+        "chosenFeedback": "That&#8217;s not correct. Competition refers to how buyers see a product&#8217;s price in comparison with the competition.",
+        "notChosenFeedback": ""
+      }
+    },
+    {
+      "text": "Channels of distribution",
+      "correct": false,
+      "tipsAndFeedback": {
+        "tip": "",
+        "chosenFeedback": "That&#8217;s not correct. Cost refers to the financial resources producing a product will entail.",
+        "notChosenFeedback": ""
+      }
+    },
+    {
+      "text": "Customers",
+      "correct": true,
+      "tipsAndFeedback": {
+        "tip": "",
+        "chosenFeedback": "Channels of distribution include the importance of understanding the value of a product through the lens of suppliers and retailers.",
+        "notChosenFeedback": ""
+      }
+    }
+  ],
+  "subContentId": "580c5cfc-b028-420a-a940-24fc0fe33540",
+  "detailedSolution": "Channels of distribution include the importance of understanding the value of a product through the lens of suppliers and retailers."
+}
