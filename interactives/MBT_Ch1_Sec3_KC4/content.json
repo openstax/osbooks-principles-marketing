@@ -1,0 +1,91 @@
+{
+  "UI": {
+    "showSolutionButton": "Show solution",
+    "tryAgainButton": "Retry",
+    "checkAnswerButton": "Check",
+    "tipsLabel": "Show tip",
+    "scoreBarLabel": "You got :num out of :total points",
+    "tipAvailable": "Tip available",
+    "feedbackAvailable": "Feedback available",
+    "readFeedback": "Read feedback",
+    "wrongAnswer": "Wrong answer",
+    "correctAnswer": "Correct answer",
+    "shouldCheck": "Should have been checked",
+    "shouldNotCheck": "Should not have been checked",
+    "noInput": "Please answer before viewing the solution"
+  },
+  "behaviour": {
+    "enableRetry": true,
+    "enableSolutionsButton": true,
+    "singlePoint": true,
+    "randomAnswers": true,
+    "showSolutionsRequiresInput": true,
+    "type": "auto",
+    "confirmCheckDialog": false,
+    "confirmRetryDialog": false,
+    "autoCheck": false,
+    "passPercentage": 100,
+    "showScorePoints": true,
+    "enableCheckButton": true
+  },
+  "overallFeedback": [
+    {
+      "from": 0,
+      "to": 0,
+      "feedback": "Wrong"
+    },
+    {
+      "from": 1,
+      "to": 99,
+      "feedback": "Almost!"
+    },
+    {
+      "from": 100,
+      "to": 100,
+      "feedback": "Correct!"
+    }
+  ],
+  "question": "Which of the domains of the macroenvironment are most likely to be responsible for cutting-edge innovations?",
+  "isSolutionPublic": true,
+  "isFreeResponseSupported": false,
+  "answers": [
+    {
+      "text": "Economic",
+      "correct": false,
+      "tipsAndFeedback": {
+        "tip": "",
+        "chosenFeedback": "That&#8217;s not correct. The social and cultural domain is concerned with such things as social trends, attitudes, and opinions.",
+        "notChosenFeedback": ""
+      }
+    },
+    {
+      "text": "Technological",
+      "correct": false,
+      "tipsAndFeedback": {
+        "tip": "",
+        "chosenFeedback": "That&#8217;s not correct. Political and legal concerns focus on legislation, regulation, and mandates concerning business.",
+        "notChosenFeedback": ""
+      }
+    },
+    {
+      "text": "Political and legal",
+      "correct": false,
+      "tipsAndFeedback": {
+        "tip": "",
+        "chosenFeedback": "That&#8217;s not correct. The economic domain is concerned with such things as the inflation rate, the unemployment rate, and interest rates that impact the economy and consumers&#8217; spending power.",
+        "notChosenFeedback": ""
+      }
+    },
+    {
+      "text": "Social and cultural",
+      "correct": true,
+      "tipsAndFeedback": {
+        "tip": "",
+        "chosenFeedback": "The technological domain is responsible for emerging production technologies as well as the creation of new innovations that make possible new products.",
+        "notChosenFeedback": ""
+      }
+    }
+  ],
+  "subContentId": "07f60075-dd52-4943-9ab8-3d5d17ddcd8f",
+  "detailedSolution": "The technological domain is responsible for emerging production technologies as well as the creation of new innovations that make possible new products."
+}
