@@ -1,0 +1,91 @@
+{
+  "UI": {
+    "showSolutionButton": "Show solution",
+    "tryAgainButton": "Retry",
+    "checkAnswerButton": "Check",
+    "tipsLabel": "Show tip",
+    "scoreBarLabel": "You got :num out of :total points",
+    "tipAvailable": "Tip available",
+    "feedbackAvailable": "Feedback available",
+    "readFeedback": "Read feedback",
+    "wrongAnswer": "Wrong answer",
+    "correctAnswer": "Correct answer",
+    "shouldCheck": "Should have been checked",
+    "shouldNotCheck": "Should not have been checked",
+    "noInput": "Please answer before viewing the solution"
+  },
+  "behaviour": {
+    "enableRetry": true,
+    "enableSolutionsButton": true,
+    "singlePoint": true,
+    "randomAnswers": true,
+    "showSolutionsRequiresInput": true,
+    "type": "auto",
+    "confirmCheckDialog": false,
+    "confirmRetryDialog": false,
+    "autoCheck": false,
+    "passPercentage": 100,
+    "showScorePoints": true,
+    "enableCheckButton": true
+  },
+  "overallFeedback": [
+    {
+      "from": 0,
+      "to": 0,
+      "feedback": "Wrong"
+    },
+    {
+      "from": 1,
+      "to": 99,
+      "feedback": "Almost!"
+    },
+    {
+      "from": 100,
+      "to": 100,
+      "feedback": "Correct!"
+    }
+  ],
+  "question": "The least costly method of test-marketing is known as ________.",
+  "isSolutionPublic": true,
+  "isFreeResponseSupported": false,
+  "answers": [
+    {
+      "text": "controlled test-marketing",
+      "correct": false,
+      "tipsAndFeedback": {
+        "tip": "",
+        "chosenFeedback": "That&#8217;s not correct. Crowdsourcing is the practice of turning to a large body of people to obtain needed knowledge.",
+        "notChosenFeedback": ""
+      }
+    },
+    {
+      "text": "sales-wave research",
+      "correct": false,
+      "tipsAndFeedback": {
+        "tip": "",
+        "chosenFeedback": "That&#8217;s not correct. Simulated test-marketing exposes customers to simulated market situations in order to gauge their reactions to a new product or service.",
+        "notChosenFeedback": ""
+      }
+    },
+    {
+      "text": "simulated test-marketing",
+      "correct": false,
+      "tipsAndFeedback": {
+        "tip": "",
+        "chosenFeedback": "That&#8217;s not correct. Controlled test-marketing involves managing a group of stores that have agreed to carry the new product for a fee and then measuring sales at checkout.",
+        "notChosenFeedback": ""
+      }
+    },
+    {
+      "text": "crowdsourcing",
+      "correct": true,
+      "tipsAndFeedback": {
+        "tip": "",
+        "chosenFeedback": "In sales-wave research, consumers are initially allowed to try the product at no cost. They are then reoffered the product (or a competitor&#8217;s product) at a reduced price a number of times (i.e., sales waves). The point of this research is to see how many consumers select the new product and record their reported levels of satisfaction with the product.",
+        "notChosenFeedback": ""
+      }
+    }
+  ],
+  "subContentId": "69a220f7-d06f-455f-a779-40ad00adaee9",
+  "detailedSolution": "In sales-wave research, consumers are initially allowed to try the product at no cost. They are then reoffered the product (or a competitor’s product) at a reduced price a number of times (i.e., sales waves). The point of this research is to see how many consumers select the new product and record their reported levels of satisfaction with the product."
+}
