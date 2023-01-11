@@ -1,0 +1,24 @@
+{
+  "errata_id": "1d90a16635ee87f536af22769eeb30c6105e8da9b29ed632dfaf7d3d72a70231",
+  "attachments": [],
+  "tags": [
+    "book:stax-mktg",
+    "lo:stax-mktg:18-6-2",
+    "context-cnxmod:108d5151-1570-4c07-9903-645aee3c0ca6",
+    "lo:stax-mktg:18-6-3",
+    "book-slug:principles-marketing",
+    "module-slug:principles-marketing:18-6-recent-trends-in-wholesaling"
+  ],
+  "books": [
+    {
+      "name": "stax-mktg",
+      "lo": [
+        "18-6-2",
+        "18-6-3"
+      ]
+    }
+  ],
+  "context": [
+    "m00122"
+  ]
+}
