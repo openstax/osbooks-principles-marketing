@@ -1,0 +1,23 @@
+{
+  "errata_id": "e4dc4e0761ccc6fbb4c064517e40f3582522c325f9a4e599dd9af29ceaf4a5cb",
+  "attachments": [],
+  "tags": [
+    "type:practice",
+    "book:stax-mktg",
+    "context-cnxmod:5e559ab0-3aa5-4740-be13-2982f99b2aa0",
+    "lo:stax-mktg:13-1-2",
+    "book-slug:principles-marketing",
+    "module-slug:principles-marketing:13-1-the-promotion-mix-and-its-elements"
+  ],
+  "books": [
+    {
+      "name": "stax-mktg",
+      "lo": [
+        "13-1-2"
+      ]
+    }
+  ],
+  "context": [
+    "m00083"
+  ]
+}
