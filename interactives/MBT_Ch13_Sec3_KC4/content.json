@@ -1,0 +1,91 @@
+{
+  "UI": {
+    "showSolutionButton": "Show solution",
+    "tryAgainButton": "Retry",
+    "checkAnswerButton": "Check",
+    "tipsLabel": "Show tip",
+    "scoreBarLabel": "You got :num out of :total points",
+    "tipAvailable": "Tip available",
+    "feedbackAvailable": "Feedback available",
+    "readFeedback": "Read feedback",
+    "wrongAnswer": "Wrong answer",
+    "correctAnswer": "Correct answer",
+    "shouldCheck": "Should have been checked",
+    "shouldNotCheck": "Should not have been checked",
+    "noInput": "Please answer before viewing the solution"
+  },
+  "behaviour": {
+    "enableRetry": true,
+    "enableSolutionsButton": true,
+    "singlePoint": true,
+    "randomAnswers": true,
+    "showSolutionsRequiresInput": true,
+    "type": "auto",
+    "confirmCheckDialog": false,
+    "confirmRetryDialog": false,
+    "autoCheck": false,
+    "passPercentage": 100,
+    "showScorePoints": true,
+    "enableCheckButton": true
+  },
+  "overallFeedback": [
+    {
+      "from": 0,
+      "to": 0,
+      "feedback": "Wrong"
+    },
+    {
+      "from": 1,
+      "to": 99,
+      "feedback": "Almost!"
+    },
+    {
+      "from": 100,
+      "to": 100,
+      "feedback": "Correct!"
+    }
+  ],
+  "question": "Tina knows that when she goes to Walgreens, she can use coupons and her reward points. She is thrilled with the way she saves money at Walgreens, and she is happy to be able to use so many of the great promotional opportunities. She tells many of her family and friends about her savings and her experience. Which of the following integrated marketing communications benefits is Tina demonstrating?",
+  "isSolutionPublic": true,
+  "isFreeResponseSupported": false,
+  "answers": [
+    {
+      "text": "Better results",
+      "correct": false,
+      "tipsAndFeedback": {
+        "tip": "",
+        "chosenFeedback": "That&#8217;s not correct. An example of improved brand awareness would be for Tina to demonstrate that she recognizes the logo and the brand promise from Walgreens.",
+        "notChosenFeedback": ""
+      }
+    },
+    {
+      "text": "Increased efficiency",
+      "correct": false,
+      "tipsAndFeedback": {
+        "tip": "",
+        "chosenFeedback": "That&#8217;s not correct. Increased efficiency indicates that the message is delivered through multiple forms of communication.",
+        "notChosenFeedback": ""
+      }
+    },
+    {
+      "text": "Improved brand awareness",
+      "correct": false,
+      "tipsAndFeedback": {
+        "tip": "",
+        "chosenFeedback": "That&#8217;s not correct. Better results would include other methods of determining that the message reached the audience.",
+        "notChosenFeedback": ""
+      }
+    },
+    {
+      "text": "Customer satisfaction",
+      "correct": true,
+      "tipsAndFeedback": {
+        "tip": "",
+        "chosenFeedback": "Because Tina is satisfied and educated on all the ways to shop at Walgreens, she is exhibiting customer satisfaction.",
+        "notChosenFeedback": ""
+      }
+    }
+  ],
+  "subContentId": "e0503d0d-9b75-4a7a-a241-195fd0cf89fd",
+  "detailedSolution": "Because Tina is satisfied and educated on all the ways to shop at Walgreens, she is exhibiting customer satisfaction."
+}
