@@ -1,0 +1,91 @@
+{
+  "UI": {
+    "showSolutionButton": "Show solution",
+    "tryAgainButton": "Retry",
+    "checkAnswerButton": "Check",
+    "tipsLabel": "Show tip",
+    "scoreBarLabel": "You got :num out of :total points",
+    "tipAvailable": "Tip available",
+    "feedbackAvailable": "Feedback available",
+    "readFeedback": "Read feedback",
+    "wrongAnswer": "Wrong answer",
+    "correctAnswer": "Correct answer",
+    "shouldCheck": "Should have been checked",
+    "shouldNotCheck": "Should not have been checked",
+    "noInput": "Please answer before viewing the solution"
+  },
+  "behaviour": {
+    "enableRetry": true,
+    "enableSolutionsButton": true,
+    "singlePoint": true,
+    "randomAnswers": true,
+    "showSolutionsRequiresInput": true,
+    "type": "auto",
+    "confirmCheckDialog": false,
+    "confirmRetryDialog": false,
+    "autoCheck": false,
+    "passPercentage": 100,
+    "showScorePoints": true,
+    "enableCheckButton": true
+  },
+  "overallFeedback": [
+    {
+      "from": 0,
+      "to": 0,
+      "feedback": "Wrong"
+    },
+    {
+      "from": 1,
+      "to": 99,
+      "feedback": "Almost!"
+    },
+    {
+      "from": 100,
+      "to": 100,
+      "feedback": "Correct!"
+    }
+  ],
+  "question": "This metric measures how long it takes new users to recognize the value of a new product.",
+  "isSolutionPublic": true,
+  "isFreeResponseSupported": false,
+  "answers": [
+    {
+      "text": "Product adoption rate",
+      "correct": false,
+      "tipsAndFeedback": {
+        "tip": "",
+        "chosenFeedback": "That&#8217;s not correct. The revenue growth rate measures the percentage increase in revenue as a result of introducing a new product.",
+        "notChosenFeedback": ""
+      }
+    },
+    {
+      "text": "ROI",
+      "correct": false,
+      "tipsAndFeedback": {
+        "tip": "",
+        "chosenFeedback": "That&#8217;s not correct. Return on investment (ROI) is a performance measure used to evaluate the profitability of new product development.",
+        "notChosenFeedback": ""
+      }
+    },
+    {
+      "text": "Time to value (TTV)",
+      "correct": false,
+      "tipsAndFeedback": {
+        "tip": "",
+        "chosenFeedback": "That&#8217;s not correct. The product adoption rate is the moment when users start to use your product&#8217;s features to accomplish the goals it was developed to address.",
+        "notChosenFeedback": ""
+      }
+    },
+    {
+      "text": "Revenue growth rate",
+      "correct": true,
+      "tipsAndFeedback": {
+        "tip": "",
+        "chosenFeedback": "Time to value is a critical metric that measures how long it takes new users to recognize the value of your product.",
+        "notChosenFeedback": ""
+      }
+    }
+  ],
+  "subContentId": "e79e433a-f322-4245-9560-061a52fcc747",
+  "detailedSolution": "Time to value is a critical metric that measures how long it takes new users to recognize the value of your product."
+}
