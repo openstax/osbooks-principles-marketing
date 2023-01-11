@@ -1,0 +1,91 @@
+{
+  "UI": {
+    "showSolutionButton": "Show solution",
+    "tryAgainButton": "Retry",
+    "checkAnswerButton": "Check",
+    "tipsLabel": "Show tip",
+    "scoreBarLabel": "You got :num out of :total points",
+    "tipAvailable": "Tip available",
+    "feedbackAvailable": "Feedback available",
+    "readFeedback": "Read feedback",
+    "wrongAnswer": "Wrong answer",
+    "correctAnswer": "Correct answer",
+    "shouldCheck": "Should have been checked",
+    "shouldNotCheck": "Should not have been checked",
+    "noInput": "Please answer before viewing the solution"
+  },
+  "behaviour": {
+    "enableRetry": true,
+    "enableSolutionsButton": true,
+    "singlePoint": true,
+    "randomAnswers": true,
+    "showSolutionsRequiresInput": true,
+    "type": "auto",
+    "confirmCheckDialog": false,
+    "confirmRetryDialog": false,
+    "autoCheck": false,
+    "passPercentage": 100,
+    "showScorePoints": true,
+    "enableCheckButton": true
+  },
+  "overallFeedback": [
+    {
+      "from": 0,
+      "to": 0,
+      "feedback": "Wrong"
+    },
+    {
+      "from": 1,
+      "to": 99,
+      "feedback": "Almost!"
+    },
+    {
+      "from": 100,
+      "to": 100,
+      "feedback": "Correct!"
+    }
+  ],
+  "question": "________ is a supply chain management function that relates to what and how information moves between members of the supply chain.",
+  "isSolutionPublic": true,
+  "isFreeResponseSupported": false,
+  "answers": [
+    {
+      "text": "Information workflow",
+      "correct": false,
+      "tipsAndFeedback": {
+        "tip": "",
+        "chosenFeedback": "That&#8217;s not correct. Resource management includes the labor, the raw materials, and the technology that are required to move products from their raw material phase to finished goods available for consumption.",
+        "notChosenFeedback": ""
+      }
+    },
+    {
+      "text": "Forecasting",
+      "correct": false,
+      "tipsAndFeedback": {
+        "tip": "",
+        "chosenFeedback": "That&#8217;s not correct. Logistics is a function that involves the coordination of all supply chain activities, such as warehousing, inventory management, and transportation.",
+        "notChosenFeedback": ""
+      }
+    },
+    {
+      "text": "Logistics",
+      "correct": false,
+      "tipsAndFeedback": {
+        "tip": "",
+        "chosenFeedback": "That&#8217;s not correct. Before a company purchases the needed materials and begins production, it must forecast demand for its products. Forecasting involves anticipating or projecting how many units of a product will be sold during a given time period.",
+        "notChosenFeedback": ""
+      }
+    },
+    {
+      "text": "Resource management",
+      "correct": true,
+      "tipsAndFeedback": {
+        "tip": "",
+        "chosenFeedback": "Information workflow is a supply chain management function that relates to what and how information moves between members of the supply chain.",
+        "notChosenFeedback": ""
+      }
+    }
+  ],
+  "subContentId": "0a69ae2e-b2db-4ea9-b6c1-c3f6ee1e2c64",
+  "detailedSolution": "Information workflow is a supply chain management function that relates to what and how information moves between members of the supply chain."
+}
