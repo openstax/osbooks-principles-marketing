@@ -1,0 +1,22 @@
+{
+  "errata_id": "f200bd2822a0bbadf161ec61590c831f72352d5b8c74306c01380d8caa8ce7c1",
+  "attachments": [],
+  "tags": [
+    "book:stax-mktg",
+    "lo:stax-mktg:19-3-2",
+    "context-cnxmod:199d4d2d-daf5-40f4-a7d1-c245909364ab",
+    "book-slug:principles-marketing",
+    "module-slug:principles-marketing:19-3-the-benefits-of-sustainable-marketing"
+  ],
+  "books": [
+    {
+      "name": "stax-mktg",
+      "lo": [
+        "19-3-2"
+      ]
+    }
+  ],
+  "context": [
+    "m00133"
+  ]
+}
