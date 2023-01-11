@@ -1,0 +1,91 @@
+{
+  "UI": {
+    "showSolutionButton": "Show solution",
+    "tryAgainButton": "Retry",
+    "checkAnswerButton": "Check",
+    "tipsLabel": "Show tip",
+    "scoreBarLabel": "You got :num out of :total points",
+    "tipAvailable": "Tip available",
+    "feedbackAvailable": "Feedback available",
+    "readFeedback": "Read feedback",
+    "wrongAnswer": "Wrong answer",
+    "correctAnswer": "Correct answer",
+    "shouldCheck": "Should have been checked",
+    "shouldNotCheck": "Should not have been checked",
+    "noInput": "Please answer before viewing the solution"
+  },
+  "behaviour": {
+    "enableRetry": true,
+    "enableSolutionsButton": true,
+    "singlePoint": true,
+    "randomAnswers": true,
+    "showSolutionsRequiresInput": true,
+    "type": "auto",
+    "confirmCheckDialog": false,
+    "confirmRetryDialog": false,
+    "autoCheck": false,
+    "passPercentage": 100,
+    "showScorePoints": true,
+    "enableCheckButton": true
+  },
+  "overallFeedback": [
+    {
+      "from": 0,
+      "to": 0,
+      "feedback": "Wrong"
+    },
+    {
+      "from": 1,
+      "to": 99,
+      "feedback": "Almost!"
+    },
+    {
+      "from": 100,
+      "to": 100,
+      "feedback": "Correct!"
+    }
+  ],
+  "question": "To calculate this metric, the return of the investment is divided by its cost.",
+  "isSolutionPublic": true,
+  "isFreeResponseSupported": false,
+  "answers": [
+    {
+      "text": "Time to value (TTV)",
+      "correct": false,
+      "tipsAndFeedback": {
+        "tip": "",
+        "chosenFeedback": "That&#8217;s not correct. Revenue growth rate measures the percentage increase in revenue.",
+        "notChosenFeedback": ""
+      }
+    },
+    {
+      "text": "R&amp;D spending as a percentage of sales",
+      "correct": false,
+      "tipsAndFeedback": {
+        "tip": "",
+        "chosenFeedback": "That&#8217;s not correct. R&#38;D spending as a percentage of sales is a metric used to compare the effectiveness of R&#38;D expenditures between companies in the same industry.",
+        "notChosenFeedback": ""
+      }
+    },
+    {
+      "text": "ROI",
+      "correct": false,
+      "tipsAndFeedback": {
+        "tip": "",
+        "chosenFeedback": "That&#8217;s not correct. Time to value is how long it takes new users to recognize the value of your product.",
+        "notChosenFeedback": ""
+      }
+    },
+    {
+      "text": "Revenue growth rate",
+      "correct": true,
+      "tipsAndFeedback": {
+        "tip": "",
+        "chosenFeedback": "Return on investment (ROI) is a performance measure used to evaluate the profitability of new product development.",
+        "notChosenFeedback": ""
+      }
+    }
+  ],
+  "subContentId": "6af160a5-5312-47fb-aef3-c22875bb4a5d",
+  "detailedSolution": "Return on investment (ROI) is a performance measure used to evaluate the profitability of new product development."
+}
