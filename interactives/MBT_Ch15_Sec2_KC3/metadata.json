@@ -1,0 +1,22 @@
+{
+  "errata_id": "b14086a4282b405e7a94de9a5c5c5fd5f06e62b3e5e092f31e5284feb672b43e",
+  "attachments": [],
+  "tags": [
+    "book:stax-mktg",
+    "context-cnxmod:08b70bcc-6213-4476-8194-98ea0e40bbde",
+    "lo:stax-mktg:15-2-1",
+    "book-slug:principles-marketing",
+    "module-slug:principles-marketing:15-2-classifications-of-salespeople-involved-in-personal-selling"
+  ],
+  "books": [
+    {
+      "name": "stax-mktg",
+      "lo": [
+        "15-2-1"
+      ]
+    }
+  ],
+  "context": [
+    "m00098"
+  ]
+}
