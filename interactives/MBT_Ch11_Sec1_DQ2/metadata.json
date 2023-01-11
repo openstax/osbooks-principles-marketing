@@ -1,0 +1,25 @@
+{
+  "errata_id": "780068614a2b48c2cbfcab06f0babe5c999c0c8f29a6c626aa87fc8d90cb83be",
+  "attachments": [],
+  "tags": [
+    "type:practice",
+    "book:stax-mktg",
+    "lo:stax-mktg:11-1-3",
+    "context-cnxmod:e2db67bb-3560-451d-8661-2805264097ae",
+    "lo:stax-mktg:11-1-2",
+    "book-slug:principles-marketing",
+    "module-slug:principles-marketing:11-1-classification-of-services"
+  ],
+  "books": [
+    {
+      "name": "stax-mktg",
+      "lo": [
+        "11-1-3",
+        "11-1-2"
+      ]
+    }
+  ],
+  "context": [
+    "m00071"
+  ]
+}
