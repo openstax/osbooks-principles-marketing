@@ -1,0 +1,91 @@
+{
+  "UI": {
+    "showSolutionButton": "Show solution",
+    "tryAgainButton": "Retry",
+    "checkAnswerButton": "Check",
+    "tipsLabel": "Show tip",
+    "scoreBarLabel": "You got :num out of :total points",
+    "tipAvailable": "Tip available",
+    "feedbackAvailable": "Feedback available",
+    "readFeedback": "Read feedback",
+    "wrongAnswer": "Wrong answer",
+    "correctAnswer": "Correct answer",
+    "shouldCheck": "Should have been checked",
+    "shouldNotCheck": "Should not have been checked",
+    "noInput": "Please answer before viewing the solution"
+  },
+  "behaviour": {
+    "enableRetry": true,
+    "enableSolutionsButton": true,
+    "singlePoint": true,
+    "randomAnswers": true,
+    "showSolutionsRequiresInput": true,
+    "type": "auto",
+    "confirmCheckDialog": false,
+    "confirmRetryDialog": false,
+    "autoCheck": false,
+    "passPercentage": 100,
+    "showScorePoints": true,
+    "enableCheckButton": true
+  },
+  "overallFeedback": [
+    {
+      "from": 0,
+      "to": 0,
+      "feedback": "Wrong"
+    },
+    {
+      "from": 1,
+      "to": 99,
+      "feedback": "Almost!"
+    },
+    {
+      "from": 100,
+      "to": 100,
+      "feedback": "Correct!"
+    }
+  ],
+  "question": "You go to your Certified Public Accountant (CPA) to have your tax return prepared and filed for the year. How would this service be characterized in terms of classifications of services?",
+  "isSolutionPublic": true,
+  "isFreeResponseSupported": false,
+  "answers": [
+    {
+      "text": "People-based services: unskilled labor",
+      "correct": false,
+      "tipsAndFeedback": {
+        "tip": "",
+        "chosenFeedback": "That&#8217;s not correct. Equipment-based services are those in which machinery or other forms of technology are used to perform the tasks required by customers, even when the operator is skilled.",
+        "notChosenFeedback": ""
+      }
+    },
+    {
+      "text": "Equipment-based services: unskilled operator",
+      "correct": false,
+      "tipsAndFeedback": {
+        "tip": "",
+        "chosenFeedback": "That&#8217;s not correct. Equipment-based services are those in which machinery or other forms of technology are used to perform the tasks required by customers.",
+        "notChosenFeedback": ""
+      }
+    },
+    {
+      "text": "People-based services: professionals",
+      "correct": false,
+      "tipsAndFeedback": {
+        "tip": "",
+        "chosenFeedback": "That&#8217;s not correct. People-based services are those in which people, rather than equipment or machinery, play the major role in delivery. However, the service being performed is not done by unskilled labor.",
+        "notChosenFeedback": ""
+      }
+    },
+    {
+      "text": "Equipment-based services: skilled operator",
+      "correct": true,
+      "tipsAndFeedback": {
+        "tip": "",
+        "chosenFeedback": "People-based services are those in which people, rather than equipment or machinery, play the major role in delivery, and within this classification, people-based services can be broken down further into services provided by unskilled labor (e.g., parking lot attendant), skilled labor (e.g., plumber), and professionals (e.g., attorneys and accountants).",
+        "notChosenFeedback": ""
+      }
+    }
+  ],
+  "subContentId": "4712aeb2-d8d9-4b54-bacc-3b428bf45620",
+  "detailedSolution": "People-based services are those in which people, rather than equipment or machinery, play the major role in delivery, and within this classification, people-based services can be broken down further into services provided by unskilled labor (e.g., parking lot attendant), skilled labor (e.g., plumber), and professionals (e.g., attorneys and accountants)."
+}
