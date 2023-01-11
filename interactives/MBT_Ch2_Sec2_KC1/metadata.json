@@ -1,0 +1,22 @@
+{
+  "errata_id": "ec95129b1b6040802bd4ccfb9aa18fd1adfe6acea7c465ee137f39982425dddd",
+  "attachments": [],
+  "tags": [
+    "book:stax-mktg",
+    "lo:stax-mktg:2-2-3",
+    "context-cnxmod:f6e56e06-c667-49f4-9c6b-020ad60a4bd0",
+    "book-slug:principles-marketing",
+    "module-slug:principles-marketing:2-2-the-role-of-marketing-in-the-strategic-planning-process"
+  ],
+  "books": [
+    {
+      "name": "stax-mktg",
+      "lo": [
+        "2-2-3"
+      ]
+    }
+  ],
+  "context": [
+    "m00016"
+  ]
+}
