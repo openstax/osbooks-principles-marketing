@@ -1,0 +1,91 @@
+{
+  "UI": {
+    "showSolutionButton": "Show solution",
+    "tryAgainButton": "Retry",
+    "checkAnswerButton": "Check",
+    "tipsLabel": "Show tip",
+    "scoreBarLabel": "You got :num out of :total points",
+    "tipAvailable": "Tip available",
+    "feedbackAvailable": "Feedback available",
+    "readFeedback": "Read feedback",
+    "wrongAnswer": "Wrong answer",
+    "correctAnswer": "Correct answer",
+    "shouldCheck": "Should have been checked",
+    "shouldNotCheck": "Should not have been checked",
+    "noInput": "Please answer before viewing the solution"
+  },
+  "behaviour": {
+    "enableRetry": true,
+    "enableSolutionsButton": true,
+    "singlePoint": true,
+    "randomAnswers": true,
+    "showSolutionsRequiresInput": true,
+    "type": "auto",
+    "confirmCheckDialog": false,
+    "confirmRetryDialog": false,
+    "autoCheck": false,
+    "passPercentage": 100,
+    "showScorePoints": true,
+    "enableCheckButton": true
+  },
+  "overallFeedback": [
+    {
+      "from": 0,
+      "to": 0,
+      "feedback": "Wrong"
+    },
+    {
+      "from": 1,
+      "to": 99,
+      "feedback": "Almost!"
+    },
+    {
+      "from": 100,
+      "to": 100,
+      "feedback": "Correct!"
+    }
+  ],
+  "question": "Coco is trying to determine if the most recent ad she created and launched has been effective at increasing revenue. Which of the following metrics would you recommend Coco use?",
+  "isSolutionPublic": true,
+  "isFreeResponseSupported": false,
+  "answers": [
+    {
+      "text": "ROAS",
+      "correct": false,
+      "tipsAndFeedback": {
+        "tip": "",
+        "chosenFeedback": "That&#8217;s not correct. Brand recognition involves recognizing a brand based on a picture or logo.",
+        "notChosenFeedback": ""
+      }
+    },
+    {
+      "text": "Impressions",
+      "correct": false,
+      "tipsAndFeedback": {
+        "tip": "",
+        "chosenFeedback": "That&#8217;s not correct. Brand awareness is a metric used to determine what information is recalled about a brand.",
+        "notChosenFeedback": ""
+      }
+    },
+    {
+      "text": "Brand awareness",
+      "correct": false,
+      "tipsAndFeedback": {
+        "tip": "",
+        "chosenFeedback": "That&#8217;s not correct. Impressions is a metric used to determine how many times an audience views an advertisement.",
+        "notChosenFeedback": ""
+      }
+    },
+    {
+      "text": "Brand recognition",
+      "correct": true,
+      "tipsAndFeedback": {
+        "tip": "",
+        "chosenFeedback": "Return on ad spend (ROAS) calculates the revenue generated for each advertising dollar spent.",
+        "notChosenFeedback": ""
+      }
+    }
+  ],
+  "subContentId": "b4018699-e036-49b5-9eef-7b9d494ffee7",
+  "detailedSolution": "Return on ad spend (ROAS) calculates the revenue generated for each advertising dollar spent."
+}
