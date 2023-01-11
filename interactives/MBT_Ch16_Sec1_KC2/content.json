@@ -1,0 +1,91 @@
+{
+  "UI": {
+    "showSolutionButton": "Show solution",
+    "tryAgainButton": "Retry",
+    "checkAnswerButton": "Check",
+    "tipsLabel": "Show tip",
+    "scoreBarLabel": "You got :num out of :total points",
+    "tipAvailable": "Tip available",
+    "feedbackAvailable": "Feedback available",
+    "readFeedback": "Read feedback",
+    "wrongAnswer": "Wrong answer",
+    "correctAnswer": "Correct answer",
+    "shouldCheck": "Should have been checked",
+    "shouldNotCheck": "Should not have been checked",
+    "noInput": "Please answer before viewing the solution"
+  },
+  "behaviour": {
+    "enableRetry": true,
+    "enableSolutionsButton": true,
+    "singlePoint": true,
+    "randomAnswers": true,
+    "showSolutionsRequiresInput": true,
+    "type": "auto",
+    "confirmCheckDialog": false,
+    "confirmRetryDialog": false,
+    "autoCheck": false,
+    "passPercentage": 100,
+    "showScorePoints": true,
+    "enableCheckButton": true
+  },
+  "overallFeedback": [
+    {
+      "from": 0,
+      "to": 0,
+      "feedback": "Wrong"
+    },
+    {
+      "from": 1,
+      "to": 99,
+      "feedback": "Almost!"
+    },
+    {
+      "from": 100,
+      "to": 100,
+      "feedback": "Correct!"
+    }
+  ],
+  "question": "Which of the following best summarizes the cause for the emergence of online direct marketing as a promotion tool?",
+  "isSolutionPublic": true,
+  "isFreeResponseSupported": false,
+  "answers": [
+    {
+      "text": "The explosion of internet usage, online shopping, and smartphone usage and the advancement of digital marketing technologies best explains the emergence of online direct marketing.",
+      "correct": false,
+      "tipsAndFeedback": {
+        "tip": "",
+        "chosenFeedback": "That&#8217;s not correct. Traditional direct marketing has the capability of offering consumers relevant messages and can be tailored to individual consumers.",
+        "notChosenFeedback": ""
+      }
+    },
+    {
+      "text": "Consumers are spending less time watching movies and shows.",
+      "correct": false,
+      "tipsAndFeedback": {
+        "tip": "",
+        "chosenFeedback": "That&#8217;s not correct. Although traditional direct marketing tools are more expensive, some tools, such as catalogs, have seen an increase in usage because of their effectiveness in standing out.",
+        "notChosenFeedback": ""
+      }
+    },
+    {
+      "text": "Traditional direct marketing tools have gotten too expensive and are no longer effective at engaging customers.",
+      "correct": false,
+      "tipsAndFeedback": {
+        "tip": "",
+        "chosenFeedback": "That&#8217;s not correct. Consumers&#8217; viewing habits related to movies and shows have actually increased with the birth of Netflix, Amazon Prime Video, and other streaming services.",
+        "notChosenFeedback": ""
+      }
+    },
+    {
+      "text": "Traditional direct marketing doesn’t offer the same degree of message relevance that online direct marketing does.",
+      "correct": true,
+      "tipsAndFeedback": {
+        "tip": "",
+        "chosenFeedback": "As consumers are more connected to the internet via their mobile devices and digital technologies have evolved, online direct marketing has emerged as a practical promotion tool for reaching consumers.",
+        "notChosenFeedback": ""
+      }
+    }
+  ],
+  "subContentId": "29e6a5c4-9d71-4bd5-bff1-03f3bce6d0ac",
+  "detailedSolution": "As consumers are more connected to the internet via their mobile devices and digital technologies have evolved, online direct marketing has emerged as a practical promotion tool for reaching consumers."
+}
