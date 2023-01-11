@@ -1,0 +1,91 @@
+{
+  "UI": {
+    "showSolutionButton": "Show solution",
+    "tryAgainButton": "Retry",
+    "checkAnswerButton": "Check",
+    "tipsLabel": "Show tip",
+    "scoreBarLabel": "You got :num out of :total points",
+    "tipAvailable": "Tip available",
+    "feedbackAvailable": "Feedback available",
+    "readFeedback": "Read feedback",
+    "wrongAnswer": "Wrong answer",
+    "correctAnswer": "Correct answer",
+    "shouldCheck": "Should have been checked",
+    "shouldNotCheck": "Should not have been checked",
+    "noInput": "Please answer before viewing the solution"
+  },
+  "behaviour": {
+    "enableRetry": true,
+    "enableSolutionsButton": true,
+    "singlePoint": true,
+    "randomAnswers": true,
+    "showSolutionsRequiresInput": true,
+    "type": "auto",
+    "confirmCheckDialog": false,
+    "confirmRetryDialog": false,
+    "autoCheck": false,
+    "passPercentage": 100,
+    "showScorePoints": true,
+    "enableCheckButton": true
+  },
+  "overallFeedback": [
+    {
+      "from": 0,
+      "to": 0,
+      "feedback": "Wrong"
+    },
+    {
+      "from": 1,
+      "to": 99,
+      "feedback": "Almost!"
+    },
+    {
+      "from": 100,
+      "to": 100,
+      "feedback": "Correct!"
+    }
+  ],
+  "question": "The management of Javier’s Bicycles has an approach where the call center makes appointments and the sales professionals go out to meet with the potential customers and discuss the various products available. This is an example of ________.",
+  "isSolutionPublic": true,
+  "isFreeResponseSupported": false,
+  "answers": [
+    {
+      "text": "inside order takers",
+      "correct": false,
+      "tipsAndFeedback": {
+        "tip": "",
+        "chosenFeedback": "That&#8217;s not correct. Internal marketing is how a firm will market to the company&#8217;s employees.",
+        "notChosenFeedback": ""
+      }
+    },
+    {
+      "text": "team selling",
+      "correct": false,
+      "tipsAndFeedback": {
+        "tip": "",
+        "chosenFeedback": "That&#8217;s not correct. The technical specialist is responsible for knowing how best to use the product and custom fit the product to the needs of the customer.",
+        "notChosenFeedback": ""
+      }
+    },
+    {
+      "text": "technical specialists",
+      "correct": false,
+      "tipsAndFeedback": {
+        "tip": "",
+        "chosenFeedback": "That&#8217;s not correct. Inside order takers rely on customers calling into the company to place an order.",
+        "notChosenFeedback": ""
+      }
+    },
+    {
+      "text": "internal marketing",
+      "correct": true,
+      "tipsAndFeedback": {
+        "tip": "",
+        "chosenFeedback": "When several people within the organization are responsible for making the sale, this is considered a team selling approach",
+        "notChosenFeedback": ""
+      }
+    }
+  ],
+  "subContentId": "08963aff-70e8-491f-aae7-4699c7e99474",
+  "detailedSolution": "When several people within the organization are responsible for making the sale, this is considered a team selling approach"
+}
