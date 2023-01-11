@@ -1,0 +1,91 @@
+{
+  "UI": {
+    "showSolutionButton": "Show solution",
+    "tryAgainButton": "Retry",
+    "checkAnswerButton": "Check",
+    "tipsLabel": "Show tip",
+    "scoreBarLabel": "You got :num out of :total points",
+    "tipAvailable": "Tip available",
+    "feedbackAvailable": "Feedback available",
+    "readFeedback": "Read feedback",
+    "wrongAnswer": "Wrong answer",
+    "correctAnswer": "Correct answer",
+    "shouldCheck": "Should have been checked",
+    "shouldNotCheck": "Should not have been checked",
+    "noInput": "Please answer before viewing the solution"
+  },
+  "behaviour": {
+    "enableRetry": true,
+    "enableSolutionsButton": true,
+    "singlePoint": true,
+    "randomAnswers": true,
+    "showSolutionsRequiresInput": true,
+    "type": "auto",
+    "confirmCheckDialog": false,
+    "confirmRetryDialog": false,
+    "autoCheck": false,
+    "passPercentage": 100,
+    "showScorePoints": true,
+    "enableCheckButton": true
+  },
+  "overallFeedback": [
+    {
+      "from": 0,
+      "to": 0,
+      "feedback": "Wrong"
+    },
+    {
+      "from": 1,
+      "to": 99,
+      "feedback": "Almost!"
+    },
+    {
+      "from": 100,
+      "to": 100,
+      "feedback": "Correct!"
+    }
+  ],
+  "question": "Which of the following represents an advantage of using online direct marketing tools?",
+  "isSolutionPublic": true,
+  "isFreeResponseSupported": false,
+  "answers": [
+    {
+      "text": "Online direct marketing allows marketers to target consumers globally because of worldwide access to the internet.",
+      "correct": false,
+      "tipsAndFeedback": {
+        "tip": "",
+        "chosenFeedback": "That&#8217;s not correct. Although answer c is correct, all of the options are correct as well. Advantages of online direct marketing are that it has global reach, is highly targeted, and can be much easier to measure ROI.",
+        "notChosenFeedback": ""
+      }
+    },
+    {
+      "text": "Online direct marketing is highly targeted in that marketers can reach customers through a variety of digital channels that are inexpensive compared to other promotion tools.",
+      "correct": false,
+      "tipsAndFeedback": {
+        "tip": "",
+        "chosenFeedback": "That&#8217;s not correct. Although answer b is correct, all of the options are correct as well. Advantages of online direct marketing are that it has global reach, is highly targeted, and can be much easier to measure ROI.",
+        "notChosenFeedback": ""
+      }
+    },
+    {
+      "text": "Online direct marketing allows for easier measurement of ROI on campaigns.",
+      "correct": false,
+      "tipsAndFeedback": {
+        "tip": "",
+        "chosenFeedback": "That&#8217;s not correct. Although answer a is correct, all of the options are correct as well. Advantages of online direct marketing are that it has global reach, is highly targeted, and can be much easier to measure ROI.",
+        "notChosenFeedback": ""
+      }
+    },
+    {
+      "text": "All of these are advantages of online direct marketing.",
+      "correct": true,
+      "tipsAndFeedback": {
+        "tip": "",
+        "chosenFeedback": "Advantages of online direct marketing are that it has global reach, is highly targeted, and can be much easier to measure ROI.",
+        "notChosenFeedback": ""
+      }
+    }
+  ],
+  "subContentId": "6e323368-fdc4-4625-a10c-29a6b210d33e",
+  "detailedSolution": "Advantages of online direct marketing are that it has global reach, is highly targeted, and can be much easier to measure ROI."
+}
