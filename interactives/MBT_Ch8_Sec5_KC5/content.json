@@ -1,0 +1,91 @@
+{
+  "UI": {
+    "showSolutionButton": "Show solution",
+    "tryAgainButton": "Retry",
+    "checkAnswerButton": "Check",
+    "tipsLabel": "Show tip",
+    "scoreBarLabel": "You got :num out of :total points",
+    "tipAvailable": "Tip available",
+    "feedbackAvailable": "Feedback available",
+    "readFeedback": "Read feedback",
+    "wrongAnswer": "Wrong answer",
+    "correctAnswer": "Correct answer",
+    "shouldCheck": "Should have been checked",
+    "shouldNotCheck": "Should not have been checked",
+    "noInput": "Please answer before viewing the solution"
+  },
+  "behaviour": {
+    "enableRetry": true,
+    "enableSolutionsButton": true,
+    "singlePoint": true,
+    "randomAnswers": true,
+    "showSolutionsRequiresInput": true,
+    "type": "auto",
+    "confirmCheckDialog": false,
+    "confirmRetryDialog": false,
+    "autoCheck": false,
+    "passPercentage": 100,
+    "showScorePoints": true,
+    "enableCheckButton": true
+  },
+  "overallFeedback": [
+    {
+      "from": 0,
+      "to": 0,
+      "feedback": "Wrong"
+    },
+    {
+      "from": 1,
+      "to": 99,
+      "feedback": "Almost!"
+    },
+    {
+      "from": 100,
+      "to": 100,
+      "feedback": "Correct!"
+    }
+  ],
+  "question": "Which of the following is an emerging sociodemographic trend that will impact future marketing?",
+  "isSolutionPublic": true,
+  "isFreeResponseSupported": false,
+  "answers": [
+    {
+      "text": "Rapid population growth in the United States",
+      "correct": false,
+      "tipsAndFeedback": {
+        "tip": "",
+        "chosenFeedback": "That&#8217;s not correct. There are no current projections that support significant global migrations of people caused by global warming.",
+        "notChosenFeedback": ""
+      }
+    },
+    {
+      "text": "Consumer spending dominated by baby boomers",
+      "correct": false,
+      "tipsAndFeedback": {
+        "tip": "",
+        "chosenFeedback": "That&#8217;s not correct. The redistribution of economic wealth is not a trend.",
+        "notChosenFeedback": ""
+      }
+    },
+    {
+      "text": "Redistribution of economic wealth",
+      "correct": false,
+      "tipsAndFeedback": {
+        "tip": "",
+        "chosenFeedback": "That&#8217;s not correct. The current projection supports an opposite trend that the population will stagnate.",
+        "notChosenFeedback": ""
+      }
+    },
+    {
+      "text": "Hemispherical global migration caused by global warming",
+      "correct": true,
+      "tipsAndFeedback": {
+        "tip": "",
+        "chosenFeedback": "It is projected that consumer spending will continued to be dominated by baby boomers. While this isn&#8217;t a new trend, it is certainly a trend that will continue through the 2030s as this generation ages out.",
+        "notChosenFeedback": ""
+      }
+    }
+  ],
+  "subContentId": "52ffe3f3-a054-4728-9a71-8c743aab2073",
+  "detailedSolution": "It is projected that consumer spending will continued to be dominated by baby boomers. While this isn’t a new trend, it is certainly a trend that will continue through the 2030s as this generation ages out."
+}
