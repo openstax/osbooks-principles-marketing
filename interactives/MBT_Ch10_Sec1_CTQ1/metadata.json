@@ -1,0 +1,28 @@
+{
+  "errata_id": "02aa3aec9f3df7e4881b5c0206495cec5714d6dc277d0c7b80ab313101b41620",
+  "attachments": [],
+  "tags": [
+    "type:practice",
+    "book:stax-mktg",
+    "context-cnxmod:32b9e5d9-74bf-472f-94db-16507ac2553e",
+    "lo:stax-mktg:10-1-1",
+    "lo:stax-mktg:10-5-2",
+    "context-cnxmod:e79c6d59-e3ce-4722-bcf2-7971aedd0f04",
+    "book-slug:principles-marketing",
+    "module-slug:principles-marketing:10-1-new-products-from-a-customers-perspective",
+    "module-slug:principles-marketing:10-5-stages-in-the-consumer-adoption-process-for-new-products"
+  ],
+  "books": [
+    {
+      "name": "stax-mktg",
+      "lo": [
+        "10-1-1",
+        "10-5-2"
+      ]
+    }
+  ],
+  "context": [
+    "m00064",
+    "m00068"
+  ]
+}
