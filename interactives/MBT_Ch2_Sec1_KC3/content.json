@@ -1,0 +1,91 @@
+{
+  "UI": {
+    "showSolutionButton": "Show solution",
+    "tryAgainButton": "Retry",
+    "checkAnswerButton": "Check",
+    "tipsLabel": "Show tip",
+    "scoreBarLabel": "You got :num out of :total points",
+    "tipAvailable": "Tip available",
+    "feedbackAvailable": "Feedback available",
+    "readFeedback": "Read feedback",
+    "wrongAnswer": "Wrong answer",
+    "correctAnswer": "Correct answer",
+    "shouldCheck": "Should have been checked",
+    "shouldNotCheck": "Should not have been checked",
+    "noInput": "Please answer before viewing the solution"
+  },
+  "behaviour": {
+    "enableRetry": true,
+    "enableSolutionsButton": true,
+    "singlePoint": true,
+    "randomAnswers": true,
+    "showSolutionsRequiresInput": true,
+    "type": "auto",
+    "confirmCheckDialog": false,
+    "confirmRetryDialog": false,
+    "autoCheck": false,
+    "passPercentage": 100,
+    "showScorePoints": true,
+    "enableCheckButton": true
+  },
+  "overallFeedback": [
+    {
+      "from": 0,
+      "to": 0,
+      "feedback": "Wrong"
+    },
+    {
+      "from": 1,
+      "to": 99,
+      "feedback": "Almost!"
+    },
+    {
+      "from": 100,
+      "to": 100,
+      "feedback": "Correct!"
+    }
+  ],
+  "question": "What do you call the plans, actions, objectives, and goals that outline how a business will compete in its chosen markets?",
+  "isSolutionPublic": true,
+  "isFreeResponseSupported": false,
+  "answers": [
+    {
+      "text": "Mission statement",
+      "correct": false,
+      "tipsAndFeedback": {
+        "tip": "",
+        "chosenFeedback": "That&#8217;s not correct. A gap analysis is an internal analysis of the company or organization to identify and review its deficiencies.",
+        "notChosenFeedback": ""
+      }
+    },
+    {
+      "text": "Vision statement",
+      "correct": false,
+      "tipsAndFeedback": {
+        "tip": "",
+        "chosenFeedback": "That&#8217;s not correct. A vision statement is an aspirational statement that articulates what an organization aims to achieve.",
+        "notChosenFeedback": ""
+      }
+    },
+    {
+      "text": "Gap analysis",
+      "correct": false,
+      "tipsAndFeedback": {
+        "tip": "",
+        "chosenFeedback": "That&#8217;s not correct. A mission statement is an action-based statement declaring the purpose of an organization.",
+        "notChosenFeedback": ""
+      }
+    },
+    {
+      "text": "Strategy",
+      "correct": true,
+      "tipsAndFeedback": {
+        "tip": "",
+        "chosenFeedback": "A business&#8217;s overall strategy encompasses the plans, actions, objectives, and goals that outline how the business will compete in its chosen markets given its portfolio of products or services.",
+        "notChosenFeedback": ""
+      }
+    }
+  ],
+  "subContentId": "cf00876b-da34-43f3-89af-3b342d212a32",
+  "detailedSolution": "A business’s overall strategy encompasses the plans, actions, objectives, and goals that outline how the business will compete in its chosen markets given its portfolio of products or services."
+}
