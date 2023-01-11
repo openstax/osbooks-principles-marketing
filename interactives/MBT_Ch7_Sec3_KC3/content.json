@@ -1,0 +1,91 @@
+{
+  "UI": {
+    "showSolutionButton": "Show solution",
+    "tryAgainButton": "Retry",
+    "checkAnswerButton": "Check",
+    "tipsLabel": "Show tip",
+    "scoreBarLabel": "You got :num out of :total points",
+    "tipAvailable": "Tip available",
+    "feedbackAvailable": "Feedback available",
+    "readFeedback": "Read feedback",
+    "wrongAnswer": "Wrong answer",
+    "correctAnswer": "Correct answer",
+    "shouldCheck": "Should have been checked",
+    "shouldNotCheck": "Should not have been checked",
+    "noInput": "Please answer before viewing the solution"
+  },
+  "behaviour": {
+    "enableRetry": true,
+    "enableSolutionsButton": true,
+    "singlePoint": true,
+    "randomAnswers": true,
+    "showSolutionsRequiresInput": true,
+    "type": "auto",
+    "confirmCheckDialog": false,
+    "confirmRetryDialog": false,
+    "autoCheck": false,
+    "passPercentage": 100,
+    "showScorePoints": true,
+    "enableCheckButton": true
+  },
+  "overallFeedback": [
+    {
+      "from": 0,
+      "to": 0,
+      "feedback": "Wrong"
+    },
+    {
+      "from": 1,
+      "to": 99,
+      "feedback": "Almost!"
+    },
+    {
+      "from": 100,
+      "to": 100,
+      "feedback": "Correct!"
+    }
+  ],
+  "question": "Ryana owns a T-shirt company in Japan. With her T-shirts, she applies Disney characters and pays Disney royalties based on each shirt sold and an agreement the two companies entered into. Which of the following is Ryana most likely involved in?",
+  "isSolutionPublic": true,
+  "isFreeResponseSupported": false,
+  "answers": [
+    {
+      "text": "Licensing",
+      "correct": false,
+      "tipsAndFeedback": {
+        "tip": "",
+        "chosenFeedback": "That&#8217;s not correct. Franchising is a business strategy in which the owner (the franchisor) allows another person or entity (the franchisee) to operate a business using the franchisor&#8217;s products, branding, and knowledge in exchange for a fee.",
+        "notChosenFeedback": ""
+      }
+    },
+    {
+      "text": "Unethical behavior",
+      "correct": false,
+      "tipsAndFeedback": {
+        "tip": "",
+        "chosenFeedback": "That&#8217;s not correct. Because there is an agreement between the two companies, there is no fraud occurring.",
+        "notChosenFeedback": ""
+      }
+    },
+    {
+      "text": "Trademark fraud",
+      "correct": false,
+      "tipsAndFeedback": {
+        "tip": "",
+        "chosenFeedback": "That&#8217;s not correct. Because there is an agreement between the two companies, there is nothing unethical in this scenario.",
+        "notChosenFeedback": ""
+      }
+    },
+    {
+      "text": "Franchising",
+      "correct": true,
+      "tipsAndFeedback": {
+        "tip": "",
+        "chosenFeedback": "Licensing is an agreement whereby one company can legally use the copyrighted material of another for a royalty fee.",
+        "notChosenFeedback": ""
+      }
+    }
+  ],
+  "subContentId": "3c8dca39-2e5a-4fcd-8c71-6cecce1a448b",
+  "detailedSolution": "Licensing is an agreement whereby one company can legally use the copyrighted material of another for a royalty fee."
+}
