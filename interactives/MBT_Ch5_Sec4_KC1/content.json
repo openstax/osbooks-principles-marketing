@@ -1,0 +1,91 @@
+{
+  "UI": {
+    "showSolutionButton": "Show solution",
+    "tryAgainButton": "Retry",
+    "checkAnswerButton": "Check",
+    "tipsLabel": "Show tip",
+    "scoreBarLabel": "You got :num out of :total points",
+    "tipAvailable": "Tip available",
+    "feedbackAvailable": "Feedback available",
+    "readFeedback": "Read feedback",
+    "wrongAnswer": "Wrong answer",
+    "correctAnswer": "Correct answer",
+    "shouldCheck": "Should have been checked",
+    "shouldNotCheck": "Should not have been checked",
+    "noInput": "Please answer before viewing the solution"
+  },
+  "behaviour": {
+    "enableRetry": true,
+    "enableSolutionsButton": true,
+    "singlePoint": true,
+    "randomAnswers": true,
+    "showSolutionsRequiresInput": true,
+    "type": "auto",
+    "confirmCheckDialog": false,
+    "confirmRetryDialog": false,
+    "autoCheck": false,
+    "passPercentage": 100,
+    "showScorePoints": true,
+    "enableCheckButton": true
+  },
+  "overallFeedback": [
+    {
+      "from": 0,
+      "to": 0,
+      "feedback": "Wrong"
+    },
+    {
+      "from": 1,
+      "to": 99,
+      "feedback": "Almost!"
+    },
+    {
+      "from": 100,
+      "to": 100,
+      "feedback": "Correct!"
+    }
+  ],
+  "question": "Mateus is a marketer for a consumer products company. His company is considering marketing a new breakfast drink, but Mateus wants to make certain that there is a sufficient number of consumers in his target audience to make the new product development process worthwhile. Which essential factor of market segmentation is he analyzing?",
+  "isSolutionPublic": true,
+  "isFreeResponseSupported": false,
+  "answers": [
+    {
+      "text": "Accessible",
+      "correct": false,
+      "tipsAndFeedback": {
+        "tip": "",
+        "chosenFeedback": "That&#8217;s not correct. If a target market is actionable, it should respond to a certain marketing strategy and yield outcomes that can be easily quantified.",
+        "notChosenFeedback": ""
+      }
+    },
+    {
+      "text": "Differentiable",
+      "correct": false,
+      "tipsAndFeedback": {
+        "tip": "",
+        "chosenFeedback": "That&#8217;s not correct. A market segment should be internally homogenous but externally heterogeneous, and marketing actions applied to them should be implemented without overlap.",
+        "notChosenFeedback": ""
+      }
+    },
+    {
+      "text": "Actionable",
+      "correct": false,
+      "tipsAndFeedback": {
+        "tip": "",
+        "chosenFeedback": "That&#8217;s not correct. Accessibility means that you can reach consumers in the chosen segment at an affordable cost, given the strengths and abilities of your marketing department.",
+        "notChosenFeedback": ""
+      }
+    },
+    {
+      "text": "Measurable",
+      "correct": true,
+      "tipsAndFeedback": {
+        "tip": "",
+        "chosenFeedback": "A market segment should be measurable&#8212;that is, you should be able to accurately determine the size of the market segment in terms of sales value or number of customers so you can decide whether, how, and to what extent you should focus your efforts on that segment.",
+        "notChosenFeedback": ""
+      }
+    }
+  ],
+  "subContentId": "1d9f78a0-bbe4-4e82-9ac9-14f7b979d7ea",
+  "detailedSolution": "A market segment should be measurable—that is, you should be able to accurately determine the size of the market segment in terms of sales value or number of customers so you can decide whether, how, and to what extent you should focus your efforts on that segment."
+}
