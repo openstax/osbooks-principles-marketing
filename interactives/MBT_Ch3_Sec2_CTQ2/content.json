@@ -1,0 +1,48 @@
+{
+  "overallFeedback": [
+    {
+      "from": 0,
+      "to": 100
+    }
+  ],
+  "behaviour": {
+    "inputFieldSize": "10",
+    "enableRetry": true,
+    "ignoreScoring": false,
+    "pointsHost": 1,
+    "linebreakReplacement": " "
+  },
+  "checkAnswer": "Check",
+  "submitAnswer": "Submit",
+  "tryAgain": "Retry",
+  "showSolution": "Show solution",
+  "feedbackHeader": "Feedback",
+  "solutionTitle": "Sample solution",
+  "remainingChars": "Remaining characters: @chars",
+  "notEnoughChars": "You must enter at least @chars characters!",
+  "messageSave": "saved",
+  "ariaYourResult": "You got @score out of @total points",
+  "ariaNavigatedToSolution": "Navigated to newly included sample solution after textarea.",
+  "ariaCheck": "Check the answers.",
+  "ariaShowSolution": "Show the solution. You will be provided with a sample solution.",
+  "ariaRetry": "Retry the task. You can improve your previous answer if the author allowed that.",
+  "taskDescription": "One way consumers evaluate alternatives is by identifying the “bundle of attributes” of a product or service. Assume that you’re in the market for a new smartphone. What would that bundle of attributes look like? In other words, what attributes do you consider important, and how would you rank the importance of these features on a scale of 1 to 5, with 5 being the attribute of greatest importance and 1 being the attribute of lowest importance? Some attributes are already listed, but you can add your own attributes as well. Complete <a href=\"#table-00001\" rel=\"nofollow\" target=\"_blank\">Table 3.2</a> with your rankings.\n<p>&nbsp;</p>\n<table id=\"table-00001\" style=\"border: 1px solid #000000;\">\n<thead>\n<tr>\n<th style=\"background-color:#0dc0dc;border: 1px solid #000000;padding:0.5em;text-align:center;\"><b>Attributes<br>Considered</b></th>\n<th style=\"background-color:#0dc0dc;border: 1px solid #000000;padding:0.5em;text-align:center;\"><b>Importance of<br>Attribute</b></th>\n</tr>\n</thead>\n<tbody>\n<tr>\n<td style=\"border: 1px solid #000000;padding:0.5em;\">Storage</td>\n<td style=\"border: 1px solid #000000;padding:0.5em;\">&nbsp;</td>\n</tr>\n<tr>\n<td style=\"border: 1px solid #000000;padding:0.5em;\">Battery Life</td>\n<td style=\"border: 1px solid #000000;padding:0.5em;\">&nbsp;</td>\n</tr>\n<tr>\n<td style=\"border: 1px solid #000000;padding:0.5em;\">Processing</td>\n<td style=\"border: 1px solid #000000;padding:0.5em;\">&nbsp;</td>\n</tr>\n<tr>\n<td style=\"border: 1px solid #000000;padding:0.5em;\">Price</td>\n<td style=\"border: 1px solid #000000;padding:0.5em;\">&nbsp;</td>\n</tr>\n<tr>\n<td style=\"border: 1px solid #000000;padding:0.5em;\">Ease of Use</td>\n<td style=\"border: 1px solid #000000;padding:0.5em;\">&nbsp;</td>\n</tr>\n<tr>\n<td style=\"border: 1px solid #000000;padding:0.5em;\">Durability</td>\n<td style=\"border: 1px solid #000000;padding:0.5em;\">&nbsp;</td>\n</tr>\n<tr>\n<td style=\"border: 1px solid #000000;padding:0.5em;\">Camera Quality</td>\n<td style=\"border: 1px solid #000000;padding:0.5em;\">&nbsp;</td>\n</tr>\n</tbody>\n<caption>The Bundle of Attributes</caption>\n</table>",
+  "isSolutionPublic": true,
+  "solution": {
+    "introduction": "",
+    "sample": ""
+  },
+  "keywords": [
+    {
+      "options": {
+        "points": 1,
+        "occurrences": 1,
+        "caseSensitive": false,
+        "forgiveMistakes": false,
+        "feedbackIncludedWord": "keyword",
+        "feedbackMissedWord": "none"
+      },
+      "keyword": "*"
+    }
+  ]
+}
