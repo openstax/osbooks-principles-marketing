@@ -1,0 +1,91 @@
+{
+  "UI": {
+    "showSolutionButton": "Show solution",
+    "tryAgainButton": "Retry",
+    "checkAnswerButton": "Check",
+    "tipsLabel": "Show tip",
+    "scoreBarLabel": "You got :num out of :total points",
+    "tipAvailable": "Tip available",
+    "feedbackAvailable": "Feedback available",
+    "readFeedback": "Read feedback",
+    "wrongAnswer": "Wrong answer",
+    "correctAnswer": "Correct answer",
+    "shouldCheck": "Should have been checked",
+    "shouldNotCheck": "Should not have been checked",
+    "noInput": "Please answer before viewing the solution"
+  },
+  "behaviour": {
+    "enableRetry": true,
+    "enableSolutionsButton": true,
+    "singlePoint": true,
+    "randomAnswers": true,
+    "showSolutionsRequiresInput": true,
+    "type": "auto",
+    "confirmCheckDialog": false,
+    "confirmRetryDialog": false,
+    "autoCheck": false,
+    "passPercentage": 100,
+    "showScorePoints": true,
+    "enableCheckButton": true
+  },
+  "overallFeedback": [
+    {
+      "from": 0,
+      "to": 0,
+      "feedback": "Wrong"
+    },
+    {
+      "from": 1,
+      "to": 99,
+      "feedback": "Almost!"
+    },
+    {
+      "from": 100,
+      "to": 100,
+      "feedback": "Correct!"
+    }
+  ],
+  "question": "When Nestlé shows an advertisement that has children coming down the stairs on Christmas morning to the smell of freshly baked Nestlé Tollhouse chocolate chip cookies, this is an example of which method of message appeal?",
+  "isSolutionPublic": true,
+  "isFreeResponseSupported": false,
+  "answers": [
+    {
+      "text": "Rational",
+      "correct": false,
+      "tipsAndFeedback": {
+        "tip": "",
+        "chosenFeedback": "That&#8217;s not correct. Using Nestl&#233; Tollhouse products is not a moral decision.",
+        "notChosenFeedback": ""
+      }
+    },
+    {
+      "text": "Emotional",
+      "correct": false,
+      "tipsAndFeedback": {
+        "tip": "",
+        "chosenFeedback": "That&#8217;s not correct. Nestl&#233; Tollhouse does not want to create fear as an association with their product.",
+        "notChosenFeedback": ""
+      }
+    },
+    {
+      "text": "Fear",
+      "correct": false,
+      "tipsAndFeedback": {
+        "tip": "",
+        "chosenFeedback": "That&#8217;s not correct. Nestl&#233; Tollhouse is not working to rationalize the use of its product.",
+        "notChosenFeedback": ""
+      }
+    },
+    {
+      "text": "Moral",
+      "correct": true,
+      "tipsAndFeedback": {
+        "tip": "",
+        "chosenFeedback": "Nestl&#233; Tollhouse is working to create an emotional connection with the consumer.",
+        "notChosenFeedback": ""
+      }
+    }
+  ],
+  "subContentId": "12ee3637-8be0-428c-9f8d-09fc3a7e1d96",
+  "detailedSolution": "Nestlé Tollhouse is working to create an emotional connection with the consumer."
+}
