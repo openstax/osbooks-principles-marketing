@@ -1,0 +1,91 @@
+{
+  "UI": {
+    "showSolutionButton": "Show solution",
+    "tryAgainButton": "Retry",
+    "checkAnswerButton": "Check",
+    "tipsLabel": "Show tip",
+    "scoreBarLabel": "You got :num out of :total points",
+    "tipAvailable": "Tip available",
+    "feedbackAvailable": "Feedback available",
+    "readFeedback": "Read feedback",
+    "wrongAnswer": "Wrong answer",
+    "correctAnswer": "Correct answer",
+    "shouldCheck": "Should have been checked",
+    "shouldNotCheck": "Should not have been checked",
+    "noInput": "Please answer before viewing the solution"
+  },
+  "behaviour": {
+    "enableRetry": true,
+    "enableSolutionsButton": true,
+    "singlePoint": true,
+    "randomAnswers": true,
+    "showSolutionsRequiresInput": true,
+    "type": "auto",
+    "confirmCheckDialog": false,
+    "confirmRetryDialog": false,
+    "autoCheck": false,
+    "passPercentage": 100,
+    "showScorePoints": true,
+    "enableCheckButton": true
+  },
+  "overallFeedback": [
+    {
+      "from": 0,
+      "to": 0,
+      "feedback": "Wrong"
+    },
+    {
+      "from": 1,
+      "to": 99,
+      "feedback": "Almost!"
+    },
+    {
+      "from": 100,
+      "to": 100,
+      "feedback": "Correct!"
+    }
+  ],
+  "question": "After trying to sell a line of clothing at your retail location, you decide to change the price from $25 to $15. Which pricing strategy have you used?",
+  "isSolutionPublic": true,
+  "isFreeResponseSupported": false,
+  "answers": [
+    {
+      "text": "Markup",
+      "correct": false,
+      "tipsAndFeedback": {
+        "tip": "",
+        "chosenFeedback": "That&#8217;s not correct. Maintained markup is the percentage added to the cost at which retailers purchased goods at after the sale of those items.",
+        "notChosenFeedback": ""
+      }
+    },
+    {
+      "text": "Original markup",
+      "correct": false,
+      "tipsAndFeedback": {
+        "tip": "",
+        "chosenFeedback": "That&#8217;s not correct. The original markup is the percentage added to the cost at which retailers purchased the goods at before actually selling those items.",
+        "notChosenFeedback": ""
+      }
+    },
+    {
+      "text": "Maintained markup",
+      "correct": false,
+      "tipsAndFeedback": {
+        "tip": "",
+        "chosenFeedback": "That&#8217;s not correct. A markup is a price added to the cost at which retailers purchased goods.",
+        "notChosenFeedback": ""
+      }
+    },
+    {
+      "text": "Markdown",
+      "correct": true,
+      "tipsAndFeedback": {
+        "tip": "",
+        "chosenFeedback": "A markdown is a price decrease for a product that is at the end of its life cycle or season.",
+        "notChosenFeedback": ""
+      }
+    }
+  ],
+  "subContentId": "944630a5-55f1-4860-b683-6ac15d95fea6",
+  "detailedSolution": "A markdown is a price decrease for a product that is at the end of its life cycle or season."
+}
