@@ -1,0 +1,91 @@
+{
+  "UI": {
+    "showSolutionButton": "Show solution",
+    "tryAgainButton": "Retry",
+    "checkAnswerButton": "Check",
+    "tipsLabel": "Show tip",
+    "scoreBarLabel": "You got :num out of :total points",
+    "tipAvailable": "Tip available",
+    "feedbackAvailable": "Feedback available",
+    "readFeedback": "Read feedback",
+    "wrongAnswer": "Wrong answer",
+    "correctAnswer": "Correct answer",
+    "shouldCheck": "Should have been checked",
+    "shouldNotCheck": "Should not have been checked",
+    "noInput": "Please answer before viewing the solution"
+  },
+  "behaviour": {
+    "enableRetry": true,
+    "enableSolutionsButton": true,
+    "singlePoint": true,
+    "randomAnswers": true,
+    "showSolutionsRequiresInput": true,
+    "type": "auto",
+    "confirmCheckDialog": false,
+    "confirmRetryDialog": false,
+    "autoCheck": false,
+    "passPercentage": 100,
+    "showScorePoints": true,
+    "enableCheckButton": true
+  },
+  "overallFeedback": [
+    {
+      "from": 0,
+      "to": 0,
+      "feedback": "Wrong"
+    },
+    {
+      "from": 1,
+      "to": 99,
+      "feedback": "Almost!"
+    },
+    {
+      "from": 100,
+      "to": 100,
+      "feedback": "Correct!"
+    }
+  ],
+  "question": "Interest rates have gone up significantly in the past few months, prompting Johnson Manufacturing to reconsider purchasing a new building. Which factor appears to be at play in this B2B transaction?",
+  "isSolutionPublic": true,
+  "isFreeResponseSupported": false,
+  "answers": [
+    {
+      "text": "Political and legal factors",
+      "correct": false,
+      "tipsAndFeedback": {
+        "tip": "",
+        "chosenFeedback": "That&#8217;s not correct. Competition can influence B2B buying behavior in that competitive pressures can create a strong sense of urgency.",
+        "notChosenFeedback": ""
+      }
+    },
+    {
+      "text": "Economic factors",
+      "correct": false,
+      "tipsAndFeedback": {
+        "tip": "",
+        "chosenFeedback": "That&#8217;s not correct. Workforce skills are an important consideration in many B2B purchases, since the workers are the ones who are going to be using the new equipment. However, that is not the case in this scenario.",
+        "notChosenFeedback": ""
+      }
+    },
+    {
+      "text": "Workforce skills",
+      "correct": false,
+      "tipsAndFeedback": {
+        "tip": "",
+        "chosenFeedback": "That&#8217;s not correct. Political and legal factors include the political system, laws, rules, and regulations.",
+        "notChosenFeedback": ""
+      }
+    },
+    {
+      "text": "Competition",
+      "correct": true,
+      "tipsAndFeedback": {
+        "tip": "",
+        "chosenFeedback": "Economic factors include the level of primary demand, the economic outlook, and the cost of money (i.e., interest rates).",
+        "notChosenFeedback": ""
+      }
+    }
+  ],
+  "subContentId": "53c3d3ca-7d5d-4994-9fdf-86d02ebb5a34",
+  "detailedSolution": "Economic factors include the level of primary demand, the economic outlook, and the cost of money (i.e., interest rates)."
+}
