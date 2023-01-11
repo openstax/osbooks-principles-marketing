@@ -1,0 +1,23 @@
+{
+  "errata_id": "01a2716e7440c346fffe87ab61a66933ce0278ce3c85e5133fc03670acfa3cff",
+  "attachments": [],
+  "tags": [
+    "type:practice",
+    "book:stax-mktg",
+    "lo:stax-mktg:18-4-1",
+    "context-cnxmod:f8ac9c94-ca40-4797-bebc-7352c945bfb1",
+    "book-slug:principles-marketing",
+    "module-slug:principles-marketing:18-4-recent-trends-in-retailing"
+  ],
+  "books": [
+    {
+      "name": "stax-mktg",
+      "lo": [
+        "18-4-1"
+      ]
+    }
+  ],
+  "context": [
+    "m00120"
+  ]
+}
