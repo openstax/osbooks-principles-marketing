@@ -1,0 +1,91 @@
+{
+  "UI": {
+    "showSolutionButton": "Show solution",
+    "tryAgainButton": "Retry",
+    "checkAnswerButton": "Check",
+    "tipsLabel": "Show tip",
+    "scoreBarLabel": "You got :num out of :total points",
+    "tipAvailable": "Tip available",
+    "feedbackAvailable": "Feedback available",
+    "readFeedback": "Read feedback",
+    "wrongAnswer": "Wrong answer",
+    "correctAnswer": "Correct answer",
+    "shouldCheck": "Should have been checked",
+    "shouldNotCheck": "Should not have been checked",
+    "noInput": "Please answer before viewing the solution"
+  },
+  "behaviour": {
+    "enableRetry": true,
+    "enableSolutionsButton": true,
+    "singlePoint": true,
+    "randomAnswers": true,
+    "showSolutionsRequiresInput": true,
+    "type": "auto",
+    "confirmCheckDialog": false,
+    "confirmRetryDialog": false,
+    "autoCheck": false,
+    "passPercentage": 100,
+    "showScorePoints": true,
+    "enableCheckButton": true
+  },
+  "overallFeedback": [
+    {
+      "from": 0,
+      "to": 0,
+      "feedback": "Wrong"
+    },
+    {
+      "from": 1,
+      "to": 99,
+      "feedback": "Almost!"
+    },
+    {
+      "from": 100,
+      "to": 100,
+      "feedback": "Correct!"
+    }
+  ],
+  "question": "Which of the following Coca-Cola slogans is used in New Zealand?",
+  "isSolutionPublic": true,
+  "isFreeResponseSupported": false,
+  "answers": [
+    {
+      "text": "“Real Magic”",
+      "correct": false,
+      "tipsAndFeedback": {
+        "tip": "",
+        "chosenFeedback": "That&#8217;s not correct. &#8220;Feel the Magic&#8221; is Coca-Cola&#8217;s slogan in Indonesia.",
+        "notChosenFeedback": ""
+      }
+    },
+    {
+      "text": "“Always the Real Thing”",
+      "correct": false,
+      "tipsAndFeedback": {
+        "tip": "",
+        "chosenFeedback": "That&#8217;s not correct. &#8220;Feel the Flavor&#8221; is Coca-Cola&#8217;s slogan in Spain.",
+        "notChosenFeedback": ""
+      }
+    },
+    {
+      "text": "“Feel the Flavor”",
+      "correct": false,
+      "tipsAndFeedback": {
+        "tip": "",
+        "chosenFeedback": "That&#8217;s not correct. &#8220;Always the Real Thing&#8221; is Coca-Cola&#8217;s slogan in India.",
+        "notChosenFeedback": ""
+      }
+    },
+    {
+      "text": "“Feel the Magic”",
+      "correct": true,
+      "tipsAndFeedback": {
+        "tip": "",
+        "chosenFeedback": "&#8220;Real Magic&#8221; is Coca-Cola&#8217;s slogan in New Zealand.",
+        "notChosenFeedback": ""
+      }
+    }
+  ],
+  "subContentId": "d5111d60-02b3-4d9c-89ac-74542c4a66be",
+  "detailedSolution": "“Real Magic” is Coca-Cola’s slogan in New Zealand."
+}
