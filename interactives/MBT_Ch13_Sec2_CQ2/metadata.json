@@ -1,0 +1,23 @@
+{
+  "errata_id": "638734ab6b2bc793555e634137024b7b4063a978c665e2a4805b5b1599d1778b",
+  "attachments": [],
+  "tags": [
+    "type:practice",
+    "book:stax-mktg",
+    "lo:stax-mktg:13-2-2",
+    "context-cnxmod:eec996e4-a10c-4713-ad00-645eb4fca0e5",
+    "book-slug:principles-marketing",
+    "module-slug:principles-marketing:13-2-the-communication-process"
+  ],
+  "books": [
+    {
+      "name": "stax-mktg",
+      "lo": [
+        "13-2-2"
+      ]
+    }
+  ],
+  "context": [
+    "m00084"
+  ]
+}
