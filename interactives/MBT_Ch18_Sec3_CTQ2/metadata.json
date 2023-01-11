@@ -1,0 +1,36 @@
+{
+  "errata_id": "4a7e8e8eb12703c2edc04fc7838bd6dccb5ffe08d076dfafb2c099e84329ccdd",
+  "attachments": [],
+  "tags": [
+    "type:practice",
+    "book:stax-mktg",
+    "lo:stax-mktg:18-3-1",
+    "context-cnxmod:92829bd8-3171-4718-ba4a-91bfb8808ecf",
+    "lo:stax-mktg:18-3-2",
+    "lo:stax-mktg:18-5-1",
+    "context-cnxmod:eac8050f-440a-4c1b-8a1a-132726160927",
+    "lo:stax-mktg:18-5-2",
+    "lo:stax-mktg:18-3-3",
+    "lo:stax-mktg:18-3-4",
+    "book-slug:principles-marketing",
+    "module-slug:principles-marketing:18-3-retailing-strategy-decisions",
+    "module-slug:principles-marketing:18-5-wholesaling"
+  ],
+  "books": [
+    {
+      "name": "stax-mktg",
+      "lo": [
+        "18-3-1",
+        "18-3-2",
+        "18-5-1",
+        "18-5-2",
+        "18-3-3",
+        "18-3-4"
+      ]
+    }
+  ],
+  "context": [
+    "m00119",
+    "m00121"
+  ]
+}
