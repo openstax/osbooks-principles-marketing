@@ -1,0 +1,22 @@
+{
+  "errata_id": "6279619ed2d511a4359a7c1bfe02be72871b674791d480bb911312fda092982f",
+  "attachments": [],
+  "tags": [
+    "book:stax-mktg",
+    "lo:stax-mktg:14-1-1",
+    "context-cnxmod:2efa7eae-61a0-47c7-9534-3968c43e67f9",
+    "book-slug:principles-marketing",
+    "module-slug:principles-marketing:14-1-advertising-in-the-promotion-mix"
+  ],
+  "books": [
+    {
+      "name": "stax-mktg",
+      "lo": [
+        "14-1-1"
+      ]
+    }
+  ],
+  "context": [
+    "m00089"
+  ]
+}
