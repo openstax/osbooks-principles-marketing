@@ -1,0 +1,91 @@
+{
+  "UI": {
+    "showSolutionButton": "Show solution",
+    "tryAgainButton": "Retry",
+    "checkAnswerButton": "Check",
+    "tipsLabel": "Show tip",
+    "scoreBarLabel": "You got :num out of :total points",
+    "tipAvailable": "Tip available",
+    "feedbackAvailable": "Feedback available",
+    "readFeedback": "Read feedback",
+    "wrongAnswer": "Wrong answer",
+    "correctAnswer": "Correct answer",
+    "shouldCheck": "Should have been checked",
+    "shouldNotCheck": "Should not have been checked",
+    "noInput": "Please answer before viewing the solution"
+  },
+  "behaviour": {
+    "enableRetry": true,
+    "enableSolutionsButton": true,
+    "singlePoint": true,
+    "randomAnswers": true,
+    "showSolutionsRequiresInput": true,
+    "type": "auto",
+    "confirmCheckDialog": false,
+    "confirmRetryDialog": false,
+    "autoCheck": false,
+    "passPercentage": 100,
+    "showScorePoints": true,
+    "enableCheckButton": true
+  },
+  "overallFeedback": [
+    {
+      "from": 0,
+      "to": 0,
+      "feedback": "Wrong"
+    },
+    {
+      "from": 1,
+      "to": 99,
+      "feedback": "Almost!"
+    },
+    {
+      "from": 100,
+      "to": 100,
+      "feedback": "Correct!"
+    }
+  ],
+  "question": "You want to target a market more narrowly than simply using demographic data. You are also considering segmenting on people’s attitudes and interests. Which domain of the macroenvironment is most likely to be a relevant data source for your decision-making?",
+  "isSolutionPublic": true,
+  "isFreeResponseSupported": false,
+  "answers": [
+    {
+      "text": "Economic factors",
+      "correct": false,
+      "tipsAndFeedback": {
+        "tip": "",
+        "chosenFeedback": "That&#8217;s not correct. Political and legal concerns focus on legislation, regulation, and mandates concerning business.",
+        "notChosenFeedback": ""
+      }
+    },
+    {
+      "text": "Natural factors",
+      "correct": false,
+      "tipsAndFeedback": {
+        "tip": "",
+        "chosenFeedback": "That&#8217;s not correct. The natural and physical environment is concerned the availability of natural resources needed for production.",
+        "notChosenFeedback": ""
+      }
+    },
+    {
+      "text": "Political and legal factors",
+      "correct": false,
+      "tipsAndFeedback": {
+        "tip": "",
+        "chosenFeedback": "That&#8217;s not correct. The economic domain is concerned with such things as the inflation rate, the unemployment rate, and interest rates that impact the economy and consumers&#8217; spending power.",
+        "notChosenFeedback": ""
+      }
+    },
+    {
+      "text": "Social factors",
+      "correct": true,
+      "tipsAndFeedback": {
+        "tip": "",
+        "chosenFeedback": "The social and cultural domain is concern with such things as social trends, attitudes, and opinions.",
+        "notChosenFeedback": ""
+      }
+    }
+  ],
+  "subContentId": "3db3a5df-5fc0-4460-ad74-937f6ad025d0",
+  "detailedSolution": "The social and cultural domain is concern with such things as social trends, attitudes, and opinions."
+}
