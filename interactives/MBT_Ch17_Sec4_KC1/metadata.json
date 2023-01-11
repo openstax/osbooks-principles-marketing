@@ -1,0 +1,22 @@
+{
+  "errata_id": "b683515e95d1f265fe26abb458ca4e5fd32fba2024a8f1ce792b825c2aefda05",
+  "attachments": [],
+  "tags": [
+    "book:stax-mktg",
+    "lo:stax-mktg:17-4-1",
+    "context-cnxmod:997062c3-56b0-449f-aa81-eb79a555e0dd",
+    "book-slug:principles-marketing",
+    "module-slug:principles-marketing:17-4-managing-the-distribution-channel"
+  ],
+  "books": [
+    {
+      "name": "stax-mktg",
+      "lo": [
+        "17-4-1"
+      ]
+    }
+  ],
+  "context": [
+    "m00113"
+  ]
+}
