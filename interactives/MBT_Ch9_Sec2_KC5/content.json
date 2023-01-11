@@ -1,0 +1,91 @@
+{
+  "UI": {
+    "showSolutionButton": "Show solution",
+    "tryAgainButton": "Retry",
+    "checkAnswerButton": "Check",
+    "tipsLabel": "Show tip",
+    "scoreBarLabel": "You got :num out of :total points",
+    "tipAvailable": "Tip available",
+    "feedbackAvailable": "Feedback available",
+    "readFeedback": "Read feedback",
+    "wrongAnswer": "Wrong answer",
+    "correctAnswer": "Correct answer",
+    "shouldCheck": "Should have been checked",
+    "shouldNotCheck": "Should not have been checked",
+    "noInput": "Please answer before viewing the solution"
+  },
+  "behaviour": {
+    "enableRetry": true,
+    "enableSolutionsButton": true,
+    "singlePoint": true,
+    "randomAnswers": true,
+    "showSolutionsRequiresInput": true,
+    "type": "auto",
+    "confirmCheckDialog": false,
+    "confirmRetryDialog": false,
+    "autoCheck": false,
+    "passPercentage": 100,
+    "showScorePoints": true,
+    "enableCheckButton": true
+  },
+  "overallFeedback": [
+    {
+      "from": 0,
+      "to": 0,
+      "feedback": "Wrong"
+    },
+    {
+      "from": 1,
+      "to": 99,
+      "feedback": "Almost!"
+    },
+    {
+      "from": 100,
+      "to": 100,
+      "feedback": "Correct!"
+    }
+  ],
+  "question": "Which of the following is a benefit of product line filling? ",
+  "isSolutionPublic": true,
+  "isFreeResponseSupported": false,
+  "answers": [
+    {
+      "text": "Less money spent on research and development",
+      "correct": false,
+      "tipsAndFeedback": {
+        "tip": "",
+        "chosenFeedback": "That’s not correct. While product filling certainly stretches the product line, it is not a benefit of product line filling. ",
+        "notChosenFeedback": ""
+      }
+    },
+    {
+      "text": "Protection against competitors",
+      "correct": false,
+      "tipsAndFeedback": {
+        "tip": "",
+        "chosenFeedback": "That’s not correct. Product line development itself creates an assortment of products. ",
+        "notChosenFeedback": ""
+      }
+    },
+    {
+      "text": "Creates a product line assortment",
+      "correct": false,
+      "tipsAndFeedback": {
+        "tip": "",
+        "chosenFeedback": "That’s not correct. Research and development are a separate activity from product line development. ",
+        "notChosenFeedback": ""
+      }
+    },
+    {
+      "text": "Stretches the product line",
+      "correct": true,
+      "tipsAndFeedback": {
+        "tip": "",
+        "chosenFeedback": "Product line filling has the benefit of protecting a brand from competitors that might enter the market with a similar offering and utilizes the brand’s capacity to produce more products.",
+        "notChosenFeedback": ""
+      }
+    }
+  ],
+  "subContentId": "d1c2dff6-e6b5-42a5-9cf2-608e03d0f215",
+  "detailedSolution": "Product line filling has the benefit of protecting a brand from competitors that might enter the market with a similar offering and utilizes the brand’s capacity to produce more products."
+}
