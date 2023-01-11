@@ -1,0 +1,91 @@
+{
+  "UI": {
+    "showSolutionButton": "Show solution",
+    "tryAgainButton": "Retry",
+    "checkAnswerButton": "Check",
+    "tipsLabel": "Show tip",
+    "scoreBarLabel": "You got :num out of :total points",
+    "tipAvailable": "Tip available",
+    "feedbackAvailable": "Feedback available",
+    "readFeedback": "Read feedback",
+    "wrongAnswer": "Wrong answer",
+    "correctAnswer": "Correct answer",
+    "shouldCheck": "Should have been checked",
+    "shouldNotCheck": "Should not have been checked",
+    "noInput": "Please answer before viewing the solution"
+  },
+  "behaviour": {
+    "enableRetry": true,
+    "enableSolutionsButton": true,
+    "singlePoint": true,
+    "randomAnswers": true,
+    "showSolutionsRequiresInput": true,
+    "type": "auto",
+    "confirmCheckDialog": false,
+    "confirmRetryDialog": false,
+    "autoCheck": false,
+    "passPercentage": 100,
+    "showScorePoints": true,
+    "enableCheckButton": true
+  },
+  "overallFeedback": [
+    {
+      "from": 0,
+      "to": 0,
+      "feedback": "Wrong"
+    },
+    {
+      "from": 1,
+      "to": 99,
+      "feedback": "Almost!"
+    },
+    {
+      "from": 100,
+      "to": 100,
+      "feedback": "Correct!"
+    }
+  ],
+  "question": "The Hofstede cultural dimension that assesses the degree to which a society avoids risk or ambiguity is known as ________.",
+  "isSolutionPublic": true,
+  "isFreeResponseSupported": false,
+  "answers": [
+    {
+      "text": "masculinity/femininity",
+      "correct": false,
+      "tipsAndFeedback": {
+        "tip": "",
+        "chosenFeedback": "That&#8217;s not correct. Individualism versus collectivism refers to whether the culture emphasizes the needs and goals of the group as a whole or whether individual needs are paramount.",
+        "notChosenFeedback": ""
+      }
+    },
+    {
+      "text": "uncertainty avoidance",
+      "correct": false,
+      "tipsAndFeedback": {
+        "tip": "",
+        "chosenFeedback": "That&#8217;s not correct. Power distance refers to how much power inequality exists within a culture and the degree to which people are accepting of this inequality.",
+        "notChosenFeedback": ""
+      }
+    },
+    {
+      "text": "power distance index",
+      "correct": false,
+      "tipsAndFeedback": {
+        "tip": "",
+        "chosenFeedback": "That&#8217;s not correct. Masculinity/femininity refers to the degree to which gender-specific roles are valued in the society.",
+        "notChosenFeedback": ""
+      }
+    },
+    {
+      "text": "individualism versus collectivism",
+      "correct": true,
+      "tipsAndFeedback": {
+        "tip": "",
+        "chosenFeedback": "Societies with a high degree of uncertainty avoidance compensate for this uncertainty by establishing rules, policies, and procedures, whereas societies with low uncertainty avoidance more readily accept change.",
+        "notChosenFeedback": ""
+      }
+    }
+  ],
+  "subContentId": "077d5e22-2150-43ec-8010-150ba8e8b05f",
+  "detailedSolution": "Societies with a high degree of uncertainty avoidance compensate for this uncertainty by establishing rules, policies, and procedures, whereas societies with low uncertainty avoidance more readily accept change."
+}
