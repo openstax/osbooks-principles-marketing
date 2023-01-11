@@ -1,0 +1,91 @@
+{
+  "UI": {
+    "showSolutionButton": "Show solution",
+    "tryAgainButton": "Retry",
+    "checkAnswerButton": "Check",
+    "tipsLabel": "Show tip",
+    "scoreBarLabel": "You got :num out of :total points",
+    "tipAvailable": "Tip available",
+    "feedbackAvailable": "Feedback available",
+    "readFeedback": "Read feedback",
+    "wrongAnswer": "Wrong answer",
+    "correctAnswer": "Correct answer",
+    "shouldCheck": "Should have been checked",
+    "shouldNotCheck": "Should not have been checked",
+    "noInput": "Please answer before viewing the solution"
+  },
+  "behaviour": {
+    "enableRetry": true,
+    "enableSolutionsButton": true,
+    "singlePoint": true,
+    "randomAnswers": true,
+    "showSolutionsRequiresInput": true,
+    "type": "auto",
+    "confirmCheckDialog": false,
+    "confirmRetryDialog": false,
+    "autoCheck": false,
+    "passPercentage": 100,
+    "showScorePoints": true,
+    "enableCheckButton": true
+  },
+  "overallFeedback": [
+    {
+      "from": 0,
+      "to": 0,
+      "feedback": "Wrong"
+    },
+    {
+      "from": 1,
+      "to": 99,
+      "feedback": "Almost!"
+    },
+    {
+      "from": 100,
+      "to": 100,
+      "feedback": "Correct!"
+    }
+  ],
+  "question": "Amir is the head of marketing and is explaining to colleagues that the company’s new boutique bed and breakfast near the ocean should not be priced similarly to the local Super 8 motel. Amir explains that the new bed and breakfast is of the highest quality, has posh amenities, and is therefore being marketed to upper- and upper-middle-class couples. Amir is explaining which of the critical Cs of pricing?",
+  "isSolutionPublic": true,
+  "isFreeResponseSupported": false,
+  "answers": [
+    {
+      "text": "Cost",
+      "correct": false,
+      "tipsAndFeedback": {
+        "tip": "",
+        "chosenFeedback": "That&#8217;s not correct. The dimension of customers in the critical Cs of pricing refers to the value the customers will receive in an exchange.",
+        "notChosenFeedback": ""
+      }
+    },
+    {
+      "text": "Competition",
+      "correct": false,
+      "tipsAndFeedback": {
+        "tip": "",
+        "chosenFeedback": "That&#8217;s not correct. Analyzing competition refers to determining the positioning in a customer&#8217;s mind that two competing products hold.",
+        "notChosenFeedback": ""
+      }
+    },
+    {
+      "text": "Customer",
+      "correct": false,
+      "tipsAndFeedback": {
+        "tip": "",
+        "chosenFeedback": "That&#8217;s not correct. In the critical Cs of pricing, cost refers to determining the cost to produce a product.",
+        "notChosenFeedback": ""
+      }
+    },
+    {
+      "text": "Compatibility",
+      "correct": true,
+      "tipsAndFeedback": {
+        "tip": "",
+        "chosenFeedback": "Compatibility refers to the consistency of pricing decisions with the other marketing mix elements.",
+        "notChosenFeedback": ""
+      }
+    }
+  ],
+  "subContentId": "20541bd0-1abf-4c34-a8e9-01aa39406022",
+  "detailedSolution": "Compatibility refers to the consistency of pricing decisions with the other marketing mix elements."
+}

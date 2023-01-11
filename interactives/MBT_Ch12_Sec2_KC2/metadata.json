@@ -1,0 +1,22 @@
+{
+  "errata_id": "804a64bf1abdff664673b1b2bd37130f472ae42b7326fed8b6db4deb5418618e",
+  "attachments": [],
+  "tags": [
+    "book:stax-mktg",
+    "context-cnxmod:9c480f5d-d12a-432a-838b-1b3963e36ec4",
+    "lo:stax-mktg:12-2-1",
+    "book-slug:principles-marketing",
+    "module-slug:principles-marketing:12-2-the-five-critical-cs-of-pricing"
+  ],
+  "books": [
+    {
+      "name": "stax-mktg",
+      "lo": [
+        "12-2-1"
+      ]
+    }
+  ],
+  "context": [
+    "m00077"
+  ]
+}
