@@ -1,0 +1,30 @@
+{
+  "errata_id": "21779150306e8ef28ee31c27d9060343bbfe954129d6678cabd68e71c871cfc5",
+  "attachments": [],
+  "tags": [
+    "type:practice",
+    "book:stax-mktg",
+    "lo:stax-mktg:1-1-2",
+    "context-cnxmod:94a11eb6-7d07-438c-abb7-71dbc4f4f574",
+    "lo:stax-mktg:1-5-1",
+    "context-cnxmod:0f7f1c20-2086-4963-9acb-be3bee4b7431",
+    "lo:stax-mktg:1-5-2",
+    "book-slug:principles-marketing",
+    "module-slug:principles-marketing:1-1-marketing-and-the-marketing-process",
+    "module-slug:principles-marketing:1-5-determining-consumer-needs-and-wants"
+  ],
+  "books": [
+    {
+      "name": "stax-mktg",
+      "lo": [
+        "1-1-2",
+        "1-5-1",
+        "1-5-2"
+      ]
+    }
+  ],
+  "context": [
+    "m00007",
+    "m00011"
+  ]
+}
