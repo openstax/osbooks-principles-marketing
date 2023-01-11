@@ -1,0 +1,91 @@
+{
+  "UI": {
+    "showSolutionButton": "Show solution",
+    "tryAgainButton": "Retry",
+    "checkAnswerButton": "Check",
+    "tipsLabel": "Show tip",
+    "scoreBarLabel": "You got :num out of :total points",
+    "tipAvailable": "Tip available",
+    "feedbackAvailable": "Feedback available",
+    "readFeedback": "Read feedback",
+    "wrongAnswer": "Wrong answer",
+    "correctAnswer": "Correct answer",
+    "shouldCheck": "Should have been checked",
+    "shouldNotCheck": "Should not have been checked",
+    "noInput": "Please answer before viewing the solution"
+  },
+  "behaviour": {
+    "enableRetry": true,
+    "enableSolutionsButton": true,
+    "singlePoint": true,
+    "randomAnswers": true,
+    "showSolutionsRequiresInput": true,
+    "type": "auto",
+    "confirmCheckDialog": false,
+    "confirmRetryDialog": false,
+    "autoCheck": false,
+    "passPercentage": 100,
+    "showScorePoints": true,
+    "enableCheckButton": true
+  },
+  "overallFeedback": [
+    {
+      "from": 0,
+      "to": 0,
+      "feedback": "Wrong"
+    },
+    {
+      "from": 1,
+      "to": 99,
+      "feedback": "Almost!"
+    },
+    {
+      "from": 100,
+      "to": 100,
+      "feedback": "Correct!"
+    }
+  ],
+  "question": "An advertisement that appeals to personal accomplishments, independence, and assertiveness is an example of which of Hofstede’s cultural dimensions?",
+  "isSolutionPublic": true,
+  "isFreeResponseSupported": false,
+  "answers": [
+    {
+      "text": "High power distance",
+      "correct": false,
+      "tipsAndFeedback": {
+        "tip": "",
+        "chosenFeedback": "That&#8217;s not correct. Long-term orientation describes how individuals believe and behave in society. It is also based on links to the past and challenges in the future. Cultures with long-term orientation value perseverance, orderliness, thriftiness, and having a sense of shame, not accomplishments, independence, or assertiveness.",
+        "notChosenFeedback": ""
+      }
+    },
+    {
+      "text": "Masculinity",
+      "correct": false,
+      "tipsAndFeedback": {
+        "tip": "",
+        "chosenFeedback": "That&#8217;s not correct. Gender can strongly impact the creative concept and messaging behind marketing promotions, ads, and social media. Achievement, power, and strength are considered masculine traits but are not related to personal accomplishments, independence, or assertiveness.",
+        "notChosenFeedback": ""
+      }
+    },
+    {
+      "text": "Individualism",
+      "correct": false,
+      "tipsAndFeedback": {
+        "tip": "",
+        "chosenFeedback": "That&#8217;s not correct. High power distance is when a product serves to display an individual&#8217;s power or position in society. It is not related to personal accomplishments, independence, or assertiveness.",
+        "notChosenFeedback": ""
+      }
+    },
+    {
+      "text": "Long-term orientation",
+      "correct": true,
+      "tipsAndFeedback": {
+        "tip": "",
+        "chosenFeedback": "An advertisement that speaks to personal accomplishments, independence, and assertiveness is appealing to individualism.",
+        "notChosenFeedback": ""
+      }
+    }
+  ],
+  "subContentId": "3398fb39-9a5d-4574-95a9-003e0e6b122f",
+  "detailedSolution": "An advertisement that speaks to personal accomplishments, independence, and assertiveness is appealing to individualism."
+}
