@@ -1,0 +1,91 @@
+{
+  "UI": {
+    "showSolutionButton": "Show solution",
+    "tryAgainButton": "Retry",
+    "checkAnswerButton": "Check",
+    "tipsLabel": "Show tip",
+    "scoreBarLabel": "You got :num out of :total points",
+    "tipAvailable": "Tip available",
+    "feedbackAvailable": "Feedback available",
+    "readFeedback": "Read feedback",
+    "wrongAnswer": "Wrong answer",
+    "correctAnswer": "Correct answer",
+    "shouldCheck": "Should have been checked",
+    "shouldNotCheck": "Should not have been checked",
+    "noInput": "Please answer before viewing the solution"
+  },
+  "behaviour": {
+    "enableRetry": true,
+    "enableSolutionsButton": true,
+    "singlePoint": true,
+    "randomAnswers": true,
+    "showSolutionsRequiresInput": true,
+    "type": "auto",
+    "confirmCheckDialog": false,
+    "confirmRetryDialog": false,
+    "autoCheck": false,
+    "passPercentage": 100,
+    "showScorePoints": true,
+    "enableCheckButton": true
+  },
+  "overallFeedback": [
+    {
+      "from": 0,
+      "to": 0,
+      "feedback": "Wrong"
+    },
+    {
+      "from": 1,
+      "to": 99,
+      "feedback": "Almost!"
+    },
+    {
+      "from": 100,
+      "to": 100,
+      "feedback": "Correct!"
+    }
+  ],
+  "question": "A(n) ________ marketing channel partners with intermediaries including distributors, wholesalers, agents, or retailers to sell and distribute its products.",
+  "isSolutionPublic": true,
+  "isFreeResponseSupported": false,
+  "answers": [
+    {
+      "text": "omnichannel",
+      "correct": false,
+      "tipsAndFeedback": {
+        "tip": "",
+        "chosenFeedback": "That&#8217;s not correct. A vertical channel system is when companies in the marketing channel work together in a coordinated, collaborative, and customer-centric way.",
+        "notChosenFeedback": ""
+      }
+    },
+    {
+      "text": "indirect",
+      "correct": false,
+      "tipsAndFeedback": {
+        "tip": "",
+        "chosenFeedback": "That&#8217;s not correct. A multichannel marketing system exists when a company uses a variety of channels, such as stores and online, to distribute products and services.",
+        "notChosenFeedback": ""
+      }
+    },
+    {
+      "text": "multichannel",
+      "correct": false,
+      "tipsAndFeedback": {
+        "tip": "",
+        "chosenFeedback": "That&#8217;s not correct. An omnichannel marketing system allows consumers to buy and receive products and services seamlessly across a variety of channels, including online and in-store.",
+        "notChosenFeedback": ""
+      }
+    },
+    {
+      "text": "vertical channel",
+      "correct": true,
+      "tipsAndFeedback": {
+        "tip": "",
+        "chosenFeedback": "An indirect marketing channel relies on a partnership with intermediaries to sell and distribute its products.",
+        "notChosenFeedback": ""
+      }
+    }
+  ],
+  "subContentId": "0c042b46-dfa8-4ce1-b889-fe951dd5eab4",
+  "detailedSolution": "An indirect marketing channel relies on a partnership with intermediaries to sell and distribute its products."
+}
