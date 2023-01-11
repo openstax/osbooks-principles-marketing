@@ -1,0 +1,91 @@
+{
+  "UI": {
+    "showSolutionButton": "Show solution",
+    "tryAgainButton": "Retry",
+    "checkAnswerButton": "Check",
+    "tipsLabel": "Show tip",
+    "scoreBarLabel": "You got :num out of :total points",
+    "tipAvailable": "Tip available",
+    "feedbackAvailable": "Feedback available",
+    "readFeedback": "Read feedback",
+    "wrongAnswer": "Wrong answer",
+    "correctAnswer": "Correct answer",
+    "shouldCheck": "Should have been checked",
+    "shouldNotCheck": "Should not have been checked",
+    "noInput": "Please answer before viewing the solution"
+  },
+  "behaviour": {
+    "enableRetry": true,
+    "enableSolutionsButton": true,
+    "singlePoint": true,
+    "randomAnswers": true,
+    "showSolutionsRequiresInput": true,
+    "type": "auto",
+    "confirmCheckDialog": false,
+    "confirmRetryDialog": false,
+    "autoCheck": false,
+    "passPercentage": 100,
+    "showScorePoints": true,
+    "enableCheckButton": true
+  },
+  "overallFeedback": [
+    {
+      "from": 0,
+      "to": 0,
+      "feedback": "Wrong"
+    },
+    {
+      "from": 1,
+      "to": 99,
+      "feedback": "Almost!"
+    },
+    {
+      "from": 100,
+      "to": 100,
+      "feedback": "Correct!"
+    }
+  ],
+  "question": "The acronym RATER in the RATER framework of service quality stands for which dimensions of service quality that result in service excellence and lead to higher customer loyalty?",
+  "isSolutionPublic": true,
+  "isFreeResponseSupported": false,
+  "answers": [
+    {
+      "text": "Responsibility, accuracy, tangibles, empathy, and responsiveness",
+      "correct": false,
+      "tipsAndFeedback": {
+        "tip": "",
+        "chosenFeedback": "That&#8217;s not correct. These are not the five dimensions that would result in service excellence according to the model.",
+        "notChosenFeedback": ""
+      }
+    },
+    {
+      "text": "Risk, acceptance, transparency, earnings, and revenue",
+      "correct": false,
+      "tipsAndFeedback": {
+        "tip": "",
+        "chosenFeedback": "That&#8217;s not correct. These are not the five dimensions that would result in service excellence according to the model.",
+        "notChosenFeedback": ""
+      }
+    },
+    {
+      "text": "Reliability, assurance, tangibles, empathy, and responsiveness",
+      "correct": false,
+      "tipsAndFeedback": {
+        "tip": "",
+        "chosenFeedback": "That&#8217;s not correct. These are not the five dimensions that would result in service excellence according to the model. Two items are not included in the model.",
+        "notChosenFeedback": ""
+      }
+    },
+    {
+      "text": "Revenue, appreciation, trust, efficiency, and responsibility",
+      "correct": true,
+      "tipsAndFeedback": {
+        "tip": "",
+        "chosenFeedback": "According to the model, the five dimensions that would result in service excellence and lead to higher customer loyalty are reliability, assurance, tangibles, empathy, and responsiveness.",
+        "notChosenFeedback": ""
+      }
+    }
+  ],
+  "subContentId": "7793d20d-5d8c-4e39-af5c-71980fa58e6c",
+  "detailedSolution": "According to the model, the five dimensions that would result in service excellence and lead to higher customer loyalty are reliability, assurance, tangibles, empathy, and responsiveness."
+}
