@@ -1,0 +1,91 @@
+{
+  "UI": {
+    "showSolutionButton": "Show solution",
+    "tryAgainButton": "Retry",
+    "checkAnswerButton": "Check",
+    "tipsLabel": "Show tip",
+    "scoreBarLabel": "You got :num out of :total points",
+    "tipAvailable": "Tip available",
+    "feedbackAvailable": "Feedback available",
+    "readFeedback": "Read feedback",
+    "wrongAnswer": "Wrong answer",
+    "correctAnswer": "Correct answer",
+    "shouldCheck": "Should have been checked",
+    "shouldNotCheck": "Should not have been checked",
+    "noInput": "Please answer before viewing the solution"
+  },
+  "behaviour": {
+    "enableRetry": true,
+    "enableSolutionsButton": true,
+    "singlePoint": true,
+    "randomAnswers": true,
+    "showSolutionsRequiresInput": true,
+    "type": "auto",
+    "confirmCheckDialog": false,
+    "confirmRetryDialog": false,
+    "autoCheck": false,
+    "passPercentage": 100,
+    "showScorePoints": true,
+    "enableCheckButton": true
+  },
+  "overallFeedback": [
+    {
+      "from": 0,
+      "to": 0,
+      "feedback": "Wrong"
+    },
+    {
+      "from": 1,
+      "to": 99,
+      "feedback": "Almost!"
+    },
+    {
+      "from": 100,
+      "to": 100,
+      "feedback": "Correct!"
+    }
+  ],
+  "question": "Hoffman Enterprises, a manufacturer of electronic controls for appliances, has segmented its customers based upon the size of the company in terms of revenue and its geographic location. What method of segmenting B2B markets is Hoffman Enterprises using?",
+  "isSolutionPublic": true,
+  "isFreeResponseSupported": false,
+  "answers": [
+    {
+      "text": "Technographics",
+      "correct": false,
+      "tipsAndFeedback": {
+        "tip": "",
+        "chosenFeedback": "That&#8217;s not correct. Needs-based segmentation clusters groups of customers on the basis of what they normally look for in a product.",
+        "notChosenFeedback": ""
+      }
+    },
+    {
+      "text": "Behavioral",
+      "correct": false,
+      "tipsAndFeedback": {
+        "tip": "",
+        "chosenFeedback": "That&#8217;s not correct. Behavioral segmentation is a method of grouping consumers by their behavior patterns&#8212;how they interact with the company and its products or services.",
+        "notChosenFeedback": ""
+      }
+    },
+    {
+      "text": "Firmographics",
+      "correct": false,
+      "tipsAndFeedback": {
+        "tip": "",
+        "chosenFeedback": "That&#8217;s not correct. Technographic segmentation is based on the various hardware and software used by B2B customers.",
+        "notChosenFeedback": ""
+      }
+    },
+    {
+      "text": "Needs Based",
+      "correct": true,
+      "tipsAndFeedback": {
+        "tip": "",
+        "chosenFeedback": "Firmographics segments customers based on sets of characteristics such as industry, location, size, legal structure, and performance.",
+        "notChosenFeedback": ""
+      }
+    }
+  ],
+  "subContentId": "5ce8a4eb-0360-4f4e-8c6b-8ef7e78975d3",
+  "detailedSolution": "Firmographics segments customers based on sets of characteristics such as industry, location, size, legal structure, and performance."
+}
