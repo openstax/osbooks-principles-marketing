@@ -1,0 +1,91 @@
+{
+  "UI": {
+    "showSolutionButton": "Show solution",
+    "tryAgainButton": "Retry",
+    "checkAnswerButton": "Check",
+    "tipsLabel": "Show tip",
+    "scoreBarLabel": "You got :num out of :total points",
+    "tipAvailable": "Tip available",
+    "feedbackAvailable": "Feedback available",
+    "readFeedback": "Read feedback",
+    "wrongAnswer": "Wrong answer",
+    "correctAnswer": "Correct answer",
+    "shouldCheck": "Should have been checked",
+    "shouldNotCheck": "Should not have been checked",
+    "noInput": "Please answer before viewing the solution"
+  },
+  "behaviour": {
+    "enableRetry": true,
+    "enableSolutionsButton": true,
+    "singlePoint": true,
+    "randomAnswers": true,
+    "showSolutionsRequiresInput": true,
+    "type": "auto",
+    "confirmCheckDialog": false,
+    "confirmRetryDialog": false,
+    "autoCheck": false,
+    "passPercentage": 100,
+    "showScorePoints": true,
+    "enableCheckButton": true
+  },
+  "overallFeedback": [
+    {
+      "from": 0,
+      "to": 0,
+      "feedback": "Wrong"
+    },
+    {
+      "from": 1,
+      "to": 99,
+      "feedback": "Almost!"
+    },
+    {
+      "from": 100,
+      "to": 100,
+      "feedback": "Correct!"
+    }
+  ],
+  "question": "Alejandro, the owner of a Mexican restaurant, decides to revise the restaurant’s menu. He intends to use the same printing company but has to make several changes in the menu. What type of buying situation does this best illustrate?",
+  "isSolutionPublic": true,
+  "isFreeResponseSupported": false,
+  "answers": [
+    {
+      "text": "Systems selling",
+      "correct": false,
+      "tipsAndFeedback": {
+        "tip": "",
+        "chosenFeedback": "That&#8217;s not correct. In a new-task buy, the customer has no previous experience with the purchase.",
+        "notChosenFeedback": ""
+      }
+    },
+    {
+      "text": "Straight rebuy",
+      "correct": false,
+      "tipsAndFeedback": {
+        "tip": "",
+        "chosenFeedback": "That&#8217;s not correct. A straight rebuy is making a routine purchase of a standard product or products with no modifications from a familiar supplier.",
+        "notChosenFeedback": ""
+      }
+    },
+    {
+      "text": "Modified rebuy",
+      "correct": false,
+      "tipsAndFeedback": {
+        "tip": "",
+        "chosenFeedback": "That&#8217;s not correct. Systems selling involves selling a single, complete solution to a need or problem rather than purchasing several component parts.",
+        "notChosenFeedback": ""
+      }
+    },
+    {
+      "text": "New-task buy",
+      "correct": true,
+      "tipsAndFeedback": {
+        "tip": "",
+        "chosenFeedback": "In a modified rebuy, the purchaser is buying goods that have been purchased previously but changes either the supplier or certain elements of the previous order.",
+        "notChosenFeedback": ""
+      }
+    }
+  ],
+  "subContentId": "615f6b16-1c7e-4b31-9a8f-428d757a600d",
+  "detailedSolution": "In a modified rebuy, the purchaser is buying goods that have been purchased previously but changes either the supplier or certain elements of the previous order."
+}
