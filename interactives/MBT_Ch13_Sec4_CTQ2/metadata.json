@@ -1,0 +1,23 @@
+{
+  "errata_id": "3cb04d9b6bca24fa2aa86eb8ff8d264eda01623851e4ca14a1e01f88be849fa6",
+  "attachments": [],
+  "tags": [
+    "type:practice",
+    "book:stax-mktg",
+    "context-cnxmod:ae893fe2-e216-4c22-a54d-a9badd2c5632",
+    "lo:stax-mktg:13-4-2",
+    "book-slug:principles-marketing",
+    "module-slug:principles-marketing:13-4-steps-in-the-imc-planning-process"
+  ],
+  "books": [
+    {
+      "name": "stax-mktg",
+      "lo": [
+        "13-4-2"
+      ]
+    }
+  ],
+  "context": [
+    "m00086"
+  ]
+}
