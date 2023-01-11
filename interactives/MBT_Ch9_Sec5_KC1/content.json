@@ -1,0 +1,91 @@
+{
+  "UI": {
+    "showSolutionButton": "Show solution",
+    "tryAgainButton": "Retry",
+    "checkAnswerButton": "Check",
+    "tipsLabel": "Show tip",
+    "scoreBarLabel": "You got :num out of :total points",
+    "tipAvailable": "Tip available",
+    "feedbackAvailable": "Feedback available",
+    "readFeedback": "Read feedback",
+    "wrongAnswer": "Wrong answer",
+    "correctAnswer": "Correct answer",
+    "shouldCheck": "Should have been checked",
+    "shouldNotCheck": "Should not have been checked",
+    "noInput": "Please answer before viewing the solution"
+  },
+  "behaviour": {
+    "enableRetry": true,
+    "enableSolutionsButton": true,
+    "singlePoint": true,
+    "randomAnswers": true,
+    "showSolutionsRequiresInput": true,
+    "type": "auto",
+    "confirmCheckDialog": false,
+    "confirmRetryDialog": false,
+    "autoCheck": false,
+    "passPercentage": 100,
+    "showScorePoints": true,
+    "enableCheckButton": true
+  },
+  "overallFeedback": [
+    {
+      "from": 0,
+      "to": 0,
+      "feedback": "Wrong"
+    },
+    {
+      "from": 1,
+      "to": 99,
+      "feedback": "Almost!"
+    },
+    {
+      "from": 100,
+      "to": 100,
+      "feedback": "Correct!"
+    }
+  ],
+  "question": "Which of the following is a benefit of a brand?",
+  "isSolutionPublic": true,
+  "isFreeResponseSupported": false,
+  "answers": [
+    {
+      "text": "Consumers always choose name brands.",
+      "correct": false,
+      "tipsAndFeedback": {
+        "tip": "",
+        "chosenFeedback": "That’s not correct. While companies have products and services, they can be privately branded or generic. ",
+        "notChosenFeedback": ""
+      }
+    },
+    {
+      "text": "Brands can command higher prices.",
+      "correct": false,
+      "tipsAndFeedback": {
+        "tip": "",
+        "chosenFeedback": "That’s not correct. While shareholders may recognize the financial benefits of branding, shareholders are not a benefit of strong brands. ",
+        "notChosenFeedback": ""
+      }
+    },
+    {
+      "text": "Shareholders demand strong brands.",
+      "correct": false,
+      "tipsAndFeedback": {
+        "tip": "",
+        "chosenFeedback": "That’s not correct. While consumers often prefer name brands, it is not always the case. ",
+        "notChosenFeedback": ""
+      }
+    },
+    {
+      "text": "Every company must have a brand.",
+      "correct": true,
+      "tipsAndFeedback": {
+        "tip": "",
+        "chosenFeedback": "Brands often evoke positive feelings that allow a company to charge more for its product or service. ",
+        "notChosenFeedback": ""
+      }
+    }
+  ],
+  "subContentId": "0f26fcc0-439b-4678-999d-5955359a454f",
+  "detailedSolution": "Brands often evoke positive feelings that allow a company to charge more for its product or service. "
+}
