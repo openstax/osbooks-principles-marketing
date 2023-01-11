@@ -1,0 +1,91 @@
+{
+  "UI": {
+    "showSolutionButton": "Show solution",
+    "tryAgainButton": "Retry",
+    "checkAnswerButton": "Check",
+    "tipsLabel": "Show tip",
+    "scoreBarLabel": "You got :num out of :total points",
+    "tipAvailable": "Tip available",
+    "feedbackAvailable": "Feedback available",
+    "readFeedback": "Read feedback",
+    "wrongAnswer": "Wrong answer",
+    "correctAnswer": "Correct answer",
+    "shouldCheck": "Should have been checked",
+    "shouldNotCheck": "Should not have been checked",
+    "noInput": "Please answer before viewing the solution"
+  },
+  "behaviour": {
+    "enableRetry": true,
+    "enableSolutionsButton": true,
+    "singlePoint": true,
+    "randomAnswers": true,
+    "showSolutionsRequiresInput": true,
+    "type": "auto",
+    "confirmCheckDialog": false,
+    "confirmRetryDialog": false,
+    "autoCheck": false,
+    "passPercentage": 100,
+    "showScorePoints": true,
+    "enableCheckButton": true
+  },
+  "overallFeedback": [
+    {
+      "from": 0,
+      "to": 0,
+      "feedback": "Wrong"
+    },
+    {
+      "from": 1,
+      "to": 99,
+      "feedback": "Almost!"
+    },
+    {
+      "from": 100,
+      "to": 100,
+      "feedback": "Correct!"
+    }
+  ],
+  "question": "The demand for smartphones and similar devices has created a demand for other needed components, such as touch-sensitive glass screens, microchips, and circuit boards. This is an example of ________ demand.",
+  "isSolutionPublic": true,
+  "isFreeResponseSupported": false,
+  "answers": [
+    {
+      "text": "direct",
+      "correct": false,
+      "tipsAndFeedback": {
+        "tip": "",
+        "chosenFeedback": "That&#8217;s not correct. Negative demand is a type of demand that is created if a product is disliked in general.",
+        "notChosenFeedback": ""
+      }
+    },
+    {
+      "text": "irregular",
+      "correct": false,
+      "tipsAndFeedback": {
+        "tip": "",
+        "chosenFeedback": "That&#8217;s not correct. Irregular demand is demand that is not consistent, such as seasonal products like winter clothing and air conditioners.",
+        "notChosenFeedback": ""
+      }
+    },
+    {
+      "text": "derived",
+      "correct": false,
+      "tipsAndFeedback": {
+        "tip": "",
+        "chosenFeedback": "That&#8217;s not correct. Direct demand refers to demand for goods meant for final consumption.",
+        "notChosenFeedback": ""
+      }
+    },
+    {
+      "text": "negative",
+      "correct": true,
+      "tipsAndFeedback": {
+        "tip": "",
+        "chosenFeedback": "Derived demand is a market demand for a good or service that results from a demand for a related good or service.",
+        "notChosenFeedback": ""
+      }
+    }
+  ],
+  "subContentId": "94c5909a-3100-4608-904c-1ec5a85d61f6",
+  "detailedSolution": "Derived demand is a market demand for a good or service that results from a demand for a related good or service."
+}
