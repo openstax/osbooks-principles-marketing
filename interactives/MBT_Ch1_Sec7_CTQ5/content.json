@@ -1,0 +1,48 @@
+{
+  "overallFeedback": [
+    {
+      "from": 0,
+      "to": 100
+    }
+  ],
+  "behaviour": {
+    "inputFieldSize": "10",
+    "enableRetry": true,
+    "ignoreScoring": false,
+    "pointsHost": 1,
+    "linebreakReplacement": " "
+  },
+  "checkAnswer": "Check",
+  "submitAnswer": "Submit",
+  "tryAgain": "Retry",
+  "showSolution": "Show solution",
+  "feedbackHeader": "Feedback",
+  "solutionTitle": "Sample solution",
+  "remainingChars": "Remaining characters: @chars",
+  "notEnoughChars": "You must enter at least @chars characters!",
+  "messageSave": "saved",
+  "ariaYourResult": "You got @score out of @total points",
+  "ariaNavigatedToSolution": "Navigated to newly included sample solution after textarea.",
+  "ariaCheck": "Check the answers.",
+  "ariaShowSolution": "Show the solution. You will be provided with a sample solution.",
+  "ariaRetry": "Retry the task. You can improve your previous answer if the author allowed that.",
+  "taskDescription": "Is it OK for companies to profile customers and predict their purchase behavior? Every time you, as a consumer, visit a website, your “cookies” are gathered and used to better understand your shopping behavior. Several years ago, Target’s analysts developed an algorithm based upon Target customer buying behavior that predicted pregnancy. Those predicted to be pregnant—based upon the products they bought—were sent targeted marketing materials. The angry father of a high school student accused Target of erroneously sending his daughter a sales flyer for baby products. Supposedly, the daughter was pregnant. <a href=\"https://openstax.org/r/researchcompanyblog\" rel=\"nofollow\" target=\"_blank\">Read more about the incident</a>.\n<p style=\"margin-top:0.5em;\">How do you feel about companies gathering intimate details about you for marketing purposes? Do you believe these companies develop a better relationship with you as a result? Despite being accurate, was Target’s pregnancy-predicting algorithm ethical, invasive, or somewhere in between?</p>",
+  "isSolutionPublic": true,
+  "solution": {
+    "introduction": "",
+    "sample": ""
+  },
+  "keywords": [
+    {
+      "options": {
+        "points": 1,
+        "occurrences": 1,
+        "caseSensitive": false,
+        "forgiveMistakes": false,
+        "feedbackIncludedWord": "keyword",
+        "feedbackMissedWord": "none"
+      },
+      "keyword": "*"
+    }
+  ]
+}
