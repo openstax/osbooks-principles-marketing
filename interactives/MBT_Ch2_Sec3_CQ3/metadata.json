@@ -1,0 +1,23 @@
+{
+  "errata_id": "a8d2d4f6957f16f7b313527518eb07d386e92fc4947733ee804fa8351eef161c",
+  "attachments": [],
+  "tags": [
+    "type:practice",
+    "book:stax-mktg",
+    "lo:stax-mktg:2-3-2",
+    "context-cnxmod:d0863c0b-d7fd-46e6-9f82-00400fae21f1",
+    "book-slug:principles-marketing",
+    "module-slug:principles-marketing:2-3-purpose-and-structure-of-the-marketing-plan"
+  ],
+  "books": [
+    {
+      "name": "stax-mktg",
+      "lo": [
+        "2-3-2"
+      ]
+    }
+  ],
+  "context": [
+    "m00017"
+  ]
+}
