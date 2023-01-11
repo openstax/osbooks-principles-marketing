@@ -1,0 +1,91 @@
+{
+  "UI": {
+    "showSolutionButton": "Show solution",
+    "tryAgainButton": "Retry",
+    "checkAnswerButton": "Check",
+    "tipsLabel": "Show tip",
+    "scoreBarLabel": "You got :num out of :total points",
+    "tipAvailable": "Tip available",
+    "feedbackAvailable": "Feedback available",
+    "readFeedback": "Read feedback",
+    "wrongAnswer": "Wrong answer",
+    "correctAnswer": "Correct answer",
+    "shouldCheck": "Should have been checked",
+    "shouldNotCheck": "Should not have been checked",
+    "noInput": "Please answer before viewing the solution"
+  },
+  "behaviour": {
+    "enableRetry": true,
+    "enableSolutionsButton": true,
+    "singlePoint": true,
+    "randomAnswers": true,
+    "showSolutionsRequiresInput": true,
+    "type": "auto",
+    "confirmCheckDialog": false,
+    "confirmRetryDialog": false,
+    "autoCheck": false,
+    "passPercentage": 100,
+    "showScorePoints": true,
+    "enableCheckButton": true
+  },
+  "overallFeedback": [
+    {
+      "from": 0,
+      "to": 0,
+      "feedback": "Wrong"
+    },
+    {
+      "from": 1,
+      "to": 99,
+      "feedback": "Almost!"
+    },
+    {
+      "from": 100,
+      "to": 100,
+      "feedback": "Correct!"
+    }
+  ],
+  "question": "In which section of the marketing plan would you include a competitive analysis and discussion of the company’s top competitors?",
+  "isSolutionPublic": true,
+  "isFreeResponseSupported": false,
+  "answers": [
+    {
+      "text": "Positioning",
+      "correct": false,
+      "tipsAndFeedback": {
+        "tip": "",
+        "chosenFeedback": "That&#8217;s not correct. A mission statement is an action statement that declares the purpose of the organization and how it serves its customers.",
+        "notChosenFeedback": ""
+      }
+    },
+    {
+      "text": "Target market",
+      "correct": false,
+      "tipsAndFeedback": {
+        "tip": "",
+        "chosenFeedback": "That&#8217;s not correct. A company&#8217;s target market is the group(s) upon which it intends to focus its marketing efforts and resources.",
+        "notChosenFeedback": ""
+      }
+    },
+    {
+      "text": "Mission statement",
+      "correct": false,
+      "tipsAndFeedback": {
+        "tip": "",
+        "chosenFeedback": "That&#8217;s not correct. Positioning defines where your product or service fits into the marketplace and why it is better than alternative solutions.",
+        "notChosenFeedback": ""
+      }
+    },
+    {
+      "text": "Current marketing situation",
+      "correct": true,
+      "tipsAndFeedback": {
+        "tip": "",
+        "chosenFeedback": "Within the current marketing situation of your marketing plan, you should include a competitive analysis and a discussion of how competitors fare in the marketplace.",
+        "notChosenFeedback": ""
+      }
+    }
+  ],
+  "subContentId": "632d8d2e-7b66-4009-b2ff-77c494d32f81",
+  "detailedSolution": "Within the current marketing situation of your marketing plan, you should include a competitive analysis and a discussion of how competitors fare in the marketplace."
+}
