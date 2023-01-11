@@ -1,0 +1,91 @@
+{
+  "UI": {
+    "showSolutionButton": "Show solution",
+    "tryAgainButton": "Retry",
+    "checkAnswerButton": "Check",
+    "tipsLabel": "Show tip",
+    "scoreBarLabel": "You got :num out of :total points",
+    "tipAvailable": "Tip available",
+    "feedbackAvailable": "Feedback available",
+    "readFeedback": "Read feedback",
+    "wrongAnswer": "Wrong answer",
+    "correctAnswer": "Correct answer",
+    "shouldCheck": "Should have been checked",
+    "shouldNotCheck": "Should not have been checked",
+    "noInput": "Please answer before viewing the solution"
+  },
+  "behaviour": {
+    "enableRetry": true,
+    "enableSolutionsButton": true,
+    "singlePoint": true,
+    "randomAnswers": true,
+    "showSolutionsRequiresInput": true,
+    "type": "auto",
+    "confirmCheckDialog": false,
+    "confirmRetryDialog": false,
+    "autoCheck": false,
+    "passPercentage": 100,
+    "showScorePoints": true,
+    "enableCheckButton": true
+  },
+  "overallFeedback": [
+    {
+      "from": 0,
+      "to": 0,
+      "feedback": "Wrong"
+    },
+    {
+      "from": 1,
+      "to": 99,
+      "feedback": "Almost!"
+    },
+    {
+      "from": 100,
+      "to": 100,
+      "feedback": "Correct!"
+    }
+  ],
+  "question": "If you wanted to fill a gap in the marketplace, you would have to carefully consider ________ to see what is already available on the market.",
+  "isSolutionPublic": true,
+  "isFreeResponseSupported": false,
+  "answers": [
+    {
+      "text": "the competition",
+      "correct": false,
+      "tipsAndFeedback": {
+        "tip": "",
+        "chosenFeedback": "That&#8217;s not correct. Resellers are important in bringing the product to the customer, but they do not determine what is already available on the market.",
+        "notChosenFeedback": ""
+      }
+    },
+    {
+      "text": "the customers",
+      "correct": false,
+      "tipsAndFeedback": {
+        "tip": "",
+        "chosenFeedback": "That&#8217;s not correct. The public is a large audience that may not directly be related to your operations but that, nonetheless, may be impacted by the effects of your operation.",
+        "notChosenFeedback": ""
+      }
+    },
+    {
+      "text": "the public",
+      "correct": false,
+      "tipsAndFeedback": {
+        "tip": "",
+        "chosenFeedback": "That&#8217;s not correct. The customers&#8217; needs are essential, but they are not directly responsible for what the marketplace is currently offering.",
+        "notChosenFeedback": ""
+      }
+    },
+    {
+      "text": "the resellers",
+      "correct": true,
+      "tipsAndFeedback": {
+        "tip": "",
+        "chosenFeedback": "The competition has to be assessed to see how well and to what degree the need you hope to fulfill is currently being addressed.",
+        "notChosenFeedback": ""
+      }
+    }
+  ],
+  "subContentId": "404fe362-ae6f-4b21-8134-5accad74854c",
+  "detailedSolution": "The competition has to be assessed to see how well and to what degree the need you hope to fulfill is currently being addressed."
+}
