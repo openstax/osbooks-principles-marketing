@@ -1,0 +1,91 @@
+{
+  "UI": {
+    "showSolutionButton": "Show solution",
+    "tryAgainButton": "Retry",
+    "checkAnswerButton": "Check",
+    "tipsLabel": "Show tip",
+    "scoreBarLabel": "You got :num out of :total points",
+    "tipAvailable": "Tip available",
+    "feedbackAvailable": "Feedback available",
+    "readFeedback": "Read feedback",
+    "wrongAnswer": "Wrong answer",
+    "correctAnswer": "Correct answer",
+    "shouldCheck": "Should have been checked",
+    "shouldNotCheck": "Should not have been checked",
+    "noInput": "Please answer before viewing the solution"
+  },
+  "behaviour": {
+    "enableRetry": true,
+    "enableSolutionsButton": true,
+    "singlePoint": true,
+    "randomAnswers": true,
+    "showSolutionsRequiresInput": true,
+    "type": "auto",
+    "confirmCheckDialog": false,
+    "confirmRetryDialog": false,
+    "autoCheck": false,
+    "passPercentage": 100,
+    "showScorePoints": true,
+    "enableCheckButton": true
+  },
+  "overallFeedback": [
+    {
+      "from": 0,
+      "to": 0,
+      "feedback": "Wrong"
+    },
+    {
+      "from": 1,
+      "to": 99,
+      "feedback": "Almost!"
+    },
+    {
+      "from": 100,
+      "to": 100,
+      "feedback": "Correct!"
+    }
+  ],
+  "question": "Jason, a purchasing agent for an electronics firm, places an order with a supplier for diodes to be used in the manufacturing process. This is an example of a transaction in the ________ market.",
+  "isSolutionPublic": true,
+  "isFreeResponseSupported": false,
+  "answers": [
+    {
+      "text": "B2B",
+      "correct": false,
+      "tipsAndFeedback": {
+        "tip": "",
+        "chosenFeedback": "That&#8217;s not correct. A C2C (or &#8220;consumer-to-consumer&#8221;) transaction is one that is conducted between consumers, such as eBay or Facebook Marketplace.",
+        "notChosenFeedback": ""
+      }
+    },
+    {
+      "text": "B2C",
+      "correct": false,
+      "tipsAndFeedback": {
+        "tip": "",
+        "chosenFeedback": "That&#8217;s not correct. A B2G (or &#8220;business-to-government&#8221;) transaction is one that is conducted between a business and federal, state, or local government agencies.",
+        "notChosenFeedback": ""
+      }
+    },
+    {
+      "text": "B2G",
+      "correct": false,
+      "tipsAndFeedback": {
+        "tip": "",
+        "chosenFeedback": "That&#8217;s not correct. A B2C (or &#8220;business-to-consumer&#8221;) transaction is one that is conducted between a business and an individual consumer.",
+        "notChosenFeedback": ""
+      }
+    },
+    {
+      "text": "C2C",
+      "correct": true,
+      "tipsAndFeedback": {
+        "tip": "",
+        "chosenFeedback": "A B2B (or &#8220;business-to-business&#8221;) transaction is one that is conducted between one business and another.",
+        "notChosenFeedback": ""
+      }
+    }
+  ],
+  "subContentId": "5782d982-4391-4889-af0e-2781b24c8988",
+  "detailedSolution": "A B2B (or “business-to-business”) transaction is one that is conducted between one business and another."
+}
