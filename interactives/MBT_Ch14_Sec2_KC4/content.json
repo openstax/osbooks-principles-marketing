@@ -1,0 +1,91 @@
+{
+  "UI": {
+    "showSolutionButton": "Show solution",
+    "tryAgainButton": "Retry",
+    "checkAnswerButton": "Check",
+    "tipsLabel": "Show tip",
+    "scoreBarLabel": "You got :num out of :total points",
+    "tipAvailable": "Tip available",
+    "feedbackAvailable": "Feedback available",
+    "readFeedback": "Read feedback",
+    "wrongAnswer": "Wrong answer",
+    "correctAnswer": "Correct answer",
+    "shouldCheck": "Should have been checked",
+    "shouldNotCheck": "Should not have been checked",
+    "noInput": "Please answer before viewing the solution"
+  },
+  "behaviour": {
+    "enableRetry": true,
+    "enableSolutionsButton": true,
+    "singlePoint": true,
+    "randomAnswers": true,
+    "showSolutionsRequiresInput": true,
+    "type": "auto",
+    "confirmCheckDialog": false,
+    "confirmRetryDialog": false,
+    "autoCheck": false,
+    "passPercentage": 100,
+    "showScorePoints": true,
+    "enableCheckButton": true
+  },
+  "overallFeedback": [
+    {
+      "from": 0,
+      "to": 0,
+      "feedback": "Wrong"
+    },
+    {
+      "from": 1,
+      "to": 99,
+      "feedback": "Almost!"
+    },
+    {
+      "from": 100,
+      "to": 100,
+      "feedback": "Correct!"
+    }
+  ],
+  "question": "Jamal is trying to explain the difference between reach and frequency to his classmates. Which of the following best describes <i>reach</i>?",
+  "isSolutionPublic": true,
+  "isFreeResponseSupported": false,
+  "answers": [
+    {
+      "text": "Interactions with an advertisement",
+      "correct": false,
+      "tipsAndFeedback": {
+        "tip": "",
+        "chosenFeedback": "That&#8217;s not correct. <i>Impact</i> refers to how quickly members of the audience receive an advertising message.",
+        "notChosenFeedback": ""
+      }
+    },
+    {
+      "text": "Estimated number of times a potential customer will see an advertisement",
+      "correct": false,
+      "tipsAndFeedback": {
+        "tip": "",
+        "chosenFeedback": "That&#8217;s not correct. <i>Frequency</i> refers to the number of times a person is exposed to an advertisement or the number of times the advertisement is repeated within a given period of time.",
+        "notChosenFeedback": ""
+      }
+    },
+    {
+      "text": "How quickly the audience will be reached with an advertisement",
+      "correct": false,
+      "tipsAndFeedback": {
+        "tip": "",
+        "chosenFeedback": "That&#8217;s not correct. <i>Engagement</i> refers to any interaction with advertising content.",
+        "notChosenFeedback": ""
+      }
+    },
+    {
+      "text": "Estimated number of potential customers to see an advertisement",
+      "correct": true,
+      "tipsAndFeedback": {
+        "tip": "",
+        "chosenFeedback": "<i>Reach</i> refers to the estimated number of potential customers that can be reached with an advertising campaign.",
+        "notChosenFeedback": ""
+      }
+    }
+  ],
+  "subContentId": "371185b3-7fcb-455f-b306-ce61353315e4",
+  "detailedSolution": "<i>Reach</i> refers to the estimated number of potential customers that can be reached with an advertising campaign."
+}
