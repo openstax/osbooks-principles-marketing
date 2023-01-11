@@ -1,0 +1,22 @@
+{
+  "errata_id": "1fbfa652b37e650dd6e3afff4a361c6074e5e8fbccdfb43bf2c146a5d85c713c",
+  "attachments": [],
+  "tags": [
+    "book:stax-mktg",
+    "lo:stax-mktg:8-3-1",
+    "context-cnxmod:a18c5ec6-92f4-4db2-9f31-d295f7abcc83",
+    "book-slug:principles-marketing",
+    "module-slug:principles-marketing:8-3-multicultural-marketing"
+  ],
+  "books": [
+    {
+      "name": "stax-mktg",
+      "lo": [
+        "8-3-1"
+      ]
+    }
+  ],
+  "context": [
+    "m00047"
+  ]
+}
