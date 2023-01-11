@@ -1,0 +1,91 @@
+{
+  "UI": {
+    "showSolutionButton": "Show solution",
+    "tryAgainButton": "Retry",
+    "checkAnswerButton": "Check",
+    "tipsLabel": "Show tip",
+    "scoreBarLabel": "You got :num out of :total points",
+    "tipAvailable": "Tip available",
+    "feedbackAvailable": "Feedback available",
+    "readFeedback": "Read feedback",
+    "wrongAnswer": "Wrong answer",
+    "correctAnswer": "Correct answer",
+    "shouldCheck": "Should have been checked",
+    "shouldNotCheck": "Should not have been checked",
+    "noInput": "Please answer before viewing the solution"
+  },
+  "behaviour": {
+    "enableRetry": true,
+    "enableSolutionsButton": true,
+    "singlePoint": true,
+    "randomAnswers": true,
+    "showSolutionsRequiresInput": true,
+    "type": "auto",
+    "confirmCheckDialog": false,
+    "confirmRetryDialog": false,
+    "autoCheck": false,
+    "passPercentage": 100,
+    "showScorePoints": true,
+    "enableCheckButton": true
+  },
+  "overallFeedback": [
+    {
+      "from": 0,
+      "to": 0,
+      "feedback": "Wrong"
+    },
+    {
+      "from": 1,
+      "to": 99,
+      "feedback": "Almost!"
+    },
+    {
+      "from": 100,
+      "to": 100,
+      "feedback": "Correct!"
+    }
+  ],
+  "question": "When advertising is scheduled to run constantly without variation, this is referred to as ________.",
+  "isSolutionPublic": true,
+  "isFreeResponseSupported": false,
+  "answers": [
+    {
+      "text": "flighting",
+      "correct": false,
+      "tipsAndFeedback": {
+        "tip": "",
+        "chosenFeedback": "That&#8217;s not correct. A pulsing schedule has the advertisement being shown continuously, with periods where the ad is shown at a higher rate as well as periods where it is shown at a lower rate.",
+        "notChosenFeedback": ""
+      }
+    },
+    {
+      "text": "continuity",
+      "correct": false,
+      "tipsAndFeedback": {
+        "tip": "",
+        "chosenFeedback": "That&#8217;s not correct. Reach refers to the number of consumers that see the advertisement.",
+        "notChosenFeedback": ""
+      }
+    },
+    {
+      "text": "reach",
+      "correct": false,
+      "tipsAndFeedback": {
+        "tip": "",
+        "chosenFeedback": "That&#8217;s not correct. A flighting schedule has periods of advertising followed by periods of time without the ad being shown.",
+        "notChosenFeedback": ""
+      }
+    },
+    {
+      "text": "pulsing",
+      "correct": true,
+      "tipsAndFeedback": {
+        "tip": "",
+        "chosenFeedback": "With continuity scheduling, an advertiser is showing its advertisement on a continuous schedule without variation.",
+        "notChosenFeedback": ""
+      }
+    }
+  ],
+  "subContentId": "c2d2ba85-4a60-4191-b250-5b3cee556529",
+  "detailedSolution": "With continuity scheduling, an advertiser is showing its advertisement on a continuous schedule without variation."
+}
