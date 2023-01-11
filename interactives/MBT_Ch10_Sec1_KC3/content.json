@@ -1,0 +1,91 @@
+{
+  "UI": {
+    "showSolutionButton": "Show solution",
+    "tryAgainButton": "Retry",
+    "checkAnswerButton": "Check",
+    "tipsLabel": "Show tip",
+    "scoreBarLabel": "You got :num out of :total points",
+    "tipAvailable": "Tip available",
+    "feedbackAvailable": "Feedback available",
+    "readFeedback": "Read feedback",
+    "wrongAnswer": "Wrong answer",
+    "correctAnswer": "Correct answer",
+    "shouldCheck": "Should have been checked",
+    "shouldNotCheck": "Should not have been checked",
+    "noInput": "Please answer before viewing the solution"
+  },
+  "behaviour": {
+    "enableRetry": true,
+    "enableSolutionsButton": true,
+    "singlePoint": true,
+    "randomAnswers": true,
+    "showSolutionsRequiresInput": true,
+    "type": "auto",
+    "confirmCheckDialog": false,
+    "confirmRetryDialog": false,
+    "autoCheck": false,
+    "passPercentage": 100,
+    "showScorePoints": true,
+    "enableCheckButton": true
+  },
+  "overallFeedback": [
+    {
+      "from": 0,
+      "to": 0,
+      "feedback": "Wrong"
+    },
+    {
+      "from": 1,
+      "to": 99,
+      "feedback": "Almost!"
+    },
+    {
+      "from": 100,
+      "to": 100,
+      "feedback": "Correct!"
+    }
+  ],
+  "question": "Saundra went to the grocery store and purchased the same laundry detergent she’s been buying for years, but she noticed that the packaging had been changed and the label indicated that the laundry detergent was “new and improved.” What category of new products would the laundry detergent likely fall under?",
+  "isSolutionPublic": true,
+  "isFreeResponseSupported": false,
+  "answers": [
+    {
+      "text": "New-to-the-world products",
+      "correct": false,
+      "tipsAndFeedback": {
+        "tip": "",
+        "chosenFeedback": "That&#8217;s not correct. Repositioned products are those products that are retargeted for a new use or application.",
+        "notChosenFeedback": ""
+      }
+    },
+    {
+      "text": "New-to-the-firm products",
+      "correct": false,
+      "tipsAndFeedback": {
+        "tip": "",
+        "chosenFeedback": "That&#8217;s not correct. New-to-the-firm products aren&#8217;t new to the world, but they are new to the firm. These are often &#8220;me-too&#8221; types of products that are added to a product line.",
+        "notChosenFeedback": ""
+      }
+    },
+    {
+      "text": "Repositioned products",
+      "correct": false,
+      "tipsAndFeedback": {
+        "tip": "",
+        "chosenFeedback": "That&#8217;s not correct. New-to-the-world products are inventions that create a new market.",
+        "notChosenFeedback": ""
+      }
+    },
+    {
+      "text": "Improvements and revisions to existing products",
+      "correct": true,
+      "tipsAndFeedback": {
+        "tip": "",
+        "chosenFeedback": "The laundry detergent is supposedly a current product made better.",
+        "notChosenFeedback": ""
+      }
+    }
+  ],
+  "subContentId": "fc437cb1-420d-46d6-bca2-4169bb055b50",
+  "detailedSolution": "The laundry detergent is supposedly a current product made better."
+}
