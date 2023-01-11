@@ -1,0 +1,91 @@
+{
+  "UI": {
+    "showSolutionButton": "Show solution",
+    "tryAgainButton": "Retry",
+    "checkAnswerButton": "Check",
+    "tipsLabel": "Show tip",
+    "scoreBarLabel": "You got :num out of :total points",
+    "tipAvailable": "Tip available",
+    "feedbackAvailable": "Feedback available",
+    "readFeedback": "Read feedback",
+    "wrongAnswer": "Wrong answer",
+    "correctAnswer": "Correct answer",
+    "shouldCheck": "Should have been checked",
+    "shouldNotCheck": "Should not have been checked",
+    "noInput": "Please answer before viewing the solution"
+  },
+  "behaviour": {
+    "enableRetry": true,
+    "enableSolutionsButton": true,
+    "singlePoint": true,
+    "randomAnswers": true,
+    "showSolutionsRequiresInput": true,
+    "type": "auto",
+    "confirmCheckDialog": false,
+    "confirmRetryDialog": false,
+    "autoCheck": false,
+    "passPercentage": 100,
+    "showScorePoints": true,
+    "enableCheckButton": true
+  },
+  "overallFeedback": [
+    {
+      "from": 0,
+      "to": 0,
+      "feedback": "Wrong"
+    },
+    {
+      "from": 1,
+      "to": 99,
+      "feedback": "Almost!"
+    },
+    {
+      "from": 100,
+      "to": 100,
+      "feedback": "Correct!"
+    }
+  ],
+  "question": "Which of the following has had the most impact on a customer’s access to product, brand visibility, and personalization?",
+  "isSolutionPublic": true,
+  "isFreeResponseSupported": false,
+  "answers": [
+    {
+      "text": "Omnichannel marketing",
+      "correct": false,
+      "tipsAndFeedback": {
+        "tip": "",
+        "chosenFeedback": "That&#8217;s not correct. Strip malls do not increase a customer&#8217;s access to product or allow for personalization.",
+        "notChosenFeedback": ""
+      }
+    },
+    {
+      "text": "Freestanding retail locations",
+      "correct": false,
+      "tipsAndFeedback": {
+        "tip": "",
+        "chosenFeedback": "That&#8217;s not correct. Retail communication is an important aspect of the omnichannel, but by itself will not increase a customer&#8217;s access to products or personalization.",
+        "notChosenFeedback": ""
+      }
+    },
+    {
+      "text": "Retail communication",
+      "correct": false,
+      "tipsAndFeedback": {
+        "tip": "",
+        "chosenFeedback": "That&#8217;s not correct. Freestanding retail locations have decreased over the past decades and does not increase a customer&#8217;s access to product or personalization.",
+        "notChosenFeedback": ""
+      }
+    },
+    {
+      "text": "Strip malls",
+      "correct": true,
+      "tipsAndFeedback": {
+        "tip": "",
+        "chosenFeedback": "Omnichannel marketing increases customer&#8217;s access to product, brand visibility, and personalization because it utilizes multiple channels to reach the customer.",
+        "notChosenFeedback": ""
+      }
+    }
+  ],
+  "subContentId": "2ca61349-0464-4463-9e1e-1ef456966912",
+  "detailedSolution": "Omnichannel marketing increases customer’s access to product, brand visibility, and personalization because it utilizes multiple channels to reach the customer."
+}
