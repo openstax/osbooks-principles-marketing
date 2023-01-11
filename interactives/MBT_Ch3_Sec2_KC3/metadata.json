@@ -1,0 +1,22 @@
+{
+  "errata_id": "41e2e3dcdbd3996fc30e82e520b032432e1ad19ff94905703afd179bf62a2d46",
+  "attachments": [],
+  "tags": [
+    "context-cnxmod:656a95e4-fd14-434b-af42-5f1cd2be1e67",
+    "book:stax-mktg",
+    "lo:stax-mktg:3-2-4",
+    "book-slug:principles-marketing",
+    "module-slug:principles-marketing:3-2-factors-that-influence-consumer-buying-behavior"
+  ],
+  "books": [
+    {
+      "name": "stax-mktg",
+      "lo": [
+        "3-2-4"
+      ]
+    }
+  ],
+  "context": [
+    "m00003"
+  ]
+}

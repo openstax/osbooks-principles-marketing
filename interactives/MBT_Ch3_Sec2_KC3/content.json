@@ -1,0 +1,91 @@
+{
+  "UI": {
+    "showSolutionButton": "Show solution",
+    "tryAgainButton": "Retry",
+    "checkAnswerButton": "Check",
+    "tipsLabel": "Show tip",
+    "scoreBarLabel": "You got :num out of :total points",
+    "tipAvailable": "Tip available",
+    "feedbackAvailable": "Feedback available",
+    "readFeedback": "Read feedback",
+    "wrongAnswer": "Wrong answer",
+    "correctAnswer": "Correct answer",
+    "shouldCheck": "Should have been checked",
+    "shouldNotCheck": "Should not have been checked",
+    "noInput": "Please answer before viewing the solution"
+  },
+  "behaviour": {
+    "enableRetry": true,
+    "enableSolutionsButton": true,
+    "singlePoint": true,
+    "randomAnswers": true,
+    "showSolutionsRequiresInput": true,
+    "type": "auto",
+    "confirmCheckDialog": false,
+    "confirmRetryDialog": false,
+    "autoCheck": false,
+    "passPercentage": 100,
+    "showScorePoints": true,
+    "enableCheckButton": true
+  },
+  "overallFeedback": [
+    {
+      "from": 0,
+      "to": 0,
+      "feedback": "Wrong"
+    },
+    {
+      "from": 1,
+      "to": 99,
+      "feedback": "Almost!"
+    },
+    {
+      "from": 100,
+      "to": 100,
+      "feedback": "Correct!"
+    }
+  ],
+  "question": "Jazmine purchases a wireless alarm system for her apartment. According to Maslow’s hierarchy of needs, which level of needs does this purchase reflect?",
+  "isSolutionPublic": true,
+  "isFreeResponseSupported": false,
+  "answers": [
+    {
+      "text": "Physiological",
+      "correct": false,
+      "tipsAndFeedback": {
+        "tip": "",
+        "chosenFeedback": "That&#8217;s not correct. Social needs include the need for emotional attachments, friendship, love, or belonging to community or church groups.",
+        "notChosenFeedback": ""
+      }
+    },
+    {
+      "text": "Safety/security",
+      "correct": false,
+      "tipsAndFeedback": {
+        "tip": "",
+        "chosenFeedback": "That&#8217;s not correct. Esteem, the fourth level in Maslow&#8217;s hierarchy of needs, includes such needs as recognition from others, taking pride in your education or work, awards, and/or prestige.",
+        "notChosenFeedback": ""
+      }
+    },
+    {
+      "text": "Self-esteem",
+      "correct": false,
+      "tipsAndFeedback": {
+        "tip": "",
+        "chosenFeedback": "That&#8217;s not correct. Physiological needs are the most basic and include things like adequate food, water, and shelter.",
+        "notChosenFeedback": ""
+      }
+    },
+    {
+      "text": "Social",
+      "correct": true,
+      "tipsAndFeedback": {
+        "tip": "",
+        "chosenFeedback": "The safety and security level of Maslow&#8217;s hierarchy of needs reflects the need to be safe from physical and psychological harm.",
+        "notChosenFeedback": ""
+      }
+    }
+  ],
+  "subContentId": "697ce47c-74c1-40d4-996e-33541934a06a",
+  "detailedSolution": "The safety and security level of Maslow’s hierarchy of needs reflects the need to be safe from physical and psychological harm."
+}
