@@ -1,0 +1,23 @@
+{
+  "errata_id": "264d443d1a151a541e032470a59775ef6dc37e6931942e1a5c3bdc5d1c95420b",
+  "attachments": [],
+  "tags": [
+    "type:practice",
+    "book:stax-mktg",
+    "context-cnxmod:5e2838dc-0331-4a41-b9c4-3cb3804ff83d",
+    "lo:stax-mktg:6-1-2",
+    "book-slug:principles-marketing",
+    "module-slug:principles-marketing:6-1-marketing-research-and-big-data"
+  ],
+  "books": [
+    {
+      "name": "stax-mktg",
+      "lo": [
+        "6-1-2"
+      ]
+    }
+  ],
+  "context": [
+    "m00034"
+  ]
+}
