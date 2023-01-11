@@ -1,0 +1,91 @@
+{
+  "UI": {
+    "showSolutionButton": "Show solution",
+    "tryAgainButton": "Retry",
+    "checkAnswerButton": "Check",
+    "tipsLabel": "Show tip",
+    "scoreBarLabel": "You got :num out of :total points",
+    "tipAvailable": "Tip available",
+    "feedbackAvailable": "Feedback available",
+    "readFeedback": "Read feedback",
+    "wrongAnswer": "Wrong answer",
+    "correctAnswer": "Correct answer",
+    "shouldCheck": "Should have been checked",
+    "shouldNotCheck": "Should not have been checked",
+    "noInput": "Please answer before viewing the solution"
+  },
+  "behaviour": {
+    "enableRetry": true,
+    "enableSolutionsButton": true,
+    "singlePoint": true,
+    "randomAnswers": true,
+    "showSolutionsRequiresInput": true,
+    "type": "auto",
+    "confirmCheckDialog": false,
+    "confirmRetryDialog": false,
+    "autoCheck": false,
+    "passPercentage": 100,
+    "showScorePoints": true,
+    "enableCheckButton": true
+  },
+  "overallFeedback": [
+    {
+      "from": 0,
+      "to": 0,
+      "feedback": "Wrong"
+    },
+    {
+      "from": 1,
+      "to": 99,
+      "feedback": "Almost!"
+    },
+    {
+      "from": 100,
+      "to": 100,
+      "feedback": "Correct!"
+    }
+  ],
+  "question": "Some manufacturers operate their own retail locations; when they are left with excess inventory, they often provide these to what type of retail locations?",
+  "isSolutionPublic": true,
+  "isFreeResponseSupported": false,
+  "answers": [
+    {
+      "text": "Factory outlets",
+      "correct": false,
+      "tipsAndFeedback": {
+        "tip": "",
+        "chosenFeedback": "That&#8217;s not correct. Discount stores are retailers that sell a broad range of products at lower prices than competitors and focus on price over quality.",
+        "notChosenFeedback": ""
+      }
+    },
+    {
+      "text": "Warehouse clubs",
+      "correct": false,
+      "tipsAndFeedback": {
+        "tip": "",
+        "chosenFeedback": "That&#8217;s not correct. Department stores sell a wide range of products from various manufacturers.",
+        "notChosenFeedback": ""
+      }
+    },
+    {
+      "text": "Department stores",
+      "correct": false,
+      "tipsAndFeedback": {
+        "tip": "",
+        "chosenFeedback": "That&#8217;s not correct. Warehouse clubs offer consumers bulk items at discounted prices, but require a membership.",
+        "notChosenFeedback": ""
+      }
+    },
+    {
+      "text": "Discount stores",
+      "correct": true,
+      "tipsAndFeedback": {
+        "tip": "",
+        "chosenFeedback": "Factory outlets are retailers that are operated by manufacturers to sell overstock items at discounted prices.",
+        "notChosenFeedback": ""
+      }
+    }
+  ],
+  "subContentId": "231d642a-dd35-478e-a5a3-a54292d48c4a",
+  "detailedSolution": "Factory outlets are retailers that are operated by manufacturers to sell overstock items at discounted prices."
+}

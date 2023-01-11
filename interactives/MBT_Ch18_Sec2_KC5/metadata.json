@@ -1,0 +1,22 @@
+{
+  "errata_id": "eeb1359e2e2bf88adab1050a85d9b8d2d8217dec4754cd29b460acc2721c5620",
+  "attachments": [],
+  "tags": [
+    "book:stax-mktg",
+    "context-cnxmod:9169e283-0b5a-4e1d-aee2-efe0ac93c1e0",
+    "lo:stax-mktg:18-2-1",
+    "book-slug:principles-marketing",
+    "module-slug:principles-marketing:18-2-major-types-of-retailers"
+  ],
+  "books": [
+    {
+      "name": "stax-mktg",
+      "lo": [
+        "18-2-1"
+      ]
+    }
+  ],
+  "context": [
+    "m00118"
+  ]
+}
