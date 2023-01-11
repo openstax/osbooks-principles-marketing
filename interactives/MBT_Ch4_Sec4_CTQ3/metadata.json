@@ -1,0 +1,37 @@
+{
+  "errata_id": "5b41efd779cbc6d8576d99f48e6443666726950806bac65076f0a4cc20524af9",
+  "attachments": [],
+  "tags": [
+    "type:practice",
+    "book:stax-mktg",
+    "lo:stax-mktg:4-4-1",
+    "context-cnxmod:b221628a-8a02-4cc3-8c3d-bb76d3d919bc",
+    "lo:stax-mktg:4-4-3",
+    "lo:stax-mktg:4-4-2",
+    "lo:stax-mktg:4-4-4",
+    "lo:stax-mktg:4-4-5",
+    "lo:stax-mktg:4-4-6",
+    "lo:stax-mktg:4-4-7",
+    "lo:stax-mktg:4-4-8",
+    "book-slug:principles-marketing",
+    "module-slug:principles-marketing:4-4-stages-in-the-b2b-buying-process"
+  ],
+  "books": [
+    {
+      "name": "stax-mktg",
+      "lo": [
+        "4-4-1",
+        "4-4-3",
+        "4-4-2",
+        "4-4-4",
+        "4-4-5",
+        "4-4-6",
+        "4-4-7",
+        "4-4-8"
+      ]
+    }
+  ],
+  "context": [
+    "m00024"
+  ]
+}
