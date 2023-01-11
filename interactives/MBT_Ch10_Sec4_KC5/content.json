@@ -1,0 +1,91 @@
+{
+  "UI": {
+    "showSolutionButton": "Show solution",
+    "tryAgainButton": "Retry",
+    "checkAnswerButton": "Check",
+    "tipsLabel": "Show tip",
+    "scoreBarLabel": "You got :num out of :total points",
+    "tipAvailable": "Tip available",
+    "feedbackAvailable": "Feedback available",
+    "readFeedback": "Read feedback",
+    "wrongAnswer": "Wrong answer",
+    "correctAnswer": "Correct answer",
+    "shouldCheck": "Should have been checked",
+    "shouldNotCheck": "Should not have been checked",
+    "noInput": "Please answer before viewing the solution"
+  },
+  "behaviour": {
+    "enableRetry": true,
+    "enableSolutionsButton": true,
+    "singlePoint": true,
+    "randomAnswers": true,
+    "showSolutionsRequiresInput": true,
+    "type": "auto",
+    "confirmCheckDialog": false,
+    "confirmRetryDialog": false,
+    "autoCheck": false,
+    "passPercentage": 100,
+    "showScorePoints": true,
+    "enableCheckButton": true
+  },
+  "overallFeedback": [
+    {
+      "from": 0,
+      "to": 0,
+      "feedback": "Wrong"
+    },
+    {
+      "from": 1,
+      "to": 99,
+      "feedback": "Almost!"
+    },
+    {
+      "from": 100,
+      "to": 100,
+      "feedback": "Correct!"
+    }
+  ],
+  "question": "The FurZapper, which removes pet hair from laundry in the washing machine, was introduced on <i>Shark Tank</i> and became an immediate hit. It garnered over 5,000 five-star reviews on Amazon because customers were amazed at how much pet hair it trapped in the washer. Which factor contributing to the success of new products is likely at play here?",
+  "isSolutionPublic": true,
+  "isFreeResponseSupported": false,
+  "answers": [
+    {
+      "text": "Delivering unique benefits to users",
+      "correct": false,
+      "tipsAndFeedback": {
+        "tip": "",
+        "chosenFeedback": "That&#8217;s not correct. Although this is a factor contributing to the success of new products, there is a better answer.",
+        "notChosenFeedback": ""
+      }
+    },
+    {
+      "text": "Technology synergy",
+      "correct": false,
+      "tipsAndFeedback": {
+        "tip": "",
+        "chosenFeedback": "That&#8217;s not correct. Although this is a factor contributing to the success of new products, there is a better answer.",
+        "notChosenFeedback": ""
+      }
+    },
+    {
+      "text": "Planning before development",
+      "correct": false,
+      "tipsAndFeedback": {
+        "tip": "",
+        "chosenFeedback": "That&#8217;s not correct. Although this is a factor contributing to the success of new products, there is a better answer.",
+        "notChosenFeedback": ""
+      }
+    },
+    {
+      "text": "Market attractiveness",
+      "correct": true,
+      "tipsAndFeedback": {
+        "tip": "",
+        "chosenFeedback": "Products that deliver real and unique benefits to customers are typically more successful than products that have few positive points of differentiation compared to existing products on the market.",
+        "notChosenFeedback": ""
+      }
+    }
+  ],
+  "subContentId": "8303168e-46c6-4d4e-a1b8-0d05a98529f6",
+  "detailedSolution": "Products that deliver real and unique benefits to customers are typically more successful than products that have few positive points of differentiation compared to existing products on the market."
+}
