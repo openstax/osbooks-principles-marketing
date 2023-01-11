@@ -1,0 +1,91 @@
+{
+  "UI": {
+    "showSolutionButton": "Show solution",
+    "tryAgainButton": "Retry",
+    "checkAnswerButton": "Check",
+    "tipsLabel": "Show tip",
+    "scoreBarLabel": "You got :num out of :total points",
+    "tipAvailable": "Tip available",
+    "feedbackAvailable": "Feedback available",
+    "readFeedback": "Read feedback",
+    "wrongAnswer": "Wrong answer",
+    "correctAnswer": "Correct answer",
+    "shouldCheck": "Should have been checked",
+    "shouldNotCheck": "Should not have been checked",
+    "noInput": "Please answer before viewing the solution"
+  },
+  "behaviour": {
+    "enableRetry": true,
+    "enableSolutionsButton": true,
+    "singlePoint": true,
+    "randomAnswers": true,
+    "showSolutionsRequiresInput": true,
+    "type": "auto",
+    "confirmCheckDialog": false,
+    "confirmRetryDialog": false,
+    "autoCheck": false,
+    "passPercentage": 100,
+    "showScorePoints": true,
+    "enableCheckButton": true
+  },
+  "overallFeedback": [
+    {
+      "from": 0,
+      "to": 0,
+      "feedback": "Wrong"
+    },
+    {
+      "from": 1,
+      "to": 99,
+      "feedback": "Almost!"
+    },
+    {
+      "from": 100,
+      "to": 100,
+      "feedback": "Correct!"
+    }
+  ],
+  "question": "How does sustainable marketing differentiate from other types of marketing?",
+  "isSolutionPublic": true,
+  "isFreeResponseSupported": false,
+  "answers": [
+    {
+      "text": "It is more expensive.",
+      "correct": false,
+      "tipsAndFeedback": {
+        "tip": "",
+        "chosenFeedback": "That&#8217;s not correct. Sustainable marketing is important, but it&#8217;s not what differentiates it.",
+        "notChosenFeedback": ""
+      }
+    },
+    {
+      "text": "It is only for people who care about the environment.",
+      "correct": false,
+      "tipsAndFeedback": {
+        "tip": "",
+        "chosenFeedback": "That&#8217;s not correct. While the environment is one aspect of sustainable marketing, economic viability and social initiatives are essential as well.",
+        "notChosenFeedback": ""
+      }
+    },
+    {
+      "text": "It is a business imperative.",
+      "correct": false,
+      "tipsAndFeedback": {
+        "tip": "",
+        "chosenFeedback": "That&#8217;s not correct. Ultimately, sustainable marketing is oftentimes a cost savings.",
+        "notChosenFeedback": ""
+      }
+    },
+    {
+      "text": "It is rooted in purpose.",
+      "correct": true,
+      "tipsAndFeedback": {
+        "tip": "",
+        "chosenFeedback": "Sustainable marketing is rooted in purpose, based on mission, and seeks to align people, planet, and profits.",
+        "notChosenFeedback": ""
+      }
+    }
+  ],
+  "subContentId": "db84b255-ac9f-4995-be1e-1906c6f849d3",
+  "detailedSolution": "Sustainable marketing is rooted in purpose, based on mission, and seeks to align people, planet, and profits."
+}
