@@ -1,0 +1,91 @@
+{
+  "UI": {
+    "showSolutionButton": "Show solution",
+    "tryAgainButton": "Retry",
+    "checkAnswerButton": "Check",
+    "tipsLabel": "Show tip",
+    "scoreBarLabel": "You got :num out of :total points",
+    "tipAvailable": "Tip available",
+    "feedbackAvailable": "Feedback available",
+    "readFeedback": "Read feedback",
+    "wrongAnswer": "Wrong answer",
+    "correctAnswer": "Correct answer",
+    "shouldCheck": "Should have been checked",
+    "shouldNotCheck": "Should not have been checked",
+    "noInput": "Please answer before viewing the solution"
+  },
+  "behaviour": {
+    "enableRetry": true,
+    "enableSolutionsButton": true,
+    "singlePoint": true,
+    "randomAnswers": true,
+    "showSolutionsRequiresInput": true,
+    "type": "auto",
+    "confirmCheckDialog": false,
+    "confirmRetryDialog": false,
+    "autoCheck": false,
+    "passPercentage": 100,
+    "showScorePoints": true,
+    "enableCheckButton": true
+  },
+  "overallFeedback": [
+    {
+      "from": 0,
+      "to": 0,
+      "feedback": "Wrong"
+    },
+    {
+      "from": 1,
+      "to": 99,
+      "feedback": "Almost!"
+    },
+    {
+      "from": 100,
+      "to": 100,
+      "feedback": "Correct!"
+    }
+  ],
+  "question": "Sam is explaining to her friend Beth that prices for video conferencing software is increasing because more people are working from home. This relationship can be described by ________.",
+  "isSolutionPublic": true,
+  "isFreeResponseSupported": false,
+  "answers": [
+    {
+      "text": "prestige pricing",
+      "correct": false,
+      "tipsAndFeedback": {
+        "tip": "",
+        "chosenFeedback": "That&#8217;s not correct. The income effect on pricing refers to buyers&#8217; belief in how much discretionary income they will have to spend.",
+        "notChosenFeedback": ""
+      }
+    },
+    {
+      "text": "customer-driven pricing",
+      "correct": false,
+      "tipsAndFeedback": {
+        "tip": "",
+        "chosenFeedback": "That&#8217;s not correct. Customer-driven pricing is when companies choose to set their prices based on customer-driven objectives (i.e., what the customer is willing to pay for a product or service).",
+        "notChosenFeedback": ""
+      }
+    },
+    {
+      "text": "the demand curve",
+      "correct": false,
+      "tipsAndFeedback": {
+        "tip": "",
+        "chosenFeedback": "That&#8217;s not correct. Prestige pricing refers to the relationship between some high-priced items and increased demand.",
+        "notChosenFeedback": ""
+      }
+    },
+    {
+      "text": "the income effect",
+      "correct": true,
+      "tipsAndFeedback": {
+        "tip": "",
+        "chosenFeedback": "The demand curve describes the relationship of demand and price for most goods and services.",
+        "notChosenFeedback": ""
+      }
+    }
+  ],
+  "subContentId": "74a86465-b594-40b5-adc5-1c01c341a5df",
+  "detailedSolution": "The demand curve describes the relationship of demand and price for most goods and services."
+}
