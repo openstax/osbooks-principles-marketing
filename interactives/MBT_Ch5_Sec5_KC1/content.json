@@ -1,0 +1,91 @@
+{
+  "UI": {
+    "showSolutionButton": "Show solution",
+    "tryAgainButton": "Retry",
+    "checkAnswerButton": "Check",
+    "tipsLabel": "Show tip",
+    "scoreBarLabel": "You got :num out of :total points",
+    "tipAvailable": "Tip available",
+    "feedbackAvailable": "Feedback available",
+    "readFeedback": "Read feedback",
+    "wrongAnswer": "Wrong answer",
+    "correctAnswer": "Correct answer",
+    "shouldCheck": "Should have been checked",
+    "shouldNotCheck": "Should not have been checked",
+    "noInput": "Please answer before viewing the solution"
+  },
+  "behaviour": {
+    "enableRetry": true,
+    "enableSolutionsButton": true,
+    "singlePoint": true,
+    "randomAnswers": true,
+    "showSolutionsRequiresInput": true,
+    "type": "auto",
+    "confirmCheckDialog": false,
+    "confirmRetryDialog": false,
+    "autoCheck": false,
+    "passPercentage": 100,
+    "showScorePoints": true,
+    "enableCheckButton": true
+  },
+  "overallFeedback": [
+    {
+      "from": 0,
+      "to": 0,
+      "feedback": "Wrong"
+    },
+    {
+      "from": 1,
+      "to": 99,
+      "feedback": "Almost!"
+    },
+    {
+      "from": 100,
+      "to": 100,
+      "feedback": "Correct!"
+    }
+  ],
+  "question": "M&amp;M’s addresses people of all ages and appeals to everyone looking for sweets (that melt in your mouth, not in your hand). What target marketing strategy does M&amp;M’s use?",
+  "isSolutionPublic": true,
+  "isFreeResponseSupported": false,
+  "answers": [
+    {
+      "text": "Differentiated marketing",
+      "correct": false,
+      "tipsAndFeedback": {
+        "tip": "",
+        "chosenFeedback": "That&#8217;s not correct. Micromarketing targets a specific group of individuals within a niche market based on specific information that has been collected about them.",
+        "notChosenFeedback": ""
+      }
+    },
+    {
+      "text": "Concentrated marketing",
+      "correct": false,
+      "tipsAndFeedback": {
+        "tip": "",
+        "chosenFeedback": "That&#8217;s not correct. Concentrated marketing focuses on just one target market with a single marketing mix.",
+        "notChosenFeedback": ""
+      }
+    },
+    {
+      "text": "Undifferentiated marketing",
+      "correct": false,
+      "tipsAndFeedback": {
+        "tip": "",
+        "chosenFeedback": "That&#8217;s not correct. A differentiated marketing strategy focuses on the differences between segments and designs a specific marketing mix for each segment.",
+        "notChosenFeedback": ""
+      }
+    },
+    {
+      "text": "Micromarketing",
+      "correct": true,
+      "tipsAndFeedback": {
+        "tip": "",
+        "chosenFeedback": "Undifferentiated marketing treats all buyers or potential buyers as a homogenous group and creates one message for an entire audience.",
+        "notChosenFeedback": ""
+      }
+    }
+  ],
+  "subContentId": "aaa54433-1328-4961-9d62-72b0e7beb4fb",
+  "detailedSolution": "Undifferentiated marketing treats all buyers or potential buyers as a homogenous group and creates one message for an entire audience."
+}
