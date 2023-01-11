@@ -1,0 +1,91 @@
+{
+  "UI": {
+    "showSolutionButton": "Show solution",
+    "tryAgainButton": "Retry",
+    "checkAnswerButton": "Check",
+    "tipsLabel": "Show tip",
+    "scoreBarLabel": "You got :num out of :total points",
+    "tipAvailable": "Tip available",
+    "feedbackAvailable": "Feedback available",
+    "readFeedback": "Read feedback",
+    "wrongAnswer": "Wrong answer",
+    "correctAnswer": "Correct answer",
+    "shouldCheck": "Should have been checked",
+    "shouldNotCheck": "Should not have been checked",
+    "noInput": "Please answer before viewing the solution"
+  },
+  "behaviour": {
+    "enableRetry": true,
+    "enableSolutionsButton": true,
+    "singlePoint": true,
+    "randomAnswers": true,
+    "showSolutionsRequiresInput": true,
+    "type": "auto",
+    "confirmCheckDialog": false,
+    "confirmRetryDialog": false,
+    "autoCheck": false,
+    "passPercentage": 100,
+    "showScorePoints": true,
+    "enableCheckButton": true
+  },
+  "overallFeedback": [
+    {
+      "from": 0,
+      "to": 0,
+      "feedback": "Wrong"
+    },
+    {
+      "from": 1,
+      "to": 99,
+      "feedback": "Almost!"
+    },
+    {
+      "from": 100,
+      "to": 100,
+      "feedback": "Correct!"
+    }
+  ],
+  "question": "If a company has a higher-priced product that requires some variation according to the customer’s needs and wants, which method of promotion is best?",
+  "isSolutionPublic": true,
+  "isFreeResponseSupported": false,
+  "answers": [
+    {
+      "text": "Direct marketing",
+      "correct": false,
+      "tipsAndFeedback": {
+        "tip": "",
+        "chosenFeedback": "That&#8217;s not correct. Public relations cannot be controlled and is not guaranteed to reach a large audience.",
+        "notChosenFeedback": ""
+      }
+    },
+    {
+      "text": "Personal selling",
+      "correct": false,
+      "tipsAndFeedback": {
+        "tip": "",
+        "chosenFeedback": "That&#8217;s not correct. Advertising is not personal in nature and is used for mass communication from the company to the target market but not an individual buyer.",
+        "notChosenFeedback": ""
+      }
+    },
+    {
+      "text": "Advertising",
+      "correct": false,
+      "tipsAndFeedback": {
+        "tip": "",
+        "chosenFeedback": "That&#8217;s not correct. Direct marketing is often used when the product is routine in nature and does not require personal interaction.",
+        "notChosenFeedback": ""
+      }
+    },
+    {
+      "text": "Public relations",
+      "correct": true,
+      "tipsAndFeedback": {
+        "tip": "",
+        "chosenFeedback": "Personal selling allows for the sales professional to adjust the product to meet the needs and wants of the customer.",
+        "notChosenFeedback": ""
+      }
+    }
+  ],
+  "subContentId": "35fea9e3-cc96-445f-96f2-e157765dcada",
+  "detailedSolution": "Personal selling allows for the sales professional to adjust the product to meet the needs and wants of the customer."
+}
