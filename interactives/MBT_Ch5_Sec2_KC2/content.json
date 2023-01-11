@@ -1,0 +1,91 @@
+{
+  "UI": {
+    "showSolutionButton": "Show solution",
+    "tryAgainButton": "Retry",
+    "checkAnswerButton": "Check",
+    "tipsLabel": "Show tip",
+    "scoreBarLabel": "You got :num out of :total points",
+    "tipAvailable": "Tip available",
+    "feedbackAvailable": "Feedback available",
+    "readFeedback": "Read feedback",
+    "wrongAnswer": "Wrong answer",
+    "correctAnswer": "Correct answer",
+    "shouldCheck": "Should have been checked",
+    "shouldNotCheck": "Should not have been checked",
+    "noInput": "Please answer before viewing the solution"
+  },
+  "behaviour": {
+    "enableRetry": true,
+    "enableSolutionsButton": true,
+    "singlePoint": true,
+    "randomAnswers": true,
+    "showSolutionsRequiresInput": true,
+    "type": "auto",
+    "confirmCheckDialog": false,
+    "confirmRetryDialog": false,
+    "autoCheck": false,
+    "passPercentage": 100,
+    "showScorePoints": true,
+    "enableCheckButton": true
+  },
+  "overallFeedback": [
+    {
+      "from": 0,
+      "to": 0,
+      "feedback": "Wrong"
+    },
+    {
+      "from": 1,
+      "to": 99,
+      "feedback": "Almost!"
+    },
+    {
+      "from": 100,
+      "to": 100,
+      "feedback": "Correct!"
+    }
+  ],
+  "question": "Matias is a marketing manager for a company whose product integrates with customer relationship management (CRM) systems such as Salesforce. In order to segment the market, he researches which companies currently use Salesforce as well as any other complementary or competing tools. On what basis is Matias segmenting the market?",
+  "isSolutionPublic": true,
+  "isFreeResponseSupported": false,
+  "answers": [
+    {
+      "text": "Technographics",
+      "correct": false,
+      "tipsAndFeedback": {
+        "tip": "",
+        "chosenFeedback": "That&#8217;s not correct. Firmographics segments customers based on sets of characteristics such as industry, location, size, legal structure, and performance.",
+        "notChosenFeedback": ""
+      }
+    },
+    {
+      "text": "Value-based",
+      "correct": false,
+      "tipsAndFeedback": {
+        "tip": "",
+        "chosenFeedback": "That&#8217;s not correct. Behavioral segmentation is a method of grouping consumers by their behavior patterns&#8212;how they interact with the company and its products or services.",
+        "notChosenFeedback": ""
+      }
+    },
+    {
+      "text": "Behavioral",
+      "correct": false,
+      "tipsAndFeedback": {
+        "tip": "",
+        "chosenFeedback": "That&#8217;s not correct. Value-based segmentation groups customers according to the potential value they may bring to a business.",
+        "notChosenFeedback": ""
+      }
+    },
+    {
+      "text": "Firmographics",
+      "correct": true,
+      "tipsAndFeedback": {
+        "tip": "",
+        "chosenFeedback": "Technographic segmentation is based on the various hardware and software used by B2B customers.",
+        "notChosenFeedback": ""
+      }
+    }
+  ],
+  "subContentId": "8b3ef542-45a8-47fa-b1f9-627749d4c82f",
+  "detailedSolution": "Technographic segmentation is based on the various hardware and software used by B2B customers."
+}

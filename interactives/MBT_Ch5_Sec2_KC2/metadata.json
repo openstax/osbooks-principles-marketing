@@ -1,0 +1,22 @@
+{
+  "errata_id": "2b061722dc6f8afa74e833440ec5862febe5990a676a67000cb38f69a412f52f",
+  "attachments": [],
+  "tags": [
+    "book:stax-mktg",
+    "lo:stax-mktg:5-2-3",
+    "context-cnxmod:98013801-8b4a-422d-8d8e-823bd2179e46",
+    "book-slug:principles-marketing",
+    "module-slug:principles-marketing:5-2-segmentation-of-b2b-markets"
+  ],
+  "books": [
+    {
+      "name": "stax-mktg",
+      "lo": [
+        "5-2-3"
+      ]
+    }
+  ],
+  "context": [
+    "m00028"
+  ]
+}
