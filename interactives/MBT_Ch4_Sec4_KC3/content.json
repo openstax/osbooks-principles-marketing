@@ -1,0 +1,91 @@
+{
+  "UI": {
+    "showSolutionButton": "Show solution",
+    "tryAgainButton": "Retry",
+    "checkAnswerButton": "Check",
+    "tipsLabel": "Show tip",
+    "scoreBarLabel": "You got :num out of :total points",
+    "tipAvailable": "Tip available",
+    "feedbackAvailable": "Feedback available",
+    "readFeedback": "Read feedback",
+    "wrongAnswer": "Wrong answer",
+    "correctAnswer": "Correct answer",
+    "shouldCheck": "Should have been checked",
+    "shouldNotCheck": "Should not have been checked",
+    "noInput": "Please answer before viewing the solution"
+  },
+  "behaviour": {
+    "enableRetry": true,
+    "enableSolutionsButton": true,
+    "singlePoint": true,
+    "randomAnswers": true,
+    "showSolutionsRequiresInput": true,
+    "type": "auto",
+    "confirmCheckDialog": false,
+    "confirmRetryDialog": false,
+    "autoCheck": false,
+    "passPercentage": 100,
+    "showScorePoints": true,
+    "enableCheckButton": true
+  },
+  "overallFeedback": [
+    {
+      "from": 0,
+      "to": 0,
+      "feedback": "Wrong"
+    },
+    {
+      "from": 1,
+      "to": 99,
+      "feedback": "Almost!"
+    },
+    {
+      "from": 100,
+      "to": 100,
+      "feedback": "Correct!"
+    }
+  ],
+  "question": "During which stage of the B2B buying process will members of the buying center be called upon to develop a bill of materials?",
+  "isSolutionPublic": true,
+  "isFreeResponseSupported": false,
+  "answers": [
+    {
+      "text": "Stage 1: Problem recognition",
+      "correct": false,
+      "tipsAndFeedback": {
+        "tip": "",
+        "chosenFeedback": "That&#8217;s not correct. In Stage 4: Supplier search, those in the buying center will seek out information on the products they are looking for and the vendors that can supply them.",
+        "notChosenFeedback": ""
+      }
+    },
+    {
+      "text": "Stage 2: Need description",
+      "correct": false,
+      "tipsAndFeedback": {
+        "tip": "",
+        "chosenFeedback": "That&#8217;s not correct. In Stage 3: Product specification, B2B buyers often develop product specifications, a blueprint that outlines the product, what it will look like, and its specific requirements and functions.",
+        "notChosenFeedback": ""
+      }
+    },
+    {
+      "text": "Stage 3: Product specification",
+      "correct": false,
+      "tipsAndFeedback": {
+        "tip": "",
+        "chosenFeedback": "That&#8217;s not correct. Stage 1 of the B2B buying process is problem recognition, during which phase someone identifies a problem that can be resolved through a purchase.",
+        "notChosenFeedback": ""
+      }
+    },
+    {
+      "text": "Stage 4: Supplier search",
+      "correct": true,
+      "tipsAndFeedback": {
+        "tip": "",
+        "chosenFeedback": "In Stage 2: Need description, the buying center will work to put some parameters around what needs to be purchased and develop a bill of materials.",
+        "notChosenFeedback": ""
+      }
+    }
+  ],
+  "subContentId": "7ff53333-e49a-46cb-96b2-4a84e5f5fa91",
+  "detailedSolution": "In Stage 2: Need description, the buying center will work to put some parameters around what needs to be purchased and develop a bill of materials."
+}
