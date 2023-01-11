@@ -1,0 +1,91 @@
+{
+  "UI": {
+    "showSolutionButton": "Show solution",
+    "tryAgainButton": "Retry",
+    "checkAnswerButton": "Check",
+    "tipsLabel": "Show tip",
+    "scoreBarLabel": "You got :num out of :total points",
+    "tipAvailable": "Tip available",
+    "feedbackAvailable": "Feedback available",
+    "readFeedback": "Read feedback",
+    "wrongAnswer": "Wrong answer",
+    "correctAnswer": "Correct answer",
+    "shouldCheck": "Should have been checked",
+    "shouldNotCheck": "Should not have been checked",
+    "noInput": "Please answer before viewing the solution"
+  },
+  "behaviour": {
+    "enableRetry": true,
+    "enableSolutionsButton": true,
+    "singlePoint": true,
+    "randomAnswers": true,
+    "showSolutionsRequiresInput": true,
+    "type": "auto",
+    "confirmCheckDialog": false,
+    "confirmRetryDialog": false,
+    "autoCheck": false,
+    "passPercentage": 100,
+    "showScorePoints": true,
+    "enableCheckButton": true
+  },
+  "overallFeedback": [
+    {
+      "from": 0,
+      "to": 0,
+      "feedback": "Wrong"
+    },
+    {
+      "from": 1,
+      "to": 99,
+      "feedback": "Almost!"
+    },
+    {
+      "from": 100,
+      "to": 100,
+      "feedback": "Correct!"
+    }
+  ],
+  "question": "Which of the following is a key metric that assesses the percentage of orders that are processed, fulfilled, and shipped to consumers without any errors?",
+  "isSolutionPublic": true,
+  "isFreeResponseSupported": false,
+  "answers": [
+    {
+      "text": "Order accuracy rate",
+      "correct": false,
+      "tipsAndFeedback": {
+        "tip": "",
+        "chosenFeedback": "That&#8217;s not correct. Average delivery days is a metric that measures the average number of days it takes shippers to deliver goods to consumers.",
+        "notChosenFeedback": ""
+      }
+    },
+    {
+      "text": "Inventory turnover rate",
+      "correct": false,
+      "tipsAndFeedback": {
+        "tip": "",
+        "chosenFeedback": "That&#8217;s not correct. Total number of orders represents the total number of orders placed at any given time.",
+        "notChosenFeedback": ""
+      }
+    },
+    {
+      "text": "Total number of orders",
+      "correct": false,
+      "tipsAndFeedback": {
+        "tip": "",
+        "chosenFeedback": "That&#8217;s not correct. Inventory turnover rate measures how quickly inventory is turned over, or sold.",
+        "notChosenFeedback": ""
+      }
+    },
+    {
+      "text": "Average delivery days",
+      "correct": true,
+      "tipsAndFeedback": {
+        "tip": "",
+        "chosenFeedback": "Order accuracy rate is the percentage of orders that are processed, fulfilled, and shipped to consumers without any errors.",
+        "notChosenFeedback": ""
+      }
+    }
+  ],
+  "subContentId": "3ce819a4-3cd6-4021-84b0-5bd4f7eec206",
+  "detailedSolution": "Order accuracy rate is the percentage of orders that are processed, fulfilled, and shipped to consumers without any errors."
+}
