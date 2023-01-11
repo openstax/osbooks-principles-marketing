@@ -1,0 +1,91 @@
+{
+  "UI": {
+    "showSolutionButton": "Show solution",
+    "tryAgainButton": "Retry",
+    "checkAnswerButton": "Check",
+    "tipsLabel": "Show tip",
+    "scoreBarLabel": "You got :num out of :total points",
+    "tipAvailable": "Tip available",
+    "feedbackAvailable": "Feedback available",
+    "readFeedback": "Read feedback",
+    "wrongAnswer": "Wrong answer",
+    "correctAnswer": "Correct answer",
+    "shouldCheck": "Should have been checked",
+    "shouldNotCheck": "Should not have been checked",
+    "noInput": "Please answer before viewing the solution"
+  },
+  "behaviour": {
+    "enableRetry": true,
+    "enableSolutionsButton": true,
+    "singlePoint": true,
+    "randomAnswers": true,
+    "showSolutionsRequiresInput": true,
+    "type": "auto",
+    "confirmCheckDialog": false,
+    "confirmRetryDialog": false,
+    "autoCheck": false,
+    "passPercentage": 100,
+    "showScorePoints": true,
+    "enableCheckButton": true
+  },
+  "overallFeedback": [
+    {
+      "from": 0,
+      "to": 0,
+      "feedback": "Wrong"
+    },
+    {
+      "from": 1,
+      "to": 99,
+      "feedback": "Almost!"
+    },
+    {
+      "from": 100,
+      "to": 100,
+      "feedback": "Correct!"
+    }
+  ],
+  "question": "Shakira has been working with a customer for quite some time. She has a good rapport with the customer, and the customer often asks her a lot of questions regarding other matters in the industry. When Shakira is ready to work with the customer for an order, she talks with them about the pros and cons as well as other companies’ products that might be a good fit. What type of selling approach is Shakira using?",
+  "isSolutionPublic": true,
+  "isFreeResponseSupported": false,
+  "answers": [
+    {
+      "text": "Adaptive",
+      "correct": false,
+      "tipsAndFeedback": {
+        "tip": "",
+        "chosenFeedback": "That&#8217;s not correct. Stimulus-response is when a salesperson has done the research and they understand many of the issues that might be presented by the customer, they are able to provide a stimulus, and the customer provides a response.",
+        "notChosenFeedback": ""
+      }
+    },
+    {
+      "text": "Hard sell",
+      "correct": false,
+      "tipsAndFeedback": {
+        "tip": "",
+        "chosenFeedback": "That&#8217;s not correct. A hard sell is when the sales professional pushes the sale even if it might not be the best fit for the customer.",
+        "notChosenFeedback": ""
+      }
+    },
+    {
+      "text": "Stimulus-response",
+      "correct": false,
+      "tipsAndFeedback": {
+        "tip": "",
+        "chosenFeedback": "That&#8217;s not correct. Adaptive selling requires the sales professional to adapt their selling strategy and even the product to meet the needs and solve the problems of the customer.",
+        "notChosenFeedback": ""
+      }
+    },
+    {
+      "text": "Consultative",
+      "correct": true,
+      "tipsAndFeedback": {
+        "tip": "",
+        "chosenFeedback": "Shakira is acting more as a consultant to help her customer have the best fit for their needs.",
+        "notChosenFeedback": ""
+      }
+    }
+  ],
+  "subContentId": "09b612b6-2963-4722-9ecf-21676ddbb411",
+  "detailedSolution": "Shakira is acting more as a consultant to help her customer have the best fit for their needs."
+}
