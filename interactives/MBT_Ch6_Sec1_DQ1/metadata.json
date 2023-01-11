@@ -1,0 +1,30 @@
+{
+  "errata_id": "af6131b3c6c13e9bc33bf055b9158ce8e64e65c07e0be13807b1105b74ea177c",
+  "attachments": [],
+  "tags": [
+    "type:practice",
+    "book:stax-mktg",
+    "lo:stax-mktg:6-1-1",
+    "context-cnxmod:5e2838dc-0331-4a41-b9c4-3cb3804ff83d",
+    "lo:stax-mktg:6-1-2",
+    "lo:stax-mktg:6-2-1",
+    "context-cnxmod:af4d3e63-95d6-4922-817d-ee51e1db4656",
+    "book-slug:principles-marketing",
+    "module-slug:principles-marketing:6-1-marketing-research-and-big-data",
+    "module-slug:principles-marketing:6-2-sources-of-marketing-information"
+  ],
+  "books": [
+    {
+      "name": "stax-mktg",
+      "lo": [
+        "6-1-1",
+        "6-1-2",
+        "6-2-1"
+      ]
+    }
+  ],
+  "context": [
+    "m00034",
+    "m00035"
+  ]
+}
