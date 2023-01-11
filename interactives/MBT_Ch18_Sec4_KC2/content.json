@@ -1,0 +1,91 @@
+{
+  "UI": {
+    "showSolutionButton": "Show solution",
+    "tryAgainButton": "Retry",
+    "checkAnswerButton": "Check",
+    "tipsLabel": "Show tip",
+    "scoreBarLabel": "You got :num out of :total points",
+    "tipAvailable": "Tip available",
+    "feedbackAvailable": "Feedback available",
+    "readFeedback": "Read feedback",
+    "wrongAnswer": "Wrong answer",
+    "correctAnswer": "Correct answer",
+    "shouldCheck": "Should have been checked",
+    "shouldNotCheck": "Should not have been checked",
+    "noInput": "Please answer before viewing the solution"
+  },
+  "behaviour": {
+    "enableRetry": true,
+    "enableSolutionsButton": true,
+    "singlePoint": true,
+    "randomAnswers": true,
+    "showSolutionsRequiresInput": true,
+    "type": "auto",
+    "confirmCheckDialog": false,
+    "confirmRetryDialog": false,
+    "autoCheck": false,
+    "passPercentage": 100,
+    "showScorePoints": true,
+    "enableCheckButton": true
+  },
+  "overallFeedback": [
+    {
+      "from": 0,
+      "to": 0,
+      "feedback": "Wrong"
+    },
+    {
+      "from": 1,
+      "to": 99,
+      "feedback": "Almost!"
+    },
+    {
+      "from": 100,
+      "to": 100,
+      "feedback": "Correct!"
+    }
+  ],
+  "question": "Cam posts numerous times on TikTok and Instagram. As a result, she is asked to work as an influencer for a major retailer. Which trend in retailing is Cam a part of?",
+  "isSolutionPublic": true,
+  "isFreeResponseSupported": false,
+  "answers": [
+    {
+      "text": "Online stores in offline spaces",
+      "correct": false,
+      "tipsAndFeedback": {
+        "tip": "",
+        "chosenFeedback": "That&#8217;s not correct. Same-day delivery refers to a consumer&#8217;s ability to order and receive a product on the same day.",
+        "notChosenFeedback": ""
+      }
+    },
+    {
+      "text": "E-commerce",
+      "correct": false,
+      "tipsAndFeedback": {
+        "tip": "",
+        "chosenFeedback": "That&#8217;s not correct. E-commerce refers to a consumer&#8217;s ability to shop from home and order products online.",
+        "notChosenFeedback": ""
+      }
+    },
+    {
+      "text": "Social commerce",
+      "correct": false,
+      "tipsAndFeedback": {
+        "tip": "",
+        "chosenFeedback": "That&#8217;s not correct. Online stores in offline spaces refers to the ability of a consumer to purchase products online and pick up in person.",
+        "notChosenFeedback": ""
+      }
+    },
+    {
+      "text": "Same-day delivery",
+      "correct": true,
+      "tipsAndFeedback": {
+        "tip": "",
+        "chosenFeedback": "Social commerce is a blend of e-commerce and social media, where retailers often use influencers to market products.",
+        "notChosenFeedback": ""
+      }
+    }
+  ],
+  "subContentId": "dd2bf29c-b930-4bec-bbb4-7541974925f4",
+  "detailedSolution": "Social commerce is a blend of e-commerce and social media, where retailers often use influencers to market products."
+}
