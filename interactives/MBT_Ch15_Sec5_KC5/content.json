@@ -1,0 +1,91 @@
+{
+  "UI": {
+    "showSolutionButton": "Show solution",
+    "tryAgainButton": "Retry",
+    "checkAnswerButton": "Check",
+    "tipsLabel": "Show tip",
+    "scoreBarLabel": "You got :num out of :total points",
+    "tipAvailable": "Tip available",
+    "feedbackAvailable": "Feedback available",
+    "readFeedback": "Read feedback",
+    "wrongAnswer": "Wrong answer",
+    "correctAnswer": "Correct answer",
+    "shouldCheck": "Should have been checked",
+    "shouldNotCheck": "Should not have been checked",
+    "noInput": "Please answer before viewing the solution"
+  },
+  "behaviour": {
+    "enableRetry": true,
+    "enableSolutionsButton": true,
+    "singlePoint": true,
+    "randomAnswers": true,
+    "showSolutionsRequiresInput": true,
+    "type": "auto",
+    "confirmCheckDialog": false,
+    "confirmRetryDialog": false,
+    "autoCheck": false,
+    "passPercentage": 100,
+    "showScorePoints": true,
+    "enableCheckButton": true
+  },
+  "overallFeedback": [
+    {
+      "from": 0,
+      "to": 0,
+      "feedback": "Wrong"
+    },
+    {
+      "from": 1,
+      "to": 99,
+      "feedback": "Almost!"
+    },
+    {
+      "from": 100,
+      "to": 100,
+      "feedback": "Correct!"
+    }
+  ],
+  "question": "Sally loves to receive her coupons from American Eagle. She typically looks in her email every day to see what promotions the company will be sending. The American Eagle sales promotions are helping to accomplish which important task?",
+  "isSolutionPublic": true,
+  "isFreeResponseSupported": false,
+  "answers": [
+    {
+      "text": "Increased customer satisfaction",
+      "correct": false,
+      "tipsAndFeedback": {
+        "tip": "",
+        "chosenFeedback": "That&#8217;s not correct. Sally does not consider the emails from American Eagle as junk mail.",
+        "notChosenFeedback": ""
+      }
+    },
+    {
+      "text": "Providing information",
+      "correct": false,
+      "tipsAndFeedback": {
+        "tip": "",
+        "chosenFeedback": "That&#8217;s not correct. Sally already has awareness about the brand.",
+        "notChosenFeedback": ""
+      }
+    },
+    {
+      "text": "Increasing brand awareness",
+      "correct": false,
+      "tipsAndFeedback": {
+        "tip": "",
+        "chosenFeedback": "That&#8217;s not correct. While the promotion might have information, that is not why Sally enjoys getting the emails.",
+        "notChosenFeedback": ""
+      }
+    },
+    {
+      "text": "Developing junk mail",
+      "correct": true,
+      "tipsAndFeedback": {
+        "tip": "",
+        "chosenFeedback": "Sally is happy and satisfied when she gets email and promotions from American Eagle.",
+        "notChosenFeedback": ""
+      }
+    }
+  ],
+  "subContentId": "64cbc1e1-37c2-4383-9aee-4d700b361afd",
+  "detailedSolution": "Sally is happy and satisfied when she gets email and promotions from American Eagle."
+}
