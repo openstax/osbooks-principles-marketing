@@ -1,0 +1,23 @@
+{
+  "errata_id": "63c6cb75e7787e94555746a4c41423b9a0939987ad2aa4ff21f9ee3bd7c07730",
+  "attachments": [],
+  "tags": [
+    "type:practice",
+    "book:stax-mktg",
+    "lo:stax-mktg:5-7-1",
+    "context-cnxmod:720fb33b-931f-4f91-9bfa-412019d3d413",
+    "book-slug:principles-marketing",
+    "module-slug:principles-marketing:5-7-ethical-concerns-and-target-marketing"
+  ],
+  "books": [
+    {
+      "name": "stax-mktg",
+      "lo": [
+        "5-7-1"
+      ]
+    }
+  ],
+  "context": [
+    "m00137"
+  ]
+}
