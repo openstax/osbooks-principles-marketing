@@ -1,0 +1,91 @@
+{
+  "UI": {
+    "showSolutionButton": "Show solution",
+    "tryAgainButton": "Retry",
+    "checkAnswerButton": "Check",
+    "tipsLabel": "Show tip",
+    "scoreBarLabel": "You got :num out of :total points",
+    "tipAvailable": "Tip available",
+    "feedbackAvailable": "Feedback available",
+    "readFeedback": "Read feedback",
+    "wrongAnswer": "Wrong answer",
+    "correctAnswer": "Correct answer",
+    "shouldCheck": "Should have been checked",
+    "shouldNotCheck": "Should not have been checked",
+    "noInput": "Please answer before viewing the solution"
+  },
+  "behaviour": {
+    "enableRetry": true,
+    "enableSolutionsButton": true,
+    "singlePoint": true,
+    "randomAnswers": true,
+    "showSolutionsRequiresInput": true,
+    "type": "auto",
+    "confirmCheckDialog": false,
+    "confirmRetryDialog": false,
+    "autoCheck": false,
+    "passPercentage": 100,
+    "showScorePoints": true,
+    "enableCheckButton": true
+  },
+  "overallFeedback": [
+    {
+      "from": 0,
+      "to": 0,
+      "feedback": "Wrong"
+    },
+    {
+      "from": 1,
+      "to": 99,
+      "feedback": "Almost!"
+    },
+    {
+      "from": 100,
+      "to": 100,
+      "feedback": "Correct!"
+    }
+  ],
+  "question": "Coca-Cola, a behemoth in the soft drink market, decides that it is going to develop and market Coca-Cola popsicles. What type of new product would this constitute?",
+  "isSolutionPublic": true,
+  "isFreeResponseSupported": false,
+  "answers": [
+    {
+      "text": "New-to-the-world",
+      "correct": false,
+      "tipsAndFeedback": {
+        "tip": "",
+        "chosenFeedback": "That&#8217;s not correct. Repositioned products are those that are retargeted for a new use or application.",
+        "notChosenFeedback": ""
+      }
+    },
+    {
+      "text": "New-to-the-firm",
+      "correct": false,
+      "tipsAndFeedback": {
+        "tip": "",
+        "chosenFeedback": "That&#8217;s not correct. Improvements to existing products are current products made better.",
+        "notChosenFeedback": ""
+      }
+    },
+    {
+      "text": "Improvements and revision to existing products",
+      "correct": false,
+      "tipsAndFeedback": {
+        "tip": "",
+        "chosenFeedback": "That&#8217;s not correct. New-to-the-world products are inventions that create a new market.",
+        "notChosenFeedback": ""
+      }
+    },
+    {
+      "text": "Repositioned product",
+      "correct": true,
+      "tipsAndFeedback": {
+        "tip": "",
+        "chosenFeedback": "Remember, new-to-the-firm products aren&#8217;t new to the world, but they are a new product venture for the firm.",
+        "notChosenFeedback": ""
+      }
+    }
+  ],
+  "subContentId": "9de0f4c8-6de4-483b-964d-ce868ad403af",
+  "detailedSolution": "Remember, new-to-the-firm products aren’t new to the world, but they are a new product venture for the firm."
+}
