@@ -1,0 +1,91 @@
+{
+  "UI": {
+    "showSolutionButton": "Show solution",
+    "tryAgainButton": "Retry",
+    "checkAnswerButton": "Check",
+    "tipsLabel": "Show tip",
+    "scoreBarLabel": "You got :num out of :total points",
+    "tipAvailable": "Tip available",
+    "feedbackAvailable": "Feedback available",
+    "readFeedback": "Read feedback",
+    "wrongAnswer": "Wrong answer",
+    "correctAnswer": "Correct answer",
+    "shouldCheck": "Should have been checked",
+    "shouldNotCheck": "Should not have been checked",
+    "noInput": "Please answer before viewing the solution"
+  },
+  "behaviour": {
+    "enableRetry": true,
+    "enableSolutionsButton": true,
+    "singlePoint": true,
+    "randomAnswers": true,
+    "showSolutionsRequiresInput": true,
+    "type": "auto",
+    "confirmCheckDialog": false,
+    "confirmRetryDialog": false,
+    "autoCheck": false,
+    "passPercentage": 100,
+    "showScorePoints": true,
+    "enableCheckButton": true
+  },
+  "overallFeedback": [
+    {
+      "from": 0,
+      "to": 0,
+      "feedback": "Wrong"
+    },
+    {
+      "from": 1,
+      "to": 99,
+      "feedback": "Almost!"
+    },
+    {
+      "from": 100,
+      "to": 100,
+      "feedback": "Correct!"
+    }
+  ],
+  "question": "Garrett is the type of consumer who has to have the absolute “latest and greatest” technology products on the market. He is often the very first of his group of friends to acquire the newest smartphone or other gadget. Garrett would be considered a(n) ________.",
+  "isSolutionPublic": true,
+  "isFreeResponseSupported": false,
+  "answers": [
+    {
+      "text": "early adopter",
+      "correct": false,
+      "tipsAndFeedback": {
+        "tip": "",
+        "chosenFeedback": "That&#8217;s not correct. Consumers in the late majority category are typically slow to catch on to the popularity of new products.",
+        "notChosenFeedback": ""
+      }
+    },
+    {
+      "text": "laggard",
+      "correct": false,
+      "tipsAndFeedback": {
+        "tip": "",
+        "chosenFeedback": "That&#8217;s not correct. Laggards are skeptical of new ideas.",
+        "notChosenFeedback": ""
+      }
+    },
+    {
+      "text": "late majority",
+      "correct": false,
+      "tipsAndFeedback": {
+        "tip": "",
+        "chosenFeedback": "That&#8217;s not correct. Early adopters are opinion leaders with neighbors and friends, but they typically look to a different type of consumer.",
+        "notChosenFeedback": ""
+      }
+    },
+    {
+      "text": "innovator",
+      "correct": true,
+      "tipsAndFeedback": {
+        "tip": "",
+        "chosenFeedback": "Innovators typically buy new products as soon as they hit the market.",
+        "notChosenFeedback": ""
+      }
+    }
+  ],
+  "subContentId": "772ad6c0-b42d-425c-ae96-b388c33fcd9f",
+  "detailedSolution": "Innovators typically buy new products as soon as they hit the market."
+}
