@@ -1,0 +1,33 @@
+{
+  "errata_id": "7d14e19e98eab526fa96931cea1f2ea88900a4b3b50f41f9dd0f26fd53eb4836",
+  "attachments": [],
+  "tags": [
+    "type:practice",
+    "book:stax-mktg",
+    "lo:stax-mktg:12-1-3",
+    "context-cnxmod:d0d6f212-bbd2-4405-b784-aaf40e6c7456",
+    "lo:stax-mktg:12-3-3",
+    "context-cnxmod:a68cfb06-562b-4447-8799-ea24955dc9a5",
+    "lo:stax-mktg:12-5-2",
+    "context-cnxmod:ffb1a8b5-3e4b-4d38-8597-a62841a01230",
+    "book-slug:principles-marketing",
+    "module-slug:principles-marketing:12-1-pricing-and-its-role-in-the-marketing-mix",
+    "module-slug:principles-marketing:12-3-the-five-step-procedure-for-establishing-pricing-policy",
+    "module-slug:principles-marketing:12-5-pricing-strategies-and-tactics-for-existing-products"
+  ],
+  "books": [
+    {
+      "name": "stax-mktg",
+      "lo": [
+        "12-1-3",
+        "12-3-3",
+        "12-5-2"
+      ]
+    }
+  ],
+  "context": [
+    "m00076",
+    "m00078",
+    "m00080"
+  ]
+}
