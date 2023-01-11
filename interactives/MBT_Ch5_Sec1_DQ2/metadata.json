@@ -1,0 +1,27 @@
+{
+  "errata_id": "b234f573597fd511fd4c1231f800d409a298455eac76a5055d33937b11fa0a9c",
+  "attachments": [],
+  "tags": [
+    "type:practice",
+    "book:stax-mktg",
+    "lo:stax-mktg:5-1-3",
+    "context-cnxmod:fca42ec7-4103-45fd-a5a7-5a6a841ad259",
+    "lo:stax-mktg:5-1-1",
+    "lo:stax-mktg:5-1-2",
+    "book-slug:principles-marketing",
+    "module-slug:principles-marketing:5-1-market-segmentation-and-consumer-markets"
+  ],
+  "books": [
+    {
+      "name": "stax-mktg",
+      "lo": [
+        "5-1-3",
+        "5-1-1",
+        "5-1-2"
+      ]
+    }
+  ],
+  "context": [
+    "m00027"
+  ]
+}
