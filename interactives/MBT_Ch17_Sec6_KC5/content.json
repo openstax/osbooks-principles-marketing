@@ -1,0 +1,91 @@
+{
+  "UI": {
+    "showSolutionButton": "Show solution",
+    "tryAgainButton": "Retry",
+    "checkAnswerButton": "Check",
+    "tipsLabel": "Show tip",
+    "scoreBarLabel": "You got :num out of :total points",
+    "tipAvailable": "Tip available",
+    "feedbackAvailable": "Feedback available",
+    "readFeedback": "Read feedback",
+    "wrongAnswer": "Wrong answer",
+    "correctAnswer": "Correct answer",
+    "shouldCheck": "Should have been checked",
+    "shouldNotCheck": "Should not have been checked",
+    "noInput": "Please answer before viewing the solution"
+  },
+  "behaviour": {
+    "enableRetry": true,
+    "enableSolutionsButton": true,
+    "singlePoint": true,
+    "randomAnswers": true,
+    "showSolutionsRequiresInput": true,
+    "type": "auto",
+    "confirmCheckDialog": false,
+    "confirmRetryDialog": false,
+    "autoCheck": false,
+    "passPercentage": 100,
+    "showScorePoints": true,
+    "enableCheckButton": true
+  },
+  "overallFeedback": [
+    {
+      "from": 0,
+      "to": 0,
+      "feedback": "Wrong"
+    },
+    {
+      "from": 1,
+      "to": 99,
+      "feedback": "Almost!"
+    },
+    {
+      "from": 100,
+      "to": 100,
+      "feedback": "Correct!"
+    }
+  ],
+  "question": "Which of the following explains why companies would use a third-party logistics (3PL) provider to distribute products?",
+  "isSolutionPublic": true,
+  "isFreeResponseSupported": false,
+  "answers": [
+    {
+      "text": "3PL providers have the expertise, flexibility, and cost efficiencies that manufacturers do not possess in logistics.",
+      "correct": false,
+      "tipsAndFeedback": {
+        "tip": "",
+        "chosenFeedback": "That&#8217;s not correct. While some 3PL providers own and operate their own transportation system, it wouldn&#8217;t be the only reason that a company would work with them.",
+        "notChosenFeedback": ""
+      }
+    },
+    {
+      "text": "3PL providers understand how to promote a product more effectively than a company does.",
+      "correct": false,
+      "tipsAndFeedback": {
+        "tip": "",
+        "chosenFeedback": "That&#8217;s not correct. While some 3PL providers offering warehousing and inventory management services, it wouldn&#8217;t be the only reason that a company would work with them.",
+        "notChosenFeedback": ""
+      }
+    },
+    {
+      "text": "3PL providers own warehouses to help store and manage inventory.",
+      "correct": false,
+      "tipsAndFeedback": {
+        "tip": "",
+        "chosenFeedback": "That&#8217;s not correct. There is no evidence that 3PL providers know how to promote products more effectively than manufacturers.",
+        "notChosenFeedback": ""
+      }
+    },
+    {
+      "text": "3 PL providers own and operate their own transportation system.",
+      "correct": true,
+      "tipsAndFeedback": {
+        "tip": "",
+        "chosenFeedback": "3PL providers have the expertise, flexibility, and cost efficiencies in logistics that manufacturers don&#8217;t possess.",
+        "notChosenFeedback": ""
+      }
+    }
+  ],
+  "subContentId": "34f91dd2-a361-4247-8d90-f7e4382bb390",
+  "detailedSolution": "3PL providers have the expertise, flexibility, and cost efficiencies in logistics that manufacturers don’t possess."
+}
