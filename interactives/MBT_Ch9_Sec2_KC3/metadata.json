@@ -1,0 +1,22 @@
+{
+  "errata_id": "d274c96010c5b6dfca42115ef77ef3de081b4dc62ecc3d14b79efb77da83beea",
+  "attachments": [],
+  "tags": [
+    "book:stax-mktg",
+    "context-cnxmod:3242ac4f-2025-493d-9d49-088388b26a85",
+    "lo:stax-mktg:9-2-2",
+    "book-slug:principles-marketing",
+    "module-slug:principles-marketing:9-2-product-items-product-lines-and-product-mixes"
+  ],
+  "books": [
+    {
+      "name": "stax-mktg",
+      "lo": [
+        "9-2-2"
+      ]
+    }
+  ],
+  "context": [
+    "m00055"
+  ]
+}
