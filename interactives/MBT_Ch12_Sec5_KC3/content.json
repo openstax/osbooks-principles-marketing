@@ -1,0 +1,91 @@
+{
+  "UI": {
+    "showSolutionButton": "Show solution",
+    "tryAgainButton": "Retry",
+    "checkAnswerButton": "Check",
+    "tipsLabel": "Show tip",
+    "scoreBarLabel": "You got :num out of :total points",
+    "tipAvailable": "Tip available",
+    "feedbackAvailable": "Feedback available",
+    "readFeedback": "Read feedback",
+    "wrongAnswer": "Wrong answer",
+    "correctAnswer": "Correct answer",
+    "shouldCheck": "Should have been checked",
+    "shouldNotCheck": "Should not have been checked",
+    "noInput": "Please answer before viewing the solution"
+  },
+  "behaviour": {
+    "enableRetry": true,
+    "enableSolutionsButton": true,
+    "singlePoint": true,
+    "randomAnswers": true,
+    "showSolutionsRequiresInput": true,
+    "type": "auto",
+    "confirmCheckDialog": false,
+    "confirmRetryDialog": false,
+    "autoCheck": false,
+    "passPercentage": 100,
+    "showScorePoints": true,
+    "enableCheckButton": true
+  },
+  "overallFeedback": [
+    {
+      "from": 0,
+      "to": 0,
+      "feedback": "Wrong"
+    },
+    {
+      "from": 1,
+      "to": 99,
+      "feedback": "Almost!"
+    },
+    {
+      "from": 100,
+      "to": 100,
+      "feedback": "Correct!"
+    }
+  ],
+  "question": "Thames is shopping for a new pair of jeans. He notices that one brand is priced at $49.99 and another is priced at $50.00. He immediately chooses the pair priced at $50.00 because he believes they are of better quality. Which pricing tactic was used to help Thames make his decision?",
+  "isSolutionPublic": true,
+  "isFreeResponseSupported": false,
+  "answers": [
+    {
+      "text": "Odd-even pricing",
+      "correct": false,
+      "tipsAndFeedback": {
+        "tip": "",
+        "chosenFeedback": "That&#8217;s not correct. Economy pricing is a tactic used to set prices much lower than that of competitors.",
+        "notChosenFeedback": ""
+      }
+    },
+    {
+      "text": "Captive pricing",
+      "correct": false,
+      "tipsAndFeedback": {
+        "tip": "",
+        "chosenFeedback": "That&#8217;s not correct. Bundle pricing is a tactic that has a lower price for a bundle of items than when those items are purchased separately.",
+        "notChosenFeedback": ""
+      }
+    },
+    {
+      "text": "Bundle pricing",
+      "correct": false,
+      "tipsAndFeedback": {
+        "tip": "",
+        "chosenFeedback": "That&#8217;s not correct. Captive pricing is a tactic used when there is both a core and a captive product.",
+        "notChosenFeedback": ""
+      }
+    },
+    {
+      "text": "Economy pricing",
+      "correct": true,
+      "tipsAndFeedback": {
+        "tip": "",
+        "chosenFeedback": "Odd-even pricing is a tactic used to illustrate value or quality to a customer through pricing.",
+        "notChosenFeedback": ""
+      }
+    }
+  ],
+  "subContentId": "3e528be9-617a-4a86-a6b3-a0e947f3c955",
+  "detailedSolution": "Odd-even pricing is a tactic used to illustrate value or quality to a customer through pricing."
+}
