@@ -1,0 +1,91 @@
+{
+  "UI": {
+    "showSolutionButton": "Show solution",
+    "tryAgainButton": "Retry",
+    "checkAnswerButton": "Check",
+    "tipsLabel": "Show tip",
+    "scoreBarLabel": "You got :num out of :total points",
+    "tipAvailable": "Tip available",
+    "feedbackAvailable": "Feedback available",
+    "readFeedback": "Read feedback",
+    "wrongAnswer": "Wrong answer",
+    "correctAnswer": "Correct answer",
+    "shouldCheck": "Should have been checked",
+    "shouldNotCheck": "Should not have been checked",
+    "noInput": "Please answer before viewing the solution"
+  },
+  "behaviour": {
+    "enableRetry": true,
+    "enableSolutionsButton": true,
+    "singlePoint": true,
+    "randomAnswers": true,
+    "showSolutionsRequiresInput": true,
+    "type": "auto",
+    "confirmCheckDialog": false,
+    "confirmRetryDialog": false,
+    "autoCheck": false,
+    "passPercentage": 100,
+    "showScorePoints": true,
+    "enableCheckButton": true
+  },
+  "overallFeedback": [
+    {
+      "from": 0,
+      "to": 0,
+      "feedback": "Wrong"
+    },
+    {
+      "from": 1,
+      "to": 99,
+      "feedback": "Almost!"
+    },
+    {
+      "from": 100,
+      "to": 100,
+      "feedback": "Correct!"
+    }
+  ],
+  "question": "Which of the following metrics would likely NOT be used to evaluate the effectiveness of new products?",
+  "isSolutionPublic": true,
+  "isFreeResponseSupported": false,
+  "answers": [
+    {
+      "text": "R&amp;D spending as a percentage of sales",
+      "correct": false,
+      "tipsAndFeedback": {
+        "tip": "",
+        "chosenFeedback": "That&#8217;s not correct. Return on investment is a metric used to evaluate the effectiveness of new products.",
+        "notChosenFeedback": ""
+      }
+    },
+    {
+      "text": "Time to value (TTV)",
+      "correct": false,
+      "tipsAndFeedback": {
+        "tip": "",
+        "chosenFeedback": "That&#8217;s not correct. Time to value (TTV) is a metric used to evaluate the effectiveness of new products.",
+        "notChosenFeedback": ""
+      }
+    },
+    {
+      "text": "Return on investment (ROI)",
+      "correct": false,
+      "tipsAndFeedback": {
+        "tip": "",
+        "chosenFeedback": "That&#8217;s not correct. R&#38;D spending as a percentage of sales is a metric used to evaluate the effectiveness of new products.",
+        "notChosenFeedback": ""
+      }
+    },
+    {
+      "text": "Annual recurring revenue (ARR)",
+      "correct": true,
+      "tipsAndFeedback": {
+        "tip": "",
+        "chosenFeedback": "Annual recurring revenue (ARR) is the annual value of revenue generated from subscriptions and contracts.",
+        "notChosenFeedback": ""
+      }
+    }
+  ],
+  "subContentId": "16b91bf3-3931-4ea2-acac-94ddcdfffe5a",
+  "detailedSolution": "Annual recurring revenue (ARR) is the annual value of revenue generated from subscriptions and contracts."
+}
