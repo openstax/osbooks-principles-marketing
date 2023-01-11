@@ -1,0 +1,91 @@
+{
+  "UI": {
+    "showSolutionButton": "Show solution",
+    "tryAgainButton": "Retry",
+    "checkAnswerButton": "Check",
+    "tipsLabel": "Show tip",
+    "scoreBarLabel": "You got :num out of :total points",
+    "tipAvailable": "Tip available",
+    "feedbackAvailable": "Feedback available",
+    "readFeedback": "Read feedback",
+    "wrongAnswer": "Wrong answer",
+    "correctAnswer": "Correct answer",
+    "shouldCheck": "Should have been checked",
+    "shouldNotCheck": "Should not have been checked",
+    "noInput": "Please answer before viewing the solution"
+  },
+  "behaviour": {
+    "enableRetry": true,
+    "enableSolutionsButton": true,
+    "singlePoint": true,
+    "randomAnswers": true,
+    "showSolutionsRequiresInput": true,
+    "type": "auto",
+    "confirmCheckDialog": false,
+    "confirmRetryDialog": false,
+    "autoCheck": false,
+    "passPercentage": 100,
+    "showScorePoints": true,
+    "enableCheckButton": true
+  },
+  "overallFeedback": [
+    {
+      "from": 0,
+      "to": 0,
+      "feedback": "Wrong"
+    },
+    {
+      "from": 1,
+      "to": 99,
+      "feedback": "Almost!"
+    },
+    {
+      "from": 100,
+      "to": 100,
+      "feedback": "Correct!"
+    }
+  ],
+  "question": "Your company has added so many features to the new product you’re launching that the price point when it hits the market is going to be significantly higher than originally anticipated. Which factor contributing to the failure of new products is at play here?",
+  "isSolutionPublic": true,
+  "isFreeResponseSupported": false,
+  "answers": [
+    {
+      "text": "Lack of product differentiation",
+      "correct": false,
+      "tipsAndFeedback": {
+        "tip": "",
+        "chosenFeedback": "That&#8217;s not correct. Although this is a factor contributing to the failure of new products, there is a better answer.",
+        "notChosenFeedback": ""
+      }
+    },
+    {
+      "text": "Prolonged development/delayed market entry",
+      "correct": false,
+      "tipsAndFeedback": {
+        "tip": "",
+        "chosenFeedback": "That&#8217;s not correct. Although this is a factor contributing to the failure of new products, there is a better answer.",
+        "notChosenFeedback": ""
+      }
+    },
+    {
+      "text": "Targeting the wrong market",
+      "correct": false,
+      "tipsAndFeedback": {
+        "tip": "",
+        "chosenFeedback": "That&#8217;s not correct. Although this is a factor contributing to the failure of new products, there is a better answer.",
+        "notChosenFeedback": ""
+      }
+    },
+    {
+      "text": "Poor pricing or cost structure",
+      "correct": true,
+      "tipsAndFeedback": {
+        "tip": "",
+        "chosenFeedback": "In an effort to bring &#8220;something new&#8221; to the market, companies often include features that make the product more costly to produce.",
+        "notChosenFeedback": ""
+      }
+    }
+  ],
+  "subContentId": "ac8182de-225f-48a7-abd0-282121a916a8",
+  "detailedSolution": "In an effort to bring “something new” to the market, companies often include features that make the product more costly to produce."
+}

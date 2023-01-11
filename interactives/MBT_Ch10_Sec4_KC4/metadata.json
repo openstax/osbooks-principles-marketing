@@ -1,0 +1,22 @@
+{
+  "errata_id": "648c55484d52ca32560d86bfcef3669b6ef7a4be31442dfc010668b7c756c96a",
+  "attachments": [],
+  "tags": [
+    "book:stax-mktg",
+    "context-cnxmod:d669f182-7c4c-4a21-bd2d-3393ab63f74c",
+    "lo:stax-mktg:10-4-2",
+    "book-slug:principles-marketing",
+    "module-slug:principles-marketing:10-4-factors-contributing-to-the-success-or-failure-of-new-products"
+  ],
+  "books": [
+    {
+      "name": "stax-mktg",
+      "lo": [
+        "10-4-2"
+      ]
+    }
+  ],
+  "context": [
+    "m00067"
+  ]
+}
