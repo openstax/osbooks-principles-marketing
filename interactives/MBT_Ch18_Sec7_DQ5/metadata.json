@@ -1,0 +1,23 @@
+{
+  "errata_id": "b551cbc5f5ac4e715695e57c5dcac8fee5eb5eb2f00db3f4c70984ab1efec070",
+  "attachments": [],
+  "tags": [
+    "type:practice",
+    "book:stax-mktg",
+    "lo:stax-mktg:18-7-1",
+    "context-cnxmod:5ebac2f1-08b9-4ec6-a5d2-aa1832505bbe",
+    "book-slug:principles-marketing",
+    "module-slug:principles-marketing:18-7-ethical-issues-in-retailing-and-wholesaling"
+  ],
+  "books": [
+    {
+      "name": "stax-mktg",
+      "lo": [
+        "18-7-1"
+      ]
+    }
+  ],
+  "context": [
+    "m00123"
+  ]
+}
