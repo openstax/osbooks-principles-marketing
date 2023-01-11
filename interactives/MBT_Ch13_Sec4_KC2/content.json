@@ -1,0 +1,91 @@
+{
+  "UI": {
+    "showSolutionButton": "Show solution",
+    "tryAgainButton": "Retry",
+    "checkAnswerButton": "Check",
+    "tipsLabel": "Show tip",
+    "scoreBarLabel": "You got :num out of :total points",
+    "tipAvailable": "Tip available",
+    "feedbackAvailable": "Feedback available",
+    "readFeedback": "Read feedback",
+    "wrongAnswer": "Wrong answer",
+    "correctAnswer": "Correct answer",
+    "shouldCheck": "Should have been checked",
+    "shouldNotCheck": "Should not have been checked",
+    "noInput": "Please answer before viewing the solution"
+  },
+  "behaviour": {
+    "enableRetry": true,
+    "enableSolutionsButton": true,
+    "singlePoint": true,
+    "randomAnswers": true,
+    "showSolutionsRequiresInput": true,
+    "type": "auto",
+    "confirmCheckDialog": false,
+    "confirmRetryDialog": false,
+    "autoCheck": false,
+    "passPercentage": 100,
+    "showScorePoints": true,
+    "enableCheckButton": true
+  },
+  "overallFeedback": [
+    {
+      "from": 0,
+      "to": 0,
+      "feedback": "Wrong"
+    },
+    {
+      "from": 1,
+      "to": 99,
+      "feedback": "Almost!"
+    },
+    {
+      "from": 100,
+      "to": 100,
+      "feedback": "Correct!"
+    }
+  ],
+  "question": "According to the 5A framework, when Jennifer uses the Panera Bread coupon sent through a text message to her mobile device, which stage of the customer journey is she in?",
+  "isSolutionPublic": true,
+  "isFreeResponseSupported": false,
+  "answers": [
+    {
+      "text": "Advocacy",
+      "correct": false,
+      "tipsAndFeedback": {
+        "tip": "",
+        "chosenFeedback": "That&#8217;s not correct. In the appeal stage, Panera Bread would be working to get connected to Jennifer.",
+        "notChosenFeedback": ""
+      }
+    },
+    {
+      "text": "Aware",
+      "correct": false,
+      "tipsAndFeedback": {
+        "tip": "",
+        "chosenFeedback": "That&#8217;s not correct. In the awareness stage, Jennifer would just be learning about Panera Bread and probably would not be connected with the company through her mobile device.",
+        "notChosenFeedback": ""
+      }
+    },
+    {
+      "text": "Appeal",
+      "correct": false,
+      "tipsAndFeedback": {
+        "tip": "",
+        "chosenFeedback": "That&#8217;s not correct. If she were exhibiting the advocacy stage, she would be telling her friends and family about Panera Bread.",
+        "notChosenFeedback": ""
+      }
+    },
+    {
+      "text": "Act",
+      "correct": true,
+      "tipsAndFeedback": {
+        "tip": "",
+        "chosenFeedback": "Jennifer is acting on the promotional method Panera Bread used to reach her in the customer journey.",
+        "notChosenFeedback": ""
+      }
+    }
+  ],
+  "subContentId": "73ea7d62-3564-4402-aa2d-d62c4dbb908a",
+  "detailedSolution": "Jennifer is acting on the promotional method Panera Bread used to reach her in the customer journey."
+}
