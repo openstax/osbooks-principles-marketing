@@ -1,0 +1,25 @@
+{
+  "errata_id": "5b6800e066e4b5f2cd4cc9d594e19aad2b0b65d710237e8725b887f36b3733dd",
+  "attachments": [],
+  "tags": [
+    "type:practice",
+    "book:stax-mktg",
+    "lo:stax-mktg:6-4-1",
+    "lo:stax-mktg:6-4-2",
+    "context-cnxmod:86f81188-33dc-4dfb-bd28-d54a484b2c42",
+    "book-slug:principles-marketing",
+    "module-slug:principles-marketing:6-4-ethical-issues-in-marketing-research"
+  ],
+  "books": [
+    {
+      "name": "stax-mktg",
+      "lo": [
+        "6-4-1",
+        "6-4-2"
+      ]
+    }
+  ],
+  "context": [
+    "m00037"
+  ]
+}
