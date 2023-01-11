@@ -1,0 +1,91 @@
+{
+  "UI": {
+    "showSolutionButton": "Show solution",
+    "tryAgainButton": "Retry",
+    "checkAnswerButton": "Check",
+    "tipsLabel": "Show tip",
+    "scoreBarLabel": "You got :num out of :total points",
+    "tipAvailable": "Tip available",
+    "feedbackAvailable": "Feedback available",
+    "readFeedback": "Read feedback",
+    "wrongAnswer": "Wrong answer",
+    "correctAnswer": "Correct answer",
+    "shouldCheck": "Should have been checked",
+    "shouldNotCheck": "Should not have been checked",
+    "noInput": "Please answer before viewing the solution"
+  },
+  "behaviour": {
+    "enableRetry": true,
+    "enableSolutionsButton": true,
+    "singlePoint": true,
+    "randomAnswers": true,
+    "showSolutionsRequiresInput": true,
+    "type": "auto",
+    "confirmCheckDialog": false,
+    "confirmRetryDialog": false,
+    "autoCheck": false,
+    "passPercentage": 100,
+    "showScorePoints": true,
+    "enableCheckButton": true
+  },
+  "overallFeedback": [
+    {
+      "from": 0,
+      "to": 0,
+      "feedback": "Wrong"
+    },
+    {
+      "from": 1,
+      "to": 99,
+      "feedback": "Almost!"
+    },
+    {
+      "from": 100,
+      "to": 100,
+      "feedback": "Correct!"
+    }
+  ],
+  "question": "Alexandra is working on the pricing strategy for her new food truck items. She is interested in knowing how many hamburgers she will need to sell in order to break even. Which formula should she use?",
+  "isSolutionPublic": true,
+  "isFreeResponseSupported": false,
+  "answers": [
+    {
+      "text": "<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><semantics><mrow>\n  <mtext>Fixed</mtext>\n  <mspace width=\"thickmathspace\"></mspace>\n  <mtext>Costs + Variable</mtext>\n  <mspace width=\"thickmathspace\"></mspace>\n  <mtext>Costs</mtext>\n</mrow><annotation encoding=\"LaTeX\">\\text{Fixed}\\;\\text{Costs + Variable}\\;\\text{Costs}</annotation></semantics></math>",
+      "correct": false,
+      "tipsAndFeedback": {
+        "tip": "",
+        "chosenFeedback": "That&#8217;s not correct. It is not the break-even formula.",
+        "notChosenFeedback": ""
+      }
+    },
+    {
+      "text": "<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><semantics><mrow>\n  <mtext>Fixed</mtext>\n  <mspace width=\"thickmathspace\"></mspace>\n  <mtext>Costs</mtext>\n  <mo>−<!-- − --></mo>\n  <mtext>Variable</mtext>\n  <mspace width=\"thickmathspace\"></mspace>\n  <mtext>Costs</mtext>\n</mrow><annotation encoding=\"LaTeX\">\\text{Fixed}\\;\\text{Costs}-\\text{Variable}\\;\\text{Costs}</annotation></semantics></math>",
+      "correct": false,
+      "tipsAndFeedback": {
+        "tip": "",
+        "chosenFeedback": "That&#8217;s not correct. It is not the break-even formula.",
+        "notChosenFeedback": ""
+      }
+    },
+    {
+      "text": "<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><semantics><mrow>\n  <mtext>Fixed</mtext>\n  <mspace width=\"thickmathspace\"></mspace>\n  <mtext>Costs/(Unit</mtext>\n  <mspace width=\"thickmathspace\"></mspace>\n  <mtext>Price + Variable</mtext>\n  <mspace width=\"thickmathspace\"></mspace>\n  <mtext>Unit</mtext>\n  <mspace width=\"thickmathspace\"></mspace>\n  <mtext>Cost</mtext>\n  <mo stretchy=\"false\">)</mo>\n</mrow><annotation encoding=\"LaTeX\">\\text{Fixed}\\;\\text{Costs/(Unit}\\;\\text{Price + Variable}\\;\\text{Unit}\\;\\text{Cost})</annotation></semantics></math>",
+      "correct": false,
+      "tipsAndFeedback": {
+        "tip": "",
+        "chosenFeedback": "That&#8217;s not correct. It is not the break-even formula.",
+        "notChosenFeedback": ""
+      }
+    },
+    {
+      "text": "<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><semantics><mrow>\n  <mtext>Fixed</mtext>\n  <mspace width=\"thickmathspace\"></mspace>\n  <mtext>Costs/(Unit</mtext>\n  <mspace width=\"thickmathspace\"></mspace>\n  <mtext>Price</mtext>\n  <mo>−<!-- − --></mo>\n  <mtext>Variable</mtext>\n  <mspace width=\"thickmathspace\"></mspace>\n  <mtext>Unit</mtext>\n  <mspace width=\"thickmathspace\"></mspace>\n  <mtext>Cost</mtext>\n  <mo stretchy=\"false\">)</mo>\n</mrow><annotation encoding=\"LaTeX\">\\text{Fixed}\\;\\text{Costs/(Unit}\\;\\text{Price}-\\text{Variable}\\;\\text{Unit}\\;\\text{Cost})</annotation></semantics></math>",
+      "correct": true,
+      "tipsAndFeedback": {
+        "tip": "",
+        "chosenFeedback": "The break-even unit formula is Fixed Costs / (Unit Price &#43; Variable Unit Cost)",
+        "notChosenFeedback": ""
+      }
+    }
+  ],
+  "subContentId": "45c54bd4-3e4b-40c4-9fa4-1ba0a3cb4437",
+  "detailedSolution": "The break-even unit formula is Fixed Costs / (Unit Price + Variable Unit Cost)"
+}
