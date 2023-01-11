@@ -1,0 +1,91 @@
+{
+  "UI": {
+    "showSolutionButton": "Show solution",
+    "tryAgainButton": "Retry",
+    "checkAnswerButton": "Check",
+    "tipsLabel": "Show tip",
+    "scoreBarLabel": "You got :num out of :total points",
+    "tipAvailable": "Tip available",
+    "feedbackAvailable": "Feedback available",
+    "readFeedback": "Read feedback",
+    "wrongAnswer": "Wrong answer",
+    "correctAnswer": "Correct answer",
+    "shouldCheck": "Should have been checked",
+    "shouldNotCheck": "Should not have been checked",
+    "noInput": "Please answer before viewing the solution"
+  },
+  "behaviour": {
+    "enableRetry": true,
+    "enableSolutionsButton": true,
+    "singlePoint": true,
+    "randomAnswers": true,
+    "showSolutionsRequiresInput": true,
+    "type": "auto",
+    "confirmCheckDialog": false,
+    "confirmRetryDialog": false,
+    "autoCheck": false,
+    "passPercentage": 100,
+    "showScorePoints": true,
+    "enableCheckButton": true
+  },
+  "overallFeedback": [
+    {
+      "from": 0,
+      "to": 0,
+      "feedback": "Wrong"
+    },
+    {
+      "from": 1,
+      "to": 99,
+      "feedback": "Almost!"
+    },
+    {
+      "from": 100,
+      "to": 100,
+      "feedback": "Correct!"
+    }
+  ],
+  "question": "The Warton Hotel is running an online marketing campaign and would like to measure the percentage of people who only visit its site one time. Which online marketing metric would be most helpful to the hotel in this situation?",
+  "isSolutionPublic": true,
+  "isFreeResponseSupported": false,
+  "answers": [
+    {
+      "text": "Counting new and returning customers who visit the site",
+      "correct": false,
+      "tipsAndFeedback": {
+        "tip": "",
+        "chosenFeedback": "That&#8217;s not correct. Counting unique visitors is the same as counting new users. Unique or new visitors indicate the success of online marketing campaigns in driving traffic to the company&#8217;s website.",
+        "notChosenFeedback": ""
+      }
+    },
+    {
+      "text": "Counting page views",
+      "correct": false,
+      "tipsAndFeedback": {
+        "tip": "",
+        "chosenFeedback": "That&#8217;s not correct. Counting page views helps marketers assess which of their pages are most popular and which need revision.",
+        "notChosenFeedback": ""
+      }
+    },
+    {
+      "text": "Examining the bounce rate",
+      "correct": false,
+      "tipsAndFeedback": {
+        "tip": "",
+        "chosenFeedback": "That&#8217;s not correct. Counting new and returning users gives online marketers the opportunity to assess how effective their campaigns are in driving new customers to their website.",
+        "notChosenFeedback": ""
+      }
+    },
+    {
+      "text": "Counting unique users",
+      "correct": true,
+      "tipsAndFeedback": {
+        "tip": "",
+        "chosenFeedback": "The bounce rate measures the percentage of times visitors leave your site after visiting only one page.",
+        "notChosenFeedback": ""
+      }
+    }
+  ],
+  "subContentId": "f9b7b98a-c19e-41a7-9980-306c684d576e",
+  "detailedSolution": "The bounce rate measures the percentage of times visitors leave your site after visiting only one page."
+}
