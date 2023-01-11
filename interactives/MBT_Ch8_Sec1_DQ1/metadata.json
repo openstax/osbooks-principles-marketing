@@ -1,0 +1,34 @@
+{
+  "errata_id": "e4ee94447c55fed6d4908dfc8a4312423a24b2ccefaaa77549d0140a0693711f",
+  "attachments": [],
+  "tags": [
+    "type:practice",
+    "book:stax-mktg",
+    "context-cnxmod:c8edd8c4-0664-48d2-92ab-f9c969a1d78d",
+    "lo:stax-mktg:8-1-2",
+    "lo:stax-mktg:8-1-3",
+    "context-cnxmod:db3b2ea5-aebf-48a9-aa62-5236c6555734",
+    "lo:stax-mktg:8-2-2",
+    "lo:stax-mktg:8-2-3",
+    "lo:stax-mktg:8-2-4",
+    "book-slug:principles-marketing",
+    "module-slug:principles-marketing:8-1-strategic-marketing-standardization-versus-adaptation",
+    "module-slug:principles-marketing:8-2-diversity-and-inclusion-marketing"
+  ],
+  "books": [
+    {
+      "name": "stax-mktg",
+      "lo": [
+        "8-1-2",
+        "8-1-3",
+        "8-2-2",
+        "8-2-3",
+        "8-2-4"
+      ]
+    }
+  ],
+  "context": [
+    "m00045",
+    "m00046"
+  ]
+}
