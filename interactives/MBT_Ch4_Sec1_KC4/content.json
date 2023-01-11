@@ -1,0 +1,91 @@
+{
+  "UI": {
+    "showSolutionButton": "Show solution",
+    "tryAgainButton": "Retry",
+    "checkAnswerButton": "Check",
+    "tipsLabel": "Show tip",
+    "scoreBarLabel": "You got :num out of :total points",
+    "tipAvailable": "Tip available",
+    "feedbackAvailable": "Feedback available",
+    "readFeedback": "Read feedback",
+    "wrongAnswer": "Wrong answer",
+    "correctAnswer": "Correct answer",
+    "shouldCheck": "Should have been checked",
+    "shouldNotCheck": "Should not have been checked",
+    "noInput": "Please answer before viewing the solution"
+  },
+  "behaviour": {
+    "enableRetry": true,
+    "enableSolutionsButton": true,
+    "singlePoint": true,
+    "randomAnswers": true,
+    "showSolutionsRequiresInput": true,
+    "type": "auto",
+    "confirmCheckDialog": false,
+    "confirmRetryDialog": false,
+    "autoCheck": false,
+    "passPercentage": 100,
+    "showScorePoints": true,
+    "enableCheckButton": true
+  },
+  "overallFeedback": [
+    {
+      "from": 0,
+      "to": 0,
+      "feedback": "Wrong"
+    },
+    {
+      "from": 1,
+      "to": 99,
+      "feedback": "Almost!"
+    },
+    {
+      "from": 100,
+      "to": 100,
+      "feedback": "Correct!"
+    }
+  ],
+  "question": "Many of the world’s high-tech companies are located in Silicon Valley, California, including the headquarters of more than 30 businesses in the Fortune 1000. Which difference between B2B and B2C markets does this illustrate?",
+  "isSolutionPublic": true,
+  "isFreeResponseSupported": false,
+  "answers": [
+    {
+      "text": "More reliance on personal selling",
+      "correct": false,
+      "tipsAndFeedback": {
+        "tip": "",
+        "chosenFeedback": "That&#8217;s not correct. Although it is true that there are fewer buyers who make larger purchases in the B2B market vs. the B2C market, the scenario does not illustrate that fact.",
+        "notChosenFeedback": ""
+      }
+    },
+    {
+      "text": "Derived demand versus direct demand",
+      "correct": false,
+      "tipsAndFeedback": {
+        "tip": "",
+        "chosenFeedback": "That&#8217;s not correct. Although direct demand is a characteristic of B2C markets vs. derived demand in B2B markets, the scenario does not illustrate that fact.",
+        "notChosenFeedback": ""
+      }
+    },
+    {
+      "text": "Fewer customers, often geographically concentrated in areas",
+      "correct": false,
+      "tipsAndFeedback": {
+        "tip": "",
+        "chosenFeedback": "That&#8217;s not correct. Although there is more reliance on personal selling in the B2B market vs. mass marketing in the B2C market, the scenario does not illustrate that fact.",
+        "notChosenFeedback": ""
+      }
+    },
+    {
+      "text": "Larger purchases/fewer buyers than the B2C market",
+      "correct": true,
+      "tipsAndFeedback": {
+        "tip": "",
+        "chosenFeedback": "The B2B market is more geographically concentrated in areas based on cost, access, and availability of resources.",
+        "notChosenFeedback": ""
+      }
+    }
+  ],
+  "subContentId": "65196e4c-fb57-4810-a0bd-c6512a708644",
+  "detailedSolution": "The B2B market is more geographically concentrated in areas based on cost, access, and availability of resources."
+}
