@@ -1,0 +1,91 @@
+{
+  "UI": {
+    "showSolutionButton": "Show solution",
+    "tryAgainButton": "Retry",
+    "checkAnswerButton": "Check",
+    "tipsLabel": "Show tip",
+    "scoreBarLabel": "You got :num out of :total points",
+    "tipAvailable": "Tip available",
+    "feedbackAvailable": "Feedback available",
+    "readFeedback": "Read feedback",
+    "wrongAnswer": "Wrong answer",
+    "correctAnswer": "Correct answer",
+    "shouldCheck": "Should have been checked",
+    "shouldNotCheck": "Should not have been checked",
+    "noInput": "Please answer before viewing the solution"
+  },
+  "behaviour": {
+    "enableRetry": true,
+    "enableSolutionsButton": true,
+    "singlePoint": true,
+    "randomAnswers": true,
+    "showSolutionsRequiresInput": true,
+    "type": "auto",
+    "confirmCheckDialog": false,
+    "confirmRetryDialog": false,
+    "autoCheck": false,
+    "passPercentage": 100,
+    "showScorePoints": true,
+    "enableCheckButton": true
+  },
+  "overallFeedback": [
+    {
+      "from": 0,
+      "to": 0,
+      "feedback": "Wrong"
+    },
+    {
+      "from": 1,
+      "to": 99,
+      "feedback": "Almost!"
+    },
+    {
+      "from": 100,
+      "to": 100,
+      "feedback": "Correct!"
+    }
+  ],
+  "question": "Part of Malika’s job with H2O Pool Supplies is to identify potential new customers. She is required to spend 20% of her time working to bring in new customers. What type of objective is Malika working toward?",
+  "isSolutionPublic": true,
+  "isFreeResponseSupported": false,
+  "answers": [
+    {
+      "text": "Serving existing customers",
+      "correct": false,
+      "tipsAndFeedback": {
+        "tip": "",
+        "chosenFeedback": "That&#8217;s not correct. A focus on customer satisfaction would be with existing customers.",
+        "notChosenFeedback": ""
+      }
+    },
+    {
+      "text": "Increasing profits",
+      "correct": false,
+      "tipsAndFeedback": {
+        "tip": "",
+        "chosenFeedback": "That&#8217;s not correct. If Malika were focusing on increasing profits, it is less expensive to work with current customers than to get new customers.",
+        "notChosenFeedback": ""
+      }
+    },
+    {
+      "text": "Enhancing customer satisfaction",
+      "correct": false,
+      "tipsAndFeedback": {
+        "tip": "",
+        "chosenFeedback": "That&#8217;s not correct. If Malika were focused on serving existing customers, she would not be working to find new customers.",
+        "notChosenFeedback": ""
+      }
+    },
+    {
+      "text": "Developing new customers",
+      "correct": true,
+      "tipsAndFeedback": {
+        "tip": "",
+        "chosenFeedback": "Malika is focused on bringing in new customers.",
+        "notChosenFeedback": ""
+      }
+    }
+  ],
+  "subContentId": "e74373c6-03c3-4e6d-9258-b8e5c9355cbb",
+  "detailedSolution": "Malika is focused on bringing in new customers."
+}
