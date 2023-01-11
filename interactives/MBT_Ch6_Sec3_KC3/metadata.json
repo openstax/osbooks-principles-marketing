@@ -1,0 +1,22 @@
+{
+  "errata_id": "34e5d25ba7e6d25053279ecd922d60fec1f4f6a0ce0c154ab3ddf588bffd5f9f",
+  "attachments": [],
+  "tags": [
+    "book:stax-mktg",
+    "lo:stax-mktg:6-3-1",
+    "context-cnxmod:b0da0182-bcb3-44fb-8431-b527e4c3342f",
+    "book-slug:principles-marketing",
+    "module-slug:principles-marketing:6-3-steps-in-a-successful-marketing-research-plan"
+  ],
+  "books": [
+    {
+      "name": "stax-mktg",
+      "lo": [
+        "6-3-1"
+      ]
+    }
+  ],
+  "context": [
+    "m00036"
+  ]
+}
