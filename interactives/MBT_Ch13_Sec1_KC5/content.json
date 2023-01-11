@@ -1,0 +1,91 @@
+{
+  "UI": {
+    "showSolutionButton": "Show solution",
+    "tryAgainButton": "Retry",
+    "checkAnswerButton": "Check",
+    "tipsLabel": "Show tip",
+    "scoreBarLabel": "You got :num out of :total points",
+    "tipAvailable": "Tip available",
+    "feedbackAvailable": "Feedback available",
+    "readFeedback": "Read feedback",
+    "wrongAnswer": "Wrong answer",
+    "correctAnswer": "Correct answer",
+    "shouldCheck": "Should have been checked",
+    "shouldNotCheck": "Should not have been checked",
+    "noInput": "Please answer before viewing the solution"
+  },
+  "behaviour": {
+    "enableRetry": true,
+    "enableSolutionsButton": true,
+    "singlePoint": true,
+    "randomAnswers": true,
+    "showSolutionsRequiresInput": true,
+    "type": "auto",
+    "confirmCheckDialog": false,
+    "confirmRetryDialog": false,
+    "autoCheck": false,
+    "passPercentage": 100,
+    "showScorePoints": true,
+    "enableCheckButton": true
+  },
+  "overallFeedback": [
+    {
+      "from": 0,
+      "to": 0,
+      "feedback": "Wrong"
+    },
+    {
+      "from": 1,
+      "to": 99,
+      "feedback": "Almost!"
+    },
+    {
+      "from": 100,
+      "to": 100,
+      "feedback": "Correct!"
+    }
+  ],
+  "question": "When a singer who is voted off <em>The Voice</em> television series appears on <em>Today</em> to discuss the experience, it is an example of ________.",
+  "isSolutionPublic": true,
+  "isFreeResponseSupported": false,
+  "answers": [
+    {
+      "text": "advertising",
+      "correct": false,
+      "tipsAndFeedback": {
+        "tip": "",
+        "chosenFeedback": "That&#8217;s not correct. Direct marketing is focused on selling a product directly to a consumer through digital means as well as mail and telephone.",
+        "notChosenFeedback": ""
+      }
+    },
+    {
+      "text": "public relations",
+      "correct": false,
+      "tipsAndFeedback": {
+        "tip": "",
+        "chosenFeedback": "That&#8217;s not correct. Sales promotion is a form of communication directed at a buyer to induce sales in the short term.",
+        "notChosenFeedback": ""
+      }
+    },
+    {
+      "text": "sales promotion",
+      "correct": false,
+      "tipsAndFeedback": {
+        "tip": "",
+        "chosenFeedback": "That&#8217;s not correct. Advertising is a paid form of nonpersonal communication.",
+        "notChosenFeedback": ""
+      }
+    },
+    {
+      "text": "direct marketing",
+      "correct": true,
+      "tipsAndFeedback": {
+        "tip": "",
+        "chosenFeedback": "Public relations encompasses nonpaid activities that promote a product, service, idea, or person.",
+        "notChosenFeedback": ""
+      }
+    }
+  ],
+  "subContentId": "dbd8c57c-ee2a-4c50-8a96-690037cb042a",
+  "detailedSolution": "Public relations encompasses nonpaid activities that promote a product, service, idea, or person."
+}
