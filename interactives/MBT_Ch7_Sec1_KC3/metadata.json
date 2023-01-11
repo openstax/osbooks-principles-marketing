@@ -1,0 +1,22 @@
+{
+  "errata_id": "1d5a0bca4951c0ef970333265d449dd01664d13509453a4cd0d37c530d72c563",
+  "attachments": [],
+  "tags": [
+    "book:stax-mktg",
+    "context-cnxmod:810b44d6-298c-4293-bbba-f15ce46e5fcf",
+    "lo:stax-mktg:7-1-3",
+    "book-slug:principles-marketing",
+    "module-slug:principles-marketing:7-1-the-global-market-and-advantages-of-international-trade"
+  ],
+  "books": [
+    {
+      "name": "stax-mktg",
+      "lo": [
+        "7-1-3"
+      ]
+    }
+  ],
+  "context": [
+    "m00039"
+  ]
+}
