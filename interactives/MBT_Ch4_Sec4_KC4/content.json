@@ -1,0 +1,91 @@
+{
+  "UI": {
+    "showSolutionButton": "Show solution",
+    "tryAgainButton": "Retry",
+    "checkAnswerButton": "Check",
+    "tipsLabel": "Show tip",
+    "scoreBarLabel": "You got :num out of :total points",
+    "tipAvailable": "Tip available",
+    "feedbackAvailable": "Feedback available",
+    "readFeedback": "Read feedback",
+    "wrongAnswer": "Wrong answer",
+    "correctAnswer": "Correct answer",
+    "shouldCheck": "Should have been checked",
+    "shouldNotCheck": "Should not have been checked",
+    "noInput": "Please answer before viewing the solution"
+  },
+  "behaviour": {
+    "enableRetry": true,
+    "enableSolutionsButton": true,
+    "singlePoint": true,
+    "randomAnswers": true,
+    "showSolutionsRequiresInput": true,
+    "type": "auto",
+    "confirmCheckDialog": false,
+    "confirmRetryDialog": false,
+    "autoCheck": false,
+    "passPercentage": 100,
+    "showScorePoints": true,
+    "enableCheckButton": true
+  },
+  "overallFeedback": [
+    {
+      "from": 0,
+      "to": 0,
+      "feedback": "Wrong"
+    },
+    {
+      "from": 1,
+      "to": 99,
+      "feedback": "Almost!"
+    },
+    {
+      "from": 100,
+      "to": 100,
+      "feedback": "Correct!"
+    }
+  ],
+  "question": "During which stage of the B2B buying process will the B2B buyer negotiate the order?",
+  "isSolutionPublic": true,
+  "isFreeResponseSupported": false,
+  "answers": [
+    {
+      "text": "Stage 4: Supplier search",
+      "correct": false,
+      "tipsAndFeedback": {
+        "tip": "",
+        "chosenFeedback": "That&#8217;s not correct. Stage 6 of the B2B buying process is supplier selection, in which the buying center chooses a supplier.",
+        "notChosenFeedback": ""
+      }
+    },
+    {
+      "text": "Stage 5: Proposal solicitation",
+      "correct": false,
+      "tipsAndFeedback": {
+        "tip": "",
+        "chosenFeedback": "That&#8217;s not correct. Stage 5 of the B2B buying process is proposal solicitation, in which qualified vendors are asked to submit proposals.",
+        "notChosenFeedback": ""
+      }
+    },
+    {
+      "text": "Stage 6: Supplier selection",
+      "correct": false,
+      "tipsAndFeedback": {
+        "tip": "",
+        "chosenFeedback": "That&#8217;s not correct. Stage 4 of the B2B buying process is supplier search, in which members of the buying center will seek out information on the products they are looking for and the vendors that can supply them.",
+        "notChosenFeedback": ""
+      }
+    },
+    {
+      "text": "Stage 7: Order-routine specification",
+      "correct": true,
+      "tipsAndFeedback": {
+        "tip": "",
+        "chosenFeedback": "In Stage 7: Order-routine specification, the B2B buyer negotiates the order, listing the technical specifications, the quantity needed, the expected time of delivery, etc.",
+        "notChosenFeedback": ""
+      }
+    }
+  ],
+  "subContentId": "29b33863-a413-4ac5-ac24-6a15465d66ad",
+  "detailedSolution": "In Stage 7: Order-routine specification, the B2B buyer negotiates the order, listing the technical specifications, the quantity needed, the expected time of delivery, etc."
+}
