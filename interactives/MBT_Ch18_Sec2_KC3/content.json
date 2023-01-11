@@ -1,0 +1,91 @@
+{
+  "UI": {
+    "showSolutionButton": "Show solution",
+    "tryAgainButton": "Retry",
+    "checkAnswerButton": "Check",
+    "tipsLabel": "Show tip",
+    "scoreBarLabel": "You got :num out of :total points",
+    "tipAvailable": "Tip available",
+    "feedbackAvailable": "Feedback available",
+    "readFeedback": "Read feedback",
+    "wrongAnswer": "Wrong answer",
+    "correctAnswer": "Correct answer",
+    "shouldCheck": "Should have been checked",
+    "shouldNotCheck": "Should not have been checked",
+    "noInput": "Please answer before viewing the solution"
+  },
+  "behaviour": {
+    "enableRetry": true,
+    "enableSolutionsButton": true,
+    "singlePoint": true,
+    "randomAnswers": true,
+    "showSolutionsRequiresInput": true,
+    "type": "auto",
+    "confirmCheckDialog": false,
+    "confirmRetryDialog": false,
+    "autoCheck": false,
+    "passPercentage": 100,
+    "showScorePoints": true,
+    "enableCheckButton": true
+  },
+  "overallFeedback": [
+    {
+      "from": 0,
+      "to": 0,
+      "feedback": "Wrong"
+    },
+    {
+      "from": 1,
+      "to": 99,
+      "feedback": "Almost!"
+    },
+    {
+      "from": 100,
+      "to": 100,
+      "feedback": "Correct!"
+    }
+  ],
+  "question": "After school, Adrian decides to stop at the local Costco. Unfortunately, the store won’t allow him in unless he first purchases a membership. Which type of retailer has Adrian entered?",
+  "isSolutionPublic": true,
+  "isFreeResponseSupported": false,
+  "answers": [
+    {
+      "text": "Factory outlet",
+      "correct": false,
+      "tipsAndFeedback": {
+        "tip": "",
+        "chosenFeedback": "That&#8217;s not correct. Superstores do not require memberships.",
+        "notChosenFeedback": ""
+      }
+    },
+    {
+      "text": "Warehouse club",
+      "correct": false,
+      "tipsAndFeedback": {
+        "tip": "",
+        "chosenFeedback": "That&#8217;s not correct. Discount stores do not require memberships.",
+        "notChosenFeedback": ""
+      }
+    },
+    {
+      "text": "Discount store",
+      "correct": false,
+      "tipsAndFeedback": {
+        "tip": "",
+        "chosenFeedback": "That&#8217;s not correct. Factory outlets do not require memberships.",
+        "notChosenFeedback": ""
+      }
+    },
+    {
+      "text": "Superstore",
+      "correct": true,
+      "tipsAndFeedback": {
+        "tip": "",
+        "chosenFeedback": "Warehouse clubs sell in bulk to consumers who purchase memberships.",
+        "notChosenFeedback": ""
+      }
+    }
+  ],
+  "subContentId": "d3dff089-e1cc-4255-a1aa-4ebe90aaa624",
+  "detailedSolution": "Warehouse clubs sell in bulk to consumers who purchase memberships."
+}
