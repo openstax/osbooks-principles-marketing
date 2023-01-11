@@ -1,0 +1,91 @@
+{
+  "UI": {
+    "showSolutionButton": "Show solution",
+    "tryAgainButton": "Retry",
+    "checkAnswerButton": "Check",
+    "tipsLabel": "Show tip",
+    "scoreBarLabel": "You got :num out of :total points",
+    "tipAvailable": "Tip available",
+    "feedbackAvailable": "Feedback available",
+    "readFeedback": "Read feedback",
+    "wrongAnswer": "Wrong answer",
+    "correctAnswer": "Correct answer",
+    "shouldCheck": "Should have been checked",
+    "shouldNotCheck": "Should not have been checked",
+    "noInput": "Please answer before viewing the solution"
+  },
+  "behaviour": {
+    "enableRetry": true,
+    "enableSolutionsButton": true,
+    "singlePoint": true,
+    "randomAnswers": true,
+    "showSolutionsRequiresInput": true,
+    "type": "auto",
+    "confirmCheckDialog": false,
+    "confirmRetryDialog": false,
+    "autoCheck": false,
+    "passPercentage": 100,
+    "showScorePoints": true,
+    "enableCheckButton": true
+  },
+  "overallFeedback": [
+    {
+      "from": 0,
+      "to": 0,
+      "feedback": "Wrong"
+    },
+    {
+      "from": 1,
+      "to": 99,
+      "feedback": "Almost!"
+    },
+    {
+      "from": 100,
+      "to": 100,
+      "feedback": "Correct!"
+    }
+  ],
+  "question": "When it comes to cultural identity, which of the following do the overwhelming majority of Black people believe is a major contributor and attribute?",
+  "isSolutionPublic": true,
+  "isFreeResponseSupported": false,
+  "answers": [
+    {
+      "text": "Cultural duality and relationships",
+      "correct": false,
+      "tipsAndFeedback": {
+        "tip": "",
+        "chosenFeedback": "That&#8217;s not correct. An overwhelming majority of Black people believe that factors other than immigration status and conventionality are a major part of the Black identity.",
+        "notChosenFeedback": ""
+      }
+    },
+    {
+      "text": "Education and income level",
+      "correct": false,
+      "tipsAndFeedback": {
+        "tip": "",
+        "chosenFeedback": "That&#8217;s not correct. An overwhelming majority of Black people believe that factors other than education and income level are a major part of the Black identity.",
+        "notChosenFeedback": ""
+      }
+    },
+    {
+      "text": "Immigration status and conventionality",
+      "correct": false,
+      "tipsAndFeedback": {
+        "tip": "",
+        "chosenFeedback": "That&#8217;s not correct. An overwhelming majority of Black people believe that factors other than cultural duality and relationships are a major part of the Black identity.",
+        "notChosenFeedback": ""
+      }
+    },
+    {
+      "text": "Race and community",
+      "correct": true,
+      "tipsAndFeedback": {
+        "tip": "",
+        "chosenFeedback": "An overwhelming majority of Black people believe that race and community engagement are a major part of the Black identity.",
+        "notChosenFeedback": ""
+      }
+    }
+  ],
+  "subContentId": "419b301f-41b1-41c7-974d-d16574092621",
+  "detailedSolution": "An overwhelming majority of Black people believe that race and community engagement are a major part of the Black identity."
+}
