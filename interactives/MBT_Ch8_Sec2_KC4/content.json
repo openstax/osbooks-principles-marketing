@@ -1,0 +1,91 @@
+{
+  "UI": {
+    "showSolutionButton": "Show solution",
+    "tryAgainButton": "Retry",
+    "checkAnswerButton": "Check",
+    "tipsLabel": "Show tip",
+    "scoreBarLabel": "You got :num out of :total points",
+    "tipAvailable": "Tip available",
+    "feedbackAvailable": "Feedback available",
+    "readFeedback": "Read feedback",
+    "wrongAnswer": "Wrong answer",
+    "correctAnswer": "Correct answer",
+    "shouldCheck": "Should have been checked",
+    "shouldNotCheck": "Should not have been checked",
+    "noInput": "Please answer before viewing the solution"
+  },
+  "behaviour": {
+    "enableRetry": true,
+    "enableSolutionsButton": true,
+    "singlePoint": true,
+    "randomAnswers": true,
+    "showSolutionsRequiresInput": true,
+    "type": "auto",
+    "confirmCheckDialog": false,
+    "confirmRetryDialog": false,
+    "autoCheck": false,
+    "passPercentage": 100,
+    "showScorePoints": true,
+    "enableCheckButton": true
+  },
+  "overallFeedback": [
+    {
+      "from": 0,
+      "to": 0,
+      "feedback": "Wrong"
+    },
+    {
+      "from": 1,
+      "to": 99,
+      "feedback": "Almost!"
+    },
+    {
+      "from": 100,
+      "to": 100,
+      "feedback": "Correct!"
+    }
+  ],
+  "question": "Diversity in market research is a good idea because it can ________.",
+  "isSolutionPublic": true,
+  "isFreeResponseSupported": false,
+  "answers": [
+    {
+      "text": "help companies win over people from different population segments",
+      "correct": false,
+      "tipsAndFeedback": {
+        "tip": "",
+        "chosenFeedback": "That&#8217;s not correct. Diversity in market research is a good idea for multiple reasons, not simply because it can reduce wrong assumptions and avert public relations missteps.",
+        "notChosenFeedback": ""
+      }
+    },
+    {
+      "text": "provide information to better understand cultural and social differences",
+      "correct": false,
+      "tipsAndFeedback": {
+        "tip": "",
+        "chosenFeedback": "That&#8217;s not correct. Diversity in market research is a good idea for multiple reasons, not simply because it can provide information to better understand cultural and social differences.",
+        "notChosenFeedback": ""
+      }
+    },
+    {
+      "text": "reduce wrong assumptions and avert public relations missteps",
+      "correct": false,
+      "tipsAndFeedback": {
+        "tip": "",
+        "chosenFeedback": "That&#8217;s not correct. Diversity in market research is a good idea for multiple reasons, not simply because it can help companies win over people from different segments of the population.",
+        "notChosenFeedback": ""
+      }
+    },
+    {
+      "text": "All of these statements are true.",
+      "correct": true,
+      "tipsAndFeedback": {
+        "tip": "",
+        "chosenFeedback": "Diversity in market research is a good idea because it can help companies win over people from different segments of the population by providing better cultural and social information. This can reduce wrong assumptions and avert public relations missteps.",
+        "notChosenFeedback": ""
+      }
+    }
+  ],
+  "subContentId": "064d73be-a9d1-4f17-a4fc-5c3159d76123",
+  "detailedSolution": "Diversity in market research is a good idea because it can help companies win over people from different segments of the population by providing better cultural and social information. This can reduce wrong assumptions and avert public relations missteps."
+}
