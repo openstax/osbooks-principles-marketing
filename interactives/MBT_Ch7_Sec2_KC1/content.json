@@ -1,0 +1,91 @@
+{
+  "UI": {
+    "showSolutionButton": "Show solution",
+    "tryAgainButton": "Retry",
+    "checkAnswerButton": "Check",
+    "tipsLabel": "Show tip",
+    "scoreBarLabel": "You got :num out of :total points",
+    "tipAvailable": "Tip available",
+    "feedbackAvailable": "Feedback available",
+    "readFeedback": "Read feedback",
+    "wrongAnswer": "Wrong answer",
+    "correctAnswer": "Correct answer",
+    "shouldCheck": "Should have been checked",
+    "shouldNotCheck": "Should not have been checked",
+    "noInput": "Please answer before viewing the solution"
+  },
+  "behaviour": {
+    "enableRetry": true,
+    "enableSolutionsButton": true,
+    "singlePoint": true,
+    "randomAnswers": true,
+    "showSolutionsRequiresInput": true,
+    "type": "auto",
+    "confirmCheckDialog": false,
+    "confirmRetryDialog": false,
+    "autoCheck": false,
+    "passPercentage": 100,
+    "showScorePoints": true,
+    "enableCheckButton": true
+  },
+  "overallFeedback": [
+    {
+      "from": 0,
+      "to": 0,
+      "feedback": "Wrong"
+    },
+    {
+      "from": 1,
+      "to": 99,
+      "feedback": "Almost!"
+    },
+    {
+      "from": 100,
+      "to": 100,
+      "feedback": "Correct!"
+    }
+  ],
+  "question": "During the Russian invasion of Ukraine in 2022, the Russian ruble’s value decreased to less than one United States penny. This conversion from ruble to dollar is known as the ________.",
+  "isSolutionPublic": true,
+  "isFreeResponseSupported": false,
+  "answers": [
+    {
+      "text": "exchange rate",
+      "correct": false,
+      "tipsAndFeedback": {
+        "tip": "",
+        "chosenFeedback": "That&#8217;s not correct. Consumer income is the amount of money a household or individual earns.",
+        "notChosenFeedback": ""
+      }
+    },
+    {
+      "text": "business landscape",
+      "correct": false,
+      "tipsAndFeedback": {
+        "tip": "",
+        "chosenFeedback": "That&#8217;s not correct. Purchasing power is the number of goods that one unit of currency can purchase.",
+        "notChosenFeedback": ""
+      }
+    },
+    {
+      "text": "purchasing power",
+      "correct": false,
+      "tipsAndFeedback": {
+        "tip": "",
+        "chosenFeedback": "That&#8217;s not correct. The business landscape is the internal and external environment of the business.",
+        "notChosenFeedback": ""
+      }
+    },
+    {
+      "text": "consumer income",
+      "correct": true,
+      "tipsAndFeedback": {
+        "tip": "",
+        "chosenFeedback": "An exchange rate is the rate at which one country&#8217;s currency can be exchanged for that of another country",
+        "notChosenFeedback": ""
+      }
+    }
+  ],
+  "subContentId": "4b5b2cb7-55f0-4b40-a9fd-339ec6d2c591",
+  "detailedSolution": "An exchange rate is the rate at which one country’s currency can be exchanged for that of another country"
+}
