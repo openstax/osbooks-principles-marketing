@@ -1,0 +1,91 @@
+{
+  "UI": {
+    "showSolutionButton": "Show solution",
+    "tryAgainButton": "Retry",
+    "checkAnswerButton": "Check",
+    "tipsLabel": "Show tip",
+    "scoreBarLabel": "You got :num out of :total points",
+    "tipAvailable": "Tip available",
+    "feedbackAvailable": "Feedback available",
+    "readFeedback": "Read feedback",
+    "wrongAnswer": "Wrong answer",
+    "correctAnswer": "Correct answer",
+    "shouldCheck": "Should have been checked",
+    "shouldNotCheck": "Should not have been checked",
+    "noInput": "Please answer before viewing the solution"
+  },
+  "behaviour": {
+    "enableRetry": true,
+    "enableSolutionsButton": true,
+    "singlePoint": true,
+    "randomAnswers": true,
+    "showSolutionsRequiresInput": true,
+    "type": "auto",
+    "confirmCheckDialog": false,
+    "confirmRetryDialog": false,
+    "autoCheck": false,
+    "passPercentage": 100,
+    "showScorePoints": true,
+    "enableCheckButton": true
+  },
+  "overallFeedback": [
+    {
+      "from": 0,
+      "to": 0,
+      "feedback": "Wrong"
+    },
+    {
+      "from": 1,
+      "to": 99,
+      "feedback": "Almost!"
+    },
+    {
+      "from": 100,
+      "to": 100,
+      "feedback": "Correct!"
+    }
+  ],
+  "question": "Of the following, which retailing strategy would be most appropriate for customers who are neither tech-savvy nor able to shop at store retailers?",
+  "isSolutionPublic": true,
+  "isFreeResponseSupported": false,
+  "answers": [
+    {
+      "text": "Automatic vending",
+      "correct": false,
+      "tipsAndFeedback": {
+        "tip": "",
+        "chosenFeedback": "That&#8217;s not correct. This target market is not tech savvy, so online retailing would not likely appeal to them.",
+        "notChosenFeedback": ""
+      }
+    },
+    {
+      "text": "Television home shopping",
+      "correct": false,
+      "tipsAndFeedback": {
+        "tip": "",
+        "chosenFeedback": "That&#8217;s not correct. This target market rarely leaves home, so warehouse clubs would not likely appeal to them. Warehouse clubs are not a form of non-store retailing.",
+        "notChosenFeedback": ""
+      }
+    },
+    {
+      "text": "Warehouse clubs",
+      "correct": false,
+      "tipsAndFeedback": {
+        "tip": "",
+        "chosenFeedback": "That&#8217;s not correct. This target market rarely leaves home, so automatic vending would not likely appeal to them.",
+        "notChosenFeedback": ""
+      }
+    },
+    {
+      "text": "Online retailing",
+      "correct": true,
+      "tipsAndFeedback": {
+        "tip": "",
+        "chosenFeedback": "Television home shopping would be the most likely retailing strategy to reach this target market. Consumers can call a toll-free number to place an order without ever leaving their home.",
+        "notChosenFeedback": ""
+      }
+    }
+  ],
+  "subContentId": "62db6f26-87b4-43e6-a9d2-815912972d8c",
+  "detailedSolution": "Television home shopping would be the most likely retailing strategy to reach this target market. Consumers can call a toll-free number to place an order without ever leaving their home."
+}
