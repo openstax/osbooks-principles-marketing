@@ -1,0 +1,91 @@
+{
+  "UI": {
+    "showSolutionButton": "Show solution",
+    "tryAgainButton": "Retry",
+    "checkAnswerButton": "Check",
+    "tipsLabel": "Show tip",
+    "scoreBarLabel": "You got :num out of :total points",
+    "tipAvailable": "Tip available",
+    "feedbackAvailable": "Feedback available",
+    "readFeedback": "Read feedback",
+    "wrongAnswer": "Wrong answer",
+    "correctAnswer": "Correct answer",
+    "shouldCheck": "Should have been checked",
+    "shouldNotCheck": "Should not have been checked",
+    "noInput": "Please answer before viewing the solution"
+  },
+  "behaviour": {
+    "enableRetry": true,
+    "enableSolutionsButton": true,
+    "singlePoint": true,
+    "randomAnswers": true,
+    "showSolutionsRequiresInput": true,
+    "type": "auto",
+    "confirmCheckDialog": false,
+    "confirmRetryDialog": false,
+    "autoCheck": false,
+    "passPercentage": 100,
+    "showScorePoints": true,
+    "enableCheckButton": true
+  },
+  "overallFeedback": [
+    {
+      "from": 0,
+      "to": 0,
+      "feedback": "Wrong"
+    },
+    {
+      "from": 1,
+      "to": 99,
+      "feedback": "Almost!"
+    },
+    {
+      "from": 100,
+      "to": 100,
+      "feedback": "Correct!"
+    }
+  ],
+  "question": "An ongoing positive relationship between a customer and a business is known as ________.",
+  "isSolutionPublic": true,
+  "isFreeResponseSupported": false,
+  "answers": [
+    {
+      "text": "customer equity",
+      "correct": false,
+      "tipsAndFeedback": {
+        "tip": "",
+        "chosenFeedback": "That&#8217;s not correct. Customer lifetime value (CLV) is a measure of how much a business can plan to earn from a typical customer for as long as they remain a customer.",
+        "notChosenFeedback": ""
+      }
+    },
+    {
+      "text": "customer loyalty",
+      "correct": false,
+      "tipsAndFeedback": {
+        "tip": "",
+        "chosenFeedback": "That&#8217;s not correct. Customer retention is a company&#8217;s ability to transform new customers into returning customers.",
+        "notChosenFeedback": ""
+      }
+    },
+    {
+      "text": "customer retention",
+      "correct": false,
+      "tipsAndFeedback": {
+        "tip": "",
+        "chosenFeedback": "That&#8217;s not correct. Customer equity is the potential profit a company earns from all of its customers, both current and potential.",
+        "notChosenFeedback": ""
+      }
+    },
+    {
+      "text": "customer lifetime value (CLV)",
+      "correct": true,
+      "tipsAndFeedback": {
+        "tip": "",
+        "chosenFeedback": "Customer loyalty is a customer&#8217;s willingness to repeatedly return to a company to conduct business.",
+        "notChosenFeedback": ""
+      }
+    }
+  ],
+  "subContentId": "d942e208-a8bb-42ad-b64b-fc6106dcb5b7",
+  "detailedSolution": "Customer loyalty is a customer’s willingness to repeatedly return to a company to conduct business."
+}
