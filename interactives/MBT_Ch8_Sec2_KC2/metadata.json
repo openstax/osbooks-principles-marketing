@@ -1,0 +1,22 @@
+{
+  "errata_id": "9f4921b1bcc08ab057a54c949cf3e519042807c9b6483c8d50602451fc4747df",
+  "attachments": [],
+  "tags": [
+    "book:stax-mktg",
+    "context-cnxmod:db3b2ea5-aebf-48a9-aa62-5236c6555734",
+    "lo:stax-mktg:8-2-2",
+    "book-slug:principles-marketing",
+    "module-slug:principles-marketing:8-2-diversity-and-inclusion-marketing"
+  ],
+  "books": [
+    {
+      "name": "stax-mktg",
+      "lo": [
+        "8-2-2"
+      ]
+    }
+  ],
+  "context": [
+    "m00046"
+  ]
+}
