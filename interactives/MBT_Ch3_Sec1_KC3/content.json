@@ -1,0 +1,91 @@
+{
+  "UI": {
+    "showSolutionButton": "Show solution",
+    "tryAgainButton": "Retry",
+    "checkAnswerButton": "Check",
+    "tipsLabel": "Show tip",
+    "scoreBarLabel": "You got :num out of :total points",
+    "tipAvailable": "Tip available",
+    "feedbackAvailable": "Feedback available",
+    "readFeedback": "Read feedback",
+    "wrongAnswer": "Wrong answer",
+    "correctAnswer": "Correct answer",
+    "shouldCheck": "Should have been checked",
+    "shouldNotCheck": "Should not have been checked",
+    "noInput": "Please answer before viewing the solution"
+  },
+  "behaviour": {
+    "enableRetry": true,
+    "enableSolutionsButton": true,
+    "singlePoint": true,
+    "randomAnswers": true,
+    "showSolutionsRequiresInput": true,
+    "type": "auto",
+    "confirmCheckDialog": false,
+    "confirmRetryDialog": false,
+    "autoCheck": false,
+    "passPercentage": 100,
+    "showScorePoints": true,
+    "enableCheckButton": true
+  },
+  "overallFeedback": [
+    {
+      "from": 0,
+      "to": 0,
+      "feedback": "Wrong"
+    },
+    {
+      "from": 1,
+      "to": 99,
+      "feedback": "Almost!"
+    },
+    {
+      "from": 100,
+      "to": 100,
+      "feedback": "Correct!"
+    }
+  ],
+  "question": "Samantha sees a TV commercial announcing that a mattress she’s been considering is on sale through the holiday weekend and makes plans to visit the store the next day in order to take advantage of the sale. In terms of the buyer’s black box, how would this TV commercial be characterized?",
+  "isSolutionPublic": true,
+  "isFreeResponseSupported": false,
+  "answers": [
+    {
+      "text": "Product choice",
+      "correct": false,
+      "tipsAndFeedback": {
+        "tip": "",
+        "chosenFeedback": "That&#8217;s not correct. Social stimuli would involve the opinions of friends and family, your reference groups, and societal roles and status.",
+        "notChosenFeedback": ""
+      }
+    },
+    {
+      "text": "Brand choice",
+      "correct": false,
+      "tipsAndFeedback": {
+        "tip": "",
+        "chosenFeedback": "That&#8217;s not correct. Samantha has already decided on the brand of mattress she wants to purchase.",
+        "notChosenFeedback": ""
+      }
+    },
+    {
+      "text": "Social stimuli",
+      "correct": false,
+      "tipsAndFeedback": {
+        "tip": "",
+        "chosenFeedback": "That&#8217;s not correct. Samantha has already decided on the product she wants to purchase.",
+        "notChosenFeedback": ""
+      }
+    },
+    {
+      "text": "Purchase timing",
+      "correct": true,
+      "tipsAndFeedback": {
+        "tip": "",
+        "chosenFeedback": "Purchase timing is the outcome of the thinking that takes place in the buyer&#8217;s black box. Samantha is stimulated to buy the mattress during the holiday weekend in order to take advantage of the sale.",
+        "notChosenFeedback": ""
+      }
+    }
+  ],
+  "subContentId": "6d4ee0e0-488d-4754-9f7c-9a7cc9da3abc",
+  "detailedSolution": "Purchase timing is the outcome of the thinking that takes place in the buyer’s black box. Samantha is stimulated to buy the mattress during the holiday weekend in order to take advantage of the sale."
+}
