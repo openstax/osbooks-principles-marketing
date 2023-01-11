@@ -1,0 +1,91 @@
+{
+  "UI": {
+    "showSolutionButton": "Show solution",
+    "tryAgainButton": "Retry",
+    "checkAnswerButton": "Check",
+    "tipsLabel": "Show tip",
+    "scoreBarLabel": "You got :num out of :total points",
+    "tipAvailable": "Tip available",
+    "feedbackAvailable": "Feedback available",
+    "readFeedback": "Read feedback",
+    "wrongAnswer": "Wrong answer",
+    "correctAnswer": "Correct answer",
+    "shouldCheck": "Should have been checked",
+    "shouldNotCheck": "Should not have been checked",
+    "noInput": "Please answer before viewing the solution"
+  },
+  "behaviour": {
+    "enableRetry": true,
+    "enableSolutionsButton": true,
+    "singlePoint": true,
+    "randomAnswers": true,
+    "showSolutionsRequiresInput": true,
+    "type": "auto",
+    "confirmCheckDialog": false,
+    "confirmRetryDialog": false,
+    "autoCheck": false,
+    "passPercentage": 100,
+    "showScorePoints": true,
+    "enableCheckButton": true
+  },
+  "overallFeedback": [
+    {
+      "from": 0,
+      "to": 0,
+      "feedback": "Wrong"
+    },
+    {
+      "from": 1,
+      "to": 99,
+      "feedback": "Almost!"
+    },
+    {
+      "from": 100,
+      "to": 100,
+      "feedback": "Correct!"
+    }
+  ],
+  "question": "Tony likes everything about the products from Supreme Restaurant Equipment. He is just about ready to purchase, but he has some questions about the payment methods and financing. At what stage of the selling process does the sales professional deal with Tony’s questions?",
+  "isSolutionPublic": true,
+  "isFreeResponseSupported": false,
+  "answers": [
+    {
+      "text": "Handling objections",
+      "correct": false,
+      "tipsAndFeedback": {
+        "tip": "",
+        "chosenFeedback": "That&#8217;s not correct. Qualifying is when the sales professional does an initial check to see if the prospect meets the criteria to be a customer.",
+        "notChosenFeedback": ""
+      }
+    },
+    {
+      "text": "Closing",
+      "correct": false,
+      "tipsAndFeedback": {
+        "tip": "",
+        "chosenFeedback": "That&#8217;s not correct. Pre-approach is when the sales professional makes sure the prospect is a good fit for the products.",
+        "notChosenFeedback": ""
+      }
+    },
+    {
+      "text": "Pre-approach",
+      "correct": false,
+      "tipsAndFeedback": {
+        "tip": "",
+        "chosenFeedback": "That&#8217;s not correct. The closing is when the sales professional asks for the sale.",
+        "notChosenFeedback": ""
+      }
+    },
+    {
+      "text": "Qualifying",
+      "correct": true,
+      "tipsAndFeedback": {
+        "tip": "",
+        "chosenFeedback": "When customers have questions and the sales professional is ready to answer the questions, this is typically considered handling objections.",
+        "notChosenFeedback": ""
+      }
+    }
+  ],
+  "subContentId": "99a8e084-1bad-4b19-837a-e13078821095",
+  "detailedSolution": "When customers have questions and the sales professional is ready to answer the questions, this is typically considered handling objections."
+}

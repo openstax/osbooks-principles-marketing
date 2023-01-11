@@ -1,0 +1,22 @@
+{
+  "errata_id": "f16cb01931298801984e19e7801d74f2564492dc6aa42cbf2cbed2692ec44c5a",
+  "attachments": [],
+  "tags": [
+    "book:stax-mktg",
+    "lo:stax-mktg:15-3-1",
+    "context-cnxmod:88089cfa-703b-430d-8e7a-76b39f63d546",
+    "book-slug:principles-marketing",
+    "module-slug:principles-marketing:15-3-steps-in-the-personal-selling-process"
+  ],
+  "books": [
+    {
+      "name": "stax-mktg",
+      "lo": [
+        "15-3-1"
+      ]
+    }
+  ],
+  "context": [
+    "m00099"
+  ]
+}
