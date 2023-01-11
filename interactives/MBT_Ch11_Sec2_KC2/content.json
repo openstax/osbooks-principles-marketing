@@ -1,0 +1,91 @@
+{
+  "UI": {
+    "showSolutionButton": "Show solution",
+    "tryAgainButton": "Retry",
+    "checkAnswerButton": "Check",
+    "tipsLabel": "Show tip",
+    "scoreBarLabel": "You got :num out of :total points",
+    "tipAvailable": "Tip available",
+    "feedbackAvailable": "Feedback available",
+    "readFeedback": "Read feedback",
+    "wrongAnswer": "Wrong answer",
+    "correctAnswer": "Correct answer",
+    "shouldCheck": "Should have been checked",
+    "shouldNotCheck": "Should not have been checked",
+    "noInput": "Please answer before viewing the solution"
+  },
+  "behaviour": {
+    "enableRetry": true,
+    "enableSolutionsButton": true,
+    "singlePoint": true,
+    "randomAnswers": true,
+    "showSolutionsRequiresInput": true,
+    "type": "auto",
+    "confirmCheckDialog": false,
+    "confirmRetryDialog": false,
+    "autoCheck": false,
+    "passPercentage": 100,
+    "showScorePoints": true,
+    "enableCheckButton": true
+  },
+  "overallFeedback": [
+    {
+      "from": 0,
+      "to": 0,
+      "feedback": "Wrong"
+    },
+    {
+      "from": 1,
+      "to": 99,
+      "feedback": "Almost!"
+    },
+    {
+      "from": 100,
+      "to": 100,
+      "feedback": "Correct!"
+    }
+  ],
+  "question": "The extent to which employees are happy or content with their work environment is known as which of the following in the service-profit chain model?",
+  "isSolutionPublic": true,
+  "isFreeResponseSupported": false,
+  "answers": [
+    {
+      "text": "Employee satisfaction",
+      "correct": false,
+      "tipsAndFeedback": {
+        "tip": "",
+        "chosenFeedback": "That&#8217;s not correct. Customer loyalty means that the customer deliberately chooses to do repeat business with the company.",
+        "notChosenFeedback": ""
+      }
+    },
+    {
+      "text": "Internal service quality",
+      "correct": false,
+      "tipsAndFeedback": {
+        "tip": "",
+        "chosenFeedback": "That&#8217;s not correct. External value proposition is the promise of value that a customer can expect a business to deliver.",
+        "notChosenFeedback": ""
+      }
+    },
+    {
+      "text": "External value proposition",
+      "correct": false,
+      "tipsAndFeedback": {
+        "tip": "",
+        "chosenFeedback": "That&#8217;s not correct. Internal service quality is defined as the quality of the services frontline employees receive from the rest of the organization.",
+        "notChosenFeedback": ""
+      }
+    },
+    {
+      "text": "Customer loyalty",
+      "correct": true,
+      "tipsAndFeedback": {
+        "tip": "",
+        "chosenFeedback": "Employee satisfaction is the extent to which employees are happy and/or content with their jobs and work environment.",
+        "notChosenFeedback": ""
+      }
+    }
+  ],
+  "subContentId": "a27a609e-301e-476a-b94c-76840e232102",
+  "detailedSolution": "Employee satisfaction is the extent to which employees are happy and/or content with their jobs and work environment."
+}
