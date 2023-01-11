@@ -1,0 +1,91 @@
+{
+  "UI": {
+    "showSolutionButton": "Show solution",
+    "tryAgainButton": "Retry",
+    "checkAnswerButton": "Check",
+    "tipsLabel": "Show tip",
+    "scoreBarLabel": "You got :num out of :total points",
+    "tipAvailable": "Tip available",
+    "feedbackAvailable": "Feedback available",
+    "readFeedback": "Read feedback",
+    "wrongAnswer": "Wrong answer",
+    "correctAnswer": "Correct answer",
+    "shouldCheck": "Should have been checked",
+    "shouldNotCheck": "Should not have been checked",
+    "noInput": "Please answer before viewing the solution"
+  },
+  "behaviour": {
+    "enableRetry": true,
+    "enableSolutionsButton": true,
+    "singlePoint": true,
+    "randomAnswers": true,
+    "showSolutionsRequiresInput": true,
+    "type": "auto",
+    "confirmCheckDialog": false,
+    "confirmRetryDialog": false,
+    "autoCheck": false,
+    "passPercentage": 100,
+    "showScorePoints": true,
+    "enableCheckButton": true
+  },
+  "overallFeedback": [
+    {
+      "from": 0,
+      "to": 0,
+      "feedback": "Wrong"
+    },
+    {
+      "from": 1,
+      "to": 99,
+      "feedback": "Almost!"
+    },
+    {
+      "from": 100,
+      "to": 100,
+      "feedback": "Correct!"
+    }
+  ],
+  "question": "A visual technique designed to show how the average target market consumer perceives the positioning of competing products in the market place is known as ________.",
+  "isSolutionPublic": true,
+  "isFreeResponseSupported": false,
+  "answers": [
+    {
+      "text": "a positioning statement",
+      "correct": false,
+      "tipsAndFeedback": {
+        "tip": "",
+        "chosenFeedback": "That&#8217;s not correct. Differentiation positioning is based on the differentiating characteristics or qualities that make your product/service/brand better than those of your competitors.",
+        "notChosenFeedback": ""
+      }
+    },
+    {
+      "text": "head-to-head positioning",
+      "correct": false,
+      "tipsAndFeedback": {
+        "tip": "",
+        "chosenFeedback": "That&#8217;s not correct. Head-to-head positioning involves directly competing on similar product attributes in the market.",
+        "notChosenFeedback": ""
+      }
+    },
+    {
+      "text": "differentiation positioning",
+      "correct": false,
+      "tipsAndFeedback": {
+        "tip": "",
+        "chosenFeedback": "That&#8217;s not correct. A positioning statement is a brief description of your offering, how it meets the needs of a consumer, and why it is superior to your competitor&#8217;s offerings.",
+        "notChosenFeedback": ""
+      }
+    },
+    {
+      "text": "a perceptual map",
+      "correct": true,
+      "tipsAndFeedback": {
+        "tip": "",
+        "chosenFeedback": "A perceptual map is a visual diagram that shows how the average target market consumer perceives your product versus those of your competitors.",
+        "notChosenFeedback": ""
+      }
+    }
+  ],
+  "subContentId": "322b45f4-9582-488b-b4da-536d645257c5",
+  "detailedSolution": "A perceptual map is a visual diagram that shows how the average target market consumer perceives your product versus those of your competitors."
+}
