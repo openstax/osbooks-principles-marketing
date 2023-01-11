@@ -1,0 +1,28 @@
+{
+  "errata_id": "106e9f95b9438a8e6bfa9c0595f4370b1ed1d799c254fdb0cbab299196e60f81",
+  "attachments": [],
+  "tags": [
+    "type:practice",
+    "book:stax-mktg",
+    "lo:stax-mktg:2-3-2",
+    "context-cnxmod:d0863c0b-d7fd-46e6-9f82-00400fae21f1",
+    "lo:stax-mktg:2-5-3",
+    "context-cnxmod:03bd5e45-3437-4c08-80a8-f4d61851bcec",
+    "book-slug:principles-marketing",
+    "module-slug:principles-marketing:2-3-purpose-and-structure-of-the-marketing-plan",
+    "module-slug:principles-marketing:2-5-ethical-issues-in-developing-a-marketing-strategy"
+  ],
+  "books": [
+    {
+      "name": "stax-mktg",
+      "lo": [
+        "2-3-2",
+        "2-5-3"
+      ]
+    }
+  ],
+  "context": [
+    "m00017",
+    "m00019"
+  ]
+}
