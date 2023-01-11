@@ -1,0 +1,91 @@
+{
+  "UI": {
+    "showSolutionButton": "Show solution",
+    "tryAgainButton": "Retry",
+    "checkAnswerButton": "Check",
+    "tipsLabel": "Show tip",
+    "scoreBarLabel": "You got :num out of :total points",
+    "tipAvailable": "Tip available",
+    "feedbackAvailable": "Feedback available",
+    "readFeedback": "Read feedback",
+    "wrongAnswer": "Wrong answer",
+    "correctAnswer": "Correct answer",
+    "shouldCheck": "Should have been checked",
+    "shouldNotCheck": "Should not have been checked",
+    "noInput": "Please answer before viewing the solution"
+  },
+  "behaviour": {
+    "enableRetry": true,
+    "enableSolutionsButton": true,
+    "singlePoint": true,
+    "randomAnswers": true,
+    "showSolutionsRequiresInput": true,
+    "type": "auto",
+    "confirmCheckDialog": false,
+    "confirmRetryDialog": false,
+    "autoCheck": false,
+    "passPercentage": 100,
+    "showScorePoints": true,
+    "enableCheckButton": true
+  },
+  "overallFeedback": [
+    {
+      "from": 0,
+      "to": 0,
+      "feedback": "Wrong"
+    },
+    {
+      "from": 1,
+      "to": 99,
+      "feedback": "Almost!"
+    },
+    {
+      "from": 100,
+      "to": 100,
+      "feedback": "Correct!"
+    }
+  ],
+  "question": "Wall Enterprises is considering developing a new product for a market segment that has been identified by marketing research. However, based on the research, it appears that the market segment may be smaller than originally anticipated. Which essential factor of market segmentation does this reflect?",
+  "isSolutionPublic": true,
+  "isFreeResponseSupported": false,
+  "answers": [
+    {
+      "text": "Accessible",
+      "correct": false,
+      "tipsAndFeedback": {
+        "tip": "",
+        "chosenFeedback": "That&#8217;s not correct. If a target market is actionable, it should respond to a certain marketing strategy and yield outcomes that can be easily quantified.",
+        "notChosenFeedback": ""
+      }
+    },
+    {
+      "text": "Differentiable",
+      "correct": false,
+      "tipsAndFeedback": {
+        "tip": "",
+        "chosenFeedback": "That&#8217;s not correct. Differentiability means that the market should be internally homogenous but externally heterogeneous so that marketing actions can be applied to them without overlap.",
+        "notChosenFeedback": ""
+      }
+    },
+    {
+      "text": "Substantial",
+      "correct": false,
+      "tipsAndFeedback": {
+        "tip": "",
+        "chosenFeedback": "That&#8217;s not correct. Accessibility refers to the ability to reach customers in the chosen segment at an affordable cost, given the strengths and abilities of your marketing department.",
+        "notChosenFeedback": ""
+      }
+    },
+    {
+      "text": "Actionable",
+      "correct": true,
+      "tipsAndFeedback": {
+        "tip": "",
+        "chosenFeedback": "A market segment should be substantial because it&#8217;s inefficient to waste resources to market the product or service to a segment too small to justify a company&#8217;s time.",
+        "notChosenFeedback": ""
+      }
+    }
+  ],
+  "subContentId": "b4849798-cd5b-4ba4-91ef-273bbe59b6ff",
+  "detailedSolution": "A market segment should be substantial because it’s inefficient to waste resources to market the product or service to a segment too small to justify a company’s time."
+}
