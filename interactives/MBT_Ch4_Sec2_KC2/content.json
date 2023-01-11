@@ -1,0 +1,91 @@
+{
+  "UI": {
+    "showSolutionButton": "Show solution",
+    "tryAgainButton": "Retry",
+    "checkAnswerButton": "Check",
+    "tipsLabel": "Show tip",
+    "scoreBarLabel": "You got :num out of :total points",
+    "tipAvailable": "Tip available",
+    "feedbackAvailable": "Feedback available",
+    "readFeedback": "Read feedback",
+    "wrongAnswer": "Wrong answer",
+    "correctAnswer": "Correct answer",
+    "shouldCheck": "Should have been checked",
+    "shouldNotCheck": "Should not have been checked",
+    "noInput": "Please answer before viewing the solution"
+  },
+  "behaviour": {
+    "enableRetry": true,
+    "enableSolutionsButton": true,
+    "singlePoint": true,
+    "randomAnswers": true,
+    "showSolutionsRequiresInput": true,
+    "type": "auto",
+    "confirmCheckDialog": false,
+    "confirmRetryDialog": false,
+    "autoCheck": false,
+    "passPercentage": 100,
+    "showScorePoints": true,
+    "enableCheckButton": true
+  },
+  "overallFeedback": [
+    {
+      "from": 0,
+      "to": 0,
+      "feedback": "Wrong"
+    },
+    {
+      "from": 1,
+      "to": 99,
+      "feedback": "Almost!"
+    },
+    {
+      "from": 100,
+      "to": 100,
+      "feedback": "Correct!"
+    }
+  ],
+  "question": "Jenae, a purchasing agent for an electronics firm, places an order with a local office supply company for several dozen reams of copy paper. He has ordered the same brand of paper from the company several times before. This is an example of ________.",
+  "isSolutionPublic": true,
+  "isFreeResponseSupported": false,
+  "answers": [
+    {
+      "text": "a straight rebuy",
+      "correct": false,
+      "tipsAndFeedback": {
+        "tip": "",
+        "chosenFeedback": "That&#8217;s not correct. Systems selling involves selling a single, complete solution to a need or problem rather than purchasing several component parts.",
+        "notChosenFeedback": ""
+      }
+    },
+    {
+      "text": "a modified rebuy",
+      "correct": false,
+      "tipsAndFeedback": {
+        "tip": "",
+        "chosenFeedback": "That&#8217;s not correct. In a new-task buy, the customer has no previous experience with the purchase.",
+        "notChosenFeedback": ""
+      }
+    },
+    {
+      "text": "a new-task buy",
+      "correct": false,
+      "tipsAndFeedback": {
+        "tip": "",
+        "chosenFeedback": "That&#8217;s not correct. In a modified rebuy, the purchaser is buying goods that have been purchased previously but changes either the supplier or certain elements of the previous order.",
+        "notChosenFeedback": ""
+      }
+    },
+    {
+      "text": "systems selling",
+      "correct": true,
+      "tipsAndFeedback": {
+        "tip": "",
+        "chosenFeedback": "A straight rebuy is making a routine purchase of a standard product or products with no modifications from a familiar supplier.",
+        "notChosenFeedback": ""
+      }
+    }
+  ],
+  "subContentId": "5f8bfac4-53d0-496d-8ae6-5f7d6c88b189",
+  "detailedSolution": "A straight rebuy is making a routine purchase of a standard product or products with no modifications from a familiar supplier."
+}
