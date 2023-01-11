@@ -1,0 +1,91 @@
+{
+  "UI": {
+    "showSolutionButton": "Show solution",
+    "tryAgainButton": "Retry",
+    "checkAnswerButton": "Check",
+    "tipsLabel": "Show tip",
+    "scoreBarLabel": "You got :num out of :total points",
+    "tipAvailable": "Tip available",
+    "feedbackAvailable": "Feedback available",
+    "readFeedback": "Read feedback",
+    "wrongAnswer": "Wrong answer",
+    "correctAnswer": "Correct answer",
+    "shouldCheck": "Should have been checked",
+    "shouldNotCheck": "Should not have been checked",
+    "noInput": "Please answer before viewing the solution"
+  },
+  "behaviour": {
+    "enableRetry": true,
+    "enableSolutionsButton": true,
+    "singlePoint": true,
+    "randomAnswers": true,
+    "showSolutionsRequiresInput": true,
+    "type": "auto",
+    "confirmCheckDialog": false,
+    "confirmRetryDialog": false,
+    "autoCheck": false,
+    "passPercentage": 100,
+    "showScorePoints": true,
+    "enableCheckButton": true
+  },
+  "overallFeedback": [
+    {
+      "from": 0,
+      "to": 0,
+      "feedback": "Wrong"
+    },
+    {
+      "from": 1,
+      "to": 99,
+      "feedback": "Almost!"
+    },
+    {
+      "from": 100,
+      "to": 100,
+      "feedback": "Correct!"
+    }
+  ],
+  "question": "Which of the following best describes a gap analysis?",
+  "isSolutionPublic": true,
+  "isFreeResponseSupported": false,
+  "answers": [
+    {
+      "text": "A statement that answers the question, Where do we see the business going?",
+      "correct": false,
+      "tipsAndFeedback": {
+        "tip": "",
+        "chosenFeedback": "That&#8217;s not correct. A strategic plan created for a single business or operating unit is known as business-level strategy.",
+        "notChosenFeedback": ""
+      }
+    },
+    {
+      "text": "An internal analysis of the company to identify inherent deficiencies that may hinder its ability to meet its goals",
+      "correct": false,
+      "tipsAndFeedback": {
+        "tip": "",
+        "chosenFeedback": "That&#8217;s not correct. A statement that answers the question, Why does the business exist? is known as a vision statement.",
+        "notChosenFeedback": ""
+      }
+    },
+    {
+      "text": "A statement that answers the question, Why does the business exist?",
+      "correct": false,
+      "tipsAndFeedback": {
+        "tip": "",
+        "chosenFeedback": "That&#8217;s not correct. A statement that answers the question, Where do we see the business going? is a mission statement.",
+        "notChosenFeedback": ""
+      }
+    },
+    {
+      "text": "A strategic plan created for a single business or operating unit",
+      "correct": true,
+      "tipsAndFeedback": {
+        "tip": "",
+        "chosenFeedback": "A gap analysis is an internal analysis of a company or business unit used to identify deficiencies that may hinder its abilities to meet its goals.",
+        "notChosenFeedback": ""
+      }
+    }
+  ],
+  "subContentId": "6db05f20-2637-43bb-9675-3735e194f2ab",
+  "detailedSolution": "A gap analysis is an internal analysis of a company or business unit used to identify deficiencies that may hinder its abilities to meet its goals."
+}
