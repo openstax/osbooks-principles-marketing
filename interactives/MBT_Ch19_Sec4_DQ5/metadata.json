@@ -1,0 +1,23 @@
+{
+  "errata_id": "34b8bab1b824567aba7d23e95a8972f256d71a2db5af0e76a124ba1cea8a054f",
+  "attachments": [],
+  "tags": [
+    "type:practice",
+    "book:stax-mktg",
+    "lo:stax-mktg:19-4-2",
+    "context-cnxmod:c0398aaa-f568-4e01-a070-1617b9867036",
+    "book-slug:principles-marketing",
+    "module-slug:principles-marketing:1-7-ethical-marketing"
+  ],
+  "books": [
+    {
+      "name": "stax-mktg",
+      "lo": [
+        "19-4-2"
+      ]
+    }
+  ],
+  "context": [
+    "m00013"
+  ]
+}
