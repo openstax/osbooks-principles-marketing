@@ -1,0 +1,91 @@
+{
+  "UI": {
+    "showSolutionButton": "Show solution",
+    "tryAgainButton": "Retry",
+    "checkAnswerButton": "Check",
+    "tipsLabel": "Show tip",
+    "scoreBarLabel": "You got :num out of :total points",
+    "tipAvailable": "Tip available",
+    "feedbackAvailable": "Feedback available",
+    "readFeedback": "Read feedback",
+    "wrongAnswer": "Wrong answer",
+    "correctAnswer": "Correct answer",
+    "shouldCheck": "Should have been checked",
+    "shouldNotCheck": "Should not have been checked",
+    "noInput": "Please answer before viewing the solution"
+  },
+  "behaviour": {
+    "enableRetry": true,
+    "enableSolutionsButton": true,
+    "singlePoint": true,
+    "randomAnswers": true,
+    "showSolutionsRequiresInput": true,
+    "type": "auto",
+    "confirmCheckDialog": false,
+    "confirmRetryDialog": false,
+    "autoCheck": false,
+    "passPercentage": 100,
+    "showScorePoints": true,
+    "enableCheckButton": true
+  },
+  "overallFeedback": [
+    {
+      "from": 0,
+      "to": 0,
+      "feedback": "Wrong"
+    },
+    {
+      "from": 1,
+      "to": 99,
+      "feedback": "Almost!"
+    },
+    {
+      "from": 100,
+      "to": 100,
+      "feedback": "Correct!"
+    }
+  ],
+  "question": "You’re headed to lunch with friends at a downtown restaurant. Because there is no restaurant parking lot, you have to park on the street and feed the parking meter or risk getting a parking ticket. How would the service provided to you by the parking meter be classified?",
+  "isSolutionPublic": true,
+  "isFreeResponseSupported": false,
+  "answers": [
+    {
+      "text": "Equipment-based services: unskilled operator",
+      "correct": false,
+      "tipsAndFeedback": {
+        "tip": "",
+        "chosenFeedback": "That&#8217;s not correct. People-based services are those in which people, rather than equipment or machinery, play the major role in delivery, and within this classification, people-based services can be broken down further into services provided by unskilled labor (e.g., parking lot attendant), skilled labor (e.g., plumber), and professionals (e.g., attorneys and accountants.)",
+        "notChosenFeedback": ""
+      }
+    },
+    {
+      "text": "People-based services: professionals",
+      "correct": false,
+      "tipsAndFeedback": {
+        "tip": "",
+        "chosenFeedback": "That&#8217;s not correct. People-based services are those in which people, rather than equipment or machinery, play the major role in delivery, and within this classification, people-based services can be broken down further into services provided by unskilled labor (e.g., parking lot attendant), skilled labor (e.g., plumber), and professionals (e.g., attorneys and accountants.)",
+        "notChosenFeedback": ""
+      }
+    },
+    {
+      "text": "People-based services: skilled labor",
+      "correct": false,
+      "tipsAndFeedback": {
+        "tip": "",
+        "chosenFeedback": "That&#8217;s not correct. Equipment-based services are those in which machinery or other forms of technology are used to perform the service tasks required by customers.",
+        "notChosenFeedback": ""
+      }
+    },
+    {
+      "text": "Equipment-based services: automated service",
+      "correct": true,
+      "tipsAndFeedback": {
+        "tip": "",
+        "chosenFeedback": "Equipment-based services are those in which machinery or other forms of technology are used to perform the service tasks required by customers. Since there is no person involved in the parking service, the parking meter is considered an automated equipment-based service.",
+        "notChosenFeedback": ""
+      }
+    }
+  ],
+  "subContentId": "a94146d0-92f5-4bfe-a461-bd878e11fb88",
+  "detailedSolution": "Equipment-based services are those in which machinery or other forms of technology are used to perform the service tasks required by customers. Since there is no person involved in the parking service, the parking meter is considered an automated equipment-based service."
+}
