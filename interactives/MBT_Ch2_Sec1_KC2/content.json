@@ -1,0 +1,91 @@
+{
+  "UI": {
+    "showSolutionButton": "Show solution",
+    "tryAgainButton": "Retry",
+    "checkAnswerButton": "Check",
+    "tipsLabel": "Show tip",
+    "scoreBarLabel": "You got :num out of :total points",
+    "tipAvailable": "Tip available",
+    "feedbackAvailable": "Feedback available",
+    "readFeedback": "Read feedback",
+    "wrongAnswer": "Wrong answer",
+    "correctAnswer": "Correct answer",
+    "shouldCheck": "Should have been checked",
+    "shouldNotCheck": "Should not have been checked",
+    "noInput": "Please answer before viewing the solution"
+  },
+  "behaviour": {
+    "enableRetry": true,
+    "enableSolutionsButton": true,
+    "singlePoint": true,
+    "randomAnswers": true,
+    "showSolutionsRequiresInput": true,
+    "type": "auto",
+    "confirmCheckDialog": false,
+    "confirmRetryDialog": false,
+    "autoCheck": false,
+    "passPercentage": 100,
+    "showScorePoints": true,
+    "enableCheckButton": true
+  },
+  "overallFeedback": [
+    {
+      "from": 0,
+      "to": 0,
+      "feedback": "Wrong"
+    },
+    {
+      "from": 1,
+      "to": 99,
+      "feedback": "Almost!"
+    },
+    {
+      "from": 100,
+      "to": 100,
+      "feedback": "Correct!"
+    }
+  ],
+  "question": "Which of the following strategies covers the entire organization when the business includes multiple divisions or operating units?",
+  "isSolutionPublic": true,
+  "isFreeResponseSupported": false,
+  "answers": [
+    {
+      "text": "Functional strategy",
+      "correct": false,
+      "tipsAndFeedback": {
+        "tip": "",
+        "chosenFeedback": "That&#8217;s not correct. Business-level strategy is the strategic plan created for a single business or operating unit&#8212;generally developed by middle management to support the corporate-level strategy.",
+        "notChosenFeedback": ""
+      }
+    },
+    {
+      "text": "Strategic business unit strategy",
+      "correct": false,
+      "tipsAndFeedback": {
+        "tip": "",
+        "chosenFeedback": "That&#8217;s not correct. A strategic business unit strategy is essentially the same as a business-level strategy for a single business or operating unit.",
+        "notChosenFeedback": ""
+      }
+    },
+    {
+      "text": "Corporate-level strategy",
+      "correct": false,
+      "tipsAndFeedback": {
+        "tip": "",
+        "chosenFeedback": "That&#8217;s not correct. Functional strategy is the plan to achieve the corporate- and business-level objectives in functional areas such as marketing, human resources, production, etc.",
+        "notChosenFeedback": ""
+      }
+    },
+    {
+      "text": "Business-level strategy",
+      "correct": true,
+      "tipsAndFeedback": {
+        "tip": "",
+        "chosenFeedback": "Corporate-level strategy covers the entire business in a complex organization in which there are multiple businesses, divisions, or operating units.",
+        "notChosenFeedback": ""
+      }
+    }
+  ],
+  "subContentId": "17bb0a04-f0f8-4f3a-96af-132be86d8ae9",
+  "detailedSolution": "Corporate-level strategy covers the entire business in a complex organization in which there are multiple businesses, divisions, or operating units."
+}
