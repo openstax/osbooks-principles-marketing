@@ -1,0 +1,91 @@
+{
+  "UI": {
+    "showSolutionButton": "Show solution",
+    "tryAgainButton": "Retry",
+    "checkAnswerButton": "Check",
+    "tipsLabel": "Show tip",
+    "scoreBarLabel": "You got :num out of :total points",
+    "tipAvailable": "Tip available",
+    "feedbackAvailable": "Feedback available",
+    "readFeedback": "Read feedback",
+    "wrongAnswer": "Wrong answer",
+    "correctAnswer": "Correct answer",
+    "shouldCheck": "Should have been checked",
+    "shouldNotCheck": "Should not have been checked",
+    "noInput": "Please answer before viewing the solution"
+  },
+  "behaviour": {
+    "enableRetry": true,
+    "enableSolutionsButton": true,
+    "singlePoint": true,
+    "randomAnswers": true,
+    "showSolutionsRequiresInput": true,
+    "type": "auto",
+    "confirmCheckDialog": false,
+    "confirmRetryDialog": false,
+    "autoCheck": false,
+    "passPercentage": 100,
+    "showScorePoints": true,
+    "enableCheckButton": true
+  },
+  "overallFeedback": [
+    {
+      "from": 0,
+      "to": 0,
+      "feedback": "Wrong"
+    },
+    {
+      "from": 1,
+      "to": 99,
+      "feedback": "Almost!"
+    },
+    {
+      "from": 100,
+      "to": 100,
+      "feedback": "Correct!"
+    }
+  ],
+  "question": "The tendency of people to interpret information in a way that supports what they already believe is known as ________.",
+  "isSolutionPublic": true,
+  "isFreeResponseSupported": false,
+  "answers": [
+    {
+      "text": "cognitive dissonance",
+      "correct": false,
+      "tipsAndFeedback": {
+        "tip": "",
+        "chosenFeedback": "That&#8217;s not correct. Selective retention is a bias in which you are more likely to remember messages that are closely related to your interests, values, and beliefs rather than those that are contrary to those values and beliefs.",
+        "notChosenFeedback": ""
+      }
+    },
+    {
+      "text": "selective attention",
+      "correct": false,
+      "tipsAndFeedback": {
+        "tip": "",
+        "chosenFeedback": "That&#8217;s not correct. Selective attention is the process through which you pay attention to only those stimuli that you consider relevant to your wants and needs and screen out the rest.",
+        "notChosenFeedback": ""
+      }
+    },
+    {
+      "text": "selective retention",
+      "correct": false,
+      "tipsAndFeedback": {
+        "tip": "",
+        "chosenFeedback": "That&#8217;s not correct. Cognitive dissonance refers to the mental conflict that occurs when a person&#8217;s behaviors and beliefs do not align.",
+        "notChosenFeedback": ""
+      }
+    },
+    {
+      "text": "selective distortion",
+      "correct": true,
+      "tipsAndFeedback": {
+        "tip": "",
+        "chosenFeedback": "Selective distortion is the tendency of people to interpret information in a way that fits their preconceived notions.",
+        "notChosenFeedback": ""
+      }
+    }
+  ],
+  "subContentId": "0dff05ce-6a06-4b7e-9c5b-44811085c4ae",
+  "detailedSolution": "Selective distortion is the tendency of people to interpret information in a way that fits their preconceived notions."
+}
