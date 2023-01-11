@@ -1,0 +1,91 @@
+{
+  "UI": {
+    "showSolutionButton": "Show solution",
+    "tryAgainButton": "Retry",
+    "checkAnswerButton": "Check",
+    "tipsLabel": "Show tip",
+    "scoreBarLabel": "You got :num out of :total points",
+    "tipAvailable": "Tip available",
+    "feedbackAvailable": "Feedback available",
+    "readFeedback": "Read feedback",
+    "wrongAnswer": "Wrong answer",
+    "correctAnswer": "Correct answer",
+    "shouldCheck": "Should have been checked",
+    "shouldNotCheck": "Should not have been checked",
+    "noInput": "Please answer before viewing the solution"
+  },
+  "behaviour": {
+    "enableRetry": true,
+    "enableSolutionsButton": true,
+    "singlePoint": true,
+    "randomAnswers": true,
+    "showSolutionsRequiresInput": true,
+    "type": "auto",
+    "confirmCheckDialog": false,
+    "confirmRetryDialog": false,
+    "autoCheck": false,
+    "passPercentage": 100,
+    "showScorePoints": true,
+    "enableCheckButton": true
+  },
+  "overallFeedback": [
+    {
+      "from": 0,
+      "to": 0,
+      "feedback": "Wrong"
+    },
+    {
+      "from": 1,
+      "to": 99,
+      "feedback": "Almost!"
+    },
+    {
+      "from": 100,
+      "to": 100,
+      "feedback": "Correct!"
+    }
+  ],
+  "question": "You’re at the shopping mall looking for a new pair of shoes when you smell the wonderful aroma of freshly baked pretzels. Before you know it, you’ve bought a giant pretzel with cheese sauce. What type of factors influenced your purchase?",
+  "isSolutionPublic": true,
+  "isFreeResponseSupported": false,
+  "answers": [
+    {
+      "text": "Psychological factors",
+      "correct": false,
+      "tipsAndFeedback": {
+        "tip": "",
+        "chosenFeedback": "That&#8217;s not correct. Personal factors encompass such elements as occupation, age and life stage, your economic situation, lifestyle, personality, and self-concept.",
+        "notChosenFeedback": ""
+      }
+    },
+    {
+      "text": "Social factors",
+      "correct": false,
+      "tipsAndFeedback": {
+        "tip": "",
+        "chosenFeedback": "That&#8217;s not correct. Social factors encompass such elements as family, reference groups, and societal roles and status.",
+        "notChosenFeedback": ""
+      }
+    },
+    {
+      "text": "Situational factors",
+      "correct": false,
+      "tipsAndFeedback": {
+        "tip": "",
+        "chosenFeedback": "That&#8217;s not correct. Psychological factors encompass such things as perception, beliefs, attitudes, motivation, and learning.",
+        "notChosenFeedback": ""
+      }
+    },
+    {
+      "text": "Personal factors",
+      "correct": true,
+      "tipsAndFeedback": {
+        "tip": "",
+        "chosenFeedback": "Situational factors influencing consumers are external factors that affect how consumers encounter and interact with a product, forming their opinions at that moment in time. Environmental factors such as aroma, lighting, music, and noise can either encourage or discourage the purchase of a product.",
+        "notChosenFeedback": ""
+      }
+    }
+  ],
+  "subContentId": "d9ebc1bc-48d4-4c47-87c1-64d37f0c8ab1",
+  "detailedSolution": "Situational factors influencing consumers are external factors that affect how consumers encounter and interact with a product, forming their opinions at that moment in time. Environmental factors such as aroma, lighting, music, and noise can either encourage or discourage the purchase of a product."
+}
