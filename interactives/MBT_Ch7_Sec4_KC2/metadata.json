@@ -1,0 +1,22 @@
+{
+  "errata_id": "b9a9053ccc4531e24414bba78866d128e1c5f19c8aaf02a2a24e7f8fd870af70",
+  "attachments": [],
+  "tags": [
+    "book:stax-mktg",
+    "context-cnxmod:28cd04dc-462f-46ff-abc7-e962274821d6",
+    "lo:stax-mktg:7-4-2",
+    "book-slug:principles-marketing",
+    "module-slug:principles-marketing:7-4-marketing-in-a-global-environment"
+  ],
+  "books": [
+    {
+      "name": "stax-mktg",
+      "lo": [
+        "7-4-2"
+      ]
+    }
+  ],
+  "context": [
+    "m00042"
+  ]
+}

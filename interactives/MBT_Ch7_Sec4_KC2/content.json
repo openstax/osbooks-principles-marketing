@@ -1,0 +1,91 @@
+{
+  "UI": {
+    "showSolutionButton": "Show solution",
+    "tryAgainButton": "Retry",
+    "checkAnswerButton": "Check",
+    "tipsLabel": "Show tip",
+    "scoreBarLabel": "You got :num out of :total points",
+    "tipAvailable": "Tip available",
+    "feedbackAvailable": "Feedback available",
+    "readFeedback": "Read feedback",
+    "wrongAnswer": "Wrong answer",
+    "correctAnswer": "Correct answer",
+    "shouldCheck": "Should have been checked",
+    "shouldNotCheck": "Should not have been checked",
+    "noInput": "Please answer before viewing the solution"
+  },
+  "behaviour": {
+    "enableRetry": true,
+    "enableSolutionsButton": true,
+    "singlePoint": true,
+    "randomAnswers": true,
+    "showSolutionsRequiresInput": true,
+    "type": "auto",
+    "confirmCheckDialog": false,
+    "confirmRetryDialog": false,
+    "autoCheck": false,
+    "passPercentage": 100,
+    "showScorePoints": true,
+    "enableCheckButton": true
+  },
+  "overallFeedback": [
+    {
+      "from": 0,
+      "to": 0,
+      "feedback": "Wrong"
+    },
+    {
+      "from": 1,
+      "to": 99,
+      "feedback": "Almost!"
+    },
+    {
+      "from": 100,
+      "to": 100,
+      "feedback": "Correct!"
+    }
+  ],
+  "question": "Which of the following is correct regarding the promotion strategy of global markets?",
+  "isSolutionPublic": true,
+  "isFreeResponseSupported": false,
+  "answers": [
+    {
+      "text": "All promotion strategies should remain the same across markets.",
+      "correct": false,
+      "tipsAndFeedback": {
+        "tip": "",
+        "chosenFeedback": "That&#8217;s not correct. The degree to which a promotion strategy should change depends on the local market.",
+        "notChosenFeedback": ""
+      }
+    },
+    {
+      "text": "Promotion strategies of global markets should deviate only slightly from the home market.",
+      "correct": false,
+      "tipsAndFeedback": {
+        "tip": "",
+        "chosenFeedback": "That&#8217;s not correct. The degree to which a promotion strategy should change depends on the market.",
+        "notChosenFeedback": ""
+      }
+    },
+    {
+      "text": "Promotion strategies should reflect the market, some to different degrees.",
+      "correct": false,
+      "tipsAndFeedback": {
+        "tip": "",
+        "chosenFeedback": "That&#8217;s not correct. Nearly all promotion strategies will need to adapt to the global market.",
+        "notChosenFeedback": ""
+      }
+    },
+    {
+      "text": "Promotion strategies of global markets should always be completely different from the home market.",
+      "correct": true,
+      "tipsAndFeedback": {
+        "tip": "",
+        "chosenFeedback": "The degree to which a promotion strategy should change depends on the market.",
+        "notChosenFeedback": ""
+      }
+    }
+  ],
+  "subContentId": "0ec8c087-4a2e-4dfe-a034-bcf230d0c9fd",
+  "detailedSolution": "The degree to which a promotion strategy should change depends on the market."
+}
