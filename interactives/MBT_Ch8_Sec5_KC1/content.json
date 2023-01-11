@@ -1,0 +1,91 @@
+{
+  "UI": {
+    "showSolutionButton": "Show solution",
+    "tryAgainButton": "Retry",
+    "checkAnswerButton": "Check",
+    "tipsLabel": "Show tip",
+    "scoreBarLabel": "You got :num out of :total points",
+    "tipAvailable": "Tip available",
+    "feedbackAvailable": "Feedback available",
+    "readFeedback": "Read feedback",
+    "wrongAnswer": "Wrong answer",
+    "correctAnswer": "Correct answer",
+    "shouldCheck": "Should have been checked",
+    "shouldNotCheck": "Should not have been checked",
+    "noInput": "Please answer before viewing the solution"
+  },
+  "behaviour": {
+    "enableRetry": true,
+    "enableSolutionsButton": true,
+    "singlePoint": true,
+    "randomAnswers": true,
+    "showSolutionsRequiresInput": true,
+    "type": "auto",
+    "confirmCheckDialog": false,
+    "confirmRetryDialog": false,
+    "autoCheck": false,
+    "passPercentage": 100,
+    "showScorePoints": true,
+    "enableCheckButton": true
+  },
+  "overallFeedback": [
+    {
+      "from": 0,
+      "to": 0,
+      "feedback": "Wrong"
+    },
+    {
+      "from": 1,
+      "to": 99,
+      "feedback": "Almost!"
+    },
+    {
+      "from": 100,
+      "to": 100,
+      "feedback": "Correct!"
+    }
+  ],
+  "question": "Sociodemographic marketing is a subcategory of diversity marketing, and it targets audiences based on ________.",
+  "isSolutionPublic": true,
+  "isFreeResponseSupported": false,
+  "answers": [
+    {
+      "text": "psychological distinguishing factors",
+      "correct": false,
+      "tipsAndFeedback": {
+        "tip": "",
+        "chosenFeedback": "That&#8217;s not correct. Sociodemographic marketing does not focus on geography or governing structures.",
+        "notChosenFeedback": ""
+      }
+    },
+    {
+      "text": "political affiliation",
+      "correct": false,
+      "tipsAndFeedback": {
+        "tip": "",
+        "chosenFeedback": "That&#8217;s not correct. Political affiliation is not a factor in targeting audiences in sociodemographic marketing.",
+        "notChosenFeedback": ""
+      }
+    },
+    {
+      "text": "geographical and governmental boundaries",
+      "correct": false,
+      "tipsAndFeedback": {
+        "tip": "",
+        "chosenFeedback": "That&#8217;s not correct. Psychological factors could be a variable, but by itself this is an insufficient definition of sociodemographic marketing.",
+        "notChosenFeedback": ""
+      }
+    },
+    {
+      "text": "shared social and demographic variables",
+      "correct": true,
+      "tipsAndFeedback": {
+        "tip": "",
+        "chosenFeedback": "Sociodemographic marketing is a subcategory of diversity marketing. It intentionally targets certain audiences with attractive advertising and promotions based on shared social and demographic variables. Overlaying these two factors has several worthwhile benefits for marketers.",
+        "notChosenFeedback": ""
+      }
+    }
+  ],
+  "subContentId": "ef23fb7c-c886-4fc4-a466-336015555611",
+  "detailedSolution": "Sociodemographic marketing is a subcategory of diversity marketing. It intentionally targets certain audiences with attractive advertising and promotions based on shared social and demographic variables. Overlaying these two factors has several worthwhile benefits for marketers."
+}
