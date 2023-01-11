@@ -1,0 +1,91 @@
+{
+  "UI": {
+    "showSolutionButton": "Show solution",
+    "tryAgainButton": "Retry",
+    "checkAnswerButton": "Check",
+    "tipsLabel": "Show tip",
+    "scoreBarLabel": "You got :num out of :total points",
+    "tipAvailable": "Tip available",
+    "feedbackAvailable": "Feedback available",
+    "readFeedback": "Read feedback",
+    "wrongAnswer": "Wrong answer",
+    "correctAnswer": "Correct answer",
+    "shouldCheck": "Should have been checked",
+    "shouldNotCheck": "Should not have been checked",
+    "noInput": "Please answer before viewing the solution"
+  },
+  "behaviour": {
+    "enableRetry": true,
+    "enableSolutionsButton": true,
+    "singlePoint": true,
+    "randomAnswers": true,
+    "showSolutionsRequiresInput": true,
+    "type": "auto",
+    "confirmCheckDialog": false,
+    "confirmRetryDialog": false,
+    "autoCheck": false,
+    "passPercentage": 100,
+    "showScorePoints": true,
+    "enableCheckButton": true
+  },
+  "overallFeedback": [
+    {
+      "from": 0,
+      "to": 0,
+      "feedback": "Wrong"
+    },
+    {
+      "from": 1,
+      "to": 99,
+      "feedback": "Almost!"
+    },
+    {
+      "from": 100,
+      "to": 100,
+      "feedback": "Correct!"
+    }
+  ],
+  "question": "Which of the following statements is false with regard to pricing?",
+  "isSolutionPublic": true,
+  "isFreeResponseSupported": false,
+  "answers": [
+    {
+      "text": "Customers are interested in the price of the product, not the cost to a company.",
+      "correct": false,
+      "tipsAndFeedback": {
+        "tip": "",
+        "chosenFeedback": "That&#8217;s not correct. Costs do include both variable and fixed costs.",
+        "notChosenFeedback": ""
+      }
+    },
+    {
+      "text": "Cost only includes the materials needed to produce a product.",
+      "correct": false,
+      "tipsAndFeedback": {
+        "tip": "",
+        "chosenFeedback": "That&#8217;s not correct. Costs are an important factor in pricing decisions. If a company cannot cover costs, it will not be able to make a profit.",
+        "notChosenFeedback": ""
+      }
+    },
+    {
+      "text": "If cost is not considered in pricing, the company will likely be unsuccessful.",
+      "correct": false,
+      "tipsAndFeedback": {
+        "tip": "",
+        "chosenFeedback": "That&#8217;s not correct. Customers are most interested in the price they will pay, not the cost to the producer.",
+        "notChosenFeedback": ""
+      }
+    },
+    {
+      "text": "Costs include both variable and fixed costs.",
+      "correct": true,
+      "tipsAndFeedback": {
+        "tip": "",
+        "chosenFeedback": "Cost does not only include the materials needed to produce a produce, but all other costs associated with doing business.",
+        "notChosenFeedback": ""
+      }
+    }
+  ],
+  "subContentId": "0ced3661-0e70-4100-bb0f-6274c19802bd",
+  "detailedSolution": "Cost does not only include the materials needed to produce a produce, but all other costs associated with doing business."
+}
