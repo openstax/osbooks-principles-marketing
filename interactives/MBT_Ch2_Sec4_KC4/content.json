@@ -1,0 +1,91 @@
+{
+  "UI": {
+    "showSolutionButton": "Show solution",
+    "tryAgainButton": "Retry",
+    "checkAnswerButton": "Check",
+    "tipsLabel": "Show tip",
+    "scoreBarLabel": "You got :num out of :total points",
+    "tipAvailable": "Tip available",
+    "feedbackAvailable": "Feedback available",
+    "readFeedback": "Read feedback",
+    "wrongAnswer": "Wrong answer",
+    "correctAnswer": "Correct answer",
+    "shouldCheck": "Should have been checked",
+    "shouldNotCheck": "Should not have been checked",
+    "noInput": "Please answer before viewing the solution"
+  },
+  "behaviour": {
+    "enableRetry": true,
+    "enableSolutionsButton": true,
+    "singlePoint": true,
+    "randomAnswers": true,
+    "showSolutionsRequiresInput": true,
+    "type": "auto",
+    "confirmCheckDialog": false,
+    "confirmRetryDialog": false,
+    "autoCheck": false,
+    "passPercentage": 100,
+    "showScorePoints": true,
+    "enableCheckButton": true
+  },
+  "overallFeedback": [
+    {
+      "from": 0,
+      "to": 0,
+      "feedback": "Wrong"
+    },
+    {
+      "from": 1,
+      "to": 99,
+      "feedback": "Almost!"
+    },
+    {
+      "from": 100,
+      "to": 100,
+      "feedback": "Correct!"
+    }
+  ],
+  "question": "The observation is made that a single data point in isolation is not very useful. What can we do with a KPI data point to make it useful?",
+  "isSolutionPublic": true,
+  "isFreeResponseSupported": false,
+  "answers": [
+    {
+      "text": "Compare the KPI data point with a related goal/objective (forecast).",
+      "correct": false,
+      "tipsAndFeedback": {
+        "tip": "",
+        "chosenFeedback": "That&#8217;s not correct. Comparing the KPI data point with industry averages is just one way to make a single data point useful.",
+        "notChosenFeedback": ""
+      }
+    },
+    {
+      "text": "Compare the KPI data point with our historical performance.",
+      "correct": false,
+      "tipsAndFeedback": {
+        "tip": "",
+        "chosenFeedback": "That&#8217;s not correct. Comparing the KPI data point with historical performance is just one way to make a single data point useful.",
+        "notChosenFeedback": ""
+      }
+    },
+    {
+      "text": "Compare the KPI data point with industry averages.",
+      "correct": false,
+      "tipsAndFeedback": {
+        "tip": "",
+        "chosenFeedback": "That&#8217;s not correct. Comparing the KPI data point with a related goal or objective is just one way to make a single data point useful.",
+        "notChosenFeedback": ""
+      }
+    },
+    {
+      "text": "These are all useful things to do with a KPI data point.",
+      "correct": true,
+      "tipsAndFeedback": {
+        "tip": "",
+        "chosenFeedback": "A single data point in isolation tells us very little. However, we can compare the data point to other data points (for example, historical results, forecasts, operating tolerances, or industry averages) to judge our effectiveness.",
+        "notChosenFeedback": ""
+      }
+    }
+  ],
+  "subContentId": "fca99d5d-6740-4e35-801e-ce37fd5b2aa0",
+  "detailedSolution": "A single data point in isolation tells us very little. However, we can compare the data point to other data points (for example, historical results, forecasts, operating tolerances, or industry averages) to judge our effectiveness."
+}
