@@ -1,0 +1,22 @@
+{
+  "errata_id": "351909b4f58d34d3094397e4fc1ba35e4095ea87e9d8c53a5d095d255ac1f9dc",
+  "attachments": [],
+  "tags": [
+    "book:stax-mktg",
+    "lo:stax-mktg:1-1-2",
+    "context-cnxmod:94a11eb6-7d07-438c-abb7-71dbc4f4f574",
+    "book-slug:principles-marketing",
+    "module-slug:principles-marketing:1-1-marketing-and-the-marketing-process"
+  ],
+  "books": [
+    {
+      "name": "stax-mktg",
+      "lo": [
+        "1-1-2"
+      ]
+    }
+  ],
+  "context": [
+    "m00007"
+  ]
+}
