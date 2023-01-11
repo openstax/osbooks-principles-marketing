@@ -1,0 +1,22 @@
+{
+  "errata_id": "a2a40a504b54bad814888f0b225b9a57e2ce0edf832fff4180f46041a2d175c1",
+  "attachments": [],
+  "tags": [
+    "book:stax-mktg",
+    "lo:stax-mktg:4-2-1",
+    "context-cnxmod:e0b4b09f-c467-4995-a505-ccf5c4fd0510",
+    "book-slug:principles-marketing",
+    "module-slug:principles-marketing:4-2-buyers-and-buying-situations-in-a-b2b-market"
+  ],
+  "books": [
+    {
+      "name": "stax-mktg",
+      "lo": [
+        "4-2-1"
+      ]
+    }
+  ],
+  "context": [
+    "m00022"
+  ]
+}
