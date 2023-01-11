@@ -1,0 +1,91 @@
+{
+  "UI": {
+    "showSolutionButton": "Show solution",
+    "tryAgainButton": "Retry",
+    "checkAnswerButton": "Check",
+    "tipsLabel": "Show tip",
+    "scoreBarLabel": "You got :num out of :total points",
+    "tipAvailable": "Tip available",
+    "feedbackAvailable": "Feedback available",
+    "readFeedback": "Read feedback",
+    "wrongAnswer": "Wrong answer",
+    "correctAnswer": "Correct answer",
+    "shouldCheck": "Should have been checked",
+    "shouldNotCheck": "Should not have been checked",
+    "noInput": "Please answer before viewing the solution"
+  },
+  "behaviour": {
+    "enableRetry": true,
+    "enableSolutionsButton": true,
+    "singlePoint": true,
+    "randomAnswers": true,
+    "showSolutionsRequiresInput": true,
+    "type": "auto",
+    "confirmCheckDialog": false,
+    "confirmRetryDialog": false,
+    "autoCheck": false,
+    "passPercentage": 100,
+    "showScorePoints": true,
+    "enableCheckButton": true
+  },
+  "overallFeedback": [
+    {
+      "from": 0,
+      "to": 0,
+      "feedback": "Wrong"
+    },
+    {
+      "from": 1,
+      "to": 99,
+      "feedback": "Almost!"
+    },
+    {
+      "from": 100,
+      "to": 100,
+      "feedback": "Correct!"
+    }
+  ],
+  "question": "Choosing between standardization and adaption strategies includes ________.",
+  "isSolutionPublic": true,
+  "isFreeResponseSupported": false,
+  "answers": [
+    {
+      "text": "balancing internal capabilities, like operations, with external forces, like competition",
+      "correct": false,
+      "tipsAndFeedback": {
+        "tip": "",
+        "chosenFeedback": "That&#8217;s not correct. Assessing and reducing the company&#8217;s consumer base are not related to standardization or adaptation strategies.",
+        "notChosenFeedback": ""
+      }
+    },
+    {
+      "text": "assessing only external forces, like technology, and consumer demographic changes",
+      "correct": false,
+      "tipsAndFeedback": {
+        "tip": "",
+        "chosenFeedback": "That&#8217;s not correct. Adjusting a company&#8217;s resources, assets, and conditions is only half of the requirement.",
+        "notChosenFeedback": ""
+      }
+    },
+    {
+      "text": "adjusting only a company’s resources, assets, and conditions to the market",
+      "correct": false,
+      "tipsAndFeedback": {
+        "tip": "",
+        "chosenFeedback": "That&#8217;s not correct. Assessing external forces is only half of the requirement.",
+        "notChosenFeedback": ""
+      }
+    },
+    {
+      "text": "assessing and reducing the company’s consumer base to be more effective",
+      "correct": true,
+      "tipsAndFeedback": {
+        "tip": "",
+        "chosenFeedback": "Choosing between standardization and adaptation strategies includes balancing internal capabilities like operations, sales, and customer service with external forces like competition and consumer demographic changes.",
+        "notChosenFeedback": ""
+      }
+    }
+  ],
+  "subContentId": "457324cd-1570-47ff-9fa0-867bc44e8921",
+  "detailedSolution": "Choosing between standardization and adaptation strategies includes balancing internal capabilities like operations, sales, and customer service with external forces like competition and consumer demographic changes."
+}
