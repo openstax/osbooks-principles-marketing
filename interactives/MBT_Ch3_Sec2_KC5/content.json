@@ -1,0 +1,91 @@
+{
+  "UI": {
+    "showSolutionButton": "Show solution",
+    "tryAgainButton": "Retry",
+    "checkAnswerButton": "Check",
+    "tipsLabel": "Show tip",
+    "scoreBarLabel": "You got :num out of :total points",
+    "tipAvailable": "Tip available",
+    "feedbackAvailable": "Feedback available",
+    "readFeedback": "Read feedback",
+    "wrongAnswer": "Wrong answer",
+    "correctAnswer": "Correct answer",
+    "shouldCheck": "Should have been checked",
+    "shouldNotCheck": "Should not have been checked",
+    "noInput": "Please answer before viewing the solution"
+  },
+  "behaviour": {
+    "enableRetry": true,
+    "enableSolutionsButton": true,
+    "singlePoint": true,
+    "randomAnswers": true,
+    "showSolutionsRequiresInput": true,
+    "type": "auto",
+    "confirmCheckDialog": false,
+    "confirmRetryDialog": false,
+    "autoCheck": false,
+    "passPercentage": 100,
+    "showScorePoints": true,
+    "enableCheckButton": true
+  },
+  "overallFeedback": [
+    {
+      "from": 0,
+      "to": 0,
+      "feedback": "Wrong"
+    },
+    {
+      "from": 1,
+      "to": 99,
+      "feedback": "Almost!"
+    },
+    {
+      "from": 100,
+      "to": 100,
+      "feedback": "Correct!"
+    }
+  ],
+  "question": "Attitudes are a composite of a consumer’s beliefs, feelings about, and ________ toward a product or service.",
+  "isSolutionPublic": true,
+  "isFreeResponseSupported": false,
+  "answers": [
+    {
+      "text": "predispositions",
+      "correct": false,
+      "tipsAndFeedback": {
+        "tip": "",
+        "chosenFeedback": "That&#8217;s not correct. Attributions deal with how individuals perceive the causes of everyday experiences as being either external or internal.",
+        "notChosenFeedback": ""
+      }
+    },
+    {
+      "text": "behavioral intentions",
+      "correct": false,
+      "tipsAndFeedback": {
+        "tip": "",
+        "chosenFeedback": "That&#8217;s not correct. Preconceived notions are opinions formed beforehand without adequate evidence.",
+        "notChosenFeedback": ""
+      }
+    },
+    {
+      "text": "preconceived notions",
+      "correct": false,
+      "tipsAndFeedback": {
+        "tip": "",
+        "chosenFeedback": "That&#8217;s not correct. A predisposition is an inclination in advance to react in a particular way.",
+        "notChosenFeedback": ""
+      }
+    },
+    {
+      "text": "attributions",
+      "correct": true,
+      "tipsAndFeedback": {
+        "tip": "",
+        "chosenFeedback": "The behavioral intention aspect of an attitude is what you as a consumer plan to do&#8212;buy the brand or not buy the brand.",
+        "notChosenFeedback": ""
+      }
+    }
+  ],
+  "subContentId": "8f67989c-591d-4eca-a816-89fccb5be733",
+  "detailedSolution": "The behavioral intention aspect of an attitude is what you as a consumer plan to do—buy the brand or not buy the brand."
+}
