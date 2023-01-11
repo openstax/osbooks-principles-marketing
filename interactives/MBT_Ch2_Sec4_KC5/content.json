@@ -1,0 +1,91 @@
+{
+  "UI": {
+    "showSolutionButton": "Show solution",
+    "tryAgainButton": "Retry",
+    "checkAnswerButton": "Check",
+    "tipsLabel": "Show tip",
+    "scoreBarLabel": "You got :num out of :total points",
+    "tipAvailable": "Tip available",
+    "feedbackAvailable": "Feedback available",
+    "readFeedback": "Read feedback",
+    "wrongAnswer": "Wrong answer",
+    "correctAnswer": "Correct answer",
+    "shouldCheck": "Should have been checked",
+    "shouldNotCheck": "Should not have been checked",
+    "noInput": "Please answer before viewing the solution"
+  },
+  "behaviour": {
+    "enableRetry": true,
+    "enableSolutionsButton": true,
+    "singlePoint": true,
+    "randomAnswers": true,
+    "showSolutionsRequiresInput": true,
+    "type": "auto",
+    "confirmCheckDialog": false,
+    "confirmRetryDialog": false,
+    "autoCheck": false,
+    "passPercentage": 100,
+    "showScorePoints": true,
+    "enableCheckButton": true
+  },
+  "overallFeedback": [
+    {
+      "from": 0,
+      "to": 0,
+      "feedback": "Wrong"
+    },
+    {
+      "from": 1,
+      "to": 99,
+      "feedback": "Almost!"
+    },
+    {
+      "from": 100,
+      "to": 100,
+      "feedback": "Correct!"
+    }
+  ],
+  "question": "Why is it important to track customer satisfaction?",
+  "isSolutionPublic": true,
+  "isFreeResponseSupported": false,
+  "answers": [
+    {
+      "text": "We don’t need to; we already have their money.",
+      "correct": false,
+      "tipsAndFeedback": {
+        "tip": "",
+        "chosenFeedback": "That&#8217;s not correct. Lowering the cost of customer acquisition and retention is just one reason why it&#8217;s important to track customer satisfaction.",
+        "notChosenFeedback": ""
+      }
+    },
+    {
+      "text": "Customer referrals can be a powerful promotional tool.",
+      "correct": false,
+      "tipsAndFeedback": {
+        "tip": "",
+        "chosenFeedback": "That&#8217;s not correct. Gaining referrals from satisfied customers is just one reason why it&#8217;s important to try customer satisfaction.",
+        "notChosenFeedback": ""
+      }
+    },
+    {
+      "text": "Customer acquisition can be expensive; repeat purchases can be much more profitable.",
+      "correct": false,
+      "tipsAndFeedback": {
+        "tip": "",
+        "chosenFeedback": "That&#8217;s not correct. If you want a customer to do business with you again, it&#8217;s important to track their satisfaction.",
+        "notChosenFeedback": ""
+      }
+    },
+    {
+      "text": "Statements b and c are both correct.",
+      "correct": true,
+      "tipsAndFeedback": {
+        "tip": "",
+        "chosenFeedback": "We discussed the concept of lifetime customer value (LCV) in the text. Customer acquisition can be very expensive, especially with a missionary sell (e.g., convincing a customer that they have a need for an unknown product or service). Repeat purchases may not require any additional promotional expense. Happy customers also serve as brand ambassadors that spread the word about a company&#8217;s products/services. Negative reviews from brand ambassadors can be extremely damaging&#8212;we want to uncover any problems right away.",
+        "notChosenFeedback": ""
+      }
+    }
+  ],
+  "subContentId": "d4bc95be-ee39-486b-8fc6-97a61466bc41",
+  "detailedSolution": "We discussed the concept of lifetime customer value (LCV) in the text. Customer acquisition can be very expensive, especially with a missionary sell (e.g., convincing a customer that they have a need for an unknown product or service). Repeat purchases may not require any additional promotional expense. Happy customers also serve as brand ambassadors that spread the word about a company’s products/services. Negative reviews from brand ambassadors can be extremely damaging—we want to uncover any problems right away."
+}
