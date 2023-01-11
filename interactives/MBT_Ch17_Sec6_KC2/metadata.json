@@ -1,0 +1,22 @@
+{
+  "errata_id": "e10f85c423d86e60a169399446fdc49726c8e33936b530877a2475a69d8db161",
+  "attachments": [],
+  "tags": [
+    "book:stax-mktg",
+    "context-cnxmod:43f49678-07ed-479e-b75d-b7677ce83f80",
+    "lo:stax-mktg:17-6-1",
+    "book-slug:principles-marketing",
+    "module-slug:principles-marketing:17-6-logistics-and-its-functions"
+  ],
+  "books": [
+    {
+      "name": "stax-mktg",
+      "lo": [
+        "17-6-1"
+      ]
+    }
+  ],
+  "context": [
+    "m00115"
+  ]
+}
