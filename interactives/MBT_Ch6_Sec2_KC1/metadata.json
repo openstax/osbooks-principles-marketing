@@ -1,0 +1,22 @@
+{
+  "errata_id": "8f4e609ac8864316dfe83d814fae74c6378f7cb9e50e1dd1f87c67379971f295",
+  "attachments": [],
+  "tags": [
+    "book:stax-mktg",
+    "lo:stax-mktg:6-2-1",
+    "context-cnxmod:af4d3e63-95d6-4922-817d-ee51e1db4656",
+    "book-slug:principles-marketing",
+    "module-slug:principles-marketing:6-2-sources-of-marketing-information"
+  ],
+  "books": [
+    {
+      "name": "stax-mktg",
+      "lo": [
+        "6-2-1"
+      ]
+    }
+  ],
+  "context": [
+    "m00035"
+  ]
+}
