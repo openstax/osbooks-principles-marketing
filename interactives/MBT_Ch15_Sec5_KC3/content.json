@@ -1,0 +1,91 @@
+{
+  "UI": {
+    "showSolutionButton": "Show solution",
+    "tryAgainButton": "Retry",
+    "checkAnswerButton": "Check",
+    "tipsLabel": "Show tip",
+    "scoreBarLabel": "You got :num out of :total points",
+    "tipAvailable": "Tip available",
+    "feedbackAvailable": "Feedback available",
+    "readFeedback": "Read feedback",
+    "wrongAnswer": "Wrong answer",
+    "correctAnswer": "Correct answer",
+    "shouldCheck": "Should have been checked",
+    "shouldNotCheck": "Should not have been checked",
+    "noInput": "Please answer before viewing the solution"
+  },
+  "behaviour": {
+    "enableRetry": true,
+    "enableSolutionsButton": true,
+    "singlePoint": true,
+    "randomAnswers": true,
+    "showSolutionsRequiresInput": true,
+    "type": "auto",
+    "confirmCheckDialog": false,
+    "confirmRetryDialog": false,
+    "autoCheck": false,
+    "passPercentage": 100,
+    "showScorePoints": true,
+    "enableCheckButton": true
+  },
+  "overallFeedback": [
+    {
+      "from": 0,
+      "to": 0,
+      "feedback": "Wrong"
+    },
+    {
+      "from": 1,
+      "to": 99,
+      "feedback": "Almost!"
+    },
+    {
+      "from": 100,
+      "to": 100,
+      "feedback": "Correct!"
+    }
+  ],
+  "question": "Rolex calls itself the “Official Timekeeper” of the Wimbledon and Australian Open tennis championships, by virtue of its sponsorships of the marquee events. What is the most likely objective for Rolex’s sponsorship deal with these events?",
+  "isSolutionPublic": true,
+  "isFreeResponseSupported": false,
+  "answers": [
+    {
+      "text": "Lose money",
+      "correct": false,
+      "tipsAndFeedback": {
+        "tip": "",
+        "chosenFeedback": "That&#8217;s not correct. While customers might be satisfied knowing Rolex has sponsored the event, the goal of the sales promotion is not to increase customer satisfaction.",
+        "notChosenFeedback": ""
+      }
+    },
+    {
+      "text": "Stimulate demand",
+      "correct": false,
+      "tipsAndFeedback": {
+        "tip": "",
+        "chosenFeedback": "That&#8217;s not correct. The event sponsorship will not necessarily stimulate demand although it might happen as a result of the positive association.",
+        "notChosenFeedback": ""
+      }
+    },
+    {
+      "text": "Spread information",
+      "correct": false,
+      "tipsAndFeedback": {
+        "tip": "",
+        "chosenFeedback": "That&#8217;s not correct. The focus is to spread information and not to lose money.",
+        "notChosenFeedback": ""
+      }
+    },
+    {
+      "text": "Increase customer satisfaction",
+      "correct": true,
+      "tipsAndFeedback": {
+        "tip": "",
+        "chosenFeedback": "Rolex wants to spread information about its products to the target market of customers that will be present at the events.",
+        "notChosenFeedback": ""
+      }
+    }
+  ],
+  "subContentId": "6f954397-0078-473a-a65c-ae4f0ec9eedd",
+  "detailedSolution": "Rolex wants to spread information about its products to the target market of customers that will be present at the events."
+}
