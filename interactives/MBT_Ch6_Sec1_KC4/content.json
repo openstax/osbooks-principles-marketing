@@ -1,0 +1,91 @@
+{
+  "UI": {
+    "showSolutionButton": "Show solution",
+    "tryAgainButton": "Retry",
+    "checkAnswerButton": "Check",
+    "tipsLabel": "Show tip",
+    "scoreBarLabel": "You got :num out of :total points",
+    "tipAvailable": "Tip available",
+    "feedbackAvailable": "Feedback available",
+    "readFeedback": "Read feedback",
+    "wrongAnswer": "Wrong answer",
+    "correctAnswer": "Correct answer",
+    "shouldCheck": "Should have been checked",
+    "shouldNotCheck": "Should not have been checked",
+    "noInput": "Please answer before viewing the solution"
+  },
+  "behaviour": {
+    "enableRetry": true,
+    "enableSolutionsButton": true,
+    "singlePoint": true,
+    "randomAnswers": true,
+    "showSolutionsRequiresInput": true,
+    "type": "auto",
+    "confirmCheckDialog": false,
+    "confirmRetryDialog": false,
+    "autoCheck": false,
+    "passPercentage": 100,
+    "showScorePoints": true,
+    "enableCheckButton": true
+  },
+  "overallFeedback": [
+    {
+      "from": 0,
+      "to": 0,
+      "feedback": "Wrong"
+    },
+    {
+      "from": 1,
+      "to": 99,
+      "feedback": "Almost!"
+    },
+    {
+      "from": 100,
+      "to": 100,
+      "feedback": "Correct!"
+    }
+  ],
+  "question": "Which of the following is not a reason why marketing research is important for the success of a business?",
+  "isSolutionPublic": true,
+  "isFreeResponseSupported": false,
+  "answers": [
+    {
+      "text": "It provides a guarantee of customer satisfaction.",
+      "correct": false,
+      "tipsAndFeedback": {
+        "tip": "",
+        "chosenFeedback": "That&#8217;s not correct. Marketing research can uncover weaknesses within a company.",
+        "notChosenFeedback": ""
+      }
+    },
+    {
+      "text": "It identifies opportunities in the market to explore.",
+      "correct": false,
+      "tipsAndFeedback": {
+        "tip": "",
+        "chosenFeedback": "That&#8217;s not correct. Marketing research can help to quantify customer perceptions.",
+        "notChosenFeedback": ""
+      }
+    },
+    {
+      "text": "It helps to quantify customer perceptions.",
+      "correct": false,
+      "tipsAndFeedback": {
+        "tip": "",
+        "chosenFeedback": "That&#8217;s not correct. Marketing research can expose opportunities for a business to explore.",
+        "notChosenFeedback": ""
+      }
+    },
+    {
+      "text": "It uncovers weaknesses within a company.",
+      "correct": true,
+      "tipsAndFeedback": {
+        "tip": "",
+        "chosenFeedback": "Although marketing research is helpful in providing the data necessary for successful business ventures, there is no guarantee that it will cause customer satisfaction.",
+        "notChosenFeedback": ""
+      }
+    }
+  ],
+  "subContentId": "53ceef46-0c5f-4585-817a-abe40d66a30f",
+  "detailedSolution": "Although marketing research is helpful in providing the data necessary for successful business ventures, there is no guarantee that it will cause customer satisfaction."
+}
