@@ -1,0 +1,91 @@
+{
+  "UI": {
+    "showSolutionButton": "Show solution",
+    "tryAgainButton": "Retry",
+    "checkAnswerButton": "Check",
+    "tipsLabel": "Show tip",
+    "scoreBarLabel": "You got :num out of :total points",
+    "tipAvailable": "Tip available",
+    "feedbackAvailable": "Feedback available",
+    "readFeedback": "Read feedback",
+    "wrongAnswer": "Wrong answer",
+    "correctAnswer": "Correct answer",
+    "shouldCheck": "Should have been checked",
+    "shouldNotCheck": "Should not have been checked",
+    "noInput": "Please answer before viewing the solution"
+  },
+  "behaviour": {
+    "enableRetry": true,
+    "enableSolutionsButton": true,
+    "singlePoint": true,
+    "randomAnswers": true,
+    "showSolutionsRequiresInput": true,
+    "type": "auto",
+    "confirmCheckDialog": false,
+    "confirmRetryDialog": false,
+    "autoCheck": false,
+    "passPercentage": 100,
+    "showScorePoints": true,
+    "enableCheckButton": true
+  },
+  "overallFeedback": [
+    {
+      "from": 0,
+      "to": 0,
+      "feedback": "Wrong"
+    },
+    {
+      "from": 1,
+      "to": 99,
+      "feedback": "Almost!"
+    },
+    {
+      "from": 100,
+      "to": 100,
+      "feedback": "Correct!"
+    }
+  ],
+  "question": "Which form of online marketing is permission-based, meaning that consumers must consent to receiving online messages?",
+  "isSolutionPublic": true,
+  "isFreeResponseSupported": false,
+  "answers": [
+    {
+      "text": "Website marketing",
+      "correct": false,
+      "tipsAndFeedback": {
+        "tip": "",
+        "chosenFeedback": "That&#8217;s not correct. Content marketing involves creating and distributing relevant content such as blogs, articles, and online videos to target audiences. Consumers of the content are not required to grant permission to marketers.",
+        "notChosenFeedback": ""
+      }
+    },
+    {
+      "text": "Blog marketing",
+      "correct": false,
+      "tipsAndFeedback": {
+        "tip": "",
+        "chosenFeedback": "That&#8217;s not correct. Blog marketing involves creating content that is tailored to the interests of the audience. Reading and commenting on a blog does not require the visitor&#8217;s permission. Visitors may be required to create and sign into an account to leave a comment, but there is not permission required on the part of the visitor.",
+        "notChosenFeedback": ""
+      }
+    },
+    {
+      "text": "Content marketing",
+      "correct": false,
+      "tipsAndFeedback": {
+        "tip": "",
+        "chosenFeedback": "That&#8217;s not correct. Website marketing does not require visitors to grant permission in order for visitors to view content on the website.",
+        "notChosenFeedback": ""
+      }
+    },
+    {
+      "text": "Email marketing",
+      "correct": true,
+      "tipsAndFeedback": {
+        "tip": "",
+        "chosenFeedback": "Email marketing is permission-based marketing. Consumers must opt in to receive messages from companies. This typically occurs when a consumer purchases a product or service and asserts that they would like to receive messages from the company from which they&#8217;ve purchased.",
+        "notChosenFeedback": ""
+      }
+    }
+  ],
+  "subContentId": "091b11a5-a7ee-4cd0-a9c7-f7c34c38db93",
+  "detailedSolution": "Email marketing is permission-based marketing. Consumers must opt in to receive messages from companies. This typically occurs when a consumer purchases a product or service and asserts that they would like to receive messages from the company from which they’ve purchased."
+}
