@@ -1,0 +1,91 @@
+{
+  "UI": {
+    "showSolutionButton": "Show solution",
+    "tryAgainButton": "Retry",
+    "checkAnswerButton": "Check",
+    "tipsLabel": "Show tip",
+    "scoreBarLabel": "You got :num out of :total points",
+    "tipAvailable": "Tip available",
+    "feedbackAvailable": "Feedback available",
+    "readFeedback": "Read feedback",
+    "wrongAnswer": "Wrong answer",
+    "correctAnswer": "Correct answer",
+    "shouldCheck": "Should have been checked",
+    "shouldNotCheck": "Should not have been checked",
+    "noInput": "Please answer before viewing the solution"
+  },
+  "behaviour": {
+    "enableRetry": true,
+    "enableSolutionsButton": true,
+    "singlePoint": true,
+    "randomAnswers": true,
+    "showSolutionsRequiresInput": true,
+    "type": "auto",
+    "confirmCheckDialog": false,
+    "confirmRetryDialog": false,
+    "autoCheck": false,
+    "passPercentage": 100,
+    "showScorePoints": true,
+    "enableCheckButton": true
+  },
+  "overallFeedback": [
+    {
+      "from": 0,
+      "to": 0,
+      "feedback": "Wrong"
+    },
+    {
+      "from": 1,
+      "to": 99,
+      "feedback": "Almost!"
+    },
+    {
+      "from": 100,
+      "to": 100,
+      "feedback": "Correct!"
+    }
+  ],
+  "question": "In which section of the executive summary of a marketing plan would you describe the current marketplace and industry sectors within which you sell your products or services and the innovations currently taking place within the market?",
+  "isSolutionPublic": true,
+  "isFreeResponseSupported": false,
+  "answers": [
+    {
+      "text": "Description of products or services being marketed",
+      "correct": false,
+      "tipsAndFeedback": {
+        "tip": "",
+        "chosenFeedback": "That&#8217;s not correct. This paragraph describes the business and the key players involved in the business.",
+        "notChosenFeedback": ""
+      }
+    },
+    {
+      "text": "Description of customer base and related marketing activities",
+      "correct": false,
+      "tipsAndFeedback": {
+        "tip": "",
+        "chosenFeedback": "That&#8217;s not correct. This paragraph would describe the key aspects of the target audience for the product/service.",
+        "notChosenFeedback": ""
+      }
+    },
+    {
+      "text": "Description of company and team",
+      "correct": false,
+      "tipsAndFeedback": {
+        "tip": "",
+        "chosenFeedback": "That&#8217;s not correct. This paragraph would describe the key features and benefits of the new product/service being introduced and outline its unique selling proposition.",
+        "notChosenFeedback": ""
+      }
+    },
+    {
+      "text": "Description of market factors and trends",
+      "correct": true,
+      "tipsAndFeedback": {
+        "tip": "",
+        "chosenFeedback": "In this paragraph of the executive summary, you would describe the current marketplace and industry sectors in which you sell your products and/or services, the trends affecting and influencing them, and the innovations currently taking place within the market.",
+        "notChosenFeedback": ""
+      }
+    }
+  ],
+  "subContentId": "0a74c980-5f2b-43f7-9738-16c608527108",
+  "detailedSolution": "In this paragraph of the executive summary, you would describe the current marketplace and industry sectors in which you sell your products and/or services, the trends affecting and influencing them, and the innovations currently taking place within the market."
+}
