@@ -1,0 +1,23 @@
+{
+  "errata_id": "e8d9741f341922dd1adbcd4d6bc271ba82ad8278b61f883d84a6e95d2f287a8e",
+  "attachments": [],
+  "tags": [
+    "type:practice",
+    "book:stax-mktg",
+    "lo:stax-mktg:16-4-1",
+    "context-cnxmod:c3368c74-f526-4743-ae6b-6e1f064e93e1",
+    "book-slug:principles-marketing",
+    "module-slug:principles-marketing:16-4-ethical-issues-in-digital-marketing-and-social-media"
+  ],
+  "books": [
+    {
+      "name": "stax-mktg",
+      "lo": [
+        "16-4-1"
+      ]
+    }
+  ],
+  "context": [
+    "m00108"
+  ]
+}
