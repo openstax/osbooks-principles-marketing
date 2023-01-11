@@ -1,0 +1,91 @@
+{
+  "UI": {
+    "showSolutionButton": "Show solution",
+    "tryAgainButton": "Retry",
+    "checkAnswerButton": "Check",
+    "tipsLabel": "Show tip",
+    "scoreBarLabel": "You got :num out of :total points",
+    "tipAvailable": "Tip available",
+    "feedbackAvailable": "Feedback available",
+    "readFeedback": "Read feedback",
+    "wrongAnswer": "Wrong answer",
+    "correctAnswer": "Correct answer",
+    "shouldCheck": "Should have been checked",
+    "shouldNotCheck": "Should not have been checked",
+    "noInput": "Please answer before viewing the solution"
+  },
+  "behaviour": {
+    "enableRetry": true,
+    "enableSolutionsButton": true,
+    "singlePoint": true,
+    "randomAnswers": true,
+    "showSolutionsRequiresInput": true,
+    "type": "auto",
+    "confirmCheckDialog": false,
+    "confirmRetryDialog": false,
+    "autoCheck": false,
+    "passPercentage": 100,
+    "showScorePoints": true,
+    "enableCheckButton": true
+  },
+  "overallFeedback": [
+    {
+      "from": 0,
+      "to": 0,
+      "feedback": "Wrong"
+    },
+    {
+      "from": 1,
+      "to": 99,
+      "feedback": "Almost!"
+    },
+    {
+      "from": 100,
+      "to": 100,
+      "feedback": "Correct!"
+    }
+  ],
+  "question": "Ashia is planning a business dinner with her new clients in Chile. She has never visited Chile before and is not familiar with their customs. Which of the following would you NOT advise Ashia to do?",
+  "isSolutionPublic": true,
+  "isFreeResponseSupported": false,
+  "answers": [
+    {
+      "text": "Tell Ashia she should consider talking with a colleague who has traveled to Chile before.",
+      "correct": false,
+      "tipsAndFeedback": {
+        "tip": "",
+        "chosenFeedback": "That&#8217;s not correct. Ashia should, if in doubt during her dinner, follow the lead of her dinner guests.",
+        "notChosenFeedback": ""
+      }
+    },
+    {
+      "text": "Tell Ashia to study some of the most important Chilean customs so as not to embarrass herself or offend her dinner guest.",
+      "correct": false,
+      "tipsAndFeedback": {
+        "tip": "",
+        "chosenFeedback": "That&#8217;s not correct. Ashia should study some of the most important Chilean customs to show respect to her dinner guests.",
+        "notChosenFeedback": ""
+      }
+    },
+    {
+      "text": "Tell Ashia that if she is in doubt, she should follow her dinner guests’ lead on what is appropriate.",
+      "correct": false,
+      "tipsAndFeedback": {
+        "tip": "",
+        "chosenFeedback": "That&#8217;s not correct. Ashia should consider discussing Chilean culture with a colleague who is familiar with the culture.",
+        "notChosenFeedback": ""
+      }
+    },
+    {
+      "text": "Tell Ashia not to worry about it because the Chilean businesspeople should adapt to her customs because her customs are the best ones to follow.",
+      "correct": true,
+      "tipsAndFeedback": {
+        "tip": "",
+        "chosenFeedback": "This advice to Ashia could not only be offensive to her dinner guest but would also cause poor business relationships.",
+        "notChosenFeedback": ""
+      }
+    }
+  ],
+  "subContentId": "64eaf762-e124-43d9-a294-46bab03bc101",
+  "detailedSolution": "This advice to Ashia could not only be offensive to her dinner guest but would also cause poor business relationships."
+}
