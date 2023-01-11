@@ -1,0 +1,91 @@
+{
+  "UI": {
+    "showSolutionButton": "Show solution",
+    "tryAgainButton": "Retry",
+    "checkAnswerButton": "Check",
+    "tipsLabel": "Show tip",
+    "scoreBarLabel": "You got :num out of :total points",
+    "tipAvailable": "Tip available",
+    "feedbackAvailable": "Feedback available",
+    "readFeedback": "Read feedback",
+    "wrongAnswer": "Wrong answer",
+    "correctAnswer": "Correct answer",
+    "shouldCheck": "Should have been checked",
+    "shouldNotCheck": "Should not have been checked",
+    "noInput": "Please answer before viewing the solution"
+  },
+  "behaviour": {
+    "enableRetry": true,
+    "enableSolutionsButton": true,
+    "singlePoint": true,
+    "randomAnswers": true,
+    "showSolutionsRequiresInput": true,
+    "type": "auto",
+    "confirmCheckDialog": false,
+    "confirmRetryDialog": false,
+    "autoCheck": false,
+    "passPercentage": 100,
+    "showScorePoints": true,
+    "enableCheckButton": true
+  },
+  "overallFeedback": [
+    {
+      "from": 0,
+      "to": 0,
+      "feedback": "Wrong"
+    },
+    {
+      "from": 1,
+      "to": 99,
+      "feedback": "Almost!"
+    },
+    {
+      "from": 100,
+      "to": 100,
+      "feedback": "Correct!"
+    }
+  ],
+  "question": "________ include(s) the labor, the raw materials, and the technology that are required to move products from their raw material phase to finished goods available for consumption.",
+  "isSolutionPublic": true,
+  "isFreeResponseSupported": false,
+  "answers": [
+    {
+      "text": "Purchasing",
+      "correct": false,
+      "tipsAndFeedback": {
+        "tip": "",
+        "chosenFeedback": "That&#8217;s not correct. Before a company purchases the needed materials and begins production, it must forecast demand for its products. Forecasting involves anticipating or projecting how many units of a product will be sold during a given time period.",
+        "notChosenFeedback": ""
+      }
+    },
+    {
+      "text": "Logistics",
+      "correct": false,
+      "tipsAndFeedback": {
+        "tip": "",
+        "chosenFeedback": "That&#8217;s not correct. Logistics is a function that involves the coordination of all supply chain activities, such as warehousing, inventory management, and transportation.",
+        "notChosenFeedback": ""
+      }
+    },
+    {
+      "text": "Forecasting",
+      "correct": false,
+      "tipsAndFeedback": {
+        "tip": "",
+        "chosenFeedback": "That&#8217;s not correct. Companies that manufacture goods rely on raw materials to produce the products they sell. They purchase the required materials from suppliers, who must be able to deliver them in accordance with the manufacturer&#8217;s timeline.",
+        "notChosenFeedback": ""
+      }
+    },
+    {
+      "text": "Resources",
+      "correct": true,
+      "tipsAndFeedback": {
+        "tip": "",
+        "chosenFeedback": "Resources include the labor, the raw materials, and the technology that are required to move products from their raw material phase to finished goods available for consumption.",
+        "notChosenFeedback": ""
+      }
+    }
+  ],
+  "subContentId": "1155a0e8-7501-4d32-a191-9bbe13460b35",
+  "detailedSolution": "Resources include the labor, the raw materials, and the technology that are required to move products from their raw material phase to finished goods available for consumption."
+}
