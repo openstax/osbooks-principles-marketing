@@ -1,0 +1,23 @@
+{
+  "errata_id": "d3994231b277acf6af36c97b33f3e29d960dae825527f4591a62fce87808ba83",
+  "attachments": [],
+  "tags": [
+    "type:practice",
+    "book:stax-mktg",
+    "lo:stax-mktg:13-5-2",
+    "context-cnxmod:9b4f5766-1ca0-463e-b05a-bd4d30b7e67f",
+    "book-slug:principles-marketing",
+    "module-slug:principles-marketing:13-5-ethical-issues-in-marketing-communication"
+  ],
+  "books": [
+    {
+      "name": "stax-mktg",
+      "lo": [
+        "13-5-2"
+      ]
+    }
+  ],
+  "context": [
+    "m00087"
+  ]
+}
