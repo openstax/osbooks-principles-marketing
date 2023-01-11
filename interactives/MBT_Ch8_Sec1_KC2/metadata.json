@@ -1,0 +1,22 @@
+{
+  "errata_id": "1649825211441183c223a5a54d402c17b64438fc7b7811fbb1e8881e0590ebf6",
+  "attachments": [],
+  "tags": [
+    "book:stax-mktg",
+    "lo:stax-mktg:8-1-1",
+    "context-cnxmod:c8edd8c4-0664-48d2-92ab-f9c969a1d78d",
+    "book-slug:principles-marketing",
+    "module-slug:principles-marketing:8-1-strategic-marketing-standardization-versus-adaptation"
+  ],
+  "books": [
+    {
+      "name": "stax-mktg",
+      "lo": [
+        "8-1-1"
+      ]
+    }
+  ],
+  "context": [
+    "m00045"
+  ]
+}
