@@ -1,0 +1,91 @@
+{
+  "UI": {
+    "showSolutionButton": "Show solution",
+    "tryAgainButton": "Retry",
+    "checkAnswerButton": "Check",
+    "tipsLabel": "Show tip",
+    "scoreBarLabel": "You got :num out of :total points",
+    "tipAvailable": "Tip available",
+    "feedbackAvailable": "Feedback available",
+    "readFeedback": "Read feedback",
+    "wrongAnswer": "Wrong answer",
+    "correctAnswer": "Correct answer",
+    "shouldCheck": "Should have been checked",
+    "shouldNotCheck": "Should not have been checked",
+    "noInput": "Please answer before viewing the solution"
+  },
+  "behaviour": {
+    "enableRetry": true,
+    "enableSolutionsButton": true,
+    "singlePoint": true,
+    "randomAnswers": true,
+    "showSolutionsRequiresInput": true,
+    "type": "auto",
+    "confirmCheckDialog": false,
+    "confirmRetryDialog": false,
+    "autoCheck": false,
+    "passPercentage": 100,
+    "showScorePoints": true,
+    "enableCheckButton": true
+  },
+  "overallFeedback": [
+    {
+      "from": 0,
+      "to": 0,
+      "feedback": "Wrong"
+    },
+    {
+      "from": 1,
+      "to": 99,
+      "feedback": "Almost!"
+    },
+    {
+      "from": 100,
+      "to": 100,
+      "feedback": "Correct!"
+    }
+  ],
+  "question": "Jackson has asked several qualified vendors to submit proposals. Which stage of the B2B buying process does this illustrate?",
+  "isSolutionPublic": true,
+  "isFreeResponseSupported": false,
+  "answers": [
+    {
+      "text": "Stage 2: Need description",
+      "correct": false,
+      "tipsAndFeedback": {
+        "tip": "",
+        "chosenFeedback": "That&#8217;s not correct. Stage 4 of the B2B buying process is supplier search, in which those involved in the buying center seek out information on the products they are looking for and the vendors that can supply them.",
+        "notChosenFeedback": ""
+      }
+    },
+    {
+      "text": "Stage 3: Product specification",
+      "correct": false,
+      "tipsAndFeedback": {
+        "tip": "",
+        "chosenFeedback": "That&#8217;s not correct. Stage 3 of the B2B buying process is product specification, in which the B2B buyer develops a blueprint that outlines the product, what it will look like, and its specific requirements and functions.",
+        "notChosenFeedback": ""
+      }
+    },
+    {
+      "text": "Stage 4: Supplier search",
+      "correct": false,
+      "tipsAndFeedback": {
+        "tip": "",
+        "chosenFeedback": "That&#8217;s not correct. Stage 2 of the B2B buying process is need description, in which the buying center works to put some parameters around what needs to be purchased.",
+        "notChosenFeedback": ""
+      }
+    },
+    {
+      "text": "Stage 5: Proposal solicitation",
+      "correct": true,
+      "tipsAndFeedback": {
+        "tip": "",
+        "chosenFeedback": "Stage 5 of the B2B buying process is proposal solicitation, in which qualified vendors are asked to submit proposals.",
+        "notChosenFeedback": ""
+      }
+    }
+  ],
+  "subContentId": "82f53716-10f0-4e29-ae2f-ac78570d29cb",
+  "detailedSolution": "Stage 5 of the B2B buying process is proposal solicitation, in which qualified vendors are asked to submit proposals."
+}
