@@ -1,0 +1,91 @@
+{
+  "UI": {
+    "showSolutionButton": "Show solution",
+    "tryAgainButton": "Retry",
+    "checkAnswerButton": "Check",
+    "tipsLabel": "Show tip",
+    "scoreBarLabel": "You got :num out of :total points",
+    "tipAvailable": "Tip available",
+    "feedbackAvailable": "Feedback available",
+    "readFeedback": "Read feedback",
+    "wrongAnswer": "Wrong answer",
+    "correctAnswer": "Correct answer",
+    "shouldCheck": "Should have been checked",
+    "shouldNotCheck": "Should not have been checked",
+    "noInput": "Please answer before viewing the solution"
+  },
+  "behaviour": {
+    "enableRetry": true,
+    "enableSolutionsButton": true,
+    "singlePoint": true,
+    "randomAnswers": true,
+    "showSolutionsRequiresInput": true,
+    "type": "auto",
+    "confirmCheckDialog": false,
+    "confirmRetryDialog": false,
+    "autoCheck": false,
+    "passPercentage": 100,
+    "showScorePoints": true,
+    "enableCheckButton": true
+  },
+  "overallFeedback": [
+    {
+      "from": 0,
+      "to": 0,
+      "feedback": "Wrong"
+    },
+    {
+      "from": 1,
+      "to": 99,
+      "feedback": "Almost!"
+    },
+    {
+      "from": 100,
+      "to": 100,
+      "feedback": "Correct!"
+    }
+  ],
+  "question": "Peloton’s main products are Internet-connected stationary bikes and treadmills that enable subscribers to remotely participate in live classes via streaming media. This enables subscribers to have a “spin class” experience without going to the gym. On what basis has Peloton segmented the market?",
+  "isSolutionPublic": true,
+  "isFreeResponseSupported": false,
+  "answers": [
+    {
+      "text": "Demographic",
+      "correct": false,
+      "tipsAndFeedback": {
+        "tip": "",
+        "chosenFeedback": "That&#8217;s not correct. Geographic segmentation divides a market according to geographic areas such as regions, cities, states, countries, etc.",
+        "notChosenFeedback": ""
+      }
+    },
+    {
+      "text": "Behavioral",
+      "correct": false,
+      "tipsAndFeedback": {
+        "tip": "",
+        "chosenFeedback": "That&#8217;s not correct. Behavioral segmentation is a method of grouping consumers by their behavior patterns.",
+        "notChosenFeedback": ""
+      }
+    },
+    {
+      "text": "Geographic",
+      "correct": false,
+      "tipsAndFeedback": {
+        "tip": "",
+        "chosenFeedback": "That&#8217;s not correct. Demographic segmentation groups consumers by focusing on traits such as age, gender, income, etc.",
+        "notChosenFeedback": ""
+      }
+    },
+    {
+      "text": "Psychographic",
+      "correct": true,
+      "tipsAndFeedback": {
+        "tip": "",
+        "chosenFeedback": "Just like our in-text example of Mirror, Peloton speaks to the personality of people who want to work out but can&#8217;t find the time to go to the gym.",
+        "notChosenFeedback": ""
+      }
+    }
+  ],
+  "subContentId": "94426c30-d7d6-4cbf-95eb-4c89d3a0352f",
+  "detailedSolution": "Just like our in-text example of Mirror, Peloton speaks to the personality of people who want to work out but can’t find the time to go to the gym."
+}
