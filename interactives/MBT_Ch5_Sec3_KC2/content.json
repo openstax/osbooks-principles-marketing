@@ -1,0 +1,91 @@
+{
+  "UI": {
+    "showSolutionButton": "Show solution",
+    "tryAgainButton": "Retry",
+    "checkAnswerButton": "Check",
+    "tipsLabel": "Show tip",
+    "scoreBarLabel": "You got :num out of :total points",
+    "tipAvailable": "Tip available",
+    "feedbackAvailable": "Feedback available",
+    "readFeedback": "Read feedback",
+    "wrongAnswer": "Wrong answer",
+    "correctAnswer": "Correct answer",
+    "shouldCheck": "Should have been checked",
+    "shouldNotCheck": "Should not have been checked",
+    "noInput": "Please answer before viewing the solution"
+  },
+  "behaviour": {
+    "enableRetry": true,
+    "enableSolutionsButton": true,
+    "singlePoint": true,
+    "randomAnswers": true,
+    "showSolutionsRequiresInput": true,
+    "type": "auto",
+    "confirmCheckDialog": false,
+    "confirmRetryDialog": false,
+    "autoCheck": false,
+    "passPercentage": 100,
+    "showScorePoints": true,
+    "enableCheckButton": true
+  },
+  "overallFeedback": [
+    {
+      "from": 0,
+      "to": 0,
+      "feedback": "Wrong"
+    },
+    {
+      "from": 1,
+      "to": 99,
+      "feedback": "Almost!"
+    },
+    {
+      "from": 100,
+      "to": 100,
+      "feedback": "Correct!"
+    }
+  ],
+  "question": "Jamal’s company is looking to expand into a market in West Africa, but Jamal wants to ensure that there are roads, bridges, nearby airports, and shipping terminals from which to distribute the product. Jamal is examining the country’s ________.",
+  "isSolutionPublic": true,
+  "isFreeResponseSupported": false,
+  "answers": [
+    {
+      "text": "infrastructure",
+      "correct": false,
+      "tipsAndFeedback": {
+        "tip": "",
+        "chosenFeedback": "That&#8217;s not correct. Culture is important to assess when marketing internationally, but Jamal is not examining cultural factors.",
+        "notChosenFeedback": ""
+      }
+    },
+    {
+      "text": "governmental stability",
+      "correct": false,
+      "tipsAndFeedback": {
+        "tip": "",
+        "chosenFeedback": "That&#8217;s not correct. Inflation and unemployment rates are important to assess when marketing internationally, but these are economic factors.",
+        "notChosenFeedback": ""
+      }
+    },
+    {
+      "text": "inflation and unemployment rates",
+      "correct": false,
+      "tipsAndFeedback": {
+        "tip": "",
+        "chosenFeedback": "That&#8217;s not correct. Governmental stability would assess how receptive it is to foreign firms and the complexity of the governmental bureaucracy.",
+        "notChosenFeedback": ""
+      }
+    },
+    {
+      "text": "culture",
+      "correct": true,
+      "tipsAndFeedback": {
+        "tip": "",
+        "chosenFeedback": "Infrastructure is the basic physical systems of a nation, such as roads, sewage treatment, communication, water treatment, etc.",
+        "notChosenFeedback": ""
+      }
+    }
+  ],
+  "subContentId": "437e2aed-0b5e-4bc5-90ba-40461ec5e240",
+  "detailedSolution": "Infrastructure is the basic physical systems of a nation, such as roads, sewage treatment, communication, water treatment, etc."
+}
