@@ -1,0 +1,22 @@
+{
+  "errata_id": "9433b99e50c238eb6347d0a89465141ea1a48c7743032d3e7f6df16d49707fe7",
+  "attachments": [],
+  "tags": [
+    "book:stax-mktg",
+    "lo:stax-mktg:11-2-1",
+    "context-cnxmod:65aa8de1-9be2-435a-bc74-2304af8e19a2",
+    "book-slug:principles-marketing",
+    "module-slug:principles-marketing:11-2-the-service-profit-chain-model-and-the-service-marketing-triangle"
+  ],
+  "books": [
+    {
+      "name": "stax-mktg",
+      "lo": [
+        "11-2-1"
+      ]
+    }
+  ],
+  "context": [
+    "m00072"
+  ]
+}
