@@ -1,0 +1,91 @@
+{
+  "UI": {
+    "showSolutionButton": "Show solution",
+    "tryAgainButton": "Retry",
+    "checkAnswerButton": "Check",
+    "tipsLabel": "Show tip",
+    "scoreBarLabel": "You got :num out of :total points",
+    "tipAvailable": "Tip available",
+    "feedbackAvailable": "Feedback available",
+    "readFeedback": "Read feedback",
+    "wrongAnswer": "Wrong answer",
+    "correctAnswer": "Correct answer",
+    "shouldCheck": "Should have been checked",
+    "shouldNotCheck": "Should not have been checked",
+    "noInput": "Please answer before viewing the solution"
+  },
+  "behaviour": {
+    "enableRetry": true,
+    "enableSolutionsButton": true,
+    "singlePoint": true,
+    "randomAnswers": true,
+    "showSolutionsRequiresInput": true,
+    "type": "auto",
+    "confirmCheckDialog": false,
+    "confirmRetryDialog": false,
+    "autoCheck": false,
+    "passPercentage": 100,
+    "showScorePoints": true,
+    "enableCheckButton": true
+  },
+  "overallFeedback": [
+    {
+      "from": 0,
+      "to": 0,
+      "feedback": "Wrong"
+    },
+    {
+      "from": 1,
+      "to": 99,
+      "feedback": "Almost!"
+    },
+    {
+      "from": 100,
+      "to": 100,
+      "feedback": "Correct!"
+    }
+  ],
+  "question": "Management in a hotel perceives that the biggest problem in customer service is the length of time that it takes to check in guests, so they have established a policy that check-in will take no more than 5 minutes. Which gap in the Gap Model of Service Quality does this action illustrate?",
+  "isSolutionPublic": true,
+  "isFreeResponseSupported": false,
+  "answers": [
+    {
+      "text": "Policy gap",
+      "correct": false,
+      "tipsAndFeedback": {
+        "tip": "",
+        "chosenFeedback": "That&#8217;s not correct. The customer gap is the difference between the customer&#8217;s expectations of the service or experience and their perception of the experience.",
+        "notChosenFeedback": ""
+      }
+    },
+    {
+      "text": "Delivery gap",
+      "correct": false,
+      "tipsAndFeedback": {
+        "tip": "",
+        "chosenFeedback": "That&#8217;s not correct. The communication gap is the difference between the delivery of the customer experience and what is communicated to the customer.",
+        "notChosenFeedback": ""
+      }
+    },
+    {
+      "text": "Communication gap",
+      "correct": false,
+      "tipsAndFeedback": {
+        "tip": "",
+        "chosenFeedback": "That&#8217;s not correct. The delivery gap is the difference between experience specification and the actual delivery of the service.",
+        "notChosenFeedback": ""
+      }
+    },
+    {
+      "text": "Customer gap",
+      "correct": true,
+      "tipsAndFeedback": {
+        "tip": "",
+        "chosenFeedback": "The policy gap is the difference between management&#8217;s perception of the customer&#8217;s needs and the translation of that understanding into service delivery policies and standards.",
+        "notChosenFeedback": ""
+      }
+    }
+  ],
+  "subContentId": "4288572f-e557-4690-8d2c-e681fe507f93",
+  "detailedSolution": "The policy gap is the difference between management’s perception of the customer’s needs and the translation of that understanding into service delivery policies and standards."
+}
