@@ -1,0 +1,91 @@
+{
+  "UI": {
+    "showSolutionButton": "Show solution",
+    "tryAgainButton": "Retry",
+    "checkAnswerButton": "Check",
+    "tipsLabel": "Show tip",
+    "scoreBarLabel": "You got :num out of :total points",
+    "tipAvailable": "Tip available",
+    "feedbackAvailable": "Feedback available",
+    "readFeedback": "Read feedback",
+    "wrongAnswer": "Wrong answer",
+    "correctAnswer": "Correct answer",
+    "shouldCheck": "Should have been checked",
+    "shouldNotCheck": "Should not have been checked",
+    "noInput": "Please answer before viewing the solution"
+  },
+  "behaviour": {
+    "enableRetry": true,
+    "enableSolutionsButton": true,
+    "singlePoint": true,
+    "randomAnswers": true,
+    "showSolutionsRequiresInput": true,
+    "type": "auto",
+    "confirmCheckDialog": false,
+    "confirmRetryDialog": false,
+    "autoCheck": false,
+    "passPercentage": 100,
+    "showScorePoints": true,
+    "enableCheckButton": true
+  },
+  "overallFeedback": [
+    {
+      "from": 0,
+      "to": 0,
+      "feedback": "Wrong"
+    },
+    {
+      "from": 1,
+      "to": 99,
+      "feedback": "Almost!"
+    },
+    {
+      "from": 100,
+      "to": 100,
+      "feedback": "Correct!"
+    }
+  ],
+  "question": "Janelle and her sister are planning a reception for their parents’ 50th wedding anniversary. They have looked at several venues, comparing size, location and accommodations, photo opportunities, and parking. What stage in the consumer decision process model does this best illustrate?",
+  "isSolutionPublic": true,
+  "isFreeResponseSupported": false,
+  "answers": [
+    {
+      "text": "Need recognition",
+      "correct": false,
+      "tipsAndFeedback": {
+        "tip": "",
+        "chosenFeedback": "That&#8217;s not correct. This stage involves actually reaching a decision on the booking of the venue.",
+        "notChosenFeedback": ""
+      }
+    },
+    {
+      "text": "Information search",
+      "correct": false,
+      "tipsAndFeedback": {
+        "tip": "",
+        "chosenFeedback": "That&#8217;s not correct. The information search stage would involve doing research about the venues on the Internet and perhaps asking friends or family for suggestions.",
+        "notChosenFeedback": ""
+      }
+    },
+    {
+      "text": "Evaluation of alternatives",
+      "correct": false,
+      "tipsAndFeedback": {
+        "tip": "",
+        "chosenFeedback": "That&#8217;s not correct. The need recognition stage is when you sense a difference between your actual state and your desired state.",
+        "notChosenFeedback": ""
+      }
+    },
+    {
+      "text": "Purchase decision",
+      "correct": true,
+      "tipsAndFeedback": {
+        "tip": "",
+        "chosenFeedback": "They are evaluating the &#8220;bundle of attributes&#8221; of each venue.",
+        "notChosenFeedback": ""
+      }
+    }
+  ],
+  "subContentId": "6c496198-ff5e-49d9-9fd0-1f443a8e9763",
+  "detailedSolution": "They are evaluating the “bundle of attributes” of each venue."
+}
