@@ -1,0 +1,25 @@
+{
+  "errata_id": "858845cc4deab113549d9608fb55dc7753600f7d4ead887a2fef12b6857757e4",
+  "attachments": [],
+  "tags": [
+    "type:practice",
+    "context-cnxmod:26033155-e4b9-468c-89d2-1a510ad1c431",
+    "book:stax-mktg",
+    "lo:stax-mktg:3-1-3",
+    "lo:stax-mktg:3-1-1",
+    "book-slug:principles-marketing",
+    "module-slug:principles-marketing:3-1-understanding-consumer-markets-and-buying-behavior"
+  ],
+  "books": [
+    {
+      "name": "stax-mktg",
+      "lo": [
+        "3-1-3",
+        "3-1-1"
+      ]
+    }
+  ],
+  "context": [
+    "m00002"
+  ]
+}
