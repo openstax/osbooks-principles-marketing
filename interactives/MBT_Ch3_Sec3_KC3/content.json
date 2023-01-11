@@ -1,0 +1,91 @@
+{
+  "UI": {
+    "showSolutionButton": "Show solution",
+    "tryAgainButton": "Retry",
+    "checkAnswerButton": "Check",
+    "tipsLabel": "Show tip",
+    "scoreBarLabel": "You got :num out of :total points",
+    "tipAvailable": "Tip available",
+    "feedbackAvailable": "Feedback available",
+    "readFeedback": "Read feedback",
+    "wrongAnswer": "Wrong answer",
+    "correctAnswer": "Correct answer",
+    "shouldCheck": "Should have been checked",
+    "shouldNotCheck": "Should not have been checked",
+    "noInput": "Please answer before viewing the solution"
+  },
+  "behaviour": {
+    "enableRetry": true,
+    "enableSolutionsButton": true,
+    "singlePoint": true,
+    "randomAnswers": true,
+    "showSolutionsRequiresInput": true,
+    "type": "auto",
+    "confirmCheckDialog": false,
+    "confirmRetryDialog": false,
+    "autoCheck": false,
+    "passPercentage": 100,
+    "showScorePoints": true,
+    "enableCheckButton": true
+  },
+  "overallFeedback": [
+    {
+      "from": 0,
+      "to": 0,
+      "feedback": "Wrong"
+    },
+    {
+      "from": 1,
+      "to": 99,
+      "feedback": "Almost!"
+    },
+    {
+      "from": 100,
+      "to": 100,
+      "feedback": "Correct!"
+    }
+  ],
+  "question": "Jason is considering buying a new laptop computer. He is researching different models based on factors like the processor, the hard drive capacity and speed, RAM, operating system, and price. He has also asked a few friends what they like and dislike about their laptops. Which stage of the consumer decision process model does this illustrate?",
+  "isSolutionPublic": true,
+  "isFreeResponseSupported": false,
+  "answers": [
+    {
+      "text": "Problem identification",
+      "correct": false,
+      "tipsAndFeedback": {
+        "tip": "",
+        "chosenFeedback": "That&#8217;s not correct. Post-purchase evaluation begins after the actual purchase is made, when you determine whether the product or service met, exceeded, or fell short of your expectations.",
+        "notChosenFeedback": ""
+      }
+    },
+    {
+      "text": "Evaluation of alternatives",
+      "correct": false,
+      "tipsAndFeedback": {
+        "tip": "",
+        "chosenFeedback": "That&#8217;s not correct. Jason is still researching different models; he has not yet started evaluating the different laptop alternatives.",
+        "notChosenFeedback": ""
+      }
+    },
+    {
+      "text": "Information search",
+      "correct": false,
+      "tipsAndFeedback": {
+        "tip": "",
+        "chosenFeedback": "That&#8217;s not correct. It appears that Jason has already determined that he needs (or wants) to buy a new laptop.",
+        "notChosenFeedback": ""
+      }
+    },
+    {
+      "text": "Post-purchase evaluation",
+      "correct": true,
+      "tipsAndFeedback": {
+        "tip": "",
+        "chosenFeedback": "Having identified that he needs a new laptop, Jason is searching for more information about different laptops and their capabilities.",
+        "notChosenFeedback": ""
+      }
+    }
+  ],
+  "subContentId": "f3ea7075-5e39-4436-90fe-1042e37b452f",
+  "detailedSolution": "Having identified that he needs a new laptop, Jason is searching for more information about different laptops and their capabilities."
+}
