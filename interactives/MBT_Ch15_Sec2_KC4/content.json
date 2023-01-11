@@ -1,0 +1,91 @@
+{
+  "UI": {
+    "showSolutionButton": "Show solution",
+    "tryAgainButton": "Retry",
+    "checkAnswerButton": "Check",
+    "tipsLabel": "Show tip",
+    "scoreBarLabel": "You got :num out of :total points",
+    "tipAvailable": "Tip available",
+    "feedbackAvailable": "Feedback available",
+    "readFeedback": "Read feedback",
+    "wrongAnswer": "Wrong answer",
+    "correctAnswer": "Correct answer",
+    "shouldCheck": "Should have been checked",
+    "shouldNotCheck": "Should not have been checked",
+    "noInput": "Please answer before viewing the solution"
+  },
+  "behaviour": {
+    "enableRetry": true,
+    "enableSolutionsButton": true,
+    "singlePoint": true,
+    "randomAnswers": true,
+    "showSolutionsRequiresInput": true,
+    "type": "auto",
+    "confirmCheckDialog": false,
+    "confirmRetryDialog": false,
+    "autoCheck": false,
+    "passPercentage": 100,
+    "showScorePoints": true,
+    "enableCheckButton": true
+  },
+  "overallFeedback": [
+    {
+      "from": 0,
+      "to": 0,
+      "feedback": "Wrong"
+    },
+    {
+      "from": 1,
+      "to": 99,
+      "feedback": "Almost!"
+    },
+    {
+      "from": 100,
+      "to": 100,
+      "feedback": "Correct!"
+    }
+  ],
+  "question": "Pfizer uses sales professionals to visit with physician offices and inform the physicians of the new medications and the uses for the medications and to encourage them to prescribe the new medications to their patients. This form of sales professional is often called ________?",
+  "isSolutionPublic": true,
+  "isFreeResponseSupported": false,
+  "answers": [
+    {
+      "text": "technical specialist",
+      "correct": false,
+      "tipsAndFeedback": {
+        "tip": "",
+        "chosenFeedback": "That&#8217;s not correct. The order getter is only responsible for taking orders when customers need more product.",
+        "notChosenFeedback": ""
+      }
+    },
+    {
+      "text": "order taker",
+      "correct": false,
+      "tipsAndFeedback": {
+        "tip": "",
+        "chosenFeedback": "That&#8217;s not correct. Order takers are only responsible for taking orders.",
+        "notChosenFeedback": ""
+      }
+    },
+    {
+      "text": "order getter",
+      "correct": false,
+      "tipsAndFeedback": {
+        "tip": "",
+        "chosenFeedback": "That&#8217;s not correct. Technical specialists are responsible for making sure the product will work in certain applications and for helping to customize products where necessary.",
+        "notChosenFeedback": ""
+      }
+    },
+    {
+      "text": "missionary sales",
+      "correct": true,
+      "tipsAndFeedback": {
+        "tip": "",
+        "chosenFeedback": "Missionary sales is responsible for educating and informing while also encouraging the use of a product.",
+        "notChosenFeedback": ""
+      }
+    }
+  ],
+  "subContentId": "5cfcb7d2-cbf6-4c93-b2bc-38a9383df47a",
+  "detailedSolution": "Missionary sales is responsible for educating and informing while also encouraging the use of a product."
+}
