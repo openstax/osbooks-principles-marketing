@@ -1,0 +1,91 @@
+{
+  "UI": {
+    "showSolutionButton": "Show solution",
+    "tryAgainButton": "Retry",
+    "checkAnswerButton": "Check",
+    "tipsLabel": "Show tip",
+    "scoreBarLabel": "You got :num out of :total points",
+    "tipAvailable": "Tip available",
+    "feedbackAvailable": "Feedback available",
+    "readFeedback": "Read feedback",
+    "wrongAnswer": "Wrong answer",
+    "correctAnswer": "Correct answer",
+    "shouldCheck": "Should have been checked",
+    "shouldNotCheck": "Should not have been checked",
+    "noInput": "Please answer before viewing the solution"
+  },
+  "behaviour": {
+    "enableRetry": true,
+    "enableSolutionsButton": true,
+    "singlePoint": true,
+    "randomAnswers": true,
+    "showSolutionsRequiresInput": true,
+    "type": "auto",
+    "confirmCheckDialog": false,
+    "confirmRetryDialog": false,
+    "autoCheck": false,
+    "passPercentage": 100,
+    "showScorePoints": true,
+    "enableCheckButton": true
+  },
+  "overallFeedback": [
+    {
+      "from": 0,
+      "to": 0,
+      "feedback": "Wrong"
+    },
+    {
+      "from": 1,
+      "to": 99,
+      "feedback": "Almost!"
+    },
+    {
+      "from": 100,
+      "to": 100,
+      "feedback": "Correct!"
+    }
+  ],
+  "question": "Which type of wholesaler utilizes independent contractors as liaisons between manufacturers and retailers?",
+  "isSolutionPublic": true,
+  "isFreeResponseSupported": false,
+  "answers": [
+    {
+      "text": "Manufacturer’s agents",
+      "correct": false,
+      "tipsAndFeedback": {
+        "tip": "",
+        "chosenFeedback": "That&#8217;s not correct. Full-line wholesalers offer the most services to retailers.",
+        "notChosenFeedback": ""
+      }
+    },
+    {
+      "text": "Rack jobbers",
+      "correct": false,
+      "tipsAndFeedback": {
+        "tip": "",
+        "chosenFeedback": "That&#8217;s not correct. Truck jobbers carry product on trucks and sell directly from there.",
+        "notChosenFeedback": ""
+      }
+    },
+    {
+      "text": "Truck jobbers",
+      "correct": false,
+      "tipsAndFeedback": {
+        "tip": "",
+        "chosenFeedback": "That&#8217;s not correct. Rack jobbers display and merchandise products in stores and are considered limited-line wholesalers.",
+        "notChosenFeedback": ""
+      }
+    },
+    {
+      "text": "Full-line wholesalers",
+      "correct": true,
+      "tipsAndFeedback": {
+        "tip": "",
+        "chosenFeedback": "Manufacturer&#8217;s agents are independent contractors who act as salespersons for multiple manufacturers to sell similar (but not competing) products to retailers.",
+        "notChosenFeedback": ""
+      }
+    }
+  ],
+  "subContentId": "798735a0-fa2f-45f7-8ce4-4558765cf317",
+  "detailedSolution": "Manufacturer’s agents are independent contractors who act as salespersons for multiple manufacturers to sell similar (but not competing) products to retailers."
+}
