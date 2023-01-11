@@ -1,0 +1,22 @@
+{
+  "errata_id": "72f940031419c120aa4e86fec3cf3a3c90ca7897a12a12ab5dc1702bab5a1858",
+  "attachments": [],
+  "tags": [
+    "book:stax-mktg",
+    "context-cnxmod:33047a45-fd2b-456c-a850-bf51f936c75c",
+    "lo:stax-mktg:5-6-3",
+    "book-slug:principles-marketing",
+    "module-slug:principles-marketing:5-6-product-positioning"
+  ],
+  "books": [
+    {
+      "name": "stax-mktg",
+      "lo": [
+        "5-6-3"
+      ]
+    }
+  ],
+  "context": [
+    "m00032"
+  ]
+}
