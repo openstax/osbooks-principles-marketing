@@ -1,0 +1,91 @@
+{
+  "UI": {
+    "showSolutionButton": "Show solution",
+    "tryAgainButton": "Retry",
+    "checkAnswerButton": "Check",
+    "tipsLabel": "Show tip",
+    "scoreBarLabel": "You got :num out of :total points",
+    "tipAvailable": "Tip available",
+    "feedbackAvailable": "Feedback available",
+    "readFeedback": "Read feedback",
+    "wrongAnswer": "Wrong answer",
+    "correctAnswer": "Correct answer",
+    "shouldCheck": "Should have been checked",
+    "shouldNotCheck": "Should not have been checked",
+    "noInput": "Please answer before viewing the solution"
+  },
+  "behaviour": {
+    "enableRetry": true,
+    "enableSolutionsButton": true,
+    "singlePoint": true,
+    "randomAnswers": true,
+    "showSolutionsRequiresInput": true,
+    "type": "auto",
+    "confirmCheckDialog": false,
+    "confirmRetryDialog": false,
+    "autoCheck": false,
+    "passPercentage": 100,
+    "showScorePoints": true,
+    "enableCheckButton": true
+  },
+  "overallFeedback": [
+    {
+      "from": 0,
+      "to": 0,
+      "feedback": "Wrong"
+    },
+    {
+      "from": 1,
+      "to": 99,
+      "feedback": "Almost!"
+    },
+    {
+      "from": 100,
+      "to": 100,
+      "feedback": "Correct!"
+    }
+  ],
+  "question": "Lucia works for ABC Home Centers. The company sells roofing and windows to customers looking to make home improvements. Lucia’s main job with the company is to identify people who might be in the market for home improvement products. As part of Lucia’s job, she calls people to see if they would be interested in finding out more about ABC’s products. What stage of the sales process is Lucia doing?",
+  "isSolutionPublic": true,
+  "isFreeResponseSupported": false,
+  "answers": [
+    {
+      "text": "Closing",
+      "correct": false,
+      "tipsAndFeedback": {
+        "tip": "",
+        "chosenFeedback": "That&#8217;s not correct. The presentation is when the sales professional demonstrates and discusses the features and benefits of the product.",
+        "notChosenFeedback": ""
+      }
+    },
+    {
+      "text": "Handling objections",
+      "correct": false,
+      "tipsAndFeedback": {
+        "tip": "",
+        "chosenFeedback": "That&#8217;s not correct. Handling objections is the element of the sale when the sales professional works to show the customer why the products will be a good fit for their needs.",
+        "notChosenFeedback": ""
+      }
+    },
+    {
+      "text": "Presentation",
+      "correct": false,
+      "tipsAndFeedback": {
+        "tip": "",
+        "chosenFeedback": "That&#8217;s not correct. Closing is when the sales professional asks for the sale.",
+        "notChosenFeedback": ""
+      }
+    },
+    {
+      "text": "Prospecting and qualifying",
+      "correct": true,
+      "tipsAndFeedback": {
+        "tip": "",
+        "chosenFeedback": "Lucia is trying to find the qualified people to buy the products.",
+        "notChosenFeedback": ""
+      }
+    }
+  ],
+  "subContentId": "fa068eb3-f037-4315-882a-c0c9cb8f8b8a",
+  "detailedSolution": "Lucia is trying to find the qualified people to buy the products."
+}
