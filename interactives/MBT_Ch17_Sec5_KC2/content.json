@@ -1,0 +1,91 @@
+{
+  "UI": {
+    "showSolutionButton": "Show solution",
+    "tryAgainButton": "Retry",
+    "checkAnswerButton": "Check",
+    "tipsLabel": "Show tip",
+    "scoreBarLabel": "You got :num out of :total points",
+    "tipAvailable": "Tip available",
+    "feedbackAvailable": "Feedback available",
+    "readFeedback": "Read feedback",
+    "wrongAnswer": "Wrong answer",
+    "correctAnswer": "Correct answer",
+    "shouldCheck": "Should have been checked",
+    "shouldNotCheck": "Should not have been checked",
+    "noInput": "Please answer before viewing the solution"
+  },
+  "behaviour": {
+    "enableRetry": true,
+    "enableSolutionsButton": true,
+    "singlePoint": true,
+    "randomAnswers": true,
+    "showSolutionsRequiresInput": true,
+    "type": "auto",
+    "confirmCheckDialog": false,
+    "confirmRetryDialog": false,
+    "autoCheck": false,
+    "passPercentage": 100,
+    "showScorePoints": true,
+    "enableCheckButton": true
+  },
+  "overallFeedback": [
+    {
+      "from": 0,
+      "to": 0,
+      "feedback": "Wrong"
+    },
+    {
+      "from": 1,
+      "to": 99,
+      "feedback": "Almost!"
+    },
+    {
+      "from": 100,
+      "to": 100,
+      "feedback": "Correct!"
+    }
+  ],
+  "question": "Which of the following best demonstrates the role that marketing plays in supply chain management?",
+  "isSolutionPublic": true,
+  "isFreeResponseSupported": false,
+  "answers": [
+    {
+      "text": "In order for companies to deliver on their value proposition to consumers, they must ensure that the activities and members in the supply chain share the common goal of delivering value to consumers.",
+      "correct": false,
+      "tipsAndFeedback": {
+        "tip": "",
+        "chosenFeedback": "That&#8217;s not correct. While working with supply chain members that can save time and money in the distribution of products is important, it does not account for the wants and needs of the customer.",
+        "notChosenFeedback": ""
+      }
+    },
+    {
+      "text": "Companies need to raise the price of their products with the supply chain in mind so that they earn a profit.",
+      "correct": false,
+      "tipsAndFeedback": {
+        "tip": "",
+        "chosenFeedback": "That&#8217;s not correct. Companies need to do more than just market their products to supply chain members.",
+        "notChosenFeedback": ""
+      }
+    },
+    {
+      "text": "Companies must market their products to supply chain members in order to win partnership with them.",
+      "correct": false,
+      "tipsAndFeedback": {
+        "tip": "",
+        "chosenFeedback": "That&#8217;s not correct. There a variety of factors that influence the price companies set for a product.",
+        "notChosenFeedback": ""
+      }
+    },
+    {
+      "text": "Companies should only work with supply chain members who can save time and money in the distribution of products. Savings are most important to customers.",
+      "correct": true,
+      "tipsAndFeedback": {
+        "tip": "",
+        "chosenFeedback": "In order for companies to deliver on their value proposition to consumers, they must ensure that the activities and members in the supply chain share the common goal of delivering value to consumers.",
+        "notChosenFeedback": ""
+      }
+    }
+  ],
+  "subContentId": "9cec3dc4-049b-4b56-951c-d58f9b332d54",
+  "detailedSolution": "In order for companies to deliver on their value proposition to consumers, they must ensure that the activities and members in the supply chain share the common goal of delivering value to consumers."
+}
