@@ -1,0 +1,91 @@
+{
+  "UI": {
+    "showSolutionButton": "Show solution",
+    "tryAgainButton": "Retry",
+    "checkAnswerButton": "Check",
+    "tipsLabel": "Show tip",
+    "scoreBarLabel": "You got :num out of :total points",
+    "tipAvailable": "Tip available",
+    "feedbackAvailable": "Feedback available",
+    "readFeedback": "Read feedback",
+    "wrongAnswer": "Wrong answer",
+    "correctAnswer": "Correct answer",
+    "shouldCheck": "Should have been checked",
+    "shouldNotCheck": "Should not have been checked",
+    "noInput": "Please answer before viewing the solution"
+  },
+  "behaviour": {
+    "enableRetry": true,
+    "enableSolutionsButton": true,
+    "singlePoint": true,
+    "randomAnswers": true,
+    "showSolutionsRequiresInput": true,
+    "type": "auto",
+    "confirmCheckDialog": false,
+    "confirmRetryDialog": false,
+    "autoCheck": false,
+    "passPercentage": 100,
+    "showScorePoints": true,
+    "enableCheckButton": true
+  },
+  "overallFeedback": [
+    {
+      "from": 0,
+      "to": 0,
+      "feedback": "Wrong"
+    },
+    {
+      "from": 1,
+      "to": 99,
+      "feedback": "Almost!"
+    },
+    {
+      "from": 100,
+      "to": 100,
+      "feedback": "Correct!"
+    }
+  ],
+  "question": "You’ve emailed a customer satisfaction survey to 20,000 customers and received 1,825 responses. Of those 1,825 responses, the ratings came back as:\n<ul style=\"padding-left:1.5em;margin-left:1.5em;\">\n<li>500 very satisfied</li>\n<li>300 satisfied</li>\n<li>1,025 neutral or dissatisfied or very dissatisfied</li>\n</ul>\n<p>What is the customer satisfaction score?</p>",
+  "isSolutionPublic": true,
+  "isFreeResponseSupported": false,
+  "answers": [
+    {
+      "text": "44 percent",
+      "correct": false,
+      "tipsAndFeedback": {
+        "tip": "",
+        "chosenFeedback": "That&#8217;s not correct. The CSAT score is calculated by taking the total number of satisfied customers and dividing that by the total number of responses, then multiplying that number by 100.\n",
+        "notChosenFeedback": ""
+      }
+    },
+    {
+      "text": "27 percent",
+      "correct": false,
+      "tipsAndFeedback": {
+        "tip": "",
+        "chosenFeedback": "That&#8217;s not correct. The CSAT score is calculated by taking the total number of satisfied customers and dividing that by the total number of responses, then multiplying that number by 100.",
+        "notChosenFeedback": ""
+      }
+    },
+    {
+      "text": "9 percent",
+      "correct": false,
+      "tipsAndFeedback": {
+        "tip": "",
+        "chosenFeedback": "That&#8217;s not correct. The CSAT score is calculated by taking the total number of satisfied customers and dividing that by the total number of responses, then multiplying that number by 100.",
+        "notChosenFeedback": ""
+      }
+    },
+    {
+      "text": "11 percent",
+      "correct": true,
+      "tipsAndFeedback": {
+        "tip": "",
+        "chosenFeedback": "To calculate the CSAT score, take the total number of satisfied customers and divide that by the total number of responses. Then multiply that number by 100 to obtain the percentage. In this scenario, you add 500 and 300 to get 800. Then divide that by 1,825 to get .438. Multiple that by 100 for 44&#37;.",
+        "notChosenFeedback": ""
+      }
+    }
+  ],
+  "subContentId": "2bd951d3-a8f8-4d5a-9422-fdb88db10b7c",
+  "detailedSolution": "To calculate the CSAT score, take the total number of satisfied customers and divide that by the total number of responses. Then multiply that number by 100 to obtain the percentage. In this scenario, you add 500 and 300 to get 800. Then divide that by 1,825 to get .438. Multiple that by 100 for 44%."
+}
