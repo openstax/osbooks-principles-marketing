@@ -1,0 +1,91 @@
+{
+  "UI": {
+    "showSolutionButton": "Show solution",
+    "tryAgainButton": "Retry",
+    "checkAnswerButton": "Check",
+    "tipsLabel": "Show tip",
+    "scoreBarLabel": "You got :num out of :total points",
+    "tipAvailable": "Tip available",
+    "feedbackAvailable": "Feedback available",
+    "readFeedback": "Read feedback",
+    "wrongAnswer": "Wrong answer",
+    "correctAnswer": "Correct answer",
+    "shouldCheck": "Should have been checked",
+    "shouldNotCheck": "Should not have been checked",
+    "noInput": "Please answer before viewing the solution"
+  },
+  "behaviour": {
+    "enableRetry": true,
+    "enableSolutionsButton": true,
+    "singlePoint": true,
+    "randomAnswers": true,
+    "showSolutionsRequiresInput": true,
+    "type": "auto",
+    "confirmCheckDialog": false,
+    "confirmRetryDialog": false,
+    "autoCheck": false,
+    "passPercentage": 100,
+    "showScorePoints": true,
+    "enableCheckButton": true
+  },
+  "overallFeedback": [
+    {
+      "from": 0,
+      "to": 0,
+      "feedback": "Wrong"
+    },
+    {
+      "from": 1,
+      "to": 99,
+      "feedback": "Almost!"
+    },
+    {
+      "from": 100,
+      "to": 100,
+      "feedback": "Correct!"
+    }
+  ],
+  "question": "When Taco Bell was hit with a lawsuit that claimed its seasoned beef was only 35 percent beef, the company utilized social media to show its ingredients, a campaign that was wildly successful. Which of the following was Taco Bell hoping for?",
+  "isSolutionPublic": true,
+  "isFreeResponseSupported": false,
+  "answers": [
+    {
+      "text": "Guaranteed results",
+      "correct": false,
+      "tipsAndFeedback": {
+        "tip": "",
+        "chosenFeedback": "That&#8217;s not correct. The company&#8217;s campaign likely was to help prevent a decrease in sales; its main goal was not to increase sales.",
+        "notChosenFeedback": ""
+      }
+    },
+    {
+      "text": "Improved brand image",
+      "correct": false,
+      "tipsAndFeedback": {
+        "tip": "",
+        "chosenFeedback": "That&#8217;s not correct. While Taco Bell controlled the original message in social media, it had no control over how people would respond to or even spin it.",
+        "notChosenFeedback": ""
+      }
+    },
+    {
+      "text": "Direct control of the message",
+      "correct": false,
+      "tipsAndFeedback": {
+        "tip": "",
+        "chosenFeedback": "That&#8217;s not correct. The company&#8217;s marketers likely knew there was no guarantee its campaign would be successful.",
+        "notChosenFeedback": ""
+      }
+    },
+    {
+      "text": "Increase sales and leads",
+      "correct": true,
+      "tipsAndFeedback": {
+        "tip": "",
+        "chosenFeedback": "Taco Bell was hoping that the campaign would outweigh the negative brand image caused by the lawsuit (and it worked).",
+        "notChosenFeedback": ""
+      }
+    }
+  ],
+  "subContentId": "fcb61a8a-4a01-4022-b45d-a1578aede60a",
+  "detailedSolution": "Taco Bell was hoping that the campaign would outweigh the negative brand image caused by the lawsuit (and it worked)."
+}
