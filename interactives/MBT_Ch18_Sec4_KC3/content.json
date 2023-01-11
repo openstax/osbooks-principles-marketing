@@ -1,0 +1,91 @@
+{
+  "UI": {
+    "showSolutionButton": "Show solution",
+    "tryAgainButton": "Retry",
+    "checkAnswerButton": "Check",
+    "tipsLabel": "Show tip",
+    "scoreBarLabel": "You got :num out of :total points",
+    "tipAvailable": "Tip available",
+    "feedbackAvailable": "Feedback available",
+    "readFeedback": "Read feedback",
+    "wrongAnswer": "Wrong answer",
+    "correctAnswer": "Correct answer",
+    "shouldCheck": "Should have been checked",
+    "shouldNotCheck": "Should not have been checked",
+    "noInput": "Please answer before viewing the solution"
+  },
+  "behaviour": {
+    "enableRetry": true,
+    "enableSolutionsButton": true,
+    "singlePoint": true,
+    "randomAnswers": true,
+    "showSolutionsRequiresInput": true,
+    "type": "auto",
+    "confirmCheckDialog": false,
+    "confirmRetryDialog": false,
+    "autoCheck": false,
+    "passPercentage": 100,
+    "showScorePoints": true,
+    "enableCheckButton": true
+  },
+  "overallFeedback": [
+    {
+      "from": 0,
+      "to": 0,
+      "feedback": "Wrong"
+    },
+    {
+      "from": 1,
+      "to": 99,
+      "feedback": "Almost!"
+    },
+    {
+      "from": 100,
+      "to": 100,
+      "feedback": "Correct!"
+    }
+  ],
+  "question": "Software-based systems that allow for secure transactions by storing passwords and payment information are known as ________.",
+  "isSolutionPublic": true,
+  "isFreeResponseSupported": false,
+  "answers": [
+    {
+      "text": "e-commerce",
+      "correct": false,
+      "tipsAndFeedback": {
+        "tip": "",
+        "chosenFeedback": "That&#8217;s not correct. Social commerce is a blend of e-commerce and social media, where retailers often use influencers to market products.",
+        "notChosenFeedback": ""
+      }
+    },
+    {
+      "text": "online stores in offline spaces",
+      "correct": false,
+      "tipsAndFeedback": {
+        "tip": "",
+        "chosenFeedback": "That&#8217;s not correct. Online stores in offline spaces refers to the ability of a consumer to purchase products online and pick up in person.",
+        "notChosenFeedback": ""
+      }
+    },
+    {
+      "text": "social commerce",
+      "correct": false,
+      "tipsAndFeedback": {
+        "tip": "",
+        "chosenFeedback": "That&#8217;s not correct. E-commerce is the ability of a consumer to browse and order products online.",
+        "notChosenFeedback": ""
+      }
+    },
+    {
+      "text": "digital wallets",
+      "correct": true,
+      "tipsAndFeedback": {
+        "tip": "",
+        "chosenFeedback": "Digital wallets store consumers&#8217; passwords and payment information for safety and ease of ordering online.",
+        "notChosenFeedback": ""
+      }
+    }
+  ],
+  "subContentId": "1a9dc366-7c36-4b48-864c-d91000bbc3ac",
+  "detailedSolution": "Digital wallets store consumers’ passwords and payment information for safety and ease of ordering online."
+}
