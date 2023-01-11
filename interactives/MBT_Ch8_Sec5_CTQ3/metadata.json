@@ -1,0 +1,30 @@
+{
+  "errata_id": "e2429b427efe8a468734e8498e6572196d23096bec3329b9692e90a49a840bb0",
+  "attachments": [],
+  "tags": [
+    "type:practice",
+    "book:stax-mktg",
+    "context-cnxmod:e10038bb-db9a-4e4e-b70b-3616292f6a5d",
+    "lo:stax-mktg:8-5-3",
+    "lo:stax-mktg:8-6-1",
+    "lo:stax-mktg:8-6-2",
+    "context-cnxmod:57a0c2bb-d9f5-49a6-80f4-4766a8144cfa",
+    "book-slug:principles-marketing",
+    "module-slug:principles-marketing:8-5-marketing-to-sociodemographic-groups",
+    "module-slug:principles-marketing:8-6-ethical-issues-in-diversity-marketing"
+  ],
+  "books": [
+    {
+      "name": "stax-mktg",
+      "lo": [
+        "8-5-3",
+        "8-6-1",
+        "8-6-2"
+      ]
+    }
+  ],
+  "context": [
+    "m00051",
+    "m00052"
+  ]
+}

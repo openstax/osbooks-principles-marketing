@@ -1,0 +1,48 @@
+{
+  "overallFeedback": [
+    {
+      "from": 0,
+      "to": 100
+    }
+  ],
+  "behaviour": {
+    "inputFieldSize": "10",
+    "enableRetry": true,
+    "ignoreScoring": false,
+    "pointsHost": 1,
+    "linebreakReplacement": " "
+  },
+  "checkAnswer": "Check",
+  "submitAnswer": "Submit",
+  "tryAgain": "Retry",
+  "showSolution": "Show solution",
+  "feedbackHeader": "Feedback",
+  "solutionTitle": "Sample solution",
+  "remainingChars": "Remaining characters: @chars",
+  "notEnoughChars": "You must enter at least @chars characters!",
+  "messageSave": "saved",
+  "ariaYourResult": "You got @score out of @total points",
+  "ariaNavigatedToSolution": "Navigated to newly included sample solution after textarea.",
+  "ariaCheck": "Check the answers.",
+  "ariaShowSolution": "Show the solution. You will be provided with a sample solution.",
+  "ariaRetry": "Retry the task. You can improve your previous answer if the author allowed that.",
+  "taskDescription": "Research has shown that members of the baby boomer generation possess the most wealth in the United States and are responsible for 70 percent of annual spending on prescriptions and medical supplies. Are there any ethical considerations in developing marketing messages to this large and older segment of society that doesn’t want to be pigeonholed as “elderly”?",
+  "isSolutionPublic": true,
+  "solution": {
+    "introduction": "",
+    "sample": ""
+  },
+  "keywords": [
+    {
+      "options": {
+        "points": 1,
+        "occurrences": 1,
+        "caseSensitive": false,
+        "forgiveMistakes": false,
+        "feedbackIncludedWord": "keyword",
+        "feedbackMissedWord": "none"
+      },
+      "keyword": "*"
+    }
+  ]
+}
