@@ -1,0 +1,91 @@
+{
+  "UI": {
+    "showSolutionButton": "Show solution",
+    "tryAgainButton": "Retry",
+    "checkAnswerButton": "Check",
+    "tipsLabel": "Show tip",
+    "scoreBarLabel": "You got :num out of :total points",
+    "tipAvailable": "Tip available",
+    "feedbackAvailable": "Feedback available",
+    "readFeedback": "Read feedback",
+    "wrongAnswer": "Wrong answer",
+    "correctAnswer": "Correct answer",
+    "shouldCheck": "Should have been checked",
+    "shouldNotCheck": "Should not have been checked",
+    "noInput": "Please answer before viewing the solution"
+  },
+  "behaviour": {
+    "enableRetry": true,
+    "enableSolutionsButton": true,
+    "singlePoint": true,
+    "randomAnswers": true,
+    "showSolutionsRequiresInput": true,
+    "type": "auto",
+    "confirmCheckDialog": false,
+    "confirmRetryDialog": false,
+    "autoCheck": false,
+    "passPercentage": 100,
+    "showScorePoints": true,
+    "enableCheckButton": true
+  },
+  "overallFeedback": [
+    {
+      "from": 0,
+      "to": 0,
+      "feedback": "Wrong"
+    },
+    {
+      "from": 1,
+      "to": 99,
+      "feedback": "Almost!"
+    },
+    {
+      "from": 100,
+      "to": 100,
+      "feedback": "Correct!"
+    }
+  ],
+  "question": "One of the promotional mix methods is advertising. Advertising may be defined as any ________.",
+  "isSolutionPublic": true,
+  "isFreeResponseSupported": false,
+  "answers": [
+    {
+      "text": "communications about a good, service, or company",
+      "correct": false,
+      "tipsAndFeedback": {
+        "tip": "",
+        "chosenFeedback": "That&#8217;s not correct. Communication from a company sales representative to a company buyer is personal selling.",
+        "notChosenFeedback": ""
+      }
+    },
+    {
+      "text": "paid forms of nonpersonal communication about a good, service, or company",
+      "correct": false,
+      "tipsAndFeedback": {
+        "tip": "",
+        "chosenFeedback": "That&#8217;s not correct. Communication between the channel members is not typically done through advertising.",
+        "notChosenFeedback": ""
+      }
+    },
+    {
+      "text": "communication that moves the product from the wholesaler to the retailer",
+      "correct": false,
+      "tipsAndFeedback": {
+        "tip": "",
+        "chosenFeedback": "That&#8217;s not correct. General communication from a company to a target market could happen through any of the promotional mix methods.",
+        "notChosenFeedback": ""
+      }
+    },
+    {
+      "text": "communication from a company sales representative to a company buyer",
+      "correct": true,
+      "tipsAndFeedback": {
+        "tip": "",
+        "chosenFeedback": "The promotional mix method of advertising is a paid form of nonpersonal communication.",
+        "notChosenFeedback": ""
+      }
+    }
+  ],
+  "subContentId": "ae93959e-5bb3-44ac-b7e8-eeca234cf60b",
+  "detailedSolution": "The promotional mix method of advertising is a paid form of nonpersonal communication."
+}
