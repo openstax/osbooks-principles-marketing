@@ -1,0 +1,23 @@
+{
+  "errata_id": "fd5cf06ef2a35b23fe58d2fa7d75e92510d7f79c62222387443468b7459767a0",
+  "attachments": [],
+  "tags": [
+    "type:practice",
+    "book:stax-mktg",
+    "context-cnxmod:e10038bb-db9a-4e4e-b70b-3616292f6a5d",
+    "lo:stax-mktg:8-5-3",
+    "book-slug:principles-marketing",
+    "module-slug:principles-marketing:8-5-marketing-to-sociodemographic-groups"
+  ],
+  "books": [
+    {
+      "name": "stax-mktg",
+      "lo": [
+        "8-5-3"
+      ]
+    }
+  ],
+  "context": [
+    "m00051"
+  ]
+}
