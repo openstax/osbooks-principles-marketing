@@ -1,0 +1,91 @@
+{
+  "UI": {
+    "showSolutionButton": "Show solution",
+    "tryAgainButton": "Retry",
+    "checkAnswerButton": "Check",
+    "tipsLabel": "Show tip",
+    "scoreBarLabel": "You got :num out of :total points",
+    "tipAvailable": "Tip available",
+    "feedbackAvailable": "Feedback available",
+    "readFeedback": "Read feedback",
+    "wrongAnswer": "Wrong answer",
+    "correctAnswer": "Correct answer",
+    "shouldCheck": "Should have been checked",
+    "shouldNotCheck": "Should not have been checked",
+    "noInput": "Please answer before viewing the solution"
+  },
+  "behaviour": {
+    "enableRetry": true,
+    "enableSolutionsButton": true,
+    "singlePoint": true,
+    "randomAnswers": true,
+    "showSolutionsRequiresInput": true,
+    "type": "auto",
+    "confirmCheckDialog": false,
+    "confirmRetryDialog": false,
+    "autoCheck": false,
+    "passPercentage": 100,
+    "showScorePoints": true,
+    "enableCheckButton": true
+  },
+  "overallFeedback": [
+    {
+      "from": 0,
+      "to": 0,
+      "feedback": "Wrong"
+    },
+    {
+      "from": 1,
+      "to": 99,
+      "feedback": "Almost!"
+    },
+    {
+      "from": 100,
+      "to": 100,
+      "feedback": "Correct!"
+    }
+  ],
+  "question": "Traditionally, in China, the bride’s wedding gown is red because the color is associated with good luck, happiness, and prosperity. Which influence on consumer buying behavior does this illustrate?",
+  "isSolutionPublic": true,
+  "isFreeResponseSupported": false,
+  "answers": [
+    {
+      "text": "Culture",
+      "correct": false,
+      "tipsAndFeedback": {
+        "tip": "",
+        "chosenFeedback": "That&#8217;s not correct. Personality is the characteristic patterns of thoughts, feelings, and behaviors that make a person unique.",
+        "notChosenFeedback": ""
+      }
+    },
+    {
+      "text": "Social class",
+      "correct": false,
+      "tipsAndFeedback": {
+        "tip": "",
+        "chosenFeedback": "That&#8217;s not correct. Your lifestyle reflects your attitudes and values, such as living a healthy lifestyle.",
+        "notChosenFeedback": ""
+      }
+    },
+    {
+      "text": "Lifestyle",
+      "correct": false,
+      "tipsAndFeedback": {
+        "tip": "",
+        "chosenFeedback": "That&#8217;s not correct. Social class refers to those who occupy a similar socioeconomic status.",
+        "notChosenFeedback": ""
+      }
+    },
+    {
+      "text": "Personality",
+      "correct": true,
+      "tipsAndFeedback": {
+        "tip": "",
+        "chosenFeedback": "Culture refers to the values, ideas, and attitudes that are learned and shared among the members of a group.",
+        "notChosenFeedback": ""
+      }
+    }
+  ],
+  "subContentId": "987f5074-6945-463a-a008-09ef4fc4ae2c",
+  "detailedSolution": "Culture refers to the values, ideas, and attitudes that are learned and shared among the members of a group."
+}
