@@ -1,0 +1,91 @@
+{
+  "UI": {
+    "showSolutionButton": "Show solution",
+    "tryAgainButton": "Retry",
+    "checkAnswerButton": "Check",
+    "tipsLabel": "Show tip",
+    "scoreBarLabel": "You got :num out of :total points",
+    "tipAvailable": "Tip available",
+    "feedbackAvailable": "Feedback available",
+    "readFeedback": "Read feedback",
+    "wrongAnswer": "Wrong answer",
+    "correctAnswer": "Correct answer",
+    "shouldCheck": "Should have been checked",
+    "shouldNotCheck": "Should not have been checked",
+    "noInput": "Please answer before viewing the solution"
+  },
+  "behaviour": {
+    "enableRetry": true,
+    "enableSolutionsButton": true,
+    "singlePoint": true,
+    "randomAnswers": true,
+    "showSolutionsRequiresInput": true,
+    "type": "auto",
+    "confirmCheckDialog": false,
+    "confirmRetryDialog": false,
+    "autoCheck": false,
+    "passPercentage": 100,
+    "showScorePoints": true,
+    "enableCheckButton": true
+  },
+  "overallFeedback": [
+    {
+      "from": 0,
+      "to": 0,
+      "feedback": "Wrong"
+    },
+    {
+      "from": 1,
+      "to": 99,
+      "feedback": "Almost!"
+    },
+    {
+      "from": 100,
+      "to": 100,
+      "feedback": "Correct!"
+    }
+  ],
+  "question": "Total Appliance offers buyers installation services for refrigerators, dishwashers, washers, and dryers for $50. In addition, it also offers buyers a free annual tune-up of any major appliance purchased through its retail outlet. Which buyer requirement does Total Appliance fulfill?",
+  "isSolutionPublic": true,
+  "isFreeResponseSupported": false,
+  "answers": [
+    {
+      "text": "Variety",
+      "correct": false,
+      "tipsAndFeedback": {
+        "tip": "",
+        "chosenFeedback": "That&#8217;s not correct. Convenience relates to how easy it is for consumers to purchase your product.",
+        "notChosenFeedback": ""
+      }
+    },
+    {
+      "text": "Post-sale service",
+      "correct": false,
+      "tipsAndFeedback": {
+        "tip": "",
+        "chosenFeedback": "That&#8217;s not correct. Pre-sale service is any service offered to consumers prior to the purchase.",
+        "notChosenFeedback": ""
+      }
+    },
+    {
+      "text": "Pre-sale service",
+      "correct": false,
+      "tipsAndFeedback": {
+        "tip": "",
+        "chosenFeedback": "That&#8217;s not correct. Variety relates to the different competing and complementary products consumers can choose from.",
+        "notChosenFeedback": ""
+      }
+    },
+    {
+      "text": "Convenience",
+      "correct": true,
+      "tipsAndFeedback": {
+        "tip": "",
+        "chosenFeedback": "A post-sale service is a buyer requirement that is fulfilled after the purchase of a product.",
+        "notChosenFeedback": ""
+      }
+    }
+  ],
+  "subContentId": "f41d160d-7173-4cc3-b5ba-c2497a968ee0",
+  "detailedSolution": "A post-sale service is a buyer requirement that is fulfilled after the purchase of a product."
+}

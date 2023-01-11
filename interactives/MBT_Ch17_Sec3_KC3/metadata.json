@@ -1,0 +1,22 @@
+{
+  "errata_id": "db2ea47bea6fd2069a884e8706c15be09e05e3642358622d44a0a09f2c41de6d",
+  "attachments": [],
+  "tags": [
+    "book:stax-mktg",
+    "context-cnxmod:ac33c93d-b8f8-4ca5-926d-33181d5c16a3",
+    "lo:stax-mktg:17-3-3",
+    "book-slug:principles-marketing",
+    "module-slug:principles-marketing:17-3-factors-influencing-channel-choice"
+  ],
+  "books": [
+    {
+      "name": "stax-mktg",
+      "lo": [
+        "17-3-3"
+      ]
+    }
+  ],
+  "context": [
+    "m00112"
+  ]
+}
