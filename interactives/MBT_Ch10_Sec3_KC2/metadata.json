@@ -1,0 +1,22 @@
+{
+  "errata_id": "b9a8ec41b6f077b06e9ba16fb9a9aecbed258b045bff69d39ac26430acce2bda",
+  "attachments": [],
+  "tags": [
+    "book:stax-mktg",
+    "lo:stax-mktg:10-3-2",
+    "context-cnxmod:ebc51b4b-50cf-4691-b47f-7a95a7335839",
+    "book-slug:principles-marketing",
+    "module-slug:principles-marketing:10-3-the-use-of-metrics-in-evaluating-new-products"
+  ],
+  "books": [
+    {
+      "name": "stax-mktg",
+      "lo": [
+        "10-3-2"
+      ]
+    }
+  ],
+  "context": [
+    "m00066"
+  ]
+}

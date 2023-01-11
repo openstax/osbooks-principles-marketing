@@ -1,0 +1,91 @@
+{
+  "UI": {
+    "showSolutionButton": "Show solution",
+    "tryAgainButton": "Retry",
+    "checkAnswerButton": "Check",
+    "tipsLabel": "Show tip",
+    "scoreBarLabel": "You got :num out of :total points",
+    "tipAvailable": "Tip available",
+    "feedbackAvailable": "Feedback available",
+    "readFeedback": "Read feedback",
+    "wrongAnswer": "Wrong answer",
+    "correctAnswer": "Correct answer",
+    "shouldCheck": "Should have been checked",
+    "shouldNotCheck": "Should not have been checked",
+    "noInput": "Please answer before viewing the solution"
+  },
+  "behaviour": {
+    "enableRetry": true,
+    "enableSolutionsButton": true,
+    "singlePoint": true,
+    "randomAnswers": true,
+    "showSolutionsRequiresInput": true,
+    "type": "auto",
+    "confirmCheckDialog": false,
+    "confirmRetryDialog": false,
+    "autoCheck": false,
+    "passPercentage": 100,
+    "showScorePoints": true,
+    "enableCheckButton": true
+  },
+  "overallFeedback": [
+    {
+      "from": 0,
+      "to": 0,
+      "feedback": "Wrong"
+    },
+    {
+      "from": 1,
+      "to": 99,
+      "feedback": "Almost!"
+    },
+    {
+      "from": 100,
+      "to": 100,
+      "feedback": "Correct!"
+    }
+  ],
+  "question": "Which method calculates cost of goods sold, inventory, cash, and other financial line items as a percentage of sales and then applies that percentage to future sales estimates?",
+  "isSolutionPublic": true,
+  "isFreeResponseSupported": false,
+  "answers": [
+    {
+      "text": "Product adoption rate",
+      "correct": false,
+      "tipsAndFeedback": {
+        "tip": "",
+        "chosenFeedback": "That&#8217;s not correct. The revenue growth rate is an indicator of how well a company is able to grow its sales revenue over a given time period.",
+        "notChosenFeedback": ""
+      }
+    },
+    {
+      "text": "Current year percentage of sales",
+      "correct": false,
+      "tipsAndFeedback": {
+        "tip": "",
+        "chosenFeedback": "That&#8217;s not correct. Time to value is how long it takes new users to recognize the value of your product.",
+        "notChosenFeedback": ""
+      }
+    },
+    {
+      "text": "Time to value (TTV)",
+      "correct": false,
+      "tipsAndFeedback": {
+        "tip": "",
+        "chosenFeedback": "That&#8217;s not correct. The product adoption rate is the moment when users start to use your product&#8217;s features to accomplish the goals it was developed to address.",
+        "notChosenFeedback": ""
+      }
+    },
+    {
+      "text": "Revenue growth rate",
+      "correct": true,
+      "tipsAndFeedback": {
+        "tip": "",
+        "chosenFeedback": "Current year percentage of sales is a &#8220;quick and dirty&#8221; way to estimate the product&#8217;s future value.",
+        "notChosenFeedback": ""
+      }
+    }
+  ],
+  "subContentId": "3576b14c-e1b7-4d9b-83bf-7ecd113b8570",
+  "detailedSolution": "Current year percentage of sales is a “quick and dirty” way to estimate the product’s future value."
+}
