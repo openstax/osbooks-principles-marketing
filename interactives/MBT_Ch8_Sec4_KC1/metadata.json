@@ -1,0 +1,22 @@
+{
+  "errata_id": "c65aaee1bf4b84f8b88ab5f8535f4df745780810e6599b983582c5ce2e3fe2a3",
+  "attachments": [],
+  "tags": [
+    "book:stax-mktg",
+    "lo:stax-mktg:8-4-1",
+    "context-cnxmod:d32da943-bd4c-4285-824b-3b84b76f61bd",
+    "book-slug:principles-marketing",
+    "module-slug:principles-marketing:8-4-marketing-to-hispanic-black-and-asian-consumers"
+  ],
+  "books": [
+    {
+      "name": "stax-mktg",
+      "lo": [
+        "8-4-1"
+      ]
+    }
+  ],
+  "context": [
+    "m00048"
+  ]
+}

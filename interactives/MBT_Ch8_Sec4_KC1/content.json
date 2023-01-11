@@ -1,0 +1,91 @@
+{
+  "UI": {
+    "showSolutionButton": "Show solution",
+    "tryAgainButton": "Retry",
+    "checkAnswerButton": "Check",
+    "tipsLabel": "Show tip",
+    "scoreBarLabel": "You got :num out of :total points",
+    "tipAvailable": "Tip available",
+    "feedbackAvailable": "Feedback available",
+    "readFeedback": "Read feedback",
+    "wrongAnswer": "Wrong answer",
+    "correctAnswer": "Correct answer",
+    "shouldCheck": "Should have been checked",
+    "shouldNotCheck": "Should not have been checked",
+    "noInput": "Please answer before viewing the solution"
+  },
+  "behaviour": {
+    "enableRetry": true,
+    "enableSolutionsButton": true,
+    "singlePoint": true,
+    "randomAnswers": true,
+    "showSolutionsRequiresInput": true,
+    "type": "auto",
+    "confirmCheckDialog": false,
+    "confirmRetryDialog": false,
+    "autoCheck": false,
+    "passPercentage": 100,
+    "showScorePoints": true,
+    "enableCheckButton": true
+  },
+  "overallFeedback": [
+    {
+      "from": 0,
+      "to": 0,
+      "feedback": "Wrong"
+    },
+    {
+      "from": 1,
+      "to": 99,
+      "feedback": "Almost!"
+    },
+    {
+      "from": 100,
+      "to": 100,
+      "feedback": "Correct!"
+    }
+  ],
+  "question": "Which of the following is the largest segment of multicultural consumers in the United States?",
+  "isSolutionPublic": true,
+  "isFreeResponseSupported": false,
+  "answers": [
+    {
+      "text": "Asian population",
+      "correct": false,
+      "tipsAndFeedback": {
+        "tip": "",
+        "chosenFeedback": "That&#8217;s not correct. The Native American and Alaska Native populations represent 1.1 percent of the population of the United States with 3.7 million individuals identifying as single-race Native people. During the 2020 Census, these Native groups were combined with other races and ethnicities, boosting the number to 9.7 million people, or about 2.9 percent of the total population.",
+        "notChosenFeedback": ""
+      }
+    },
+    {
+      "text": "Black population",
+      "correct": false,
+      "tipsAndFeedback": {
+        "tip": "",
+        "chosenFeedback": "That&#8217;s not correct. Black people are the second largest multicultural group in the United States after Hispanic people.",
+        "notChosenFeedback": ""
+      }
+    },
+    {
+      "text": "Hispanic population",
+      "correct": false,
+      "tipsAndFeedback": {
+        "tip": "",
+        "chosenFeedback": "That&#8217;s not correct. The Asian population in the United States is 24 million individuals, which is 7.2 percent of the total country&#8217;s inhabitants. This is not the largest segment in the United States.",
+        "notChosenFeedback": ""
+      }
+    },
+    {
+      "text": "Native American and Alaskan Native population",
+      "correct": true,
+      "tipsAndFeedback": {
+        "tip": "",
+        "chosenFeedback": "The Hispanic population is the largest multicultural segment in the United States based on 2020 US Census data.",
+        "notChosenFeedback": ""
+      }
+    }
+  ],
+  "subContentId": "0d3b2da1-9429-46f2-9167-ca2babd26d55",
+  "detailedSolution": "The Hispanic population is the largest multicultural segment in the United States based on 2020 US Census data."
+}
