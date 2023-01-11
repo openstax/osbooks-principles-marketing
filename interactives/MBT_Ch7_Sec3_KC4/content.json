@@ -1,0 +1,91 @@
+{
+  "UI": {
+    "showSolutionButton": "Show solution",
+    "tryAgainButton": "Retry",
+    "checkAnswerButton": "Check",
+    "tipsLabel": "Show tip",
+    "scoreBarLabel": "You got :num out of :total points",
+    "tipAvailable": "Tip available",
+    "feedbackAvailable": "Feedback available",
+    "readFeedback": "Read feedback",
+    "wrongAnswer": "Wrong answer",
+    "correctAnswer": "Correct answer",
+    "shouldCheck": "Should have been checked",
+    "shouldNotCheck": "Should not have been checked",
+    "noInput": "Please answer before viewing the solution"
+  },
+  "behaviour": {
+    "enableRetry": true,
+    "enableSolutionsButton": true,
+    "singlePoint": true,
+    "randomAnswers": true,
+    "showSolutionsRequiresInput": true,
+    "type": "auto",
+    "confirmCheckDialog": false,
+    "confirmRetryDialog": false,
+    "autoCheck": false,
+    "passPercentage": 100,
+    "showScorePoints": true,
+    "enableCheckButton": true
+  },
+  "overallFeedback": [
+    {
+      "from": 0,
+      "to": 0,
+      "feedback": "Wrong"
+    },
+    {
+      "from": 1,
+      "to": 99,
+      "feedback": "Almost!"
+    },
+    {
+      "from": 100,
+      "to": 100,
+      "feedback": "Correct!"
+    }
+  ],
+  "question": "A company wants to expand into a particular global market, but local firms are better equipped to handle some business processes, such as logistics. Additionally, it is particularly difficult to enter this market. Which of the following would you recommend to the expanding company?",
+  "isSolutionPublic": true,
+  "isFreeResponseSupported": false,
+  "answers": [
+    {
+      "text": "Franchising",
+      "correct": false,
+      "tipsAndFeedback": {
+        "tip": "",
+        "chosenFeedback": "That&#8217;s not correct. Licensing is a contract in which one organization permits another to use its name brand or trademark on its own items.",
+        "notChosenFeedback": ""
+      }
+    },
+    {
+      "text": "Exporting",
+      "correct": false,
+      "tipsAndFeedback": {
+        "tip": "",
+        "chosenFeedback": "That&#8217;s not correct. Exporting involves a firm making a product or service in one country and selling it in others.",
+        "notChosenFeedback": ""
+      }
+    },
+    {
+      "text": "Licensing",
+      "correct": false,
+      "tipsAndFeedback": {
+        "tip": "",
+        "chosenFeedback": "That&#8217;s not correct. Franchising is a business strategy in which the owner (the franchisor) allows another person or entity (the franchisee) to operate a business using the franchisor&#8217;s products, branding, and knowledge in exchange for a fee.",
+        "notChosenFeedback": ""
+      }
+    },
+    {
+      "text": "Joint venture",
+      "correct": true,
+      "tipsAndFeedback": {
+        "tip": "",
+        "chosenFeedback": "A joint venture is a business arrangement whereby two or more companies create a single enterprise or project.",
+        "notChosenFeedback": ""
+      }
+    }
+  ],
+  "subContentId": "0022d1c9-c03e-42c2-a958-e7d332b8f5e0",
+  "detailedSolution": "A joint venture is a business arrangement whereby two or more companies create a single enterprise or project."
+}
