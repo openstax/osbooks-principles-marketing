@@ -1,0 +1,22 @@
+{
+  "errata_id": "b7bcf271971b759c2a0516744f477d5ceffe10b66641cc9b30b5465fc1c62c51",
+  "attachments": [],
+  "tags": [
+    "book:stax-mktg",
+    "lo:stax-mktg:16-3-1",
+    "context-cnxmod:74872890-be5d-4ea0-b696-5d01eacd9ece",
+    "book-slug:principles-marketing",
+    "module-slug:principles-marketing:16-3-metrics-used-to-evaluate-the-success-of-online-marketing"
+  ],
+  "books": [
+    {
+      "name": "stax-mktg",
+      "lo": [
+        "16-3-1"
+      ]
+    }
+  ],
+  "context": [
+    "m00107"
+  ]
+}
