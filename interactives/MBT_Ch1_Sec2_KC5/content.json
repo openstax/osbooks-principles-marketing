@@ -1,0 +1,91 @@
+{
+  "UI": {
+    "showSolutionButton": "Show solution",
+    "tryAgainButton": "Retry",
+    "checkAnswerButton": "Check",
+    "tipsLabel": "Show tip",
+    "scoreBarLabel": "You got :num out of :total points",
+    "tipAvailable": "Tip available",
+    "feedbackAvailable": "Feedback available",
+    "readFeedback": "Read feedback",
+    "wrongAnswer": "Wrong answer",
+    "correctAnswer": "Correct answer",
+    "shouldCheck": "Should have been checked",
+    "shouldNotCheck": "Should not have been checked",
+    "noInput": "Please answer before viewing the solution"
+  },
+  "behaviour": {
+    "enableRetry": true,
+    "enableSolutionsButton": true,
+    "singlePoint": true,
+    "randomAnswers": true,
+    "showSolutionsRequiresInput": true,
+    "type": "auto",
+    "confirmCheckDialog": false,
+    "confirmRetryDialog": false,
+    "autoCheck": false,
+    "passPercentage": 100,
+    "showScorePoints": true,
+    "enableCheckButton": true
+  },
+  "overallFeedback": [
+    {
+      "from": 0,
+      "to": 0,
+      "feedback": "Wrong"
+    },
+    {
+      "from": 1,
+      "to": 99,
+      "feedback": "Almost!"
+    },
+    {
+      "from": 100,
+      "to": 100,
+      "feedback": "Correct!"
+    }
+  ],
+  "question": "You’re a marketer trying to determine which trade shows you might want to include in your marketing mix. Which element of the marketing mix would address this concern?",
+  "isSolutionPublic": true,
+  "isFreeResponseSupported": false,
+  "answers": [
+    {
+      "text": "Product",
+      "correct": false,
+      "tipsAndFeedback": {
+        "tip": "",
+        "chosenFeedback": "That&#8217;s not correct. Place strategies are concerned with what platforms clients may use to discover my product, what locations would best showcase my product, and where my clients seek products such as mine.",
+        "notChosenFeedback": ""
+      }
+    },
+    {
+      "text": "Price",
+      "correct": false,
+      "tipsAndFeedback": {
+        "tip": "",
+        "chosenFeedback": "That&#8217;s not correct. The determination of the minimum price needed to produce a profit and the highest price a company can charge without losing customers are among the questions price considers.",
+        "notChosenFeedback": ""
+      }
+    },
+    {
+      "text": "Place",
+      "correct": false,
+      "tipsAndFeedback": {
+        "tip": "",
+        "chosenFeedback": "That&#8217;s not correct. Product strategies aim to identify an unfulfilled need in the marketplace and design and offer the ideal solution to that need.",
+        "notChosenFeedback": ""
+      }
+    },
+    {
+      "text": "Promotion",
+      "correct": true,
+      "tipsAndFeedback": {
+        "tip": "",
+        "chosenFeedback": "In the realm of promotion advertising, direct mail, social media communications, trade shows, events, coupons, and media choices are among the many aspects considered.",
+        "notChosenFeedback": ""
+      }
+    }
+  ],
+  "subContentId": "2d8f1194-6055-4a3a-b59b-579845cc1084",
+  "detailedSolution": "In the realm of promotion advertising, direct mail, social media communications, trade shows, events, coupons, and media choices are among the many aspects considered."
+}
