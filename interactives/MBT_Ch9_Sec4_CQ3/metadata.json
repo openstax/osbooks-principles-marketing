@@ -1,0 +1,29 @@
+{
+  "errata_id": "edc6f6aee2c323105cba0389d914f0a6b9e6980516df4fa31736fdc8ecac67a9",
+  "attachments": [],
+  "tags": [
+    "type:practice",
+    "book:stax-mktg",
+    "lo:stax-mktg:9-4-2",
+    "context-cnxmod:7fd5f358-ffd3-489a-bd87-c646a85d3975",
+    "lo:stax-mktg:9-4-1",
+    "lo:stax-mktg:9-4-3",
+    "lo:stax-mktg:9-4-4",
+    "book-slug:principles-marketing",
+    "module-slug:principles-marketing:9-4-marketing-strategies-at-each-stage-of-the-product-life-cycle"
+  ],
+  "books": [
+    {
+      "name": "stax-mktg",
+      "lo": [
+        "9-4-2",
+        "9-4-1",
+        "9-4-3",
+        "9-4-4"
+      ]
+    }
+  ],
+  "context": [
+    "m00057"
+  ]
+}
