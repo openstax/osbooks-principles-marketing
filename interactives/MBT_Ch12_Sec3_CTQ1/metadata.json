@@ -1,0 +1,23 @@
+{
+  "errata_id": "5db246deeed66f32a7fd888a7b87f5510b55517d56bba2149249b13bb8f4f611",
+  "attachments": [],
+  "tags": [
+    "type:practice",
+    "book:stax-mktg",
+    "context-cnxmod:a68cfb06-562b-4447-8799-ea24955dc9a5",
+    "lo:stax-mktg:12-3-5",
+    "book-slug:principles-marketing",
+    "module-slug:principles-marketing:12-3-the-five-step-procedure-for-establishing-pricing-policy"
+  ],
+  "books": [
+    {
+      "name": "stax-mktg",
+      "lo": [
+        "12-3-5"
+      ]
+    }
+  ],
+  "context": [
+    "m00078"
+  ]
+}
