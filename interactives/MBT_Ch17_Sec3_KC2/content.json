@@ -1,0 +1,91 @@
+{
+  "UI": {
+    "showSolutionButton": "Show solution",
+    "tryAgainButton": "Retry",
+    "checkAnswerButton": "Check",
+    "tipsLabel": "Show tip",
+    "scoreBarLabel": "You got :num out of :total points",
+    "tipAvailable": "Tip available",
+    "feedbackAvailable": "Feedback available",
+    "readFeedback": "Read feedback",
+    "wrongAnswer": "Wrong answer",
+    "correctAnswer": "Correct answer",
+    "shouldCheck": "Should have been checked",
+    "shouldNotCheck": "Should not have been checked",
+    "noInput": "Please answer before viewing the solution"
+  },
+  "behaviour": {
+    "enableRetry": true,
+    "enableSolutionsButton": true,
+    "singlePoint": true,
+    "randomAnswers": true,
+    "showSolutionsRequiresInput": true,
+    "type": "auto",
+    "confirmCheckDialog": false,
+    "confirmRetryDialog": false,
+    "autoCheck": false,
+    "passPercentage": 100,
+    "showScorePoints": true,
+    "enableCheckButton": true
+  },
+  "overallFeedback": [
+    {
+      "from": 0,
+      "to": 0,
+      "feedback": "Wrong"
+    },
+    {
+      "from": 1,
+      "to": 99,
+      "feedback": "Almost!"
+    },
+    {
+      "from": 100,
+      "to": 100,
+      "feedback": "Correct!"
+    }
+  ],
+  "question": "ABC Toys desires to distribute products across global markets. It is likely using what type of distribution strategy?",
+  "isSolutionPublic": true,
+  "isFreeResponseSupported": false,
+  "answers": [
+    {
+      "text": "Exclusive",
+      "correct": false,
+      "tipsAndFeedback": {
+        "tip": "",
+        "chosenFeedback": "That&#8217;s not correct. There isn&#8217;t a distribution strategy known as unlimited.",
+        "notChosenFeedback": ""
+      }
+    },
+    {
+      "text": "Selective",
+      "correct": false,
+      "tipsAndFeedback": {
+        "tip": "",
+        "chosenFeedback": "That&#8217;s not correct. A selective distribution strategy does not seek to reach all outlets in the market but somewhere between more than one outlet but less than all outlets.",
+        "notChosenFeedback": ""
+      }
+    },
+    {
+      "text": "Unlimited",
+      "correct": false,
+      "tipsAndFeedback": {
+        "tip": "",
+        "chosenFeedback": "That&#8217;s not correct. Exclusive distribution is reserved for brands that want to limit the availability of their products.",
+        "notChosenFeedback": ""
+      }
+    },
+    {
+      "text": "Intensive",
+      "correct": true,
+      "tipsAndFeedback": {
+        "tip": "",
+        "chosenFeedback": "An intensive distribution strategy is used when a company wants to distribute through every possible retail outlet where a consumer might find its products.",
+        "notChosenFeedback": ""
+      }
+    }
+  ],
+  "subContentId": "8a67b489-a031-4d88-8b14-88571bf0cae4",
+  "detailedSolution": "An intensive distribution strategy is used when a company wants to distribute through every possible retail outlet where a consumer might find its products."
+}
