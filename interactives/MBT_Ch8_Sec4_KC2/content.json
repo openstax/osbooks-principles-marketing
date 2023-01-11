@@ -1,0 +1,91 @@
+{
+  "UI": {
+    "showSolutionButton": "Show solution",
+    "tryAgainButton": "Retry",
+    "checkAnswerButton": "Check",
+    "tipsLabel": "Show tip",
+    "scoreBarLabel": "You got :num out of :total points",
+    "tipAvailable": "Tip available",
+    "feedbackAvailable": "Feedback available",
+    "readFeedback": "Read feedback",
+    "wrongAnswer": "Wrong answer",
+    "correctAnswer": "Correct answer",
+    "shouldCheck": "Should have been checked",
+    "shouldNotCheck": "Should not have been checked",
+    "noInput": "Please answer before viewing the solution"
+  },
+  "behaviour": {
+    "enableRetry": true,
+    "enableSolutionsButton": true,
+    "singlePoint": true,
+    "randomAnswers": true,
+    "showSolutionsRequiresInput": true,
+    "type": "auto",
+    "confirmCheckDialog": false,
+    "confirmRetryDialog": false,
+    "autoCheck": false,
+    "passPercentage": 100,
+    "showScorePoints": true,
+    "enableCheckButton": true
+  },
+  "overallFeedback": [
+    {
+      "from": 0,
+      "to": 0,
+      "feedback": "Wrong"
+    },
+    {
+      "from": 1,
+      "to": 99,
+      "feedback": "Almost!"
+    },
+    {
+      "from": 100,
+      "to": 100,
+      "feedback": "Correct!"
+    }
+  ],
+  "question": "Which ethnic term can be used for a person from Puerto Rico or of Puerto Rican descent?",
+  "isSolutionPublic": true,
+  "isFreeResponseSupported": false,
+  "answers": [
+    {
+      "text": "Only Hispanic",
+      "correct": false,
+      "tipsAndFeedback": {
+        "tip": "",
+        "chosenFeedback": "That&#8217;s not correct. A person from Puerto Rico or of Puerto Rican descent is classified by an ethnic term.",
+        "notChosenFeedback": ""
+      }
+    },
+    {
+      "text": "Both Hispanic and Latino/Latina",
+      "correct": false,
+      "tipsAndFeedback": {
+        "tip": "",
+        "chosenFeedback": "That&#8217;s not correct. A person from Puerto Rico or of Puerto Rican descent is not considered only Latino/Latina.",
+        "notChosenFeedback": ""
+      }
+    },
+    {
+      "text": "Only Latino/Latina",
+      "correct": false,
+      "tipsAndFeedback": {
+        "tip": "",
+        "chosenFeedback": "That&#8217;s not correct. A person from Puerto Rico or of Puerto Rican descent is not considered only Hispanic.",
+        "notChosenFeedback": ""
+      }
+    },
+    {
+      "text": "None of these terms are correct.",
+      "correct": true,
+      "tipsAndFeedback": {
+        "tip": "",
+        "chosenFeedback": "A person from Puerto Rico or of Puerto Rican descent is both Hispanic and Latino/Latina. <i>Hispanic</i> is a language-based term describing somebody from a Spanish-speaking place, while Latino/Latina is a location-based term that identifies gendered individuals whose families originate in Latin America.",
+        "notChosenFeedback": ""
+      }
+    }
+  ],
+  "subContentId": "578552cf-2390-40f7-bf95-7b29b652c881",
+  "detailedSolution": "A person from Puerto Rico or of Puerto Rican descent is both Hispanic and Latino/Latina. <i>Hispanic</i> is a language-based term describing somebody from a Spanish-speaking place, while Latino/Latina is a location-based term that identifies gendered individuals whose families originate in Latin America."
+}
