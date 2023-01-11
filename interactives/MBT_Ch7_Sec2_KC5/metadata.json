@@ -1,0 +1,22 @@
+{
+  "errata_id": "d6724a8483ea5ffd04bbca4ad83057dfcf230cead17a1d919a8bb8250f0ab0bb",
+  "attachments": [],
+  "tags": [
+    "book:stax-mktg",
+    "context-cnxmod:c5150dda-dcd8-403e-901b-f510d533be44",
+    "lo:stax-mktg:7-2-2",
+    "book-slug:principles-marketing",
+    "module-slug:principles-marketing:7-2-assessment-of-global-markets-for-opportunities"
+  ],
+  "books": [
+    {
+      "name": "stax-mktg",
+      "lo": [
+        "7-2-2"
+      ]
+    }
+  ],
+  "context": [
+    "m00040"
+  ]
+}
