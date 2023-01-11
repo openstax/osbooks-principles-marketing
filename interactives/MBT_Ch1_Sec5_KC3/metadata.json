@@ -1,0 +1,22 @@
+{
+  "errata_id": "169a1887fed583224bd8944db6f480a736d678b2861dab64cece8f99f38037ef",
+  "attachments": [],
+  "tags": [
+    "book:stax-mktg",
+    "context-cnxmod:0f7f1c20-2086-4963-9acb-be3bee4b7431",
+    "lo:stax-mktg:1-5-2",
+    "book-slug:principles-marketing",
+    "module-slug:principles-marketing:1-5-determining-consumer-needs-and-wants"
+  ],
+  "books": [
+    {
+      "name": "stax-mktg",
+      "lo": [
+        "1-5-2"
+      ]
+    }
+  ],
+  "context": [
+    "m00011"
+  ]
+}
