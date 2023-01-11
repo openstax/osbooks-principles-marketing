@@ -1,0 +1,22 @@
+{
+  "errata_id": "4a92102c1cbbb7ba78187cd9408b7c41afd1cbf48c624c2aff4ff95a931a3b92",
+  "attachments": [],
+  "tags": [
+    "book:stax-mktg",
+    "lo:stax-mktg:2-1-2",
+    "context-cnxmod:975113ad-46c1-44dc-8f12-8541407e9926",
+    "book-slug:principles-marketing",
+    "module-slug:principles-marketing:2-1-developing-a-strategic-plan"
+  ],
+  "books": [
+    {
+      "name": "stax-mktg",
+      "lo": [
+        "2-1-2"
+      ]
+    }
+  ],
+  "context": [
+    "m00015"
+  ]
+}
