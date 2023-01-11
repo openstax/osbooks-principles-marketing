@@ -1,0 +1,91 @@
+{
+  "UI": {
+    "showSolutionButton": "Show solution",
+    "tryAgainButton": "Retry",
+    "checkAnswerButton": "Check",
+    "tipsLabel": "Show tip",
+    "scoreBarLabel": "You got :num out of :total points",
+    "tipAvailable": "Tip available",
+    "feedbackAvailable": "Feedback available",
+    "readFeedback": "Read feedback",
+    "wrongAnswer": "Wrong answer",
+    "correctAnswer": "Correct answer",
+    "shouldCheck": "Should have been checked",
+    "shouldNotCheck": "Should not have been checked",
+    "noInput": "Please answer before viewing the solution"
+  },
+  "behaviour": {
+    "enableRetry": true,
+    "enableSolutionsButton": true,
+    "singlePoint": true,
+    "randomAnswers": true,
+    "showSolutionsRequiresInput": true,
+    "type": "auto",
+    "confirmCheckDialog": false,
+    "confirmRetryDialog": false,
+    "autoCheck": false,
+    "passPercentage": 100,
+    "showScorePoints": true,
+    "enableCheckButton": true
+  },
+  "overallFeedback": [
+    {
+      "from": 0,
+      "to": 0,
+      "feedback": "Wrong"
+    },
+    {
+      "from": 1,
+      "to": 99,
+      "feedback": "Almost!"
+    },
+    {
+      "from": 100,
+      "to": 100,
+      "feedback": "Correct!"
+    }
+  ],
+  "question": "You purchased an airline ticket to go on vacation, but on the way to the airport, you get a flat tire and miss your flight. Which characteristic of service does this example illustrate?",
+  "isSolutionPublic": true,
+  "isFreeResponseSupported": false,
+  "answers": [
+    {
+      "text": "Service variability",
+      "correct": false,
+      "tipsAndFeedback": {
+        "tip": "",
+        "chosenFeedback": "That&#8217;s not correct. Service intangibility refers to the fact that you can&#8217;t see or touch a service before it is performed.",
+        "notChosenFeedback": ""
+      }
+    },
+    {
+      "text": "Service inseparability",
+      "correct": false,
+      "tipsAndFeedback": {
+        "tip": "",
+        "chosenFeedback": "That&#8217;s not correct. Service inseparability means that the production and consumption of a service cannot be separated from the provider of that service.",
+        "notChosenFeedback": ""
+      }
+    },
+    {
+      "text": "Service perishability",
+      "correct": false,
+      "tipsAndFeedback": {
+        "tip": "",
+        "chosenFeedback": "That&#8217;s not correct. Service variability may be defined as the changes in the quality of the same service provided by different service providers.",
+        "notChosenFeedback": ""
+      }
+    },
+    {
+      "text": "Service intangibility",
+      "correct": true,
+      "tipsAndFeedback": {
+        "tip": "",
+        "chosenFeedback": "The concept of service perishability states that services (such as airline tickets) cannot be stored in inventory for future use or sale.",
+        "notChosenFeedback": ""
+      }
+    }
+  ],
+  "subContentId": "82db4ef3-298b-4337-9399-3389ea0edeea",
+  "detailedSolution": "The concept of service perishability states that services (such as airline tickets) cannot be stored in inventory for future use or sale."
+}
