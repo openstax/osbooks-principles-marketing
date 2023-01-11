@@ -1,0 +1,91 @@
+{
+  "UI": {
+    "showSolutionButton": "Show solution",
+    "tryAgainButton": "Retry",
+    "checkAnswerButton": "Check",
+    "tipsLabel": "Show tip",
+    "scoreBarLabel": "You got :num out of :total points",
+    "tipAvailable": "Tip available",
+    "feedbackAvailable": "Feedback available",
+    "readFeedback": "Read feedback",
+    "wrongAnswer": "Wrong answer",
+    "correctAnswer": "Correct answer",
+    "shouldCheck": "Should have been checked",
+    "shouldNotCheck": "Should not have been checked",
+    "noInput": "Please answer before viewing the solution"
+  },
+  "behaviour": {
+    "enableRetry": true,
+    "enableSolutionsButton": true,
+    "singlePoint": true,
+    "randomAnswers": true,
+    "showSolutionsRequiresInput": true,
+    "type": "auto",
+    "confirmCheckDialog": false,
+    "confirmRetryDialog": false,
+    "autoCheck": false,
+    "passPercentage": 100,
+    "showScorePoints": true,
+    "enableCheckButton": true
+  },
+  "overallFeedback": [
+    {
+      "from": 0,
+      "to": 0,
+      "feedback": "Wrong"
+    },
+    {
+      "from": 1,
+      "to": 99,
+      "feedback": "Almost!"
+    },
+    {
+      "from": 100,
+      "to": 100,
+      "feedback": "Correct!"
+    }
+  ],
+  "question": "DirectDocumentaries is a streaming service that provides subscribers with access to documentaries. It currently works with three production companies that it continuously manages to ensure timely production and delivery of new documentaries. Which of the following scenarios is an example of good channel management?",
+  "isSolutionPublic": true,
+  "isFreeResponseSupported": false,
+  "answers": [
+    {
+      "text": "Production Company A distributes its documentaries through DirectDocumentaries but has also set up an additional domain on the web to distribute directly to viewers. DirectDocumentaries does not know about this additional streaming outlet.",
+      "correct": false,
+      "tipsAndFeedback": {
+        "tip": "",
+        "chosenFeedback": "That&#8217;s not correct. Production Company D and DirectDocumentaries are not involved in a well-managed relationship. A well-managed relationship is one where all channel members have the customers&#8217; wants and needs in mind at all times. Customers may not be demanding Production Company D&#8217;s documentaries, or there might be other reasons its films are not being featured. Communication is key in the marketing channel relationship.",
+        "notChosenFeedback": ""
+      }
+    },
+    {
+      "text": "Production Company B has only been operating for one year. DirectDocumentaries is skeptical about Production Company B’s capabilities so shares limited information with it. DirectDocumentaries offers little to no support in Production Company B’s development.",
+      "correct": false,
+      "tipsAndFeedback": {
+        "tip": "",
+        "chosenFeedback": "That&#8217;s not correct. In this answer, DirectDocumentaries is not following best practices for good channel management. Sharing information and providing support are activities that lead to the success of the channel. Production Company B and DirectDocumentaries are not involved in a well-managed relationship. There is no cohesion and transparency, and they do not share common goals.",
+        "notChosenFeedback": ""
+      }
+    },
+    {
+      "text": "Production Company C is a powerhouse, producing 30 to 40 documentaries a year. DirectDocumentaries and Production Company C work closely together to ensure that documentary releases occur at strategic times. They also openly share information about what’s working and what’s not. They have a common goal in reaching customers with innovative ideas.",
+      "correct": false,
+      "tipsAndFeedback": {
+        "tip": "",
+        "chosenFeedback": "That&#8217;s not correct. Good channel management involves being transparent about distribution decisions with channel partners. In this answer, Production Company A&#8217;s lack of transparency could lead to a conflict in the distribution channel. Production Company A and DirectDocumentaries are not involved in a well-managed relationship. There is no cohesion and transparency, and they do not share common goals.",
+        "notChosenFeedback": ""
+      }
+    },
+    {
+      "text": "Production Company D is rarely happy. It feels that DirectDocumentaries favors other producers and rarely features its productions on a subscriber’s homepage. Production Company D has complained several times.",
+      "correct": true,
+      "tipsAndFeedback": {
+        "tip": "",
+        "chosenFeedback": "Production Company C and DirectDocumentaries are involved in a well-managed relationship. There is cohesion and transparency, and they share common goals.",
+        "notChosenFeedback": ""
+      }
+    }
+  ],
+  "subContentId": "d8b13e49-f797-4ee6-b73b-a814273d38f2",
+  "detailedSolution": "Production Company C and DirectDocumentaries are involved in a well-managed relationship. There is cohesion and transparency, and they share common goals."
+}
