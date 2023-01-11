@@ -1,0 +1,91 @@
+{
+  "UI": {
+    "showSolutionButton": "Show solution",
+    "tryAgainButton": "Retry",
+    "checkAnswerButton": "Check",
+    "tipsLabel": "Show tip",
+    "scoreBarLabel": "You got :num out of :total points",
+    "tipAvailable": "Tip available",
+    "feedbackAvailable": "Feedback available",
+    "readFeedback": "Read feedback",
+    "wrongAnswer": "Wrong answer",
+    "correctAnswer": "Correct answer",
+    "shouldCheck": "Should have been checked",
+    "shouldNotCheck": "Should not have been checked",
+    "noInput": "Please answer before viewing the solution"
+  },
+  "behaviour": {
+    "enableRetry": true,
+    "enableSolutionsButton": true,
+    "singlePoint": true,
+    "randomAnswers": true,
+    "showSolutionsRequiresInput": true,
+    "type": "auto",
+    "confirmCheckDialog": false,
+    "confirmRetryDialog": false,
+    "autoCheck": false,
+    "passPercentage": 100,
+    "showScorePoints": true,
+    "enableCheckButton": true
+  },
+  "overallFeedback": [
+    {
+      "from": 0,
+      "to": 0,
+      "feedback": "Wrong"
+    },
+    {
+      "from": 1,
+      "to": 99,
+      "feedback": "Almost!"
+    },
+    {
+      "from": 100,
+      "to": 100,
+      "feedback": "Correct!"
+    }
+  ],
+  "question": "The Tennessee Department of Tourist Development purchased and ad in <i>Southern Living.</i> The ad encouraged people to choose the state of Tennessee for summer vacations. Along with beautiful, scenic photos of Tennessee, the ad includes the tagline “Tennessee sounds good to me.” In this print ad, the source of the advertising message is ________.",
+  "isSolutionPublic": true,
+  "isFreeResponseSupported": false,
+  "answers": [
+    {
+      "text": "the Tennessee Department of Tourist Development",
+      "correct": false,
+      "tipsAndFeedback": {
+        "tip": "",
+        "chosenFeedback": "That&#8217;s not correct. The readers of the magazine are the receivers.",
+        "notChosenFeedback": ""
+      }
+    },
+    {
+      "text": "<i>Southern Living</i> magazine",
+      "correct": false,
+      "tipsAndFeedback": {
+        "tip": "",
+        "chosenFeedback": "That&#8217;s not correct. The people in the scenic pictures are part of the encoded message.",
+        "notChosenFeedback": ""
+      }
+    },
+    {
+      "text": "the people in the scenic pictures",
+      "correct": false,
+      "tipsAndFeedback": {
+        "tip": "",
+        "chosenFeedback": "That&#8217;s not correct. <em>Southern Living</em> magazine is the medium.",
+        "notChosenFeedback": ""
+      }
+    },
+    {
+      "text": "readers of the magazine",
+      "correct": true,
+      "tipsAndFeedback": {
+        "tip": "",
+        "chosenFeedback": "The Tennessee Department of Tourist Development sent the message, so it is the source.",
+        "notChosenFeedback": ""
+      }
+    }
+  ],
+  "subContentId": "c81a1384-65de-4602-a400-bc26763ed1a3",
+  "detailedSolution": "The Tennessee Department of Tourist Development sent the message, so it is the source."
+}
