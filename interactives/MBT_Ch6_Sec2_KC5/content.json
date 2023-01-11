@@ -1,0 +1,91 @@
+{
+  "UI": {
+    "showSolutionButton": "Show solution",
+    "tryAgainButton": "Retry",
+    "checkAnswerButton": "Check",
+    "tipsLabel": "Show tip",
+    "scoreBarLabel": "You got :num out of :total points",
+    "tipAvailable": "Tip available",
+    "feedbackAvailable": "Feedback available",
+    "readFeedback": "Read feedback",
+    "wrongAnswer": "Wrong answer",
+    "correctAnswer": "Correct answer",
+    "shouldCheck": "Should have been checked",
+    "shouldNotCheck": "Should not have been checked",
+    "noInput": "Please answer before viewing the solution"
+  },
+  "behaviour": {
+    "enableRetry": true,
+    "enableSolutionsButton": true,
+    "singlePoint": true,
+    "randomAnswers": true,
+    "showSolutionsRequiresInput": true,
+    "type": "auto",
+    "confirmCheckDialog": false,
+    "confirmRetryDialog": false,
+    "autoCheck": false,
+    "passPercentage": 100,
+    "showScorePoints": true,
+    "enableCheckButton": true
+  },
+  "overallFeedback": [
+    {
+      "from": 0,
+      "to": 0,
+      "feedback": "Wrong"
+    },
+    {
+      "from": 1,
+      "to": 99,
+      "feedback": "Almost!"
+    },
+    {
+      "from": 100,
+      "to": 100,
+      "feedback": "Correct!"
+    }
+  ],
+  "question": "Critical data that already exists within a company’s databases is called ________.",
+  "isSolutionPublic": true,
+  "isFreeResponseSupported": false,
+  "answers": [
+    {
+      "text": "big data",
+      "correct": false,
+      "tipsAndFeedback": {
+        "tip": "",
+        "chosenFeedback": "That&#8217;s not correct. Competitive data exists outside the company and most likely at the competitor&#8217;s website or other competitor company source.",
+        "notChosenFeedback": ""
+      }
+    },
+    {
+      "text": "internal data",
+      "correct": false,
+      "tipsAndFeedback": {
+        "tip": "",
+        "chosenFeedback": "That&#8217;s not correct. External data originates from outside the organization and therefore is not part of the company&#8217;s database.",
+        "notChosenFeedback": ""
+      }
+    },
+    {
+      "text": "external data",
+      "correct": false,
+      "tipsAndFeedback": {
+        "tip": "",
+        "chosenFeedback": "That&#8217;s not correct. Big data is larger than one company&#8217;s databases and includes the volume, variety, and velocity of data being generated.",
+        "notChosenFeedback": ""
+      }
+    },
+    {
+      "text": "competitive data",
+      "correct": true,
+      "tipsAndFeedback": {
+        "tip": "",
+        "chosenFeedback": "Internal data is data that already exists within a company&#8217;s database. Internal data includes sales records, product research, pricing comparisons, and other data compiled previously.",
+        "notChosenFeedback": ""
+      }
+    }
+  ],
+  "subContentId": "33342f50-415c-4d5d-82a7-86c9951a9e0e",
+  "detailedSolution": "Internal data is data that already exists within a company’s database. Internal data includes sales records, product research, pricing comparisons, and other data compiled previously."
+}
