@@ -1,0 +1,91 @@
+{
+  "UI": {
+    "showSolutionButton": "Show solution",
+    "tryAgainButton": "Retry",
+    "checkAnswerButton": "Check",
+    "tipsLabel": "Show tip",
+    "scoreBarLabel": "You got :num out of :total points",
+    "tipAvailable": "Tip available",
+    "feedbackAvailable": "Feedback available",
+    "readFeedback": "Read feedback",
+    "wrongAnswer": "Wrong answer",
+    "correctAnswer": "Correct answer",
+    "shouldCheck": "Should have been checked",
+    "shouldNotCheck": "Should not have been checked",
+    "noInput": "Please answer before viewing the solution"
+  },
+  "behaviour": {
+    "enableRetry": true,
+    "enableSolutionsButton": true,
+    "singlePoint": true,
+    "randomAnswers": true,
+    "showSolutionsRequiresInput": true,
+    "type": "auto",
+    "confirmCheckDialog": false,
+    "confirmRetryDialog": false,
+    "autoCheck": false,
+    "passPercentage": 100,
+    "showScorePoints": true,
+    "enableCheckButton": true
+  },
+  "overallFeedback": [
+    {
+      "from": 0,
+      "to": 0,
+      "feedback": "Wrong"
+    },
+    {
+      "from": 1,
+      "to": 99,
+      "feedback": "Almost!"
+    },
+    {
+      "from": 100,
+      "to": 100,
+      "feedback": "Correct!"
+    }
+  ],
+  "question": "What is the first stage in the consumer adoption process?",
+  "isSolutionPublic": true,
+  "isFreeResponseSupported": false,
+  "answers": [
+    {
+      "text": "Product awareness",
+      "correct": false,
+      "tipsAndFeedback": {
+        "tip": "",
+        "chosenFeedback": "That&#8217;s not correct. Product interest is a stage in the consumer adoption process in which the product has already piqued the consumer&#8217;s interest.",
+        "notChosenFeedback": ""
+      }
+    },
+    {
+      "text": "Product evaluation",
+      "correct": false,
+      "tipsAndFeedback": {
+        "tip": "",
+        "chosenFeedback": "That&#8217;s not correct. Product trial is the fourth stage in the consumer adoption process, in which the consumer tries the product out.",
+        "notChosenFeedback": ""
+      }
+    },
+    {
+      "text": "Product trial",
+      "correct": false,
+      "tipsAndFeedback": {
+        "tip": "",
+        "chosenFeedback": "That&#8217;s not correct. Product evaluation is the third stage in the consumer adoption process, in which consumers examine, compare, and evaluate the product prior to purchase.",
+        "notChosenFeedback": ""
+      }
+    },
+    {
+      "text": "Product interest",
+      "correct": true,
+      "tipsAndFeedback": {
+        "tip": "",
+        "chosenFeedback": "Product awareness is the first stage in the consumer adoption process, in which a company creates awareness that the product is available.",
+        "notChosenFeedback": ""
+      }
+    }
+  ],
+  "subContentId": "ad217709-ab89-48df-b7a6-53b16e1d2b18",
+  "detailedSolution": "Product awareness is the first stage in the consumer adoption process, in which a company creates awareness that the product is available."
+}
