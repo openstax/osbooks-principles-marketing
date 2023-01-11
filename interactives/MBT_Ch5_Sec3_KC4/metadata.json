@@ -1,0 +1,22 @@
+{
+  "errata_id": "26fd03f63a0ef27bf57367a79edf070905a72bf67bef1f793838f903b9dc260a",
+  "attachments": [],
+  "tags": [
+    "book:stax-mktg",
+    "lo:stax-mktg:5-3-3",
+    "context-cnxmod:5664e765-ff26-4188-9d2f-c8b133cec214",
+    "book-slug:principles-marketing",
+    "module-slug:principles-marketing:5-3-segmentation-of-international-markets"
+  ],
+  "books": [
+    {
+      "name": "stax-mktg",
+      "lo": [
+        "5-3-3"
+      ]
+    }
+  ],
+  "context": [
+    "m00029"
+  ]
+}
