@@ -1,0 +1,91 @@
+{
+  "UI": {
+    "showSolutionButton": "Show solution",
+    "tryAgainButton": "Retry",
+    "checkAnswerButton": "Check",
+    "tipsLabel": "Show tip",
+    "scoreBarLabel": "You got :num out of :total points",
+    "tipAvailable": "Tip available",
+    "feedbackAvailable": "Feedback available",
+    "readFeedback": "Read feedback",
+    "wrongAnswer": "Wrong answer",
+    "correctAnswer": "Correct answer",
+    "shouldCheck": "Should have been checked",
+    "shouldNotCheck": "Should not have been checked",
+    "noInput": "Please answer before viewing the solution"
+  },
+  "behaviour": {
+    "enableRetry": true,
+    "enableSolutionsButton": true,
+    "singlePoint": true,
+    "randomAnswers": true,
+    "showSolutionsRequiresInput": true,
+    "type": "auto",
+    "confirmCheckDialog": false,
+    "confirmRetryDialog": false,
+    "autoCheck": false,
+    "passPercentage": 100,
+    "showScorePoints": true,
+    "enableCheckButton": true
+  },
+  "overallFeedback": [
+    {
+      "from": 0,
+      "to": 0,
+      "feedback": "Wrong"
+    },
+    {
+      "from": 1,
+      "to": 99,
+      "feedback": "Almost!"
+    },
+    {
+      "from": 100,
+      "to": 100,
+      "feedback": "Correct!"
+    }
+  ],
+  "question": "Why would a researcher want to use a cross tabulation?",
+  "isSolutionPublic": true,
+  "isFreeResponseSupported": false,
+  "answers": [
+    {
+      "text": "It shows how respondents answered two variables in relation to each other and can help determine patterns by different groups of respondents.",
+      "correct": false,
+      "tipsAndFeedback": {
+        "tip": "",
+        "chosenFeedback": "That&#8217;s not correct. Focus group or interview data is qualitative and cannot be analyzed using cross tabulation.",
+        "notChosenFeedback": ""
+      }
+    },
+    {
+      "text": "By presenting the data in the form of a picture, the information is easier for the reader to understand.",
+      "correct": false,
+      "tipsAndFeedback": {
+        "tip": "",
+        "chosenFeedback": "That&#8217;s not correct. When you look at only one variable, it is impossible to complete a cross tabulation, which requires two.",
+        "notChosenFeedback": ""
+      }
+    },
+    {
+      "text": "It is an easy way to see how often one answer is selected by the respondents.",
+      "correct": false,
+      "tipsAndFeedback": {
+        "tip": "",
+        "chosenFeedback": "That&#8217;s not correct. An infographic is best for presenting information in a visual and easily digestible format.",
+        "notChosenFeedback": ""
+      }
+    },
+    {
+      "text": "This analysis can used to present interview or focus group data.",
+      "correct": true,
+      "tipsAndFeedback": {
+        "tip": "",
+        "chosenFeedback": "A cross tabulation shows the relationship of two different variables, so the researcher can see if there is correlation between the two.",
+        "notChosenFeedback": ""
+      }
+    }
+  ],
+  "subContentId": "b18026b5-8497-4792-a9ab-f017dad9870c",
+  "detailedSolution": "A cross tabulation shows the relationship of two different variables, so the researcher can see if there is correlation between the two."
+}
