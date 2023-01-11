@@ -1,0 +1,27 @@
+{
+  "errata_id": "3c67d1b9af947a8c23f97145f88ae156bfbcca876354b61920d953582e1139d5",
+  "attachments": [],
+  "tags": [
+    "type:practice",
+    "book:stax-mktg",
+    "lo:stax-mktg:17-3-1",
+    "context-cnxmod:ac33c93d-b8f8-4ca5-926d-33181d5c16a3",
+    "lo:stax-mktg:17-3-3",
+    "lo:stax-mktg:17-3-5",
+    "book-slug:principles-marketing",
+    "module-slug:principles-marketing:17-3-factors-influencing-channel-choice"
+  ],
+  "books": [
+    {
+      "name": "stax-mktg",
+      "lo": [
+        "17-3-1",
+        "17-3-3",
+        "17-3-5"
+      ]
+    }
+  ],
+  "context": [
+    "m00112"
+  ]
+}
