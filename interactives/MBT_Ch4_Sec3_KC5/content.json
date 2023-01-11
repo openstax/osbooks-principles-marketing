@@ -1,0 +1,91 @@
+{
+  "UI": {
+    "showSolutionButton": "Show solution",
+    "tryAgainButton": "Retry",
+    "checkAnswerButton": "Check",
+    "tipsLabel": "Show tip",
+    "scoreBarLabel": "You got :num out of :total points",
+    "tipAvailable": "Tip available",
+    "feedbackAvailable": "Feedback available",
+    "readFeedback": "Read feedback",
+    "wrongAnswer": "Wrong answer",
+    "correctAnswer": "Correct answer",
+    "shouldCheck": "Should have been checked",
+    "shouldNotCheck": "Should not have been checked",
+    "noInput": "Please answer before viewing the solution"
+  },
+  "behaviour": {
+    "enableRetry": true,
+    "enableSolutionsButton": true,
+    "singlePoint": true,
+    "randomAnswers": true,
+    "showSolutionsRequiresInput": true,
+    "type": "auto",
+    "confirmCheckDialog": false,
+    "confirmRetryDialog": false,
+    "autoCheck": false,
+    "passPercentage": 100,
+    "showScorePoints": true,
+    "enableCheckButton": true
+  },
+  "overallFeedback": [
+    {
+      "from": 0,
+      "to": 0,
+      "feedback": "Wrong"
+    },
+    {
+      "from": 1,
+      "to": 99,
+      "feedback": "Almost!"
+    },
+    {
+      "from": 100,
+      "to": 100,
+      "feedback": "Correct!"
+    }
+  ],
+  "question": "A worldwide shortage of microchips has prompted Vorderman Enterprises to use a new vendor who has higher prices but can deliver the product on time. Which factor appears to be at play in this B2B transaction?",
+  "isSolutionPublic": true,
+  "isFreeResponseSupported": false,
+  "answers": [
+    {
+      "text": "External factors",
+      "correct": false,
+      "tipsAndFeedback": {
+        "tip": "",
+        "chosenFeedback": "That&#8217;s not correct. Economic factors include things such as the level of primary demand, the economic outlook, and the cost of money.",
+        "notChosenFeedback": ""
+      }
+    },
+    {
+      "text": "Political and legal factors",
+      "correct": false,
+      "tipsAndFeedback": {
+        "tip": "",
+        "chosenFeedback": "That&#8217;s not correct. Political and legal factors include such things as the political system, laws, rules, and regulations.",
+        "notChosenFeedback": ""
+      }
+    },
+    {
+      "text": "Economic factors",
+      "correct": false,
+      "tipsAndFeedback": {
+        "tip": "",
+        "chosenFeedback": "That&#8217;s not correct. External factors include economic factors, political and legal factors, competition, and the social environment.",
+        "notChosenFeedback": ""
+      }
+    },
+    {
+      "text": "Conditional factors",
+      "correct": true,
+      "tipsAndFeedback": {
+        "tip": "",
+        "chosenFeedback": "The availability of the product or service plays a significant role in the buying decision, and availability is a conditional factor.",
+        "notChosenFeedback": ""
+      }
+    }
+  ],
+  "subContentId": "fed99bf2-2ec4-4080-a8da-4b5a4fcb2b14",
+  "detailedSolution": "The availability of the product or service plays a significant role in the buying decision, and availability is a conditional factor."
+}
