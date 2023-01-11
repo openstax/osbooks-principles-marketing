@@ -1,0 +1,91 @@
+{
+  "UI": {
+    "showSolutionButton": "Show solution",
+    "tryAgainButton": "Retry",
+    "checkAnswerButton": "Check",
+    "tipsLabel": "Show tip",
+    "scoreBarLabel": "You got :num out of :total points",
+    "tipAvailable": "Tip available",
+    "feedbackAvailable": "Feedback available",
+    "readFeedback": "Read feedback",
+    "wrongAnswer": "Wrong answer",
+    "correctAnswer": "Correct answer",
+    "shouldCheck": "Should have been checked",
+    "shouldNotCheck": "Should not have been checked",
+    "noInput": "Please answer before viewing the solution"
+  },
+  "behaviour": {
+    "enableRetry": true,
+    "enableSolutionsButton": true,
+    "singlePoint": true,
+    "randomAnswers": true,
+    "showSolutionsRequiresInput": true,
+    "type": "auto",
+    "confirmCheckDialog": false,
+    "confirmRetryDialog": false,
+    "autoCheck": false,
+    "passPercentage": 100,
+    "showScorePoints": true,
+    "enableCheckButton": true
+  },
+  "overallFeedback": [
+    {
+      "from": 0,
+      "to": 0,
+      "feedback": "Wrong"
+    },
+    {
+      "from": 1,
+      "to": 99,
+      "feedback": "Almost!"
+    },
+    {
+      "from": 100,
+      "to": 100,
+      "feedback": "Correct!"
+    }
+  ],
+  "question": "In a(n) ________, one member of the distribution channel owns the other members.",
+  "isSolutionPublic": true,
+  "isFreeResponseSupported": false,
+  "answers": [
+    {
+      "text": "administered vertical marketing system",
+      "correct": false,
+      "tipsAndFeedback": {
+        "tip": "",
+        "chosenFeedback": "That&#8217;s not correct. A multichannel marketing system exists when a company uses a variety of channels, such as stores and online, to distribute products and services.",
+        "notChosenFeedback": ""
+      }
+    },
+    {
+      "text": "corporate vertical marketing system",
+      "correct": false,
+      "tipsAndFeedback": {
+        "tip": "",
+        "chosenFeedback": "That&#8217;s not correct. A horizontal marketing system exists when two unrelated companies partner to distribute their products and services.",
+        "notChosenFeedback": ""
+      }
+    },
+    {
+      "text": "horizontal marketing system",
+      "correct": false,
+      "tipsAndFeedback": {
+        "tip": "",
+        "chosenFeedback": "That&#8217;s not correct. Administered vertical marketing systems exist when one large and powerful channel member controls but does not own other channel members.",
+        "notChosenFeedback": ""
+      }
+    },
+    {
+      "text": "multichannel marketing system",
+      "correct": true,
+      "tipsAndFeedback": {
+        "tip": "",
+        "chosenFeedback": "In a corporate vertical marketing system, one channel member owns one or more other channel members.",
+        "notChosenFeedback": ""
+      }
+    }
+  ],
+  "subContentId": "c4fc8500-0eb1-416d-9bc5-0a52f722ca7c",
+  "detailedSolution": "In a corporate vertical marketing system, one channel member owns one or more other channel members."
+}
