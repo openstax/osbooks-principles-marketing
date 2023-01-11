@@ -1,0 +1,22 @@
+{
+  "errata_id": "cc23f510d7f9a745241c901db042e5c28f8198d356495beead5c288bd3d88c45",
+  "attachments": [],
+  "tags": [
+    "book:stax-mktg",
+    "lo:stax-mktg:14-4-1",
+    "context-cnxmod:2b68c67d-58a3-4668-b8d4-4279a37d59cd",
+    "book-slug:principles-marketing",
+    "module-slug:principles-marketing:14-4-public-relations-and-its-role-in-the-promotion-mix"
+  ],
+  "books": [
+    {
+      "name": "stax-mktg",
+      "lo": [
+        "14-4-1"
+      ]
+    }
+  ],
+  "context": [
+    "m00092"
+  ]
+}
