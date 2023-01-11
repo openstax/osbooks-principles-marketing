@@ -1,0 +1,91 @@
+{
+  "UI": {
+    "showSolutionButton": "Show solution",
+    "tryAgainButton": "Retry",
+    "checkAnswerButton": "Check",
+    "tipsLabel": "Show tip",
+    "scoreBarLabel": "You got :num out of :total points",
+    "tipAvailable": "Tip available",
+    "feedbackAvailable": "Feedback available",
+    "readFeedback": "Read feedback",
+    "wrongAnswer": "Wrong answer",
+    "correctAnswer": "Correct answer",
+    "shouldCheck": "Should have been checked",
+    "shouldNotCheck": "Should not have been checked",
+    "noInput": "Please answer before viewing the solution"
+  },
+  "behaviour": {
+    "enableRetry": true,
+    "enableSolutionsButton": true,
+    "singlePoint": true,
+    "randomAnswers": true,
+    "showSolutionsRequiresInput": true,
+    "type": "auto",
+    "confirmCheckDialog": false,
+    "confirmRetryDialog": false,
+    "autoCheck": false,
+    "passPercentage": 100,
+    "showScorePoints": true,
+    "enableCheckButton": true
+  },
+  "overallFeedback": [
+    {
+      "from": 0,
+      "to": 0,
+      "feedback": "Wrong"
+    },
+    {
+      "from": 1,
+      "to": 99,
+      "feedback": "Almost!"
+    },
+    {
+      "from": 100,
+      "to": 100,
+      "feedback": "Correct!"
+    }
+  ],
+  "question": "Which of the following overarching factors can impact channel choice in the distribution of products and services?",
+  "isSolutionPublic": true,
+  "isFreeResponseSupported": false,
+  "answers": [
+    {
+      "text": "Target market coverage, fulfillment of buyer requirements, and profitability",
+      "correct": false,
+      "tipsAndFeedback": {
+        "tip": "",
+        "chosenFeedback": "That&#8217;s not correct. Profitability is just one of the overarching factors that influence channel choice.",
+        "notChosenFeedback": ""
+      }
+    },
+    {
+      "text": "Intensive, selective, and exclusive distribution",
+      "correct": false,
+      "tipsAndFeedback": {
+        "tip": "",
+        "chosenFeedback": "That&#8217;s not correct. While the technical nature of a product and unit value can affect channel decisions, these aren&#8217;t overarching factors.",
+        "notChosenFeedback": ""
+      }
+    },
+    {
+      "text": "The technical nature of the product and its fixed and variable costs",
+      "correct": false,
+      "tipsAndFeedback": {
+        "tip": "",
+        "chosenFeedback": "That&#8217;s not correct. Intensive, selective, and exclusive distribution relate only to target market coverage.",
+        "notChosenFeedback": ""
+      }
+    },
+    {
+      "text": "The profitability of the channel and its members' abilities to meet consumer needs",
+      "correct": true,
+      "tipsAndFeedback": {
+        "tip": "",
+        "chosenFeedback": "The three overarching factors that impact channel choice include target market coverage, fulfillment of buyer requirements, and profitability. ",
+        "notChosenFeedback": ""
+      }
+    }
+  ],
+  "subContentId": "6e86c96c-9a07-4ea5-b988-e4576aacdaf0",
+  "detailedSolution": "The three overarching factors that impact channel choice include target market coverage, fulfillment of buyer requirements, and profitability."
+}
