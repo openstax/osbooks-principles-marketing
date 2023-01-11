@@ -1,0 +1,91 @@
+{
+  "UI": {
+    "showSolutionButton": "Show solution",
+    "tryAgainButton": "Retry",
+    "checkAnswerButton": "Check",
+    "tipsLabel": "Show tip",
+    "scoreBarLabel": "You got :num out of :total points",
+    "tipAvailable": "Tip available",
+    "feedbackAvailable": "Feedback available",
+    "readFeedback": "Read feedback",
+    "wrongAnswer": "Wrong answer",
+    "correctAnswer": "Correct answer",
+    "shouldCheck": "Should have been checked",
+    "shouldNotCheck": "Should not have been checked",
+    "noInput": "Please answer before viewing the solution"
+  },
+  "behaviour": {
+    "enableRetry": true,
+    "enableSolutionsButton": true,
+    "singlePoint": true,
+    "randomAnswers": true,
+    "showSolutionsRequiresInput": true,
+    "type": "auto",
+    "confirmCheckDialog": false,
+    "confirmRetryDialog": false,
+    "autoCheck": false,
+    "passPercentage": 100,
+    "showScorePoints": true,
+    "enableCheckButton": true
+  },
+  "overallFeedback": [
+    {
+      "from": 0,
+      "to": 0,
+      "feedback": "Wrong"
+    },
+    {
+      "from": 1,
+      "to": 99,
+      "feedback": "Almost!"
+    },
+    {
+      "from": 100,
+      "to": 100,
+      "feedback": "Correct!"
+    }
+  ],
+  "question": "After watching a TikTok, you learn that Thinx—a company that produces period underwear—has donated over $25,000 in period and other products to Afghan women who have recently fled their country. Because of this, you decide to purchase Thinx products. Which advantage of public relations has been achieved in this scenario?",
+  "isSolutionPublic": true,
+  "isFreeResponseSupported": false,
+  "answers": [
+    {
+      "text": "Increased sales and leads",
+      "correct": false,
+      "tipsAndFeedback": {
+        "tip": "",
+        "chosenFeedback": "That&#8217;s not correct. Marketers do not have direct control over public relations messages.",
+        "notChosenFeedback": ""
+      }
+    },
+    {
+      "text": "Lack of direct control",
+      "correct": false,
+      "tipsAndFeedback": {
+        "tip": "",
+        "chosenFeedback": "That&#8217;s not correct. Results are not guaranteed in public relations.",
+        "notChosenFeedback": ""
+      }
+    },
+    {
+      "text": "Guaranteed results",
+      "correct": false,
+      "tipsAndFeedback": {
+        "tip": "",
+        "chosenFeedback": "That&#8217;s not correct. Having no direct control is a disadvantage of public relations.",
+        "notChosenFeedback": ""
+      }
+    },
+    {
+      "text": "Direct control",
+      "correct": true,
+      "tipsAndFeedback": {
+        "tip": "",
+        "chosenFeedback": "The company&#8217;s donation and the public relations surrounding it has created sales and leads.",
+        "notChosenFeedback": ""
+      }
+    }
+  ],
+  "subContentId": "7027a07d-ba52-4045-b0e4-4262850d672e",
+  "detailedSolution": "The company’s donation and the public relations surrounding it has created sales and leads."
+}
