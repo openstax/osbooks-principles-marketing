@@ -1,0 +1,91 @@
+{
+  "UI": {
+    "showSolutionButton": "Show solution",
+    "tryAgainButton": "Retry",
+    "checkAnswerButton": "Check",
+    "tipsLabel": "Show tip",
+    "scoreBarLabel": "You got :num out of :total points",
+    "tipAvailable": "Tip available",
+    "feedbackAvailable": "Feedback available",
+    "readFeedback": "Read feedback",
+    "wrongAnswer": "Wrong answer",
+    "correctAnswer": "Correct answer",
+    "shouldCheck": "Should have been checked",
+    "shouldNotCheck": "Should not have been checked",
+    "noInput": "Please answer before viewing the solution"
+  },
+  "behaviour": {
+    "enableRetry": true,
+    "enableSolutionsButton": true,
+    "singlePoint": true,
+    "randomAnswers": true,
+    "showSolutionsRequiresInput": true,
+    "type": "auto",
+    "confirmCheckDialog": false,
+    "confirmRetryDialog": false,
+    "autoCheck": false,
+    "passPercentage": 100,
+    "showScorePoints": true,
+    "enableCheckButton": true
+  },
+  "overallFeedback": [
+    {
+      "from": 0,
+      "to": 0,
+      "feedback": "Wrong"
+    },
+    {
+      "from": 1,
+      "to": 99,
+      "feedback": "Almost!"
+    },
+    {
+      "from": 100,
+      "to": 100,
+      "feedback": "Correct!"
+    }
+  ],
+  "question": "A ________ is a semi-fictional representation of your ideal customer that helps you understand and relate to the audience to which you want to market your product and/or services.",
+  "isSolutionPublic": true,
+  "isFreeResponseSupported": false,
+  "answers": [
+    {
+      "text": "buyer persona",
+      "correct": false,
+      "tipsAndFeedback": {
+        "tip": "",
+        "chosenFeedback": "That&#8217;s not correct. Brand affinity is an individual&#8217;s brand preference given a product category.",
+        "notChosenFeedback": ""
+      }
+    },
+    {
+      "text": "target market",
+      "correct": false,
+      "tipsAndFeedback": {
+        "tip": "",
+        "chosenFeedback": "That&#8217;s not correct. A niche market channels all marketing actions toward one well-defined segment of the market.",
+        "notChosenFeedback": ""
+      }
+    },
+    {
+      "text": "niche market",
+      "correct": false,
+      "tipsAndFeedback": {
+        "tip": "",
+        "chosenFeedback": "That&#8217;s not correct. A target market is a group of people with shared characteristics that a company has identified as potential customers for its products or services.",
+        "notChosenFeedback": ""
+      }
+    },
+    {
+      "text": "brand affinity",
+      "correct": true,
+      "tipsAndFeedback": {
+        "tip": "",
+        "chosenFeedback": "A buyer persona is a semi-fictional representation of your ideal customer based on market research and real data about your existing customers.",
+        "notChosenFeedback": ""
+      }
+    }
+  ],
+  "subContentId": "e0dd241a-8111-4cb4-ab9f-1553d58d89d8",
+  "detailedSolution": "A buyer persona is a semi-fictional representation of your ideal customer based on market research and real data about your existing customers."
+}
