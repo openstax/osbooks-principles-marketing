@@ -1,0 +1,91 @@
+{
+  "UI": {
+    "showSolutionButton": "Show solution",
+    "tryAgainButton": "Retry",
+    "checkAnswerButton": "Check",
+    "tipsLabel": "Show tip",
+    "scoreBarLabel": "You got :num out of :total points",
+    "tipAvailable": "Tip available",
+    "feedbackAvailable": "Feedback available",
+    "readFeedback": "Read feedback",
+    "wrongAnswer": "Wrong answer",
+    "correctAnswer": "Correct answer",
+    "shouldCheck": "Should have been checked",
+    "shouldNotCheck": "Should not have been checked",
+    "noInput": "Please answer before viewing the solution"
+  },
+  "behaviour": {
+    "enableRetry": true,
+    "enableSolutionsButton": true,
+    "singlePoint": true,
+    "randomAnswers": true,
+    "showSolutionsRequiresInput": true,
+    "type": "auto",
+    "confirmCheckDialog": false,
+    "confirmRetryDialog": false,
+    "autoCheck": false,
+    "passPercentage": 100,
+    "showScorePoints": true,
+    "enableCheckButton": true
+  },
+  "overallFeedback": [
+    {
+      "from": 0,
+      "to": 0,
+      "feedback": "Wrong"
+    },
+    {
+      "from": 1,
+      "to": 99,
+      "feedback": "Almost!"
+    },
+    {
+      "from": 100,
+      "to": 100,
+      "feedback": "Correct!"
+    }
+  ],
+  "question": "Terra Cotta Landscape Supply is currently developing a two-day session for all sales professionals within the organization. During this two-day meeting, the sales professionals will be learning about new products and applications for their clients. This is an example of what element of managing a sales force?",
+  "isSolutionPublic": true,
+  "isFreeResponseSupported": false,
+  "answers": [
+    {
+      "text": "Compensating",
+      "correct": false,
+      "tipsAndFeedback": {
+        "tip": "",
+        "chosenFeedback": "That&#8217;s not correct. Evaluating the sales force is the effort to make sure the sales professionals are doing an effective job for the company.",
+        "notChosenFeedback": ""
+      }
+    },
+    {
+      "text": "Training",
+      "correct": false,
+      "tipsAndFeedback": {
+        "tip": "",
+        "chosenFeedback": "That&#8217;s not correct. Recruiting is the effort the sales manager must take to find the right sales professionals to fit with the job and work that they must do.",
+        "notChosenFeedback": ""
+      }
+    },
+    {
+      "text": "Recruiting",
+      "correct": false,
+      "tipsAndFeedback": {
+        "tip": "",
+        "chosenFeedback": "That&#8217;s not correct. Compensating the sales professional deals with how they will get paid for the work they are doing.",
+        "notChosenFeedback": ""
+      }
+    },
+    {
+      "text": "Evaluating",
+      "correct": true,
+      "tipsAndFeedback": {
+        "tip": "",
+        "chosenFeedback": "Companies regularly need to inform and educate their sales professionals about the products they are selling.",
+        "notChosenFeedback": ""
+      }
+    }
+  ],
+  "subContentId": "2a25a792-2a24-4245-a752-8775a1e09fb9",
+  "detailedSolution": "Companies regularly need to inform and educate their sales professionals about the products they are selling."
+}
