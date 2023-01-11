@@ -1,0 +1,91 @@
+{
+  "UI": {
+    "showSolutionButton": "Show solution",
+    "tryAgainButton": "Retry",
+    "checkAnswerButton": "Check",
+    "tipsLabel": "Show tip",
+    "scoreBarLabel": "You got :num out of :total points",
+    "tipAvailable": "Tip available",
+    "feedbackAvailable": "Feedback available",
+    "readFeedback": "Read feedback",
+    "wrongAnswer": "Wrong answer",
+    "correctAnswer": "Correct answer",
+    "shouldCheck": "Should have been checked",
+    "shouldNotCheck": "Should not have been checked",
+    "noInput": "Please answer before viewing the solution"
+  },
+  "behaviour": {
+    "enableRetry": true,
+    "enableSolutionsButton": true,
+    "singlePoint": true,
+    "randomAnswers": true,
+    "showSolutionsRequiresInput": true,
+    "type": "auto",
+    "confirmCheckDialog": false,
+    "confirmRetryDialog": false,
+    "autoCheck": false,
+    "passPercentage": 100,
+    "showScorePoints": true,
+    "enableCheckButton": true
+  },
+  "overallFeedback": [
+    {
+      "from": 0,
+      "to": 0,
+      "feedback": "Wrong"
+    },
+    {
+      "from": 1,
+      "to": 99,
+      "feedback": "Almost!"
+    },
+    {
+      "from": 100,
+      "to": 100,
+      "feedback": "Correct!"
+    }
+  ],
+  "question": "A travel agency offers adventure trips like hut-to-hut camping in the mountains as well as quieter vacations in all-inclusive resorts. On what basis has the travel agency segmented its market?",
+  "isSolutionPublic": true,
+  "isFreeResponseSupported": false,
+  "answers": [
+    {
+      "text": "Psychographic",
+      "correct": false,
+      "tipsAndFeedback": {
+        "tip": "",
+        "chosenFeedback": "That&#8217;s not correct. Geographic segmentation divides a market according to geographic areas such as regions, cities, states, countries, etc.",
+        "notChosenFeedback": ""
+      }
+    },
+    {
+      "text": "Demographic",
+      "correct": false,
+      "tipsAndFeedback": {
+        "tip": "",
+        "chosenFeedback": "That&#8217;s not correct. Behavioral segmentation is a method of grouping consumers by their behavior patterns.",
+        "notChosenFeedback": ""
+      }
+    },
+    {
+      "text": "Behavioral",
+      "correct": false,
+      "tipsAndFeedback": {
+        "tip": "",
+        "chosenFeedback": "That&#8217;s not correct. Demographic segmentation groups consumers by focusing on traits such as age, gender, income, etc.",
+        "notChosenFeedback": ""
+      }
+    },
+    {
+      "text": "Geographic",
+      "correct": true,
+      "tipsAndFeedback": {
+        "tip": "",
+        "chosenFeedback": "Psychographic segmentation divides consumers into different groups based on internal characteristics like personality, values, and beliefs.",
+        "notChosenFeedback": ""
+      }
+    }
+  ],
+  "subContentId": "6c3056b2-d299-4025-9cc7-bb895abbba52",
+  "detailedSolution": "Psychographic segmentation divides consumers into different groups based on internal characteristics like personality, values, and beliefs."
+}
