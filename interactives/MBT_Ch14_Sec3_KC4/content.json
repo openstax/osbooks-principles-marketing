@@ -1,0 +1,91 @@
+{
+  "UI": {
+    "showSolutionButton": "Show solution",
+    "tryAgainButton": "Retry",
+    "checkAnswerButton": "Check",
+    "tipsLabel": "Show tip",
+    "scoreBarLabel": "You got :num out of :total points",
+    "tipAvailable": "Tip available",
+    "feedbackAvailable": "Feedback available",
+    "readFeedback": "Read feedback",
+    "wrongAnswer": "Wrong answer",
+    "correctAnswer": "Correct answer",
+    "shouldCheck": "Should have been checked",
+    "shouldNotCheck": "Should not have been checked",
+    "noInput": "Please answer before viewing the solution"
+  },
+  "behaviour": {
+    "enableRetry": true,
+    "enableSolutionsButton": true,
+    "singlePoint": true,
+    "randomAnswers": true,
+    "showSolutionsRequiresInput": true,
+    "type": "auto",
+    "confirmCheckDialog": false,
+    "confirmRetryDialog": false,
+    "autoCheck": false,
+    "passPercentage": 100,
+    "showScorePoints": true,
+    "enableCheckButton": true
+  },
+  "overallFeedback": [
+    {
+      "from": 0,
+      "to": 0,
+      "feedback": "Wrong"
+    },
+    {
+      "from": 1,
+      "to": 99,
+      "feedback": "Almost!"
+    },
+    {
+      "from": 100,
+      "to": 100,
+      "feedback": "Correct!"
+    }
+  ],
+  "question": "Indicators that measure the effectiveness of an advertising campaign are known as ________.",
+  "isSolutionPublic": true,
+  "isFreeResponseSupported": false,
+  "answers": [
+    {
+      "text": "KMAs",
+      "correct": false,
+      "tipsAndFeedback": {
+        "tip": "",
+        "chosenFeedback": "That&#8217;s not correct. ROI stands for return-on-investment, which focuses on every dollar spent on advertising, not just campaign effectiveness.",
+        "notChosenFeedback": ""
+      }
+    },
+    {
+      "text": "Recalls",
+      "correct": false,
+      "tipsAndFeedback": {
+        "tip": "",
+        "chosenFeedback": "That&#8217;s not correct. Recalls are not a measure of campaign effectiveness.",
+        "notChosenFeedback": ""
+      }
+    },
+    {
+      "text": "ROIs",
+      "correct": false,
+      "tipsAndFeedback": {
+        "tip": "",
+        "chosenFeedback": "That&#8217;s not correct. KMA is not an indicator of advertising campaign effectiveness.",
+        "notChosenFeedback": ""
+      }
+    },
+    {
+      "text": "KPIs",
+      "correct": true,
+      "tipsAndFeedback": {
+        "tip": "",
+        "chosenFeedback": "KPIs, or key performance indicators, measure the effectiveness of an advertising campaign.",
+        "notChosenFeedback": ""
+      }
+    }
+  ],
+  "subContentId": "101f41a2-ec9f-48c4-8c72-debdaed6824c",
+  "detailedSolution": "KPIs, or key performance indicators, measure the effectiveness of an advertising campaign."
+}

@@ -1,0 +1,22 @@
+{
+  "errata_id": "5ed65a7b972a1074258423881dddd8cd42f5981ac34efd721e6f3da6b7b73a66",
+  "attachments": [],
+  "tags": [
+    "book:stax-mktg",
+    "lo:stax-mktg:14-3-1",
+    "context-cnxmod:20678311-50d2-44a0-b95f-c4cafac731a7",
+    "book-slug:principles-marketing",
+    "module-slug:principles-marketing:14-3-the-use-of-metrics-to-measure-advertising-campaign-effectiveness"
+  ],
+  "books": [
+    {
+      "name": "stax-mktg",
+      "lo": [
+        "14-3-1"
+      ]
+    }
+  ],
+  "context": [
+    "m00091"
+  ]
+}
