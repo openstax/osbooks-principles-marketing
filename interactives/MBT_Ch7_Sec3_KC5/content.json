@@ -1,0 +1,91 @@
+{
+  "UI": {
+    "showSolutionButton": "Show solution",
+    "tryAgainButton": "Retry",
+    "checkAnswerButton": "Check",
+    "tipsLabel": "Show tip",
+    "scoreBarLabel": "You got :num out of :total points",
+    "tipAvailable": "Tip available",
+    "feedbackAvailable": "Feedback available",
+    "readFeedback": "Read feedback",
+    "wrongAnswer": "Wrong answer",
+    "correctAnswer": "Correct answer",
+    "shouldCheck": "Should have been checked",
+    "shouldNotCheck": "Should not have been checked",
+    "noInput": "Please answer before viewing the solution"
+  },
+  "behaviour": {
+    "enableRetry": true,
+    "enableSolutionsButton": true,
+    "singlePoint": true,
+    "randomAnswers": true,
+    "showSolutionsRequiresInput": true,
+    "type": "auto",
+    "confirmCheckDialog": false,
+    "confirmRetryDialog": false,
+    "autoCheck": false,
+    "passPercentage": 100,
+    "showScorePoints": true,
+    "enableCheckButton": true
+  },
+  "overallFeedback": [
+    {
+      "from": 0,
+      "to": 0,
+      "feedback": "Wrong"
+    },
+    {
+      "from": 1,
+      "to": 99,
+      "feedback": "Almost!"
+    },
+    {
+      "from": 100,
+      "to": 100,
+      "feedback": "Correct!"
+    }
+  ],
+  "question": "After being hired at ABC Corporation, you realize that all decisions for each facility in the world are made at the headquarters you work at in Pensacola, Florida. Which type of firm best describes the one you are working at?",
+  "isSolutionPublic": true,
+  "isFreeResponseSupported": false,
+  "answers": [
+    {
+      "text": "Exporting firm",
+      "correct": false,
+      "tipsAndFeedback": {
+        "tip": "",
+        "chosenFeedback": "That&#8217;s not correct. An importing firm is one in which the company brings in product from another country to sell.",
+        "notChosenFeedback": ""
+      }
+    },
+    {
+      "text": "International firm",
+      "correct": false,
+      "tipsAndFeedback": {
+        "tip": "",
+        "chosenFeedback": "That&#8217;s not correct. A transnational firm makes decisions locally, in each country&#8217;s facilities.",
+        "notChosenFeedback": ""
+      }
+    },
+    {
+      "text": "Transnational firm",
+      "correct": false,
+      "tipsAndFeedback": {
+        "tip": "",
+        "chosenFeedback": "That&#8217;s not correct. An exporting firm simply manufactures product in one country and sells in another.",
+        "notChosenFeedback": ""
+      }
+    },
+    {
+      "text": "Importing firm",
+      "correct": true,
+      "tipsAndFeedback": {
+        "tip": "",
+        "chosenFeedback": "An international firm has centralized decision-making, meaning decisions are made in the home country headquarters.",
+        "notChosenFeedback": ""
+      }
+    }
+  ],
+  "subContentId": "62804801-03f3-4e61-93cc-59cb63aedeb1",
+  "detailedSolution": "An international firm has centralized decision-making, meaning decisions are made in the home country headquarters."
+}

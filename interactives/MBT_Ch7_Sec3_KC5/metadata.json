@@ -1,0 +1,22 @@
+{
+  "errata_id": "12cf998f36dfbb50a268ecb3350cadebe688d0cd6d80f5da39fcbe85757e3dfc",
+  "attachments": [],
+  "tags": [
+    "book:stax-mktg",
+    "context-cnxmod:0031aafb-e873-463a-9406-aba1ebe7ba10",
+    "lo:stax-mktg:7-3-2",
+    "book-slug:principles-marketing",
+    "module-slug:principles-marketing:7-3-entering-the-global-arena"
+  ],
+  "books": [
+    {
+      "name": "stax-mktg",
+      "lo": [
+        "7-3-2"
+      ]
+    }
+  ],
+  "context": [
+    "m00041"
+  ]
+}
