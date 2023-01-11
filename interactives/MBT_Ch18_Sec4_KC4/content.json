@@ -1,0 +1,91 @@
+{
+  "UI": {
+    "showSolutionButton": "Show solution",
+    "tryAgainButton": "Retry",
+    "checkAnswerButton": "Check",
+    "tipsLabel": "Show tip",
+    "scoreBarLabel": "You got :num out of :total points",
+    "tipAvailable": "Tip available",
+    "feedbackAvailable": "Feedback available",
+    "readFeedback": "Read feedback",
+    "wrongAnswer": "Wrong answer",
+    "correctAnswer": "Correct answer",
+    "shouldCheck": "Should have been checked",
+    "shouldNotCheck": "Should not have been checked",
+    "noInput": "Please answer before viewing the solution"
+  },
+  "behaviour": {
+    "enableRetry": true,
+    "enableSolutionsButton": true,
+    "singlePoint": true,
+    "randomAnswers": true,
+    "showSolutionsRequiresInput": true,
+    "type": "auto",
+    "confirmCheckDialog": false,
+    "confirmRetryDialog": false,
+    "autoCheck": false,
+    "passPercentage": 100,
+    "showScorePoints": true,
+    "enableCheckButton": true
+  },
+  "overallFeedback": [
+    {
+      "from": 0,
+      "to": 0,
+      "feedback": "Wrong"
+    },
+    {
+      "from": 1,
+      "to": 99,
+      "feedback": "Almost!"
+    },
+    {
+      "from": 100,
+      "to": 100,
+      "feedback": "Correct!"
+    }
+  ],
+  "question": "Of the following, which is the most likely reason for an increase in online shopping?",
+  "isSolutionPublic": true,
+  "isFreeResponseSupported": false,
+  "answers": [
+    {
+      "text": "A pandemic",
+      "correct": false,
+      "tipsAndFeedback": {
+        "tip": "",
+        "chosenFeedback": "That&#8217;s not correct. Regional shopping centers have been in decline for several decades.",
+        "notChosenFeedback": ""
+      }
+    },
+    {
+      "text": "The shift from two-income to one-income families",
+      "correct": false,
+      "tipsAndFeedback": {
+        "tip": "",
+        "chosenFeedback": "That&#8217;s not correct. While more baby boomers are retiring, this generation still shops in person when possible.",
+        "notChosenFeedback": ""
+      }
+    },
+    {
+      "text": "More people retiring than ever before",
+      "correct": false,
+      "tipsAndFeedback": {
+        "tip": "",
+        "chosenFeedback": "That&#8217;s not correct. Since the 1960s, the number of two-income families has risen or remained stable.",
+        "notChosenFeedback": ""
+      }
+    },
+    {
+      "text": "The rise in regional shopping centers",
+      "correct": true,
+      "tipsAndFeedback": {
+        "tip": "",
+        "chosenFeedback": "Pandemics, such as the one in COVID-19 pandemic, forced many consumers to stay home. This caused a significant rise in online shopping.",
+        "notChosenFeedback": ""
+      }
+    }
+  ],
+  "subContentId": "03bdfc82-a2fd-497e-9c1e-789b44db0bca",
+  "detailedSolution": "Pandemics, such as the one in COVID-19 pandemic, forced many consumers to stay home. This caused a significant rise in online shopping."
+}
