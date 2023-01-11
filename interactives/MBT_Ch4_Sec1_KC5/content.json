@@ -1,0 +1,91 @@
+{
+  "UI": {
+    "showSolutionButton": "Show solution",
+    "tryAgainButton": "Retry",
+    "checkAnswerButton": "Check",
+    "tipsLabel": "Show tip",
+    "scoreBarLabel": "You got :num out of :total points",
+    "tipAvailable": "Tip available",
+    "feedbackAvailable": "Feedback available",
+    "readFeedback": "Read feedback",
+    "wrongAnswer": "Wrong answer",
+    "correctAnswer": "Correct answer",
+    "shouldCheck": "Should have been checked",
+    "shouldNotCheck": "Should not have been checked",
+    "noInput": "Please answer before viewing the solution"
+  },
+  "behaviour": {
+    "enableRetry": true,
+    "enableSolutionsButton": true,
+    "singlePoint": true,
+    "randomAnswers": true,
+    "showSolutionsRequiresInput": true,
+    "type": "auto",
+    "confirmCheckDialog": false,
+    "confirmRetryDialog": false,
+    "autoCheck": false,
+    "passPercentage": 100,
+    "showScorePoints": true,
+    "enableCheckButton": true
+  },
+  "overallFeedback": [
+    {
+      "from": 0,
+      "to": 0,
+      "feedback": "Wrong"
+    },
+    {
+      "from": 1,
+      "to": 99,
+      "feedback": "Almost!"
+    },
+    {
+      "from": 100,
+      "to": 100,
+      "feedback": "Correct!"
+    }
+  ],
+  "question": "DaVonte has a home repair business. He goes to a home improvement store to purchase a large quantity of lumber for his next repair project. While he is there, he picks up batteries for the smoke detector in his house. In this scenario, the lumber is a ________ purchase, and the batteries are a ________ purchase.",
+  "isSolutionPublic": true,
+  "isFreeResponseSupported": false,
+  "answers": [
+    {
+      "text": "B2C; B2B",
+      "correct": false,
+      "tipsAndFeedback": {
+        "tip": "",
+        "chosenFeedback": "That&#8217;s not correct. A B2C purchase is a transaction conducted between a business and a consumer. The purchase from his repair business to a home improvement store is not a B2C transaction and there is no such thing as a B2G.",
+        "notChosenFeedback": ""
+      }
+    },
+    {
+      "text": "B2B; B2G",
+      "correct": false,
+      "tipsAndFeedback": {
+        "tip": "",
+        "chosenFeedback": "That&#8217;s not correct. A B2B purchase is a transaction conducted between two businesses. While the purchase from his repair business to a home improvement store is a B2B transaction, there is no such thing as a B2G transaction.",
+        "notChosenFeedback": ""
+      }
+    },
+    {
+      "text": "B2C; B2G",
+      "correct": false,
+      "tipsAndFeedback": {
+        "tip": "",
+        "chosenFeedback": "That&#8217;s not correct. A B2C purchase is a transaction conducted between a business and a consumer and a B2B purchase is between businesses. The purchase from his repair business to a home improvement store is not a B2C transaction and the battery purchase is not a B2B purchase.",
+        "notChosenFeedback": ""
+      }
+    },
+    {
+      "text": "B2B; B2C",
+      "correct": true,
+      "tipsAndFeedback": {
+        "tip": "",
+        "chosenFeedback": "DaVonte&#8217;s purchase of the lumber in connection with his business is a B2B transaction; the purchase of batteries for the smoke detector in his house is a B2C transaction.",
+        "notChosenFeedback": ""
+      }
+    }
+  ],
+  "subContentId": "a53ac0e9-17d2-48cf-aba2-8928738c40f3",
+  "detailedSolution": "DaVonte’s purchase of the lumber in connection with his business is a B2B transaction; the purchase of batteries for the smoke detector in his house is a B2C transaction."
+}
