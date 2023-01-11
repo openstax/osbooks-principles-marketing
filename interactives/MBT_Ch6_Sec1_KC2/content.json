@@ -1,0 +1,91 @@
+{
+  "UI": {
+    "showSolutionButton": "Show solution",
+    "tryAgainButton": "Retry",
+    "checkAnswerButton": "Check",
+    "tipsLabel": "Show tip",
+    "scoreBarLabel": "You got :num out of :total points",
+    "tipAvailable": "Tip available",
+    "feedbackAvailable": "Feedback available",
+    "readFeedback": "Read feedback",
+    "wrongAnswer": "Wrong answer",
+    "correctAnswer": "Correct answer",
+    "shouldCheck": "Should have been checked",
+    "shouldNotCheck": "Should not have been checked",
+    "noInput": "Please answer before viewing the solution"
+  },
+  "behaviour": {
+    "enableRetry": true,
+    "enableSolutionsButton": true,
+    "singlePoint": true,
+    "randomAnswers": true,
+    "showSolutionsRequiresInput": true,
+    "type": "auto",
+    "confirmCheckDialog": false,
+    "confirmRetryDialog": false,
+    "autoCheck": false,
+    "passPercentage": 100,
+    "showScorePoints": true,
+    "enableCheckButton": true
+  },
+  "overallFeedback": [
+    {
+      "from": 0,
+      "to": 0,
+      "feedback": "Wrong"
+    },
+    {
+      "from": 1,
+      "to": 99,
+      "feedback": "Almost!"
+    },
+    {
+      "from": 100,
+      "to": 100,
+      "feedback": "Correct!"
+    }
+  ],
+  "question": "The collection of data the company has gathered over time and used to make marketing decisions on a regular basis is called its ________.",
+  "isSolutionPublic": true,
+  "isFreeResponseSupported": false,
+  "answers": [
+    {
+      "text": "big data",
+      "correct": false,
+      "tipsAndFeedback": {
+        "tip": "",
+        "chosenFeedback": "That&#8217;s not correct. Although surveys are a popular method of collecting primary data and would be helpful in making marketing decisions, survey data is not the collection of data over time.",
+        "notChosenFeedback": ""
+      }
+    },
+    {
+      "text": "marketing information system",
+      "correct": false,
+      "tipsAndFeedback": {
+        "tip": "",
+        "chosenFeedback": "That&#8217;s not correct. Marketing research is the act of collecting, analyzing, and presenting about data.",
+        "notChosenFeedback": ""
+      }
+    },
+    {
+      "text": "marketing research",
+      "correct": false,
+      "tipsAndFeedback": {
+        "tip": "",
+        "chosenFeedback": "That&#8217;s not correct. Big data is data that is collected from a lot of different sources, mostly external data.",
+        "notChosenFeedback": ""
+      }
+    },
+    {
+      "text": "survey data",
+      "correct": true,
+      "tipsAndFeedback": {
+        "tip": "",
+        "chosenFeedback": "A marketing information system is a collection of data that an organization uses to make marketing decisions.",
+        "notChosenFeedback": ""
+      }
+    }
+  ],
+  "subContentId": "75d0fafe-4ce9-4f64-9ae8-5cba63f33793",
+  "detailedSolution": "A marketing information system is a collection of data that an organization uses to make marketing decisions."
+}
