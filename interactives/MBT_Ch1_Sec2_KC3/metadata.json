@@ -1,0 +1,22 @@
+{
+  "errata_id": "8081d30a44538d0904634de412414731b841591ad5ead78e9d3dac96920a8b66",
+  "attachments": [],
+  "tags": [
+    "book:stax-mktg",
+    "lo:stax-mktg:1-2-2",
+    "context-cnxmod:e1daf5ef-94f1-465e-afd9-72cb256cc436",
+    "book-slug:principles-marketing",
+    "module-slug:principles-marketing:1-2-the-marketing-mix-and-the-4ps-of-marketing"
+  ],
+  "books": [
+    {
+      "name": "stax-mktg",
+      "lo": [
+        "1-2-2"
+      ]
+    }
+  ],
+  "context": [
+    "m00008"
+  ]
+}
