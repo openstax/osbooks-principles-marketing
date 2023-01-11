@@ -1,0 +1,91 @@
+{
+  "UI": {
+    "showSolutionButton": "Show solution",
+    "tryAgainButton": "Retry",
+    "checkAnswerButton": "Check",
+    "tipsLabel": "Show tip",
+    "scoreBarLabel": "You got :num out of :total points",
+    "tipAvailable": "Tip available",
+    "feedbackAvailable": "Feedback available",
+    "readFeedback": "Read feedback",
+    "wrongAnswer": "Wrong answer",
+    "correctAnswer": "Correct answer",
+    "shouldCheck": "Should have been checked",
+    "shouldNotCheck": "Should not have been checked",
+    "noInput": "Please answer before viewing the solution"
+  },
+  "behaviour": {
+    "enableRetry": true,
+    "enableSolutionsButton": true,
+    "singlePoint": true,
+    "randomAnswers": true,
+    "showSolutionsRequiresInput": true,
+    "type": "auto",
+    "confirmCheckDialog": false,
+    "confirmRetryDialog": false,
+    "autoCheck": false,
+    "passPercentage": 100,
+    "showScorePoints": true,
+    "enableCheckButton": true
+  },
+  "overallFeedback": [
+    {
+      "from": 0,
+      "to": 0,
+      "feedback": "Wrong"
+    },
+    {
+      "from": 1,
+      "to": 99,
+      "feedback": "Almost!"
+    },
+    {
+      "from": 100,
+      "to": 100,
+      "feedback": "Correct!"
+    }
+  ],
+  "question": "Justia saw on the news that chicken was recently recalled by the US Food and Drug Administration (FDA). The news anchor specified which sell-by dates, manufacturer, and retailers were affected. Justia doesn’t understand how the FDA can know, with such specificity, which chickens were affected. How would you describe to Justia this specificity?",
+  "isSolutionPublic": true,
+  "isFreeResponseSupported": false,
+  "answers": [
+    {
+      "text": "Increased competition",
+      "correct": false,
+      "tipsAndFeedback": {
+        "tip": "",
+        "chosenFeedback": "That&#8217;s not correct. Caveat emptor translates to &#8220;let the buyer beware.&#8221;",
+        "notChosenFeedback": ""
+      }
+    },
+    {
+      "text": "E-commerce",
+      "correct": false,
+      "tipsAndFeedback": {
+        "tip": "",
+        "chosenFeedback": "That&#8217;s not correct. E-commerce is the ability to shop online.",
+        "notChosenFeedback": ""
+      }
+    },
+    {
+      "text": "Caveat emptor",
+      "correct": false,
+      "tipsAndFeedback": {
+        "tip": "",
+        "chosenFeedback": "That&#8217;s not correct. Increased competition does not indicate traceability.",
+        "notChosenFeedback": ""
+      }
+    },
+    {
+      "text": "Product traceability",
+      "correct": true,
+      "tipsAndFeedback": {
+        "tip": "",
+        "chosenFeedback": "Product traceability allows products to be traced throughout the distribution channel to the manufacturer.",
+        "notChosenFeedback": ""
+      }
+    }
+  ],
+  "subContentId": "5c909fd7-2364-4b92-833e-f5ee8320965a",
+  "detailedSolution": "Product traceability allows products to be traced throughout the distribution channel to the manufacturer."
+}
