@@ -1,0 +1,91 @@
+{
+  "UI": {
+    "showSolutionButton": "Show solution",
+    "tryAgainButton": "Retry",
+    "checkAnswerButton": "Check",
+    "tipsLabel": "Show tip",
+    "scoreBarLabel": "You got :num out of :total points",
+    "tipAvailable": "Tip available",
+    "feedbackAvailable": "Feedback available",
+    "readFeedback": "Read feedback",
+    "wrongAnswer": "Wrong answer",
+    "correctAnswer": "Correct answer",
+    "shouldCheck": "Should have been checked",
+    "shouldNotCheck": "Should not have been checked",
+    "noInput": "Please answer before viewing the solution"
+  },
+  "behaviour": {
+    "enableRetry": true,
+    "enableSolutionsButton": true,
+    "singlePoint": true,
+    "randomAnswers": true,
+    "showSolutionsRequiresInput": true,
+    "type": "auto",
+    "confirmCheckDialog": false,
+    "confirmRetryDialog": false,
+    "autoCheck": false,
+    "passPercentage": 100,
+    "showScorePoints": true,
+    "enableCheckButton": true
+  },
+  "overallFeedback": [
+    {
+      "from": 0,
+      "to": 0,
+      "feedback": "Wrong"
+    },
+    {
+      "from": 1,
+      "to": 99,
+      "feedback": "Almost!"
+    },
+    {
+      "from": 100,
+      "to": 100,
+      "feedback": "Correct!"
+    }
+  ],
+  "question": "Hoffman Enterprises has introduced a new product to the market that has undergone only marginal changes and doesn’t alter consumer use habits. What type of product has Hoffman Enterprises introduced?",
+  "isSolutionPublic": true,
+  "isFreeResponseSupported": false,
+  "answers": [
+    {
+      "text": "Discontinuous innovation",
+      "correct": false,
+      "tipsAndFeedback": {
+        "tip": "",
+        "chosenFeedback": "That&#8217;s not correct. Dynamically continuous innovations are fundamentally different from other products on the market, so they require a change in consumer habits.",
+        "notChosenFeedback": ""
+      }
+    },
+    {
+      "text": "Continuous innovation",
+      "correct": false,
+      "tipsAndFeedback": {
+        "tip": "",
+        "chosenFeedback": "That&#8217;s not correct. Intermittent innovation isn&#8217;t a type of newness.",
+        "notChosenFeedback": ""
+      }
+    },
+    {
+      "text": "Intermittent innovation",
+      "correct": false,
+      "tipsAndFeedback": {
+        "tip": "",
+        "chosenFeedback": "That&#8217;s not correct. Discontinuous innovations are new-to-the-world products that are so different from existing products on the market that they create an entirely new market.",
+        "notChosenFeedback": ""
+      }
+    },
+    {
+      "text": "Dynamically continuous innovation",
+      "correct": true,
+      "tipsAndFeedback": {
+        "tip": "",
+        "chosenFeedback": "With continuous innovation, the existing product undergoes only marginal changes and doesn&#8217;t alter consumer habits.",
+        "notChosenFeedback": ""
+      }
+    }
+  ],
+  "subContentId": "9cc7863d-008d-4da2-a36a-a4c1a16e2e09",
+  "detailedSolution": "With continuous innovation, the existing product undergoes only marginal changes and doesn’t alter consumer habits."
+}
