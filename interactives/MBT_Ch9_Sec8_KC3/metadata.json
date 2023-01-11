@@ -1,0 +1,22 @@
+{
+  "errata_id": "4b3ac7306d4dae0dd3daf47d38c294f2f0f94a8127b392beb5c309f5ac5ec451",
+  "attachments": [],
+  "tags": [
+    "book:stax-mktg",
+    "context-cnxmod:66397e5e-2e86-4fcf-b567-2a9db2df7e74",
+    "lo:stax-mktg:9-8-2",
+    "book-slug:principles-marketing",
+    "module-slug:principles-marketing:9-8-environmental-concerns-regarding-packaging"
+  ],
+  "books": [
+    {
+      "name": "stax-mktg",
+      "lo": [
+        "9-8-2"
+      ]
+    }
+  ],
+  "context": [
+    "m00061"
+  ]
+}
