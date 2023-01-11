@@ -1,0 +1,91 @@
+{
+  "UI": {
+    "showSolutionButton": "Show solution",
+    "tryAgainButton": "Retry",
+    "checkAnswerButton": "Check",
+    "tipsLabel": "Show tip",
+    "scoreBarLabel": "You got :num out of :total points",
+    "tipAvailable": "Tip available",
+    "feedbackAvailable": "Feedback available",
+    "readFeedback": "Read feedback",
+    "wrongAnswer": "Wrong answer",
+    "correctAnswer": "Correct answer",
+    "shouldCheck": "Should have been checked",
+    "shouldNotCheck": "Should not have been checked",
+    "noInput": "Please answer before viewing the solution"
+  },
+  "behaviour": {
+    "enableRetry": true,
+    "enableSolutionsButton": true,
+    "singlePoint": true,
+    "randomAnswers": true,
+    "showSolutionsRequiresInput": true,
+    "type": "auto",
+    "confirmCheckDialog": false,
+    "confirmRetryDialog": false,
+    "autoCheck": false,
+    "passPercentage": 100,
+    "showScorePoints": true,
+    "enableCheckButton": true
+  },
+  "overallFeedback": [
+    {
+      "from": 0,
+      "to": 0,
+      "feedback": "Wrong"
+    },
+    {
+      "from": 1,
+      "to": 99,
+      "feedback": "Almost!"
+    },
+    {
+      "from": 100,
+      "to": 100,
+      "feedback": "Correct!"
+    }
+  ],
+  "question": "Schwan’s Company prepares frozen foods to be delivered to the door of the consumer. Which of the following is the most likely distribution channel for Schwan’s?",
+  "isSolutionPublic": true,
+  "isFreeResponseSupported": false,
+  "answers": [
+    {
+      "text": "Manufacturer – Agent – Wholesaler – Retailer – Consumer",
+      "correct": false,
+      "tipsAndFeedback": {
+        "tip": "",
+        "chosenFeedback": "That&#8217;s not correct. In this example, Schwan&#8217;s does not utilize wholesalers or retailers.",
+        "notChosenFeedback": ""
+      }
+    },
+    {
+      "text": "Manufacturer – Retailer",
+      "correct": false,
+      "tipsAndFeedback": {
+        "tip": "",
+        "chosenFeedback": "That&#8217;s not correct. In this example, Schwan&#8217;s does not utilize retailers.",
+        "notChosenFeedback": ""
+      }
+    },
+    {
+      "text": "Manufacturer – Consumer",
+      "correct": false,
+      "tipsAndFeedback": {
+        "tip": "",
+        "chosenFeedback": "That&#8217;s not correct. In this example, Schwan&#8217;s does not utilize agents, wholesalers, or retailers.",
+        "notChosenFeedback": ""
+      }
+    },
+    {
+      "text": "Manufacturer – Wholesaler – Retailer",
+      "correct": true,
+      "tipsAndFeedback": {
+        "tip": "",
+        "chosenFeedback": "Schwan&#8217;s eliminates the intermediaries and sells directly to the consumers.",
+        "notChosenFeedback": ""
+      }
+    }
+  ],
+  "subContentId": "bf69f4af-2387-4c71-89ce-91e6af10a92f",
+  "detailedSolution": "Schwan’s eliminates the intermediaries and sells directly to the consumers."
+}
