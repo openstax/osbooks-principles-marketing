@@ -1,0 +1,91 @@
+{
+  "UI": {
+    "showSolutionButton": "Show solution",
+    "tryAgainButton": "Retry",
+    "checkAnswerButton": "Check",
+    "tipsLabel": "Show tip",
+    "scoreBarLabel": "You got :num out of :total points",
+    "tipAvailable": "Tip available",
+    "feedbackAvailable": "Feedback available",
+    "readFeedback": "Read feedback",
+    "wrongAnswer": "Wrong answer",
+    "correctAnswer": "Correct answer",
+    "shouldCheck": "Should have been checked",
+    "shouldNotCheck": "Should not have been checked",
+    "noInput": "Please answer before viewing the solution"
+  },
+  "behaviour": {
+    "enableRetry": true,
+    "enableSolutionsButton": true,
+    "singlePoint": true,
+    "randomAnswers": true,
+    "showSolutionsRequiresInput": true,
+    "type": "auto",
+    "confirmCheckDialog": false,
+    "confirmRetryDialog": false,
+    "autoCheck": false,
+    "passPercentage": 100,
+    "showScorePoints": true,
+    "enableCheckButton": true
+  },
+  "overallFeedback": [
+    {
+      "from": 0,
+      "to": 0,
+      "feedback": "Wrong"
+    },
+    {
+      "from": 1,
+      "to": 99,
+      "feedback": "Almost!"
+    },
+    {
+      "from": 100,
+      "to": 100,
+      "feedback": "Correct!"
+    }
+  ],
+  "question": "Which of the metrics could be used to measure the performance of a social media campaign?",
+  "isSolutionPublic": true,
+  "isFreeResponseSupported": false,
+  "answers": [
+    {
+      "text": "Social engagement",
+      "correct": false,
+      "tipsAndFeedback": {
+        "tip": "",
+        "chosenFeedback": "That&#8217;s not correct. Cost per click measures what it costs when a visitor clicks on search ad.",
+        "notChosenFeedback": ""
+      }
+    },
+    {
+      "text": "Page views",
+      "correct": false,
+      "tipsAndFeedback": {
+        "tip": "",
+        "chosenFeedback": "That&#8217;s not correct. The bounce rate measures the percentage of times visitors leaves your site after visiting only one page.",
+        "notChosenFeedback": ""
+      }
+    },
+    {
+      "text": "Bounce rate",
+      "correct": false,
+      "tipsAndFeedback": {
+        "tip": "",
+        "chosenFeedback": "That&#8217;s not correct. Analyzing total page views is an important tool for assessing the quality of a page.",
+        "notChosenFeedback": ""
+      }
+    },
+    {
+      "text": "Cost per click",
+      "correct": true,
+      "tipsAndFeedback": {
+        "tip": "",
+        "chosenFeedback": "Social engagement relates to the actions that users take when they engage with content on social media. Online marketers measure clicks, likes, shares, and comments to help online marketers assess the quality of their content.",
+        "notChosenFeedback": ""
+      }
+    }
+  ],
+  "subContentId": "a46605a2-87b1-4648-9c9a-7ef82ba9224b",
+  "detailedSolution": "Social engagement relates to the actions that users take when they engage with content on social media. Online marketers measure clicks, likes, shares, and comments to help online marketers assess the quality of their content."
+}
