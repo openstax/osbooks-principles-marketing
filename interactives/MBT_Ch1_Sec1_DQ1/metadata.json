@@ -1,0 +1,30 @@
+{
+  "errata_id": "cf7e56deed3a65471376c68ab4329322d6050e0a246e2db0a26df6441468e76b",
+  "attachments": [],
+  "tags": [
+    "type:practice",
+    "book:stax-mktg",
+    "lo:stax-mktg:1-1-2",
+    "context-cnxmod:94a11eb6-7d07-438c-abb7-71dbc4f4f574",
+    "lo:stax-mktg:1-6-1",
+    "context-cnxmod:135a27e9-0239-4da1-b703-331876a2b79f",
+    "lo:stax-mktg:1-6-2",
+    "book-slug:principles-marketing",
+    "module-slug:principles-marketing:1-1-marketing-and-the-marketing-process",
+    "module-slug:principles-marketing:1-6-customer-relationship-management-crm"
+  ],
+  "books": [
+    {
+      "name": "stax-mktg",
+      "lo": [
+        "1-1-2",
+        "1-6-1",
+        "1-6-2"
+      ]
+    }
+  ],
+  "context": [
+    "m00007",
+    "m00012"
+  ]
+}
