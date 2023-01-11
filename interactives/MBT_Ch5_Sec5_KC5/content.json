@@ -1,0 +1,91 @@
+{
+  "UI": {
+    "showSolutionButton": "Show solution",
+    "tryAgainButton": "Retry",
+    "checkAnswerButton": "Check",
+    "tipsLabel": "Show tip",
+    "scoreBarLabel": "You got :num out of :total points",
+    "tipAvailable": "Tip available",
+    "feedbackAvailable": "Feedback available",
+    "readFeedback": "Read feedback",
+    "wrongAnswer": "Wrong answer",
+    "correctAnswer": "Correct answer",
+    "shouldCheck": "Should have been checked",
+    "shouldNotCheck": "Should not have been checked",
+    "noInput": "Please answer before viewing the solution"
+  },
+  "behaviour": {
+    "enableRetry": true,
+    "enableSolutionsButton": true,
+    "singlePoint": true,
+    "randomAnswers": true,
+    "showSolutionsRequiresInput": true,
+    "type": "auto",
+    "confirmCheckDialog": false,
+    "confirmRetryDialog": false,
+    "autoCheck": false,
+    "passPercentage": 100,
+    "showScorePoints": true,
+    "enableCheckButton": true
+  },
+  "overallFeedback": [
+    {
+      "from": 0,
+      "to": 0,
+      "feedback": "Wrong"
+    },
+    {
+      "from": 1,
+      "to": 99,
+      "feedback": "Almost!"
+    },
+    {
+      "from": 100,
+      "to": 100,
+      "feedback": "Correct!"
+    }
+  ],
+  "question": "55places.com is a website for active adult “retirement” communities in the United States. It features unbiased information, current home sale listings, floor plans, photos, and third-party reviews. All the communities listed on the website are for residents who are age 55+. What target marketing strategy does the company use?",
+  "isSolutionPublic": true,
+  "isFreeResponseSupported": false,
+  "answers": [
+    {
+      "text": "Undifferentiated marketing",
+      "correct": false,
+      "tipsAndFeedback": {
+        "tip": "",
+        "chosenFeedback": "That&#8217;s not correct. Micromarketing targets a specific group of individuals within a niche market based on specific information that has been collected about them.",
+        "notChosenFeedback": ""
+      }
+    },
+    {
+      "text": "Differentiated marketing",
+      "correct": false,
+      "tipsAndFeedback": {
+        "tip": "",
+        "chosenFeedback": "That&#8217;s not correct. A differentiated marketing strategy focuses on the differences between segments and designs a specific marketing mix for each segment.",
+        "notChosenFeedback": ""
+      }
+    },
+    {
+      "text": "Micromarketing",
+      "correct": false,
+      "tipsAndFeedback": {
+        "tip": "",
+        "chosenFeedback": "That&#8217;s not correct. Undifferentiated marketing treats all buyers or potential buyers as a homogenous group and creates one message for an entire audience.",
+        "notChosenFeedback": ""
+      }
+    },
+    {
+      "text": "Concentrated marketing",
+      "correct": true,
+      "tipsAndFeedback": {
+        "tip": "",
+        "chosenFeedback": "A niche market (or concentrated marketing) channels all marketing actions toward one well-defined segment of the market. In this case, the subset is people over the age of 55 who are in the market for an active adult lifestyle.",
+        "notChosenFeedback": ""
+      }
+    }
+  ],
+  "subContentId": "fa421a6a-a4ef-401d-a45a-3ab72baf06d6",
+  "detailedSolution": "A niche market (or concentrated marketing) channels all marketing actions toward one well-defined segment of the market. In this case, the subset is people over the age of 55 who are in the market for an active adult lifestyle."
+}
