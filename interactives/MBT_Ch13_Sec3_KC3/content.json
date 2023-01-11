@@ -1,0 +1,91 @@
+{
+  "UI": {
+    "showSolutionButton": "Show solution",
+    "tryAgainButton": "Retry",
+    "checkAnswerButton": "Check",
+    "tipsLabel": "Show tip",
+    "scoreBarLabel": "You got :num out of :total points",
+    "tipAvailable": "Tip available",
+    "feedbackAvailable": "Feedback available",
+    "readFeedback": "Read feedback",
+    "wrongAnswer": "Wrong answer",
+    "correctAnswer": "Correct answer",
+    "shouldCheck": "Should have been checked",
+    "shouldNotCheck": "Should not have been checked",
+    "noInput": "Please answer before viewing the solution"
+  },
+  "behaviour": {
+    "enableRetry": true,
+    "enableSolutionsButton": true,
+    "singlePoint": true,
+    "randomAnswers": true,
+    "showSolutionsRequiresInput": true,
+    "type": "auto",
+    "confirmCheckDialog": false,
+    "confirmRetryDialog": false,
+    "autoCheck": false,
+    "passPercentage": 100,
+    "showScorePoints": true,
+    "enableCheckButton": true
+  },
+  "overallFeedback": [
+    {
+      "from": 0,
+      "to": 0,
+      "feedback": "Wrong"
+    },
+    {
+      "from": 1,
+      "to": 99,
+      "feedback": "Almost!"
+    },
+    {
+      "from": 100,
+      "to": 100,
+      "feedback": "Correct!"
+    }
+  ],
+  "question": "When Sally is able to quickly recall the Taco Bell ad and think about purchasing a Grilled Steak Burrito from Taco Bell when she is hungry, it indicates which of the following benefits of an integrated marketing communications approach?",
+  "isSolutionPublic": true,
+  "isFreeResponseSupported": false,
+  "answers": [
+    {
+      "text": "Increased efficiency",
+      "correct": false,
+      "tipsAndFeedback": {
+        "tip": "",
+        "chosenFeedback": "That&#8217;s not correct. Expense is not a benefit of integrated marketing communications.",
+        "notChosenFeedback": ""
+      }
+    },
+    {
+      "text": "Customer satisfaction",
+      "correct": false,
+      "tipsAndFeedback": {
+        "tip": "",
+        "chosenFeedback": "That&#8217;s not correct. From this scenario, we do not know if Sally is satisfied with Taco Bell.",
+        "notChosenFeedback": ""
+      }
+    },
+    {
+      "text": "Improved brand awareness",
+      "correct": false,
+      "tipsAndFeedback": {
+        "tip": "",
+        "chosenFeedback": "That&#8217;s not correct. Increased efficiency helps Taco Bell to better create and distribute its messaging.",
+        "notChosenFeedback": ""
+      }
+    },
+    {
+      "text": "Expense",
+      "correct": true,
+      "tipsAndFeedback": {
+        "tip": "",
+        "chosenFeedback": "Sally&#8217;s ability to recall and think of Taco Bell to fulfill her needs is a benefit of improved brand awareness.",
+        "notChosenFeedback": ""
+      }
+    }
+  ],
+  "subContentId": "d6818d0f-d01a-459d-907c-b15d45cdc272",
+  "detailedSolution": "Sally’s ability to recall and think of Taco Bell to fulfill her needs is a benefit of improved brand awareness."
+}
