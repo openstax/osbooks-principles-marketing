@@ -1,0 +1,91 @@
+{
+  "UI": {
+    "showSolutionButton": "Show solution",
+    "tryAgainButton": "Retry",
+    "checkAnswerButton": "Check",
+    "tipsLabel": "Show tip",
+    "scoreBarLabel": "You got :num out of :total points",
+    "tipAvailable": "Tip available",
+    "feedbackAvailable": "Feedback available",
+    "readFeedback": "Read feedback",
+    "wrongAnswer": "Wrong answer",
+    "correctAnswer": "Correct answer",
+    "shouldCheck": "Should have been checked",
+    "shouldNotCheck": "Should not have been checked",
+    "noInput": "Please answer before viewing the solution"
+  },
+  "behaviour": {
+    "enableRetry": true,
+    "enableSolutionsButton": true,
+    "singlePoint": true,
+    "randomAnswers": true,
+    "showSolutionsRequiresInput": true,
+    "type": "auto",
+    "confirmCheckDialog": false,
+    "confirmRetryDialog": false,
+    "autoCheck": false,
+    "passPercentage": 100,
+    "showScorePoints": true,
+    "enableCheckButton": true
+  },
+  "overallFeedback": [
+    {
+      "from": 0,
+      "to": 0,
+      "feedback": "Wrong"
+    },
+    {
+      "from": 1,
+      "to": 99,
+      "feedback": "Almost!"
+    },
+    {
+      "from": 100,
+      "to": 100,
+      "feedback": "Correct!"
+    }
+  ],
+  "question": "For companies to be successful in any market, the focus of diversity marketing should be ________.",
+  "isSolutionPublic": true,
+  "isFreeResponseSupported": false,
+  "answers": [
+    {
+      "text": "company centric",
+      "correct": false,
+      "tipsAndFeedback": {
+        "tip": "",
+        "chosenFeedback": "That&#8217;s not correct. Industry centric is about putting the industry first.",
+        "notChosenFeedback": ""
+      }
+    },
+    {
+      "text": "brand centric",
+      "correct": false,
+      "tipsAndFeedback": {
+        "tip": "",
+        "chosenFeedback": "That&#8217;s not correct. Brand centric is about putting the brand first.",
+        "notChosenFeedback": ""
+      }
+    },
+    {
+      "text": "consumer centric",
+      "correct": false,
+      "tipsAndFeedback": {
+        "tip": "",
+        "chosenFeedback": "That&#8217;s not correct. Company centric is about focusing decisions and execution from the perspective of the organization.",
+        "notChosenFeedback": ""
+      }
+    },
+    {
+      "text": "industry centric",
+      "correct": true,
+      "tipsAndFeedback": {
+        "tip": "",
+        "chosenFeedback": "For companies to be successful in any market, the focus of diversity marketing should be consumer centric. This means putting targeted customers first regarding any decisions about a company&#8217;s goods, services, or experiences to create satisfaction and strengthen loyalty.",
+        "notChosenFeedback": ""
+      }
+    }
+  ],
+  "subContentId": "c8084c7a-f29f-4729-b89f-78521d2f0a3e",
+  "detailedSolution": "For companies to be successful in any market, the focus of diversity marketing should be consumer centric. This means putting targeted customers first regarding any decisions about a company’s goods, services, or experiences to create satisfaction and strengthen loyalty."
+}
