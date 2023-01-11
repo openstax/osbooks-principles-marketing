@@ -1,0 +1,91 @@
+{
+  "UI": {
+    "showSolutionButton": "Show solution",
+    "tryAgainButton": "Retry",
+    "checkAnswerButton": "Check",
+    "tipsLabel": "Show tip",
+    "scoreBarLabel": "You got :num out of :total points",
+    "tipAvailable": "Tip available",
+    "feedbackAvailable": "Feedback available",
+    "readFeedback": "Read feedback",
+    "wrongAnswer": "Wrong answer",
+    "correctAnswer": "Correct answer",
+    "shouldCheck": "Should have been checked",
+    "shouldNotCheck": "Should not have been checked",
+    "noInput": "Please answer before viewing the solution"
+  },
+  "behaviour": {
+    "enableRetry": true,
+    "enableSolutionsButton": true,
+    "singlePoint": true,
+    "randomAnswers": true,
+    "showSolutionsRequiresInput": true,
+    "type": "auto",
+    "confirmCheckDialog": false,
+    "confirmRetryDialog": false,
+    "autoCheck": false,
+    "passPercentage": 100,
+    "showScorePoints": true,
+    "enableCheckButton": true
+  },
+  "overallFeedback": [
+    {
+      "from": 0,
+      "to": 0,
+      "feedback": "Wrong"
+    },
+    {
+      "from": 1,
+      "to": 99,
+      "feedback": "Almost!"
+    },
+    {
+      "from": 100,
+      "to": 100,
+      "feedback": "Correct!"
+    }
+  ],
+  "question": "David hopes to capture as much of the market as possible with the company’s new product. Which pricing strategy should David use?",
+  "isSolutionPublic": true,
+  "isFreeResponseSupported": false,
+  "answers": [
+    {
+      "text": "Price skimming",
+      "correct": false,
+      "tipsAndFeedback": {
+        "tip": "",
+        "chosenFeedback": "That&#8217;s not correct. Psychological pricing uses the consumer&#8217;s psyche to set prices.",
+        "notChosenFeedback": ""
+      }
+    },
+    {
+      "text": "Cost-based pricing",
+      "correct": false,
+      "tipsAndFeedback": {
+        "tip": "",
+        "chosenFeedback": "That&#8217;s not correct. Cost-based pricing sets prices to cover the costs associated with production.",
+        "notChosenFeedback": ""
+      }
+    },
+    {
+      "text": "Psychological pricing",
+      "correct": false,
+      "tipsAndFeedback": {
+        "tip": "",
+        "chosenFeedback": "That&#8217;s not correct. Price skimming sets the highest price possible to capture the portion of the market willing to pay those prices.",
+        "notChosenFeedback": ""
+      }
+    },
+    {
+      "text": "Penetration pricing",
+      "correct": true,
+      "tipsAndFeedback": {
+        "tip": "",
+        "chosenFeedback": "Penetration pricing attempts to capture the greatest market share possible when introducing a new product.",
+        "notChosenFeedback": ""
+      }
+    }
+  ],
+  "subContentId": "53360ed1-889f-49a7-a356-a0bd47f5c6b9",
+  "detailedSolution": "Penetration pricing attempts to capture the greatest market share possible when introducing a new product."
+}
