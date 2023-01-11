@@ -1,0 +1,23 @@
+{
+  "errata_id": "cc15ae341213c374d104cca27368ab1d74ab5d54ccbbc81f365f87b380e8a2e9",
+  "attachments": [],
+  "tags": [
+    "type:practice",
+    "book:stax-mktg",
+    "context-cnxmod:de412e9b-5a5c-44b1-8c99-1943f9b8f7a8",
+    "lo:stax-mktg:16-1-1",
+    "book-slug:principles-marketing",
+    "module-slug:principles-marketing:16-1-traditional-direct-marketing"
+  ],
+  "books": [
+    {
+      "name": "stax-mktg",
+      "lo": [
+        "16-1-1"
+      ]
+    }
+  ],
+  "context": [
+    "m00105"
+  ]
+}
