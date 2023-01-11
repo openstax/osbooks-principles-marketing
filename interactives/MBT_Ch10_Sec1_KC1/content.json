@@ -1,0 +1,91 @@
+{
+  "UI": {
+    "showSolutionButton": "Show solution",
+    "tryAgainButton": "Retry",
+    "checkAnswerButton": "Check",
+    "tipsLabel": "Show tip",
+    "scoreBarLabel": "You got :num out of :total points",
+    "tipAvailable": "Tip available",
+    "feedbackAvailable": "Feedback available",
+    "readFeedback": "Read feedback",
+    "wrongAnswer": "Wrong answer",
+    "correctAnswer": "Correct answer",
+    "shouldCheck": "Should have been checked",
+    "shouldNotCheck": "Should not have been checked",
+    "noInput": "Please answer before viewing the solution"
+  },
+  "behaviour": {
+    "enableRetry": true,
+    "enableSolutionsButton": true,
+    "singlePoint": true,
+    "randomAnswers": true,
+    "showSolutionsRequiresInput": true,
+    "type": "auto",
+    "confirmCheckDialog": false,
+    "confirmRetryDialog": false,
+    "autoCheck": false,
+    "passPercentage": 100,
+    "showScorePoints": true,
+    "enableCheckButton": true
+  },
+  "overallFeedback": [
+    {
+      "from": 0,
+      "to": 0,
+      "feedback": "Wrong"
+    },
+    {
+      "from": 1,
+      "to": 99,
+      "feedback": "Almost!"
+    },
+    {
+      "from": 100,
+      "to": 100,
+      "feedback": "Correct!"
+    }
+  ],
+  "question": "Many years ago, liquid soap was introduced in place of traditional bar soaps. This innovation changed an intrinsic feature of the product, but it’s used for the same purpose. This is an example of ________.",
+  "isSolutionPublic": true,
+  "isFreeResponseSupported": false,
+  "answers": [
+    {
+      "text": "discontinuous innovation",
+      "correct": false,
+      "tipsAndFeedback": {
+        "tip": "",
+        "chosenFeedback": "That&#8217;s not correct. There is no such innovation as noncontinuous innovation.",
+        "notChosenFeedback": ""
+      }
+    },
+    {
+      "text": "continuous innovation",
+      "correct": false,
+      "tipsAndFeedback": {
+        "tip": "",
+        "chosenFeedback": "That&#8217;s not correct. With continuous innovation, the existing product undergoes marginal changes and doesn&#8217;t alter consumer habits.",
+        "notChosenFeedback": ""
+      }
+    },
+    {
+      "text": "dynamically continuous innovation",
+      "correct": false,
+      "tipsAndFeedback": {
+        "tip": "",
+        "chosenFeedback": "That&#8217;s not correct. With discontinuous innovation, products are significantly different from existing products, so they require a substantial altering of consumer habits to use the products.",
+        "notChosenFeedback": ""
+      }
+    },
+    {
+      "text": "noncontinuous innovation",
+      "correct": true,
+      "tipsAndFeedback": {
+        "tip": "",
+        "chosenFeedback": "With dynamically continuous innovation, some changes in consumer habits are necessary, but the changes aren&#8217;t as dramatic as with discontinuous innovation and are not as insignificant as in continuous innovation.",
+        "notChosenFeedback": ""
+      }
+    }
+  ],
+  "subContentId": "8dc50f22-8ac6-49a9-94be-e20426ec71ec",
+  "detailedSolution": "With dynamically continuous innovation, some changes in consumer habits are necessary, but the changes aren’t as dramatic as with discontinuous innovation and are not as insignificant as in continuous innovation."
+}

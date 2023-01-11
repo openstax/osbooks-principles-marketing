@@ -1,0 +1,22 @@
+{
+  "errata_id": "e1ce6eeed4b2d8ecafe5da22bc4309f82ddc1922527e6fea337a06c9ff700e02",
+  "attachments": [],
+  "tags": [
+    "book:stax-mktg",
+    "lo:stax-mktg:10-1-2",
+    "context-cnxmod:32b9e5d9-74bf-472f-94db-16507ac2553e",
+    "book-slug:principles-marketing",
+    "module-slug:principles-marketing:10-1-new-products-from-a-customers-perspective"
+  ],
+  "books": [
+    {
+      "name": "stax-mktg",
+      "lo": [
+        "10-1-2"
+      ]
+    }
+  ],
+  "context": [
+    "m00064"
+  ]
+}
