@@ -1,0 +1,22 @@
+{
+  "errata_id": "59b238c00fa316267690e86cec5799dfb0061f7bf9aefcece9f89575a5c6b188",
+  "attachments": [],
+  "tags": [
+    "book:stax-mktg",
+    "context-cnxmod:c7f57a97-b06f-483f-8136-4bdc06994676",
+    "lo:stax-mktg:9-3-1",
+    "book-slug:principles-marketing",
+    "module-slug:principles-marketing:9-3-the-product-life-cycle"
+  ],
+  "books": [
+    {
+      "name": "stax-mktg",
+      "lo": [
+        "9-3-1"
+      ]
+    }
+  ],
+  "context": [
+    "m00056"
+  ]
+}
