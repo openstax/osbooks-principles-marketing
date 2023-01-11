@@ -1,0 +1,22 @@
+{
+  "errata_id": "8969d32902f697aed90d05a224480a0ee1743c66c9dae72fecd0c90ada47e238",
+  "attachments": [],
+  "tags": [
+    "book:stax-mktg",
+    "context-cnxmod:eac8050f-440a-4c1b-8a1a-132726160927",
+    "lo:stax-mktg:18-5-2",
+    "book-slug:principles-marketing",
+    "module-slug:principles-marketing:18-5-wholesaling"
+  ],
+  "books": [
+    {
+      "name": "stax-mktg",
+      "lo": [
+        "18-5-2"
+      ]
+    }
+  ],
+  "context": [
+    "m00121"
+  ]
+}
