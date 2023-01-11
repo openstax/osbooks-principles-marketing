@@ -1,0 +1,22 @@
+{
+  "errata_id": "95a4a513c7bbc2da8cc200f7cbf2df158a73264288ef6b9962ba9eeddfaa27e7",
+  "attachments": [],
+  "tags": [
+    "book:stax-mktg",
+    "context-cnxmod:44f6ba7a-48f9-4b87-a68b-51fde9009dbb",
+    "lo:stax-mktg:9-1-2",
+    "book-slug:principles-marketing",
+    "module-slug:principles-marketing:9-1-products-services-and-experiences"
+  ],
+  "books": [
+    {
+      "name": "stax-mktg",
+      "lo": [
+        "9-1-2"
+      ]
+    }
+  ],
+  "context": [
+    "m00054"
+  ]
+}
