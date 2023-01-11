@@ -1,0 +1,91 @@
+{
+  "UI": {
+    "showSolutionButton": "Show solution",
+    "tryAgainButton": "Retry",
+    "checkAnswerButton": "Check",
+    "tipsLabel": "Show tip",
+    "scoreBarLabel": "You got :num out of :total points",
+    "tipAvailable": "Tip available",
+    "feedbackAvailable": "Feedback available",
+    "readFeedback": "Read feedback",
+    "wrongAnswer": "Wrong answer",
+    "correctAnswer": "Correct answer",
+    "shouldCheck": "Should have been checked",
+    "shouldNotCheck": "Should not have been checked",
+    "noInput": "Please answer before viewing the solution"
+  },
+  "behaviour": {
+    "enableRetry": true,
+    "enableSolutionsButton": true,
+    "singlePoint": true,
+    "randomAnswers": true,
+    "showSolutionsRequiresInput": true,
+    "type": "auto",
+    "confirmCheckDialog": false,
+    "confirmRetryDialog": false,
+    "autoCheck": false,
+    "passPercentage": 100,
+    "showScorePoints": true,
+    "enableCheckButton": true
+  },
+  "overallFeedback": [
+    {
+      "from": 0,
+      "to": 0,
+      "feedback": "Wrong"
+    },
+    {
+      "from": 1,
+      "to": 99,
+      "feedback": "Almost!"
+    },
+    {
+      "from": 100,
+      "to": 100,
+      "feedback": "Correct!"
+    }
+  ],
+  "question": "As intermediaries move products and services from manufacturers to consumers, what key services do they offer?",
+  "isSolutionPublic": true,
+  "isFreeResponseSupported": false,
+  "answers": [
+    {
+      "text": "Pricing and promoting across geographical areas",
+      "correct": false,
+      "tipsAndFeedback": {
+        "tip": "",
+        "chosenFeedback": "That&#8217;s not correct. Competition does not reflect one of the key services covered in the chapter.",
+        "notChosenFeedback": ""
+      }
+    },
+    {
+      "text": "Surveying customers to ensure they are satisfied with their product or service experience",
+      "correct": false,
+      "tipsAndFeedback": {
+        "tip": "",
+        "chosenFeedback": "That&#8217;s not correct. While surveying customers is important to assessing satisfaction, it does not reflect one of the key services covered in the chapter.",
+        "notChosenFeedback": ""
+      }
+    },
+    {
+      "text": "Competing with one another to reduce prices for consumers",
+      "correct": false,
+      "tipsAndFeedback": {
+        "tip": "",
+        "chosenFeedback": "That&#8217;s not correct. While pricing and promotion across geographical areas is an important overall function of marketing, it does not reflect one of the key services covered in the chapter.",
+        "notChosenFeedback": ""
+      }
+    },
+    {
+      "text": "Accumulating, bulk-breaking, adjusting for assortment discrepancies, and providing financing",
+      "correct": true,
+      "tipsAndFeedback": {
+        "tip": "",
+        "chosenFeedback": "Accumulating, bulk-breaking, adjusting for assortment discrepancies, and providing financing are the valuable services that intermediaries provide.",
+        "notChosenFeedback": ""
+      }
+    }
+  ],
+  "subContentId": "54d4e6b6-3fa7-4f90-bc57-580035150fc8",
+  "detailedSolution": "Accumulating, bulk-breaking, adjusting for assortment discrepancies, and providing financing are the valuable services that intermediaries provide."
+}
