@@ -1,0 +1,91 @@
+{
+  "UI": {
+    "showSolutionButton": "Show solution",
+    "tryAgainButton": "Retry",
+    "checkAnswerButton": "Check",
+    "tipsLabel": "Show tip",
+    "scoreBarLabel": "You got :num out of :total points",
+    "tipAvailable": "Tip available",
+    "feedbackAvailable": "Feedback available",
+    "readFeedback": "Read feedback",
+    "wrongAnswer": "Wrong answer",
+    "correctAnswer": "Correct answer",
+    "shouldCheck": "Should have been checked",
+    "shouldNotCheck": "Should not have been checked",
+    "noInput": "Please answer before viewing the solution"
+  },
+  "behaviour": {
+    "enableRetry": true,
+    "enableSolutionsButton": true,
+    "singlePoint": true,
+    "randomAnswers": true,
+    "showSolutionsRequiresInput": true,
+    "type": "auto",
+    "confirmCheckDialog": false,
+    "confirmRetryDialog": false,
+    "autoCheck": false,
+    "passPercentage": 100,
+    "showScorePoints": true,
+    "enableCheckButton": true
+  },
+  "overallFeedback": [
+    {
+      "from": 0,
+      "to": 0,
+      "feedback": "Wrong"
+    },
+    {
+      "from": 1,
+      "to": 99,
+      "feedback": "Almost!"
+    },
+    {
+      "from": 100,
+      "to": 100,
+      "feedback": "Correct!"
+    }
+  ],
+  "question": "A marketing adaptation strategy involves ________.",
+  "isSolutionPublic": true,
+  "isFreeResponseSupported": false,
+  "answers": [
+    {
+      "text": "adjusting a company’s efforts and the marketing mix to increase appeal",
+      "correct": false,
+      "tipsAndFeedback": {
+        "tip": "",
+        "chosenFeedback": "That&#8217;s not correct. A marketing adaptation strategy involves more than just implementing changess based on the company&#8217;s abilities and resources.",
+        "notChosenFeedback": ""
+      }
+    },
+    {
+      "text": "responding to targeted consumers’ specific needs, tastes, or expectations",
+      "correct": false,
+      "tipsAndFeedback": {
+        "tip": "",
+        "chosenFeedback": "That&#8217;s not correct. A marketing adaptation strategy involves more than just responding  to consumers&#8217; specific needs, tastes, or expectations.",
+        "notChosenFeedback": ""
+      }
+    },
+    {
+      "text": "implementing company changes based on organizational abilities and resources",
+      "correct": false,
+      "tipsAndFeedback": {
+        "tip": "",
+        "chosenFeedback": "That&#8217;s not correct. A marketing adaptation strategy involves more than just adjusting a company&#8217;s efforts and marketing mix to increase appeal.",
+        "notChosenFeedback": ""
+      }
+    },
+    {
+      "text": "All of these statements are correct.",
+      "correct": true,
+      "tipsAndFeedback": {
+        "tip": "",
+        "chosenFeedback": "A marketing adaptation strategy involves adjusting a company&#8217;s efforts, as well as its marketing mix, to increase its appeal and respond to consumers&#8217; specific needs, tastes, or expectations. This must be done according to the company&#8217;s abilities and resources.",
+        "notChosenFeedback": ""
+      }
+    }
+  ],
+  "subContentId": "b10d7ef6-5856-4617-b662-abed8608f917",
+  "detailedSolution": "A marketing adaptation strategy involves adjusting a company’s efforts, as well as its marketing mix, to increase its appeal and respond to consumers’ specific needs, tastes, or expectations. This must be done according to the company’s abilities and resources."
+}
