@@ -1,0 +1,91 @@
+{
+  "UI": {
+    "showSolutionButton": "Show solution",
+    "tryAgainButton": "Retry",
+    "checkAnswerButton": "Check",
+    "tipsLabel": "Show tip",
+    "scoreBarLabel": "You got :num out of :total points",
+    "tipAvailable": "Tip available",
+    "feedbackAvailable": "Feedback available",
+    "readFeedback": "Read feedback",
+    "wrongAnswer": "Wrong answer",
+    "correctAnswer": "Correct answer",
+    "shouldCheck": "Should have been checked",
+    "shouldNotCheck": "Should not have been checked",
+    "noInput": "Please answer before viewing the solution"
+  },
+  "behaviour": {
+    "enableRetry": true,
+    "enableSolutionsButton": true,
+    "singlePoint": true,
+    "randomAnswers": true,
+    "showSolutionsRequiresInput": true,
+    "type": "auto",
+    "confirmCheckDialog": false,
+    "confirmRetryDialog": false,
+    "autoCheck": false,
+    "passPercentage": 100,
+    "showScorePoints": true,
+    "enableCheckButton": true
+  },
+  "overallFeedback": [
+    {
+      "from": 0,
+      "to": 0,
+      "feedback": "Wrong"
+    },
+    {
+      "from": 1,
+      "to": 99,
+      "feedback": "Almost!"
+    },
+    {
+      "from": 100,
+      "to": 100,
+      "feedback": "Correct!"
+    }
+  ],
+  "question": "Which is not an example of a diversity marketing consumer segment?",
+  "isSolutionPublic": true,
+  "isFreeResponseSupported": false,
+  "answers": [
+    {
+      "text": "Multicultural segments like Hispanic, Black, and Asian people",
+      "correct": false,
+      "tipsAndFeedback": {
+        "tip": "",
+        "chosenFeedback": "That&#8217;s not correct. Gen Xers, Zoomers, and consumers with disabilities are among sociodemographic segments of diversity marketing.",
+        "notChosenFeedback": ""
+      }
+    },
+    {
+      "text": "Sociodemographic segments like tech-savvy and digital natives",
+      "correct": false,
+      "tipsAndFeedback": {
+        "tip": "",
+        "chosenFeedback": "That&#8217;s not correct. American Indian and Alaskan Native people are among multicultural segments of diversity marketing.",
+        "notChosenFeedback": ""
+      }
+    },
+    {
+      "text": "Multicultural segments like American Indian and Alaskan Native people",
+      "correct": false,
+      "tipsAndFeedback": {
+        "tip": "",
+        "chosenFeedback": "That&#8217;s not correct. Hispanic, Black, and Asian people are among multicultural segments of diversity marketing.",
+        "notChosenFeedback": ""
+      }
+    },
+    {
+      "text": "Sociodemographic segments like Gen Xers, Zoomers, and consumers with disabilities",
+      "correct": true,
+      "tipsAndFeedback": {
+        "tip": "",
+        "chosenFeedback": "Tech-savvy and digital natives are not a sociodemographic segment; they are behavioral segments. Hispanic, Black, Asian, American Indian, and Alaskan Native people are among multicultural segments. Gen Xers, Zoomers, and consumers with disabilities are among sociodemographic segments.",
+        "notChosenFeedback": ""
+      }
+    }
+  ],
+  "subContentId": "3eac7857-5213-4d19-bbcd-93ec311b8ddc",
+  "detailedSolution": "Tech-savvy and digital natives are not a sociodemographic segment; they are behavioral segments. Hispanic, Black, Asian, American Indian, and Alaskan Native people are among multicultural segments. Gen Xers, Zoomers, and consumers with disabilities are among sociodemographic segments."
+}
