@@ -1,0 +1,22 @@
+{
+  "errata_id": "a56b2448b5fc8bd4c08b7237d2e3d6e521f6f016b5e917b0c7a6742b6afab7cb",
+  "attachments": [],
+  "tags": [
+    "book:stax-mktg",
+    "context-cnxmod:135a27e9-0239-4da1-b703-331876a2b79f",
+    "lo:stax-mktg:1-6-2",
+    "book-slug:principles-marketing",
+    "module-slug:principles-marketing:1-6-customer-relationship-management-crm"
+  ],
+  "books": [
+    {
+      "name": "stax-mktg",
+      "lo": [
+        "1-6-2"
+      ]
+    }
+  ],
+  "context": [
+    "m00012"
+  ]
+}
