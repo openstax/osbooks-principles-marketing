@@ -1,0 +1,91 @@
+{
+  "UI": {
+    "showSolutionButton": "Show solution",
+    "tryAgainButton": "Retry",
+    "checkAnswerButton": "Check",
+    "tipsLabel": "Show tip",
+    "scoreBarLabel": "You got :num out of :total points",
+    "tipAvailable": "Tip available",
+    "feedbackAvailable": "Feedback available",
+    "readFeedback": "Read feedback",
+    "wrongAnswer": "Wrong answer",
+    "correctAnswer": "Correct answer",
+    "shouldCheck": "Should have been checked",
+    "shouldNotCheck": "Should not have been checked",
+    "noInput": "Please answer before viewing the solution"
+  },
+  "behaviour": {
+    "enableRetry": true,
+    "enableSolutionsButton": true,
+    "singlePoint": true,
+    "randomAnswers": true,
+    "showSolutionsRequiresInput": true,
+    "type": "auto",
+    "confirmCheckDialog": false,
+    "confirmRetryDialog": false,
+    "autoCheck": false,
+    "passPercentage": 100,
+    "showScorePoints": true,
+    "enableCheckButton": true
+  },
+  "overallFeedback": [
+    {
+      "from": 0,
+      "to": 0,
+      "feedback": "Wrong"
+    },
+    {
+      "from": 1,
+      "to": 99,
+      "feedback": "Almost!"
+    },
+    {
+      "from": 100,
+      "to": 100,
+      "feedback": "Correct!"
+    }
+  ],
+  "question": "The extent to which the beneficial results of using a new product are observable or describable to others is referred to as ________.",
+  "isSolutionPublic": true,
+  "isFreeResponseSupported": false,
+  "answers": [
+    {
+      "text": "divisibility",
+      "correct": false,
+      "tipsAndFeedback": {
+        "tip": "",
+        "chosenFeedback": "That&#8217;s not correct. Marketing synergy means that there is a strong fit between the needs of the project and the firm&#8217;s sales, distribution system, advertising resources, marketing research and customer service capabilities.",
+        "notChosenFeedback": ""
+      }
+    },
+    {
+      "text": "product awareness",
+      "correct": false,
+      "tipsAndFeedback": {
+        "tip": "",
+        "chosenFeedback": "That&#8217;s not correct. Product awareness is the first stage in the consumer adoption process, in which the consumer becomes aware of the existence of the new product.",
+        "notChosenFeedback": ""
+      }
+    },
+    {
+      "text": "marketing synergy",
+      "correct": false,
+      "tipsAndFeedback": {
+        "tip": "",
+        "chosenFeedback": "That&#8217;s not correct. Divisibility is the degree to which the product can be tried or tested on a limited basis.",
+        "notChosenFeedback": ""
+      }
+    },
+    {
+      "text": "communicability",
+      "correct": true,
+      "tipsAndFeedback": {
+        "tip": "",
+        "chosenFeedback": "Communicability is the extent to which the benefits of a new product are likely to be noticed and discussed by consumers.",
+        "notChosenFeedback": ""
+      }
+    }
+  ],
+  "subContentId": "e0a0472e-df62-496e-a7ca-5326d0271bce",
+  "detailedSolution": "Communicability is the extent to which the benefits of a new product are likely to be noticed and discussed by consumers."
+}
