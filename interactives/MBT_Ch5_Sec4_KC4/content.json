@@ -1,0 +1,91 @@
+{
+  "UI": {
+    "showSolutionButton": "Show solution",
+    "tryAgainButton": "Retry",
+    "checkAnswerButton": "Check",
+    "tipsLabel": "Show tip",
+    "scoreBarLabel": "You got :num out of :total points",
+    "tipAvailable": "Tip available",
+    "feedbackAvailable": "Feedback available",
+    "readFeedback": "Read feedback",
+    "wrongAnswer": "Wrong answer",
+    "correctAnswer": "Correct answer",
+    "shouldCheck": "Should have been checked",
+    "shouldNotCheck": "Should not have been checked",
+    "noInput": "Please answer before viewing the solution"
+  },
+  "behaviour": {
+    "enableRetry": true,
+    "enableSolutionsButton": true,
+    "singlePoint": true,
+    "randomAnswers": true,
+    "showSolutionsRequiresInput": true,
+    "type": "auto",
+    "confirmCheckDialog": false,
+    "confirmRetryDialog": false,
+    "autoCheck": false,
+    "passPercentage": 100,
+    "showScorePoints": true,
+    "enableCheckButton": true
+  },
+  "overallFeedback": [
+    {
+      "from": 0,
+      "to": 0,
+      "feedback": "Wrong"
+    },
+    {
+      "from": 1,
+      "to": 99,
+      "feedback": "Almost!"
+    },
+    {
+      "from": 100,
+      "to": 100,
+      "feedback": "Correct!"
+    }
+  ],
+  "question": "Idris has been researching a potential market segment for his company’s new product. He is concerned that, although the product holds considerable promise, the advertising campaign would be beyond the company’s budget. Which essential factor of market segmentation appears to be lacking in Idris’s analysis?",
+  "isSolutionPublic": true,
+  "isFreeResponseSupported": false,
+  "answers": [
+    {
+      "text": "Differentiable",
+      "correct": false,
+      "tipsAndFeedback": {
+        "tip": "",
+        "chosenFeedback": "That&#8217;s not correct. A measurable market segment means that you can accurately determine the size of the market segment in terms of either sales volume or number of customers.",
+        "notChosenFeedback": ""
+      }
+    },
+    {
+      "text": "Substantial",
+      "correct": false,
+      "tipsAndFeedback": {
+        "tip": "",
+        "chosenFeedback": "That&#8217;s not correct. A substantial market segment means that there are sufficient potential consumers in the segment that justify spending resources to market the product or service.",
+        "notChosenFeedback": ""
+      }
+    },
+    {
+      "text": "Measurable",
+      "correct": false,
+      "tipsAndFeedback": {
+        "tip": "",
+        "chosenFeedback": "That&#8217;s not correct. Differentiability means that the market should be internally homogenous but externally heterogeneous so that marketing actions can be applied to them without overlap.",
+        "notChosenFeedback": ""
+      }
+    },
+    {
+      "text": "Accessible",
+      "correct": true,
+      "tipsAndFeedback": {
+        "tip": "",
+        "chosenFeedback": "Accessibility refers to the ability to reach customers in the chosen segment at an affordable cost, given the strengths and abilities of your marketing department.",
+        "notChosenFeedback": ""
+      }
+    }
+  ],
+  "subContentId": "46dafc2f-851e-45e6-a589-50fd05531d22",
+  "detailedSolution": "Accessibility refers to the ability to reach customers in the chosen segment at an affordable cost, given the strengths and abilities of your marketing department."
+}

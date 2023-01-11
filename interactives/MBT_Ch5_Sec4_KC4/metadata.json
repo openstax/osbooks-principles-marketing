@@ -1,0 +1,22 @@
+{
+  "errata_id": "175eaa5c89223f26ff3a00fefefeace045705505feed4529c3bc28ef2d0c3bda",
+  "attachments": [],
+  "tags": [
+    "book:stax-mktg",
+    "lo:stax-mktg:5-4-1",
+    "context-cnxmod:b8b727af-e728-488b-bdbe-05b2d0905e40",
+    "book-slug:principles-marketing",
+    "module-slug:principles-marketing:5-4-essential-factors-in-effective-market-segmentation"
+  ],
+  "books": [
+    {
+      "name": "stax-mktg",
+      "lo": [
+        "5-4-1"
+      ]
+    }
+  ],
+  "context": [
+    "m00030"
+  ]
+}
