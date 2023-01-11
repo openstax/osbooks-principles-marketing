@@ -1,0 +1,91 @@
+{
+  "UI": {
+    "showSolutionButton": "Show solution",
+    "tryAgainButton": "Retry",
+    "checkAnswerButton": "Check",
+    "tipsLabel": "Show tip",
+    "scoreBarLabel": "You got :num out of :total points",
+    "tipAvailable": "Tip available",
+    "feedbackAvailable": "Feedback available",
+    "readFeedback": "Read feedback",
+    "wrongAnswer": "Wrong answer",
+    "correctAnswer": "Correct answer",
+    "shouldCheck": "Should have been checked",
+    "shouldNotCheck": "Should not have been checked",
+    "noInput": "Please answer before viewing the solution"
+  },
+  "behaviour": {
+    "enableRetry": true,
+    "enableSolutionsButton": true,
+    "singlePoint": true,
+    "randomAnswers": true,
+    "showSolutionsRequiresInput": true,
+    "type": "auto",
+    "confirmCheckDialog": false,
+    "confirmRetryDialog": false,
+    "autoCheck": false,
+    "passPercentage": 100,
+    "showScorePoints": true,
+    "enableCheckButton": true
+  },
+  "overallFeedback": [
+    {
+      "from": 0,
+      "to": 0,
+      "feedback": "Wrong"
+    },
+    {
+      "from": 1,
+      "to": 99,
+      "feedback": "Almost!"
+    },
+    {
+      "from": 100,
+      "to": 100,
+      "feedback": "Correct!"
+    }
+  ],
+  "question": "Ra’Shana’s car broke down on the way to work, and she realizes that she needs to quickly find a repair shop to take care of her vehicle. Which stage of the consumer decision process model does this represent?",
+  "isSolutionPublic": true,
+  "isFreeResponseSupported": false,
+  "answers": [
+    {
+      "text": "Need recognition",
+      "correct": false,
+      "tipsAndFeedback": {
+        "tip": "",
+        "chosenFeedback": "That&#8217;s not correct. The purchase decision stage involves actually reaching a decision on the purchase of a product or service&#8212;in this case, the repair shop to fix Ra&#8217;Shana&#8217;s car.",
+        "notChosenFeedback": ""
+      }
+    },
+    {
+      "text": "Information search",
+      "correct": false,
+      "tipsAndFeedback": {
+        "tip": "",
+        "chosenFeedback": "That&#8217;s not correct. The evaluation of alternatives would involve looking at several different attributes of various repair shops (i.e., price, location, reputation, etc.).",
+        "notChosenFeedback": ""
+      }
+    },
+    {
+      "text": "Evaluation of alternatives",
+      "correct": false,
+      "tipsAndFeedback": {
+        "tip": "",
+        "chosenFeedback": "That&#8217;s not correct. If Ra&#8217;Shana were in the information search stage, she would be actively looking for information on repair shops that could do the car repairs.",
+        "notChosenFeedback": ""
+      }
+    },
+    {
+      "text": "Purchase decision",
+      "correct": true,
+      "tipsAndFeedback": {
+        "tip": "",
+        "chosenFeedback": "Ra&#8217;Shana has detected a difference between her actual state (not having a functional car) and her desired state (having a car that runs).",
+        "notChosenFeedback": ""
+      }
+    }
+  ],
+  "subContentId": "03dc93d1-cd3b-4184-a8e2-7ff6356d272b",
+  "detailedSolution": "Ra’Shana has detected a difference between her actual state (not having a functional car) and her desired state (having a car that runs)."
+}
