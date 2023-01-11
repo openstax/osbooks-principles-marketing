@@ -1,0 +1,23 @@
+{
+  "errata_id": "8869350b3634c41b5740e593d1741295d4723cf690c9fd52f0480405ee326249",
+  "attachments": [],
+  "tags": [
+    "type:practice",
+    "book:stax-mktg",
+    "context-cnxmod:a969758f-8bcb-4773-bbcd-1cb213458579",
+    "lo:stax-mktg:2-4-3",
+    "book-slug:principles-marketing",
+    "module-slug:principles-marketing:2-4-marketing-plan-progress-using-metrics"
+  ],
+  "books": [
+    {
+      "name": "stax-mktg",
+      "lo": [
+        "2-4-3"
+      ]
+    }
+  ],
+  "context": [
+    "m00018"
+  ]
+}
