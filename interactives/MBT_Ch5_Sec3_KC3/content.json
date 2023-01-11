@@ -1,0 +1,91 @@
+{
+  "UI": {
+    "showSolutionButton": "Show solution",
+    "tryAgainButton": "Retry",
+    "checkAnswerButton": "Check",
+    "tipsLabel": "Show tip",
+    "scoreBarLabel": "You got :num out of :total points",
+    "tipAvailable": "Tip available",
+    "feedbackAvailable": "Feedback available",
+    "readFeedback": "Read feedback",
+    "wrongAnswer": "Wrong answer",
+    "correctAnswer": "Correct answer",
+    "shouldCheck": "Should have been checked",
+    "shouldNotCheck": "Should not have been checked",
+    "noInput": "Please answer before viewing the solution"
+  },
+  "behaviour": {
+    "enableRetry": true,
+    "enableSolutionsButton": true,
+    "singlePoint": true,
+    "randomAnswers": true,
+    "showSolutionsRequiresInput": true,
+    "type": "auto",
+    "confirmCheckDialog": false,
+    "confirmRetryDialog": false,
+    "autoCheck": false,
+    "passPercentage": 100,
+    "showScorePoints": true,
+    "enableCheckButton": true
+  },
+  "overallFeedback": [
+    {
+      "from": 0,
+      "to": 0,
+      "feedback": "Wrong"
+    },
+    {
+      "from": 1,
+      "to": 99,
+      "feedback": "Almost!"
+    },
+    {
+      "from": 100,
+      "to": 100,
+      "feedback": "Correct!"
+    }
+  ],
+  "question": "Alexis is making a sales presentation in Japan, and she realizes suddenly realizes that she is the only woman in the meeting. This suggests that Japan has a high ________.",
+  "isSolutionPublic": true,
+  "isFreeResponseSupported": false,
+  "answers": [
+    {
+      "text": "degree of uncertainty avoidance",
+      "correct": false,
+      "tipsAndFeedback": {
+        "tip": "",
+        "chosenFeedback": "That&#8217;s not correct. Power distance refers to how much power inequality exists within a culture and the degree to which people are accepting of this inequality.",
+        "notChosenFeedback": ""
+      }
+    },
+    {
+      "text": "individualism ranking",
+      "correct": false,
+      "tipsAndFeedback": {
+        "tip": "",
+        "chosenFeedback": "That&#8217;s not correct. Individualism versus collectivism refers to whether the culture emphasizes the needs and goals of the group as a whole or whether individual needs are paramount.",
+        "notChosenFeedback": ""
+      }
+    },
+    {
+      "text": "power distance index",
+      "correct": false,
+      "tipsAndFeedback": {
+        "tip": "",
+        "chosenFeedback": "That&#8217;s not correct. Uncertainty avoidance refers to the degree to which a society avoids risk or ambiguity.",
+        "notChosenFeedback": ""
+      }
+    },
+    {
+      "text": "masculinity ranking",
+      "correct": true,
+      "tipsAndFeedback": {
+        "tip": "",
+        "chosenFeedback": "In countries with a high masculinity ranking, men are intended to lead; women are supposed to follow.",
+        "notChosenFeedback": ""
+      }
+    }
+  ],
+  "subContentId": "1a917e2c-7389-4581-b590-e0b80032b557",
+  "detailedSolution": "In countries with a high masculinity ranking, men are intended to lead; women are supposed to follow."
+}
