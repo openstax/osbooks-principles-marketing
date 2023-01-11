@@ -1,0 +1,91 @@
+{
+  "UI": {
+    "showSolutionButton": "Show solution",
+    "tryAgainButton": "Retry",
+    "checkAnswerButton": "Check",
+    "tipsLabel": "Show tip",
+    "scoreBarLabel": "You got :num out of :total points",
+    "tipAvailable": "Tip available",
+    "feedbackAvailable": "Feedback available",
+    "readFeedback": "Read feedback",
+    "wrongAnswer": "Wrong answer",
+    "correctAnswer": "Correct answer",
+    "shouldCheck": "Should have been checked",
+    "shouldNotCheck": "Should not have been checked",
+    "noInput": "Please answer before viewing the solution"
+  },
+  "behaviour": {
+    "enableRetry": true,
+    "enableSolutionsButton": true,
+    "singlePoint": true,
+    "randomAnswers": true,
+    "showSolutionsRequiresInput": true,
+    "type": "auto",
+    "confirmCheckDialog": false,
+    "confirmRetryDialog": false,
+    "autoCheck": false,
+    "passPercentage": 100,
+    "showScorePoints": true,
+    "enableCheckButton": true
+  },
+  "overallFeedback": [
+    {
+      "from": 0,
+      "to": 0,
+      "feedback": "Wrong"
+    },
+    {
+      "from": 1,
+      "to": 99,
+      "feedback": "Almost!"
+    },
+    {
+      "from": 100,
+      "to": 100,
+      "feedback": "Correct!"
+    }
+  ],
+  "question": "Which of the following is a characteristic of a good mobile strategy?",
+  "isSolutionPublic": true,
+  "isFreeResponseSupported": false,
+  "answers": [
+    {
+      "text": "Mobile websites should have a responsive design so visitors have a good user experience.",
+      "correct": false,
+      "tipsAndFeedback": {
+        "tip": "",
+        "chosenFeedback": "That&#8217;s not correct. Unfortunately, marketers aren&#8217;t able to determine whether someone has seen a push notification on their device. Therefore, this does not qualify as a characteristic of a good mobile strategy. Push notifications are a great way to stay connected with users when they aren&#8217;t using the app.",
+        "notChosenFeedback": ""
+      }
+    },
+    {
+      "text": "Emails should be sent to consumers on a weekly basis in order to stay engaged with mobile users.",
+      "correct": false,
+      "tipsAndFeedback": {
+        "tip": "",
+        "chosenFeedback": "That&#8217;s not correct. Push notifications are a great way to stay connected with users when they aren&#8217;t using the app.",
+        "notChosenFeedback": ""
+      }
+    },
+    {
+      "text": "Avoid using push notification features to avoid overcommunicating with your users.",
+      "correct": false,
+      "tipsAndFeedback": {
+        "tip": "",
+        "chosenFeedback": "That&#8217;s not correct. Email frequency depends on the company and its marketing goals.",
+        "notChosenFeedback": ""
+      }
+    },
+    {
+      "text": "Measure whether or not a mobile device user has seen a push notification.",
+      "correct": true,
+      "tipsAndFeedback": {
+        "tip": "",
+        "chosenFeedback": "An important element of a good mobile strategy is ensuring that your website has a responsive design. Simply put, this means ensuring that menus and content are easy to read and that the user has a good experience on the site regardless of the device.",
+        "notChosenFeedback": ""
+      }
+    }
+  ],
+  "subContentId": "bd8c965c-1b05-4a1d-a334-d0b4b691f066",
+  "detailedSolution": "An important element of a good mobile strategy is ensuring that your website has a responsive design. Simply put, this means ensuring that menus and content are easy to read and that the user has a good experience on the site regardless of the device."
+}
