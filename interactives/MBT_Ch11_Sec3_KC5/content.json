@@ -1,0 +1,91 @@
+{
+  "UI": {
+    "showSolutionButton": "Show solution",
+    "tryAgainButton": "Retry",
+    "checkAnswerButton": "Check",
+    "tipsLabel": "Show tip",
+    "scoreBarLabel": "You got :num out of :total points",
+    "tipAvailable": "Tip available",
+    "feedbackAvailable": "Feedback available",
+    "readFeedback": "Read feedback",
+    "wrongAnswer": "Wrong answer",
+    "correctAnswer": "Correct answer",
+    "shouldCheck": "Should have been checked",
+    "shouldNotCheck": "Should not have been checked",
+    "noInput": "Please answer before viewing the solution"
+  },
+  "behaviour": {
+    "enableRetry": true,
+    "enableSolutionsButton": true,
+    "singlePoint": true,
+    "randomAnswers": true,
+    "showSolutionsRequiresInput": true,
+    "type": "auto",
+    "confirmCheckDialog": false,
+    "confirmRetryDialog": false,
+    "autoCheck": false,
+    "passPercentage": 100,
+    "showScorePoints": true,
+    "enableCheckButton": true
+  },
+  "overallFeedback": [
+    {
+      "from": 0,
+      "to": 0,
+      "feedback": "Wrong"
+    },
+    {
+      "from": 1,
+      "to": 99,
+      "feedback": "Almost!"
+    },
+    {
+      "from": 100,
+      "to": 100,
+      "feedback": "Correct!"
+    }
+  ],
+  "question": "Which dimension in the RATER model represents the physical facilities, employees’ appearance, equipment, machinery, and information systems?",
+  "isSolutionPublic": true,
+  "isFreeResponseSupported": false,
+  "answers": [
+    {
+      "text": "Assurance",
+      "correct": false,
+      "tipsAndFeedback": {
+        "tip": "",
+        "chosenFeedback": "That&#8217;s not correct. Transparency is not one of the factors in the RATER model.",
+        "notChosenFeedback": ""
+      }
+    },
+    {
+      "text": "Responsiveness",
+      "correct": false,
+      "tipsAndFeedback": {
+        "tip": "",
+        "chosenFeedback": "That&#8217;s not correct. Responsiveness refers to the eagerness of service staff to assist customers with respect and provide quick service to satisfy.",
+        "notChosenFeedback": ""
+      }
+    },
+    {
+      "text": "Transparency",
+      "correct": false,
+      "tipsAndFeedback": {
+        "tip": "",
+        "chosenFeedback": "That&#8217;s not correct. Assurance is the degree to which the organization inspires trust in its customers.",
+        "notChosenFeedback": ""
+      }
+    },
+    {
+      "text": "Tangibles",
+      "correct": true,
+      "tipsAndFeedback": {
+        "tip": "",
+        "chosenFeedback": "Tangibles represent the physical facilities, employees&#8217; appearance, equipment, machinery, and information systems.",
+        "notChosenFeedback": ""
+      }
+    }
+  ],
+  "subContentId": "0762476e-084e-4180-8c5b-212701976014",
+  "detailedSolution": "Tangibles represent the physical facilities, employees’ appearance, equipment, machinery, and information systems."
+}

@@ -1,0 +1,22 @@
+{
+  "errata_id": "34c4aa2e53e1e0d8aad657f17f15bcfb324132fe6718503ee7103361fc694098",
+  "attachments": [],
+  "tags": [
+    "book:stax-mktg",
+    "context-cnxmod:580ee23c-3f80-4059-b9f8-15115617605c",
+    "lo:stax-mktg:11-3-2",
+    "book-slug:principles-marketing",
+    "module-slug:principles-marketing:11-3-the-gap-model-of-service-quality"
+  ],
+  "books": [
+    {
+      "name": "stax-mktg",
+      "lo": [
+        "11-3-2"
+      ]
+    }
+  ],
+  "context": [
+    "m00073"
+  ]
+}
