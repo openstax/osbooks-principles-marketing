@@ -1,0 +1,91 @@
+{
+  "UI": {
+    "showSolutionButton": "Show solution",
+    "tryAgainButton": "Retry",
+    "checkAnswerButton": "Check",
+    "tipsLabel": "Show tip",
+    "scoreBarLabel": "You got :num out of :total points",
+    "tipAvailable": "Tip available",
+    "feedbackAvailable": "Feedback available",
+    "readFeedback": "Read feedback",
+    "wrongAnswer": "Wrong answer",
+    "correctAnswer": "Correct answer",
+    "shouldCheck": "Should have been checked",
+    "shouldNotCheck": "Should not have been checked",
+    "noInput": "Please answer before viewing the solution"
+  },
+  "behaviour": {
+    "enableRetry": true,
+    "enableSolutionsButton": true,
+    "singlePoint": true,
+    "randomAnswers": true,
+    "showSolutionsRequiresInput": true,
+    "type": "auto",
+    "confirmCheckDialog": false,
+    "confirmRetryDialog": false,
+    "autoCheck": false,
+    "passPercentage": 100,
+    "showScorePoints": true,
+    "enableCheckButton": true
+  },
+  "overallFeedback": [
+    {
+      "from": 0,
+      "to": 0,
+      "feedback": "Wrong"
+    },
+    {
+      "from": 1,
+      "to": 99,
+      "feedback": "Almost!"
+    },
+    {
+      "from": 100,
+      "to": 100,
+      "feedback": "Correct!"
+    }
+  ],
+  "question": "Anaya is collecting information from a variety of sources to make a decision on where to market her new line of designer scarves. Anaya is conducting ________.",
+  "isSolutionPublic": true,
+  "isFreeResponseSupported": false,
+  "answers": [
+    {
+      "text": "market intelligence",
+      "correct": false,
+      "tipsAndFeedback": {
+        "tip": "",
+        "chosenFeedback": "That&#8217;s not correct. A management information system is used to collect, analyze, and report interesting findings from internal and external data of the company.",
+        "notChosenFeedback": ""
+      }
+    },
+    {
+      "text": "big data",
+      "correct": false,
+      "tipsAndFeedback": {
+        "tip": "",
+        "chosenFeedback": "That&#8217;s not correct. Big data is the ever-growing cache of data that is available and is described by the three Vs &#8212; volume, velocity, and variety.",
+        "notChosenFeedback": ""
+      }
+    },
+    {
+      "text": "management information system",
+      "correct": false,
+      "tipsAndFeedback": {
+        "tip": "",
+        "chosenFeedback": "That&#8217;s not correct. Market intelligence is the data that would be collected, but it does not include the decision-making process.",
+        "notChosenFeedback": ""
+      }
+    },
+    {
+      "text": "marketing research",
+      "correct": true,
+      "tipsAndFeedback": {
+        "tip": "",
+        "chosenFeedback": "Marketing research is the process of collecting information from a variety of sources in order to make a good managerial decision.",
+        "notChosenFeedback": ""
+      }
+    }
+  ],
+  "subContentId": "19298dd8-1070-4234-9643-8ec1cce055c7",
+  "detailedSolution": "Marketing research is the process of collecting information from a variety of sources in order to make a good managerial decision."
+}
