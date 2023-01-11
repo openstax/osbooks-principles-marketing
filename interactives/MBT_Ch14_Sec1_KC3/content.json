@@ -1,0 +1,91 @@
+{
+  "UI": {
+    "showSolutionButton": "Show solution",
+    "tryAgainButton": "Retry",
+    "checkAnswerButton": "Check",
+    "tipsLabel": "Show tip",
+    "scoreBarLabel": "You got :num out of :total points",
+    "tipAvailable": "Tip available",
+    "feedbackAvailable": "Feedback available",
+    "readFeedback": "Read feedback",
+    "wrongAnswer": "Wrong answer",
+    "correctAnswer": "Correct answer",
+    "shouldCheck": "Should have been checked",
+    "shouldNotCheck": "Should not have been checked",
+    "noInput": "Please answer before viewing the solution"
+  },
+  "behaviour": {
+    "enableRetry": true,
+    "enableSolutionsButton": true,
+    "singlePoint": true,
+    "randomAnswers": true,
+    "showSolutionsRequiresInput": true,
+    "type": "auto",
+    "confirmCheckDialog": false,
+    "confirmRetryDialog": false,
+    "autoCheck": false,
+    "passPercentage": 100,
+    "showScorePoints": true,
+    "enableCheckButton": true
+  },
+  "overallFeedback": [
+    {
+      "from": 0,
+      "to": 0,
+      "feedback": "Wrong"
+    },
+    {
+      "from": 1,
+      "to": 99,
+      "feedback": "Almost!"
+    },
+    {
+      "from": 100,
+      "to": 100,
+      "feedback": "Correct!"
+    }
+  ],
+  "question": "As a new marketer in a firm, you are asked to provide the advantages of using advertising in an upcoming promotion strategy. Which of the following would be included in your list of advantages?",
+  "isSolutionPublic": true,
+  "isFreeResponseSupported": false,
+  "answers": [
+    {
+      "text": "Advertising’s per-exposure cost is an advantage.",
+      "correct": false,
+      "tipsAndFeedback": {
+        "tip": "",
+        "chosenFeedback": "That&#8217;s not correct. The effects of advertising on sales and profits can take some time to capture.",
+        "notChosenFeedback": ""
+      }
+    },
+    {
+      "text": "Advertising is nonpaid, so it does not cost the company.",
+      "correct": false,
+      "tipsAndFeedback": {
+        "tip": "",
+        "chosenFeedback": "That&#8217;s not correct. Advertising messages cannot be changed as quickly as some other promotion mix elements.",
+        "notChosenFeedback": ""
+      }
+    },
+    {
+      "text": "Advertising’s message is easy to change.",
+      "correct": false,
+      "tipsAndFeedback": {
+        "tip": "",
+        "chosenFeedback": "That&#8217;s not correct. Advertising is a paid promotion and can be quite costly to the organization.",
+        "notChosenFeedback": ""
+      }
+    },
+    {
+      "text": "Advertising’s effectiveness is easy to capture early.",
+      "correct": true,
+      "tipsAndFeedback": {
+        "tip": "",
+        "chosenFeedback": "Advertising has a low per-exposure cost.",
+        "notChosenFeedback": ""
+      }
+    }
+  ],
+  "subContentId": "183ed4cd-46d3-43d0-8cc8-2c1a15dadfdb",
+  "detailedSolution": "Advertising has a low per-exposure cost."
+}
