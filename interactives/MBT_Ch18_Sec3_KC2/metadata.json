@@ -1,0 +1,22 @@
+{
+  "errata_id": "26d70e055d1f14a7cf76ed786dd6dd48e5bc5131dc85464724a9d5cdbf1a5a21",
+  "attachments": [],
+  "tags": [
+    "book:stax-mktg",
+    "context-cnxmod:92829bd8-3171-4718-ba4a-91bfb8808ecf",
+    "lo:stax-mktg:18-3-2",
+    "book-slug:principles-marketing",
+    "module-slug:principles-marketing:18-3-retailing-strategy-decisions"
+  ],
+  "books": [
+    {
+      "name": "stax-mktg",
+      "lo": [
+        "18-3-2"
+      ]
+    }
+  ],
+  "context": [
+    "m00119"
+  ]
+}
