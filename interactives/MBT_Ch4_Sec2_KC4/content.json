@@ -1,0 +1,91 @@
+{
+  "UI": {
+    "showSolutionButton": "Show solution",
+    "tryAgainButton": "Retry",
+    "checkAnswerButton": "Check",
+    "tipsLabel": "Show tip",
+    "scoreBarLabel": "You got :num out of :total points",
+    "tipAvailable": "Tip available",
+    "feedbackAvailable": "Feedback available",
+    "readFeedback": "Read feedback",
+    "wrongAnswer": "Wrong answer",
+    "correctAnswer": "Correct answer",
+    "shouldCheck": "Should have been checked",
+    "shouldNotCheck": "Should not have been checked",
+    "noInput": "Please answer before viewing the solution"
+  },
+  "behaviour": {
+    "enableRetry": true,
+    "enableSolutionsButton": true,
+    "singlePoint": true,
+    "randomAnswers": true,
+    "showSolutionsRequiresInput": true,
+    "type": "auto",
+    "confirmCheckDialog": false,
+    "confirmRetryDialog": false,
+    "autoCheck": false,
+    "passPercentage": 100,
+    "showScorePoints": true,
+    "enableCheckButton": true
+  },
+  "overallFeedback": [
+    {
+      "from": 0,
+      "to": 0,
+      "feedback": "Wrong"
+    },
+    {
+      "from": 1,
+      "to": 99,
+      "feedback": "Almost!"
+    },
+    {
+      "from": 100,
+      "to": 100,
+      "feedback": "Correct!"
+    }
+  ],
+  "question": "The human resources manager submits a request to upper management for a new software package that will manage payroll, benefits, compliance, and information technology. Within the buying center, what role is illustrated by this scenario?",
+  "isSolutionPublic": true,
+  "isFreeResponseSupported": false,
+  "answers": [
+    {
+      "text": "Influencer",
+      "correct": false,
+      "tipsAndFeedback": {
+        "tip": "",
+        "chosenFeedback": "That&#8217;s not correct. Deciders are the people within the organization who have the authority to select or approve the final suppliers.",
+        "notChosenFeedback": ""
+      }
+    },
+    {
+      "text": "Buyer",
+      "correct": false,
+      "tipsAndFeedback": {
+        "tip": "",
+        "chosenFeedback": "That&#8217;s not correct. Buyers are those who have authority within the organization to select suppliers and negotiate and arrange the purchase terms of the purchase.",
+        "notChosenFeedback": ""
+      }
+    },
+    {
+      "text": "Initiator",
+      "correct": false,
+      "tipsAndFeedback": {
+        "tip": "",
+        "chosenFeedback": "That&#8217;s not correct. Influencers are those within the organization who help define specifications and/or provide information to be used in the evaluation process.",
+        "notChosenFeedback": ""
+      }
+    },
+    {
+      "text": "Decider",
+      "correct": true,
+      "tipsAndFeedback": {
+        "tip": "",
+        "chosenFeedback": "The initiator is the individual within the buying center who first suggests the idea of purchasing a new product or service.",
+        "notChosenFeedback": ""
+      }
+    }
+  ],
+  "subContentId": "cd209132-9985-4c23-ba4f-9203ec18f0e9",
+  "detailedSolution": "The initiator is the individual within the buying center who first suggests the idea of purchasing a new product or service."
+}
