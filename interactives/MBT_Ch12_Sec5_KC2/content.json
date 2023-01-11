@@ -1,0 +1,91 @@
+{
+  "UI": {
+    "showSolutionButton": "Show solution",
+    "tryAgainButton": "Retry",
+    "checkAnswerButton": "Check",
+    "tipsLabel": "Show tip",
+    "scoreBarLabel": "You got :num out of :total points",
+    "tipAvailable": "Tip available",
+    "feedbackAvailable": "Feedback available",
+    "readFeedback": "Read feedback",
+    "wrongAnswer": "Wrong answer",
+    "correctAnswer": "Correct answer",
+    "shouldCheck": "Should have been checked",
+    "shouldNotCheck": "Should not have been checked",
+    "noInput": "Please answer before viewing the solution"
+  },
+  "behaviour": {
+    "enableRetry": true,
+    "enableSolutionsButton": true,
+    "singlePoint": true,
+    "randomAnswers": true,
+    "showSolutionsRequiresInput": true,
+    "type": "auto",
+    "confirmCheckDialog": false,
+    "confirmRetryDialog": false,
+    "autoCheck": false,
+    "passPercentage": 100,
+    "showScorePoints": true,
+    "enableCheckButton": true
+  },
+  "overallFeedback": [
+    {
+      "from": 0,
+      "to": 0,
+      "feedback": "Wrong"
+    },
+    {
+      "from": 1,
+      "to": 99,
+      "feedback": "Almost!"
+    },
+    {
+      "from": 100,
+      "to": 100,
+      "feedback": "Correct!"
+    }
+  ],
+  "question": "Finley was tasked with setting the price of a new coffee maker that would utilize coffee pods instead of traditional coffee filters. Because customers would have to buy the pods in order to utilize the product, Finley should consider which pricing tactic?",
+  "isSolutionPublic": true,
+  "isFreeResponseSupported": false,
+  "answers": [
+    {
+      "text": "Captive pricing",
+      "correct": false,
+      "tipsAndFeedback": {
+        "tip": "",
+        "chosenFeedback": "That&#8217;s not correct. Economy pricing is a tactic used to set prices much lower than that of competitors.",
+        "notChosenFeedback": ""
+      }
+    },
+    {
+      "text": "Odd-even pricing",
+      "correct": false,
+      "tipsAndFeedback": {
+        "tip": "",
+        "chosenFeedback": "That&#8217;s not correct. Bundle pricing is a tactic that has a lower price for a bundle of items than when those items are purchased separately.",
+        "notChosenFeedback": ""
+      }
+    },
+    {
+      "text": "Bundle pricing",
+      "correct": false,
+      "tipsAndFeedback": {
+        "tip": "",
+        "chosenFeedback": "That&#8217;s not correct. Odd-even pricing is a tactic used to illustrate value or quality to a customer through pricing.",
+        "notChosenFeedback": ""
+      }
+    },
+    {
+      "text": "Economy pricing",
+      "correct": true,
+      "tipsAndFeedback": {
+        "tip": "",
+        "chosenFeedback": "Captive pricing is a tactic used when there is both a core and a captive product.",
+        "notChosenFeedback": ""
+      }
+    }
+  ],
+  "subContentId": "7581a722-a86e-46fb-993d-dc78a41962ef",
+  "detailedSolution": "Captive pricing is a tactic used when there is both a core and a captive product."
+}
