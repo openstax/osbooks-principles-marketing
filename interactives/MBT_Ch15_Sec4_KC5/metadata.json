@@ -1,0 +1,22 @@
+{
+  "errata_id": "41eb39bd6e9961715244f6b14ea0ae4888d0aabc1deb5bb8aa8b14c2a0c1bd27",
+  "attachments": [],
+  "tags": [
+    "book:stax-mktg",
+    "context-cnxmod:2b3a63cd-95ac-406c-aba7-bb33051ae642",
+    "lo:stax-mktg:15-4-6",
+    "book-slug:principles-marketing",
+    "module-slug:principles-marketing:15-4-management-of-the-sales-force"
+  ],
+  "books": [
+    {
+      "name": "stax-mktg",
+      "lo": [
+        "15-4-6"
+      ]
+    }
+  ],
+  "context": [
+    "m00100"
+  ]
+}
