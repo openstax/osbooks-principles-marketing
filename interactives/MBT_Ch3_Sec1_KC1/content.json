@@ -1,0 +1,91 @@
+{
+  "UI": {
+    "showSolutionButton": "Show solution",
+    "tryAgainButton": "Retry",
+    "checkAnswerButton": "Check",
+    "tipsLabel": "Show tip",
+    "scoreBarLabel": "You got :num out of :total points",
+    "tipAvailable": "Tip available",
+    "feedbackAvailable": "Feedback available",
+    "readFeedback": "Read feedback",
+    "wrongAnswer": "Wrong answer",
+    "correctAnswer": "Correct answer",
+    "shouldCheck": "Should have been checked",
+    "shouldNotCheck": "Should not have been checked",
+    "noInput": "Please answer before viewing the solution"
+  },
+  "behaviour": {
+    "enableRetry": true,
+    "enableSolutionsButton": true,
+    "singlePoint": true,
+    "randomAnswers": true,
+    "showSolutionsRequiresInput": true,
+    "type": "auto",
+    "confirmCheckDialog": false,
+    "confirmRetryDialog": false,
+    "autoCheck": false,
+    "passPercentage": 100,
+    "showScorePoints": true,
+    "enableCheckButton": true
+  },
+  "overallFeedback": [
+    {
+      "from": 0,
+      "to": 0,
+      "feedback": "Wrong"
+    },
+    {
+      "from": 1,
+      "to": 99,
+      "feedback": "Almost!"
+    },
+    {
+      "from": 100,
+      "to": 100,
+      "feedback": "Correct!"
+    }
+  ],
+  "question": "You’re considering buying a widescreen TV. You’ve researched different features, looked up and reviewed models on the Internet, and even asked a few friends for their recommendations. What type of buying behavior are you exhibiting?",
+  "isSolutionPublic": true,
+  "isFreeResponseSupported": false,
+  "answers": [
+    {
+      "text": "Dissonance-reducing buying behavior",
+      "correct": false,
+      "tipsAndFeedback": {
+        "tip": "",
+        "chosenFeedback": "That&#8217;s not correct. Habitual buying behavior has low involvement in the purchase decision, and you don&#8217;t perceive much brand differentiation.",
+        "notChosenFeedback": ""
+      }
+    },
+    {
+      "text": "Variety-seeking buying behavior",
+      "correct": false,
+      "tipsAndFeedback": {
+        "tip": "",
+        "chosenFeedback": "That&#8217;s not correct. Variety-seeking buying behavior has low involvement in the purchase.",
+        "notChosenFeedback": ""
+      }
+    },
+    {
+      "text": "Complex buying behavior",
+      "correct": false,
+      "tipsAndFeedback": {
+        "tip": "",
+        "chosenFeedback": "That&#8217;s not correct. Dissonance-reducing buying behavior occurs when you&#8217;re highly involved in the purchase but see little difference among brands.",
+        "notChosenFeedback": ""
+      }
+    },
+    {
+      "text": "Habitual buying behavior",
+      "correct": true,
+      "tipsAndFeedback": {
+        "tip": "",
+        "chosenFeedback": "Complex buying behavior involves high involvement in the buying decision and the perception of significant differences between brands.",
+        "notChosenFeedback": ""
+      }
+    }
+  ],
+  "subContentId": "7d456110-378a-4c6a-bfbe-4a3b9fe4f2d1",
+  "detailedSolution": "Complex buying behavior involves high involvement in the buying decision and the perception of significant differences between brands."
+}
