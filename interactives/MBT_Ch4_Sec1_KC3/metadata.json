@@ -1,0 +1,22 @@
+{
+  "errata_id": "8cb1bb23958e9b7e03b8e7d20c490266cb29734e736cf76c734f5784c9163977",
+  "attachments": [],
+  "tags": [
+    "book:stax-mktg",
+    "lo:stax-mktg:4-1-2",
+    "context-cnxmod:1b158746-07f1-49b5-aff4-c87cd5e21a08",
+    "book-slug:principles-marketing",
+    "module-slug:principles-marketing:4-1-the-business-to-business-b2b-market"
+  ],
+  "books": [
+    {
+      "name": "stax-mktg",
+      "lo": [
+        "4-1-2"
+      ]
+    }
+  ],
+  "context": [
+    "m00021"
+  ]
+}

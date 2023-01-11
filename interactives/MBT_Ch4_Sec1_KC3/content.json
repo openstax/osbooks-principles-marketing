@@ -1,0 +1,91 @@
+{
+  "UI": {
+    "showSolutionButton": "Show solution",
+    "tryAgainButton": "Retry",
+    "checkAnswerButton": "Check",
+    "tipsLabel": "Show tip",
+    "scoreBarLabel": "You got :num out of :total points",
+    "tipAvailable": "Tip available",
+    "feedbackAvailable": "Feedback available",
+    "readFeedback": "Read feedback",
+    "wrongAnswer": "Wrong answer",
+    "correctAnswer": "Correct answer",
+    "shouldCheck": "Should have been checked",
+    "shouldNotCheck": "Should not have been checked",
+    "noInput": "Please answer before viewing the solution"
+  },
+  "behaviour": {
+    "enableRetry": true,
+    "enableSolutionsButton": true,
+    "singlePoint": true,
+    "randomAnswers": true,
+    "showSolutionsRequiresInput": true,
+    "type": "auto",
+    "confirmCheckDialog": false,
+    "confirmRetryDialog": false,
+    "autoCheck": false,
+    "passPercentage": 100,
+    "showScorePoints": true,
+    "enableCheckButton": true
+  },
+  "overallFeedback": [
+    {
+      "from": 0,
+      "to": 0,
+      "feedback": "Wrong"
+    },
+    {
+      "from": 1,
+      "to": 99,
+      "feedback": "Almost!"
+    },
+    {
+      "from": 100,
+      "to": 100,
+      "feedback": "Correct!"
+    }
+  ],
+  "question": "Alejandro is a salesperson for a company that manufactures electrosurgical units. He calls on hospitals in his sales region to familiarize the buying centers in the hospitals with the benefits of his company’s equipment. Which difference between B2B and B2C markets does this scenario illustrate?",
+  "isSolutionPublic": true,
+  "isFreeResponseSupported": false,
+  "answers": [
+    {
+      "text": "Longer, more complex buying decision cycles",
+      "correct": false,
+      "tipsAndFeedback": {
+        "tip": "",
+        "chosenFeedback": "That&#8217;s not correct. There is more reliance on mass marketing in the B2C market, not the B2B market.",
+        "notChosenFeedback": ""
+      }
+    },
+    {
+      "text": "More rigid product standards",
+      "correct": false,
+      "tipsAndFeedback": {
+        "tip": "",
+        "chosenFeedback": "That&#8217;s not correct. Although B2B purchasing typically does involve more rigid product standards, the scenario does not illustrate this.",
+        "notChosenFeedback": ""
+      }
+    },
+    {
+      "text": "More reliance on personal selling",
+      "correct": false,
+      "tipsAndFeedback": {
+        "tip": "",
+        "chosenFeedback": "That&#8217;s not correct. Although B2B purchasing typically involves longer, more complex buying decision cycles, the scenario does not illustrate this.",
+        "notChosenFeedback": ""
+      }
+    },
+    {
+      "text": "More reliance on mass marketing",
+      "correct": true,
+      "tipsAndFeedback": {
+        "tip": "",
+        "chosenFeedback": "B2B purchasing is more likely to involve complex negotiations concerning price, delivery schedules, technical specifications, etc., so personal selling plays a vital role.",
+        "notChosenFeedback": ""
+      }
+    }
+  ],
+  "subContentId": "dcdf38c0-fad0-4f02-8c23-eaebaeb6110a",
+  "detailedSolution": "B2B purchasing is more likely to involve complex negotiations concerning price, delivery schedules, technical specifications, etc., so personal selling plays a vital role."
+}
