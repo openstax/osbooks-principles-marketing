@@ -1,0 +1,91 @@
+{
+  "UI": {
+    "showSolutionButton": "Show solution",
+    "tryAgainButton": "Retry",
+    "checkAnswerButton": "Check",
+    "tipsLabel": "Show tip",
+    "scoreBarLabel": "You got :num out of :total points",
+    "tipAvailable": "Tip available",
+    "feedbackAvailable": "Feedback available",
+    "readFeedback": "Read feedback",
+    "wrongAnswer": "Wrong answer",
+    "correctAnswer": "Correct answer",
+    "shouldCheck": "Should have been checked",
+    "shouldNotCheck": "Should not have been checked",
+    "noInput": "Please answer before viewing the solution"
+  },
+  "behaviour": {
+    "enableRetry": true,
+    "enableSolutionsButton": true,
+    "singlePoint": true,
+    "randomAnswers": true,
+    "showSolutionsRequiresInput": true,
+    "type": "auto",
+    "confirmCheckDialog": false,
+    "confirmRetryDialog": false,
+    "autoCheck": false,
+    "passPercentage": 100,
+    "showScorePoints": true,
+    "enableCheckButton": true
+  },
+  "overallFeedback": [
+    {
+      "from": 0,
+      "to": 0,
+      "feedback": "Wrong"
+    },
+    {
+      "from": 1,
+      "to": 99,
+      "feedback": "Almost!"
+    },
+    {
+      "from": 100,
+      "to": 100,
+      "feedback": "Correct!"
+    }
+  ],
+  "question": "The CFO for Wendy’s tells the CMO that after doing the annual budget, there is only $700,000 left for marketing promotions. Which form of budgeting is Wendy’s using?",
+  "isSolutionPublic": true,
+  "isFreeResponseSupported": false,
+  "answers": [
+    {
+      "text": "Objective and task",
+      "correct": false,
+      "tipsAndFeedback": {
+        "tip": "",
+        "chosenFeedback": "That&#8217;s not correct. If the Wendy&#8217;s CFO were allocating the marketing promotional budget according to the sales level and choosing a percent of sales as the promotional budget, then they would be using percent-of-sales budgeting.",
+        "notChosenFeedback": ""
+      }
+    },
+    {
+      "text": "Competitive parity",
+      "correct": false,
+      "tipsAndFeedback": {
+        "tip": "",
+        "chosenFeedback": "That&#8217;s not correct. With this promotional method, the CMO would budget exactly what the company&#8217;s competitors have budgeted for marketing promotions.",
+        "notChosenFeedback": ""
+      }
+    },
+    {
+      "text": "Affordable",
+      "correct": false,
+      "tipsAndFeedback": {
+        "tip": "",
+        "chosenFeedback": "That&#8217;s not correct. Objective and task would allow the marketer to identify the promotional objectives along with the tasks and set the budget according to what needs to be done to achieve the objectives.",
+        "notChosenFeedback": ""
+      }
+    },
+    {
+      "text": "Percent of sales",
+      "correct": true,
+      "tipsAndFeedback": {
+        "tip": "",
+        "chosenFeedback": "Wendy&#8217;s would be using all that their budget could afford for the marketing promotions.",
+        "notChosenFeedback": ""
+      }
+    }
+  ],
+  "subContentId": "7d440bf9-bed9-4c9f-9b4a-7a79bda3a851",
+  "detailedSolution": "Wendy’s would be using all that their budget could afford for the marketing promotions."
+}
