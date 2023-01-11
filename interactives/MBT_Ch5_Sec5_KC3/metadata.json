@@ -1,0 +1,22 @@
+{
+  "errata_id": "3289d4156503d478fc3e0af224c40b2295a3af9d9d73f9254403054d7e718f95",
+  "attachments": [],
+  "tags": [
+    "book:stax-mktg",
+    "lo:stax-mktg:5-5-2",
+    "context-cnxmod:15fa5b05-59d7-4912-ba2a-3918b7850281",
+    "book-slug:principles-marketing",
+    "module-slug:principles-marketing:5-5-selecting-target-markets"
+  ],
+  "books": [
+    {
+      "name": "stax-mktg",
+      "lo": [
+        "5-5-2"
+      ]
+    }
+  ],
+  "context": [
+    "m00031"
+  ]
+}
