@@ -1,0 +1,91 @@
+{
+  "UI": {
+    "showSolutionButton": "Show solution",
+    "tryAgainButton": "Retry",
+    "checkAnswerButton": "Check",
+    "tipsLabel": "Show tip",
+    "scoreBarLabel": "You got :num out of :total points",
+    "tipAvailable": "Tip available",
+    "feedbackAvailable": "Feedback available",
+    "readFeedback": "Read feedback",
+    "wrongAnswer": "Wrong answer",
+    "correctAnswer": "Correct answer",
+    "shouldCheck": "Should have been checked",
+    "shouldNotCheck": "Should not have been checked",
+    "noInput": "Please answer before viewing the solution"
+  },
+  "behaviour": {
+    "enableRetry": true,
+    "enableSolutionsButton": true,
+    "singlePoint": true,
+    "randomAnswers": true,
+    "showSolutionsRequiresInput": true,
+    "type": "auto",
+    "confirmCheckDialog": false,
+    "confirmRetryDialog": false,
+    "autoCheck": false,
+    "passPercentage": 100,
+    "showScorePoints": true,
+    "enableCheckButton": true
+  },
+  "overallFeedback": [
+    {
+      "from": 0,
+      "to": 0,
+      "feedback": "Wrong"
+    },
+    {
+      "from": 1,
+      "to": 99,
+      "feedback": "Almost!"
+    },
+    {
+      "from": 100,
+      "to": 100,
+      "feedback": "Correct!"
+    }
+  ],
+  "question": "Which of the following is an advantage of social media marketing?",
+  "isSolutionPublic": true,
+  "isFreeResponseSupported": false,
+  "answers": [
+    {
+      "text": "Social media is highly targeted in its ability to reach segments of consumers who share common interests and demographics.",
+      "correct": false,
+      "tipsAndFeedback": {
+        "tip": "",
+        "chosenFeedback": "That&#8217;s not correct. While social media sites like LinkedIn are great a channel for engaging customers, the effectiveness of the channel depends on a number of factors, such as type of business, type of industry, and what is being offered.",
+        "notChosenFeedback": ""
+      }
+    },
+    {
+      "text": "With social media, marketers have complete control of the message.",
+      "correct": false,
+      "tipsAndFeedback": {
+        "tip": "",
+        "chosenFeedback": "That&#8217;s not correct. Social media requires dedicated resources, particularly people who can monitor and respond to social media comments.",
+        "notChosenFeedback": ""
+      }
+    },
+    {
+      "text": "Social media is very easy to manage and requires few resources.",
+      "correct": false,
+      "tipsAndFeedback": {
+        "tip": "",
+        "chosenFeedback": "That&#8217;s not correct. Marketers do not have control over the message on social media. Consumers have the power to react and respond to companies&#8217; messages as they see fit.",
+        "notChosenFeedback": ""
+      }
+    },
+    {
+      "text": "Social media is the best channel for the B2B market.",
+      "correct": true,
+      "tipsAndFeedback": {
+        "tip": "",
+        "chosenFeedback": "An advantage of social media marketing is that companies can concentrate their promotional efforts on very specific groups of consumers who share common interests and demographics.",
+        "notChosenFeedback": ""
+      }
+    }
+  ],
+  "subContentId": "4bad6ff9-c67f-4323-ac85-a1c79a9bb6e7",
+  "detailedSolution": "An advantage of social media marketing is that companies can concentrate their promotional efforts on very specific groups of consumers who share common interests and demographics."
+}
