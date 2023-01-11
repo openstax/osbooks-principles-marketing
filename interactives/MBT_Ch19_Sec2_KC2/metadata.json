@@ -1,0 +1,22 @@
+{
+  "errata_id": "809fda6c0e1a9c3260ce1cbfcf896b90ef59cf037262ea9e5613c0b528f40b0d",
+  "attachments": [],
+  "tags": [
+    "book:stax-mktg",
+    "lo:stax-mktg:19-2-2",
+    "context-cnxmod:524c4e25-fcd7-4ccd-8fb5-2ad171b765af",
+    "book-slug:principles-marketing",
+    "module-slug:principles-marketing:19-2-traditional-marketing-versus-sustainable-marketing"
+  ],
+  "books": [
+    {
+      "name": "stax-mktg",
+      "lo": [
+        "19-2-2"
+      ]
+    }
+  ],
+  "context": [
+    "m00132"
+  ]
+}
