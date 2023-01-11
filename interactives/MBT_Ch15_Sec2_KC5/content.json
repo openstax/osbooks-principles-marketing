@@ -1,0 +1,91 @@
+{
+  "UI": {
+    "showSolutionButton": "Show solution",
+    "tryAgainButton": "Retry",
+    "checkAnswerButton": "Check",
+    "tipsLabel": "Show tip",
+    "scoreBarLabel": "You got :num out of :total points",
+    "tipAvailable": "Tip available",
+    "feedbackAvailable": "Feedback available",
+    "readFeedback": "Read feedback",
+    "wrongAnswer": "Wrong answer",
+    "correctAnswer": "Correct answer",
+    "shouldCheck": "Should have been checked",
+    "shouldNotCheck": "Should not have been checked",
+    "noInput": "Please answer before viewing the solution"
+  },
+  "behaviour": {
+    "enableRetry": true,
+    "enableSolutionsButton": true,
+    "singlePoint": true,
+    "randomAnswers": true,
+    "showSolutionsRequiresInput": true,
+    "type": "auto",
+    "confirmCheckDialog": false,
+    "confirmRetryDialog": false,
+    "autoCheck": false,
+    "passPercentage": 100,
+    "showScorePoints": true,
+    "enableCheckButton": true
+  },
+  "overallFeedback": [
+    {
+      "from": 0,
+      "to": 0,
+      "feedback": "Wrong"
+    },
+    {
+      "from": 1,
+      "to": 99,
+      "feedback": "Almost!"
+    },
+    {
+      "from": 100,
+      "to": 100,
+      "feedback": "Correct!"
+    }
+  ],
+  "question": "84 Lumber has personnel who work to set appointments and check inventory levels. What type of person does this for the sales force?",
+  "isSolutionPublic": true,
+  "isFreeResponseSupported": false,
+  "answers": [
+    {
+      "text": "Support personnel",
+      "correct": false,
+      "tipsAndFeedback": {
+        "tip": "",
+        "chosenFeedback": "That&#8217;s not correct. Order getters are responsible for answering phones and taking orders when customers are ready to fill inventory.",
+        "notChosenFeedback": ""
+      }
+    },
+    {
+      "text": "Missionary sales",
+      "correct": false,
+      "tipsAndFeedback": {
+        "tip": "",
+        "chosenFeedback": "That&#8217;s not correct. Technical specialists help with specifications and custom fitting products to the needs of the customer.",
+        "notChosenFeedback": ""
+      }
+    },
+    {
+      "text": "Technical specialist",
+      "correct": false,
+      "tipsAndFeedback": {
+        "tip": "",
+        "chosenFeedback": "That&#8217;s not correct. Missionary sales professionals are responsible for going out and meeting with customers.",
+        "notChosenFeedback": ""
+      }
+    },
+    {
+      "text": "Order getter",
+      "correct": true,
+      "tipsAndFeedback": {
+        "tip": "",
+        "chosenFeedback": "Companies often have support personnel to assist with elements of the sale. This can include checking on inventory and setting appointments for outside sales professionals.",
+        "notChosenFeedback": ""
+      }
+    }
+  ],
+  "subContentId": "98280f96-72bd-4cc4-b096-7b02cc3dd9f9",
+  "detailedSolution": "Companies often have support personnel to assist with elements of the sale. This can include checking on inventory and setting appointments for outside sales professionals."
+}
