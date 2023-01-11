@@ -1,0 +1,91 @@
+{
+  "UI": {
+    "showSolutionButton": "Show solution",
+    "tryAgainButton": "Retry",
+    "checkAnswerButton": "Check",
+    "tipsLabel": "Show tip",
+    "scoreBarLabel": "You got :num out of :total points",
+    "tipAvailable": "Tip available",
+    "feedbackAvailable": "Feedback available",
+    "readFeedback": "Read feedback",
+    "wrongAnswer": "Wrong answer",
+    "correctAnswer": "Correct answer",
+    "shouldCheck": "Should have been checked",
+    "shouldNotCheck": "Should not have been checked",
+    "noInput": "Please answer before viewing the solution"
+  },
+  "behaviour": {
+    "enableRetry": true,
+    "enableSolutionsButton": true,
+    "singlePoint": true,
+    "randomAnswers": true,
+    "showSolutionsRequiresInput": true,
+    "type": "auto",
+    "confirmCheckDialog": false,
+    "confirmRetryDialog": false,
+    "autoCheck": false,
+    "passPercentage": 100,
+    "showScorePoints": true,
+    "enableCheckButton": true
+  },
+  "overallFeedback": [
+    {
+      "from": 0,
+      "to": 0,
+      "feedback": "Wrong"
+    },
+    {
+      "from": 1,
+      "to": 99,
+      "feedback": "Almost!"
+    },
+    {
+      "from": 100,
+      "to": 100,
+      "feedback": "Correct!"
+    }
+  ],
+  "question": "“Besides you, are there other decision makers that buy apparel?” This is a question that you might ask during what stage of the sales call?",
+  "isSolutionPublic": true,
+  "isFreeResponseSupported": false,
+  "answers": [
+    {
+      "text": "Pre-approach",
+      "correct": false,
+      "tipsAndFeedback": {
+        "tip": "",
+        "chosenFeedback": "That&#8217;s not correct. When the sales professional handles objections, it is the time to already be working with the decision maker.",
+        "notChosenFeedback": ""
+      }
+    },
+    {
+      "text": "Close",
+      "correct": false,
+      "tipsAndFeedback": {
+        "tip": "",
+        "chosenFeedback": "That&#8217;s not correct. During the close, the sales professional is asking for the sale. It is too late to include other people from within the company.",
+        "notChosenFeedback": ""
+      }
+    },
+    {
+      "text": "Approach",
+      "correct": false,
+      "tipsAndFeedback": {
+        "tip": "",
+        "chosenFeedback": "That&#8217;s not correct. The pre-approach stage can best be described as a thorough analysis or research of the potential candidate.",
+        "notChosenFeedback": ""
+      }
+    },
+    {
+      "text": "Handling objections",
+      "correct": true,
+      "tipsAndFeedback": {
+        "tip": "",
+        "chosenFeedback": "During the approach phase, the sales professional gathers insights and seeks to contact the prospect to build rapport and gather more information on the needs and wants of the prospect.",
+        "notChosenFeedback": ""
+      }
+    }
+  ],
+  "subContentId": "f2987db9-b4f2-4a08-b634-b14bf2cba843",
+  "detailedSolution": "During the approach phase, the sales professional gathers insights and seeks to contact the prospect to build rapport and gather more information on the needs and wants of the prospect."
+}
