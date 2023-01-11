@@ -1,0 +1,91 @@
+{
+  "UI": {
+    "showSolutionButton": "Show solution",
+    "tryAgainButton": "Retry",
+    "checkAnswerButton": "Check",
+    "tipsLabel": "Show tip",
+    "scoreBarLabel": "You got :num out of :total points",
+    "tipAvailable": "Tip available",
+    "feedbackAvailable": "Feedback available",
+    "readFeedback": "Read feedback",
+    "wrongAnswer": "Wrong answer",
+    "correctAnswer": "Correct answer",
+    "shouldCheck": "Should have been checked",
+    "shouldNotCheck": "Should not have been checked",
+    "noInput": "Please answer before viewing the solution"
+  },
+  "behaviour": {
+    "enableRetry": true,
+    "enableSolutionsButton": true,
+    "singlePoint": true,
+    "randomAnswers": true,
+    "showSolutionsRequiresInput": true,
+    "type": "auto",
+    "confirmCheckDialog": false,
+    "confirmRetryDialog": false,
+    "autoCheck": false,
+    "passPercentage": 100,
+    "showScorePoints": true,
+    "enableCheckButton": true
+  },
+  "overallFeedback": [
+    {
+      "from": 0,
+      "to": 0,
+      "feedback": "Wrong"
+    },
+    {
+      "from": 1,
+      "to": 99,
+      "feedback": "Almost!"
+    },
+    {
+      "from": 100,
+      "to": 100,
+      "feedback": "Correct!"
+    }
+  ],
+  "question": "Kevin is a marketing intern at a large corporation. They are tasked with presenting a price for a new service the company will be offering. Which of the following would you recommend Kevin do first?",
+  "isSolutionPublic": true,
+  "isFreeResponseSupported": false,
+  "answers": [
+    {
+      "text": "Analyze the critical Cs of pricing",
+      "correct": false,
+      "tipsAndFeedback": {
+        "tip": "",
+        "chosenFeedback": "That&#8217;s not correct. Asking their friends what a fair price would be will not yield appropriate data that Kevin needs for determining pricing.",
+        "notChosenFeedback": ""
+      }
+    },
+    {
+      "text": "Choose a pricing strategy",
+      "correct": false,
+      "tipsAndFeedback": {
+        "tip": "",
+        "chosenFeedback": "That&#8217;s not correct. Creating an advertisement for the new service should be done well after pricing is determined.",
+        "notChosenFeedback": ""
+      }
+    },
+    {
+      "text": "Create an advertisement",
+      "correct": false,
+      "tipsAndFeedback": {
+        "tip": "",
+        "chosenFeedback": "That&#8217;s not correct. Choosing a pricing strategy should not be done before analyzing the critical Cs of pricing.",
+        "notChosenFeedback": ""
+      }
+    },
+    {
+      "text": "Ask his friends what price they would be willing to pay",
+      "correct": true,
+      "tipsAndFeedback": {
+        "tip": "",
+        "chosenFeedback": "Analyzing the critical Cs of pricing will help ensure the pricing strategies are set appropriately.",
+        "notChosenFeedback": ""
+      }
+    }
+  ],
+  "subContentId": "89ced698-3ed7-4a00-a880-70a3dab6845e",
+  "detailedSolution": "Analyzing the critical Cs of pricing will help ensure the pricing strategies are set appropriately."
+}
