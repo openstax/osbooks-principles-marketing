@@ -1,0 +1,91 @@
+{
+  "UI": {
+    "showSolutionButton": "Show solution",
+    "tryAgainButton": "Retry",
+    "checkAnswerButton": "Check",
+    "tipsLabel": "Show tip",
+    "scoreBarLabel": "You got :num out of :total points",
+    "tipAvailable": "Tip available",
+    "feedbackAvailable": "Feedback available",
+    "readFeedback": "Read feedback",
+    "wrongAnswer": "Wrong answer",
+    "correctAnswer": "Correct answer",
+    "shouldCheck": "Should have been checked",
+    "shouldNotCheck": "Should not have been checked",
+    "noInput": "Please answer before viewing the solution"
+  },
+  "behaviour": {
+    "enableRetry": true,
+    "enableSolutionsButton": true,
+    "singlePoint": true,
+    "randomAnswers": true,
+    "showSolutionsRequiresInput": true,
+    "type": "auto",
+    "confirmCheckDialog": false,
+    "confirmRetryDialog": false,
+    "autoCheck": false,
+    "passPercentage": 100,
+    "showScorePoints": true,
+    "enableCheckButton": true
+  },
+  "overallFeedback": [
+    {
+      "from": 0,
+      "to": 0,
+      "feedback": "Wrong"
+    },
+    {
+      "from": 1,
+      "to": 99,
+      "feedback": "Almost!"
+    },
+    {
+      "from": 100,
+      "to": 100,
+      "feedback": "Correct!"
+    }
+  ],
+  "question": "Marquis has decided to purchase a new kitchen table. He looks at various brands online and decides to purchase one that is $500 more than the others because it is a brand his parents had when he was growing up and they offer free delivery. These factors indicate Marquis has perceived ________ in the higher-priced table.",
+  "isSolutionPublic": true,
+  "isFreeResponseSupported": false,
+  "answers": [
+    {
+      "text": "value",
+      "correct": false,
+      "tipsAndFeedback": {
+        "tip": "",
+        "chosenFeedback": "That&#8217;s not correct. Profit is the financial gain of a company.",
+        "notChosenFeedback": ""
+      }
+    },
+    {
+      "text": "artificial time constraints",
+      "correct": false,
+      "tipsAndFeedback": {
+        "tip": "",
+        "chosenFeedback": "That&#8217;s not correct. Although there are perceived costs in Marquis&#8217;s choices, a well-known brand and free delivery are benefits.",
+        "notChosenFeedback": ""
+      }
+    },
+    {
+      "text": "costs",
+      "correct": false,
+      "tipsAndFeedback": {
+        "tip": "",
+        "chosenFeedback": "That&#8217;s not correct. Artificial time constraints are a buyer&#8217;s belief that they must purchase now.",
+        "notChosenFeedback": ""
+      }
+    },
+    {
+      "text": "profit",
+      "correct": true,
+      "tipsAndFeedback": {
+        "tip": "",
+        "chosenFeedback": "Perceived value is perceived benefits less perceived costs.",
+        "notChosenFeedback": ""
+      }
+    }
+  ],
+  "subContentId": "e74ba87a-4e6f-4af1-9652-e75ed3210522",
+  "detailedSolution": "Perceived value is perceived benefits less perceived costs."
+}
