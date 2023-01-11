@@ -1,0 +1,91 @@
+{
+  "UI": {
+    "showSolutionButton": "Show solution",
+    "tryAgainButton": "Retry",
+    "checkAnswerButton": "Check",
+    "tipsLabel": "Show tip",
+    "scoreBarLabel": "You got :num out of :total points",
+    "tipAvailable": "Tip available",
+    "feedbackAvailable": "Feedback available",
+    "readFeedback": "Read feedback",
+    "wrongAnswer": "Wrong answer",
+    "correctAnswer": "Correct answer",
+    "shouldCheck": "Should have been checked",
+    "shouldNotCheck": "Should not have been checked",
+    "noInput": "Please answer before viewing the solution"
+  },
+  "behaviour": {
+    "enableRetry": true,
+    "enableSolutionsButton": true,
+    "singlePoint": true,
+    "randomAnswers": true,
+    "showSolutionsRequiresInput": true,
+    "type": "auto",
+    "confirmCheckDialog": false,
+    "confirmRetryDialog": false,
+    "autoCheck": false,
+    "passPercentage": 100,
+    "showScorePoints": true,
+    "enableCheckButton": true
+  },
+  "overallFeedback": [
+    {
+      "from": 0,
+      "to": 0,
+      "feedback": "Wrong"
+    },
+    {
+      "from": 1,
+      "to": 99,
+      "feedback": "Almost!"
+    },
+    {
+      "from": 100,
+      "to": 100,
+      "feedback": "Correct!"
+    }
+  ],
+  "question": "How frequently should we monitor KPIs?",
+  "isSolutionPublic": true,
+  "isFreeResponseSupported": false,
+  "answers": [
+    {
+      "text": "Continuously",
+      "correct": false,
+      "tipsAndFeedback": {
+        "tip": "",
+        "chosenFeedback": "That&#8217;s not correct. It&#8217;s not enough to monitor KPIs only when things don&#8217;t &#8220;feel&#8221; quite right.",
+        "notChosenFeedback": ""
+      }
+    },
+    {
+      "text": "Monthly when the financial statements are produced",
+      "correct": false,
+      "tipsAndFeedback": {
+        "tip": "",
+        "chosenFeedback": "That&#8217;s not correct. KPIs should be monitored more frequently than once a year.",
+        "notChosenFeedback": ""
+      }
+    },
+    {
+      "text": "Annually when the yearly financial statements are produced",
+      "correct": false,
+      "tipsAndFeedback": {
+        "tip": "",
+        "chosenFeedback": "That&#8217;s not correct. KPIs should be monitored more frequently than monthly.",
+        "notChosenFeedback": ""
+      }
+    },
+    {
+      "text": "When things just don’t “feel” quite right",
+      "correct": true,
+      "tipsAndFeedback": {
+        "tip": "",
+        "chosenFeedback": "We should always monitor KPIs on a continuous basis. Some information is only available periodically when financials are produced and production statistics are rolled up. The use of real-time dashboards can make it possible to monitor KPIs in real time. The faster we can get the data, the faster we can make adjustments (when required).",
+        "notChosenFeedback": ""
+      }
+    }
+  ],
+  "subContentId": "afe7909c-f64e-4abf-9783-324510523a20",
+  "detailedSolution": "We should always monitor KPIs on a continuous basis. Some information is only available periodically when financials are produced and production statistics are rolled up. The use of real-time dashboards can make it possible to monitor KPIs in real time. The faster we can get the data, the faster we can make adjustments (when required)."
+}
