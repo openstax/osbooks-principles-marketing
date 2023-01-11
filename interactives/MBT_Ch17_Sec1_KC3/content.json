@@ -1,0 +1,91 @@
+{
+  "UI": {
+    "showSolutionButton": "Show solution",
+    "tryAgainButton": "Retry",
+    "checkAnswerButton": "Check",
+    "tipsLabel": "Show tip",
+    "scoreBarLabel": "You got :num out of :total points",
+    "tipAvailable": "Tip available",
+    "feedbackAvailable": "Feedback available",
+    "readFeedback": "Read feedback",
+    "wrongAnswer": "Wrong answer",
+    "correctAnswer": "Correct answer",
+    "shouldCheck": "Should have been checked",
+    "shouldNotCheck": "Should not have been checked",
+    "noInput": "Please answer before viewing the solution"
+  },
+  "behaviour": {
+    "enableRetry": true,
+    "enableSolutionsButton": true,
+    "singlePoint": true,
+    "randomAnswers": true,
+    "showSolutionsRequiresInput": true,
+    "type": "auto",
+    "confirmCheckDialog": false,
+    "confirmRetryDialog": false,
+    "autoCheck": false,
+    "passPercentage": 100,
+    "showScorePoints": true,
+    "enableCheckButton": true
+  },
+  "overallFeedback": [
+    {
+      "from": 0,
+      "to": 0,
+      "feedback": "Wrong"
+    },
+    {
+      "from": 1,
+      "to": 99,
+      "feedback": "Almost!"
+    },
+    {
+      "from": 100,
+      "to": 100,
+      "feedback": "Correct!"
+    }
+  ],
+  "question": "Without intermediaries, the number of transactions between the total number of manufacturers and the total number of consumers would ________.",
+  "isSolutionPublic": true,
+  "isFreeResponseSupported": false,
+  "answers": [
+    {
+      "text": "decrease",
+      "correct": false,
+      "tipsAndFeedback": {
+        "tip": "",
+        "chosenFeedback": "That&#8217;s not correct. The total number of transactions does not decrease temporarily when intermediaries are removed from the distribution channel.",
+        "notChosenFeedback": ""
+      }
+    },
+    {
+      "text": "stay the same",
+      "correct": false,
+      "tipsAndFeedback": {
+        "tip": "",
+        "chosenFeedback": "That&#8217;s not correct. The total number of transactions does not stay the same when intermediaries are removed from the distribution channel.",
+        "notChosenFeedback": ""
+      }
+    },
+    {
+      "text": "increase",
+      "correct": false,
+      "tipsAndFeedback": {
+        "tip": "",
+        "chosenFeedback": "That&#8217;s not correct. The total number of transactions does not decrease when intermediaries are removed from the distribution channel.",
+        "notChosenFeedback": ""
+      }
+    },
+    {
+      "text": "decrease temporarily",
+      "correct": true,
+      "tipsAndFeedback": {
+        "tip": "",
+        "chosenFeedback": "When intermediaries are removed from the marketing channel, manufacturers must then be solely responsible for distributing products directly to all customers. Thus, the number of transactions would increase.",
+        "notChosenFeedback": ""
+      }
+    }
+  ],
+  "subContentId": "72d63aa4-f1d4-4751-866d-8df3be746cc6",
+  "detailedSolution": "When intermediaries are removed from the marketing channel, manufacturers must then be solely responsible for distributing products directly to all customers. Thus, the number of transactions would increase."
+}
