@@ -1,0 +1,32 @@
+{
+  "errata_id": "8a164487583b2dde18b5a703891961f037a378b7dcbb1cdfa83c5837c3c51608",
+  "attachments": [],
+  "tags": [
+    "type:practice",
+    "book:stax-mktg",
+    "lo:stax-mktg:6-1-1",
+    "context-cnxmod:5e2838dc-0331-4a41-b9c4-3cb3804ff83d",
+    "lo:stax-mktg:6-1-2",
+    "lo:stax-mktg:6-3-1",
+    "context-cnxmod:b0da0182-bcb3-44fb-8431-b527e4c3342f",
+    "lo:stax-mktg:6-3-2",
+    "book-slug:principles-marketing",
+    "module-slug:principles-marketing:6-1-marketing-research-and-big-data",
+    "module-slug:principles-marketing:6-3-steps-in-a-successful-marketing-research-plan"
+  ],
+  "books": [
+    {
+      "name": "stax-mktg",
+      "lo": [
+        "6-1-1",
+        "6-1-2",
+        "6-3-1",
+        "6-3-2"
+      ]
+    }
+  ],
+  "context": [
+    "m00034",
+    "m00036"
+  ]
+}
