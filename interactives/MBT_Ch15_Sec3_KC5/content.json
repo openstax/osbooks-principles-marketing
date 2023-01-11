@@ -1,0 +1,91 @@
+{
+  "UI": {
+    "showSolutionButton": "Show solution",
+    "tryAgainButton": "Retry",
+    "checkAnswerButton": "Check",
+    "tipsLabel": "Show tip",
+    "scoreBarLabel": "You got :num out of :total points",
+    "tipAvailable": "Tip available",
+    "feedbackAvailable": "Feedback available",
+    "readFeedback": "Read feedback",
+    "wrongAnswer": "Wrong answer",
+    "correctAnswer": "Correct answer",
+    "shouldCheck": "Should have been checked",
+    "shouldNotCheck": "Should not have been checked",
+    "noInput": "Please answer before viewing the solution"
+  },
+  "behaviour": {
+    "enableRetry": true,
+    "enableSolutionsButton": true,
+    "singlePoint": true,
+    "randomAnswers": true,
+    "showSolutionsRequiresInput": true,
+    "type": "auto",
+    "confirmCheckDialog": false,
+    "confirmRetryDialog": false,
+    "autoCheck": false,
+    "passPercentage": 100,
+    "showScorePoints": true,
+    "enableCheckButton": true
+  },
+  "overallFeedback": [
+    {
+      "from": 0,
+      "to": 0,
+      "feedback": "Wrong"
+    },
+    {
+      "from": 1,
+      "to": 99,
+      "feedback": "Almost!"
+    },
+    {
+      "from": 100,
+      "to": 100,
+      "feedback": "Correct!"
+    }
+  ],
+  "question": "Keith is with his prospect, and he is out on a test drive for the new Ford F-150. He is telling the prospect about the safety features of the truck. What stage of the selling process is Keith in?",
+  "isSolutionPublic": true,
+  "isFreeResponseSupported": false,
+  "answers": [
+    {
+      "text": "Approach",
+      "correct": false,
+      "tipsAndFeedback": {
+        "tip": "",
+        "chosenFeedback": "That&#8217;s not correct. When the sales professional handles objections, it is often after the presentation.",
+        "notChosenFeedback": ""
+      }
+    },
+    {
+      "text": "Close",
+      "correct": false,
+      "tipsAndFeedback": {
+        "tip": "",
+        "chosenFeedback": "That&#8217;s not correct. During the close, the sales professional is asking for the sale.",
+        "notChosenFeedback": ""
+      }
+    },
+    {
+      "text": "Presentation",
+      "correct": false,
+      "tipsAndFeedback": {
+        "tip": "",
+        "chosenFeedback": "That&#8217;s not correct. During the approach phase, the sales professional gathers insights and seeks to contact the prospect to build rapport and gather more information on the needs and wants of the prospect.",
+        "notChosenFeedback": ""
+      }
+    },
+    {
+      "text": "Handling objections",
+      "correct": true,
+      "tipsAndFeedback": {
+        "tip": "",
+        "chosenFeedback": "Keith is demonstrating the product and telling about the features that are important to the prospect. Keith is doing the presentation.",
+        "notChosenFeedback": ""
+      }
+    }
+  ],
+  "subContentId": "040511f2-9d04-42a6-b317-e6359b63d3b5",
+  "detailedSolution": "Keith is demonstrating the product and telling about the features that are important to the prospect. Keith is doing the presentation."
+}
