@@ -1,0 +1,91 @@
+{
+  "UI": {
+    "showSolutionButton": "Show solution",
+    "tryAgainButton": "Retry",
+    "checkAnswerButton": "Check",
+    "tipsLabel": "Show tip",
+    "scoreBarLabel": "You got :num out of :total points",
+    "tipAvailable": "Tip available",
+    "feedbackAvailable": "Feedback available",
+    "readFeedback": "Read feedback",
+    "wrongAnswer": "Wrong answer",
+    "correctAnswer": "Correct answer",
+    "shouldCheck": "Should have been checked",
+    "shouldNotCheck": "Should not have been checked",
+    "noInput": "Please answer before viewing the solution"
+  },
+  "behaviour": {
+    "enableRetry": true,
+    "enableSolutionsButton": true,
+    "singlePoint": true,
+    "randomAnswers": true,
+    "showSolutionsRequiresInput": true,
+    "type": "auto",
+    "confirmCheckDialog": false,
+    "confirmRetryDialog": false,
+    "autoCheck": false,
+    "passPercentage": 100,
+    "showScorePoints": true,
+    "enableCheckButton": true
+  },
+  "overallFeedback": [
+    {
+      "from": 0,
+      "to": 0,
+      "feedback": "Wrong"
+    },
+    {
+      "from": 1,
+      "to": 99,
+      "feedback": "Almost!"
+    },
+    {
+      "from": 100,
+      "to": 100,
+      "feedback": "Correct!"
+    }
+  ],
+  "question": "Which type of customer relationship management (CRM) system would pool data from outside companies and organizations in order to create even better experiences for their customers?",
+  "isSolutionPublic": true,
+  "isFreeResponseSupported": false,
+  "answers": [
+    {
+      "text": "Customer loyalty programs",
+      "correct": false,
+      "tipsAndFeedback": {
+        "tip": "",
+        "chosenFeedback": "That&#8217;s not correct. An analytical CRM is designed to collect, organize, and analyze the inputted data, providing management with insights needed to better understand market trends, understand customer needs and wants, and make data-driven strategic decisions.",
+        "notChosenFeedback": ""
+      }
+    },
+    {
+      "text": "Operational CRM",
+      "correct": false,
+      "tipsAndFeedback": {
+        "tip": "",
+        "chosenFeedback": "That&#8217;s not correct. Operational CRM deals with three types of operations&#8212;marketing, sales, and service&#8212;and is often used for lead generation.",
+        "notChosenFeedback": ""
+      }
+    },
+    {
+      "text": "Analytical CRM",
+      "correct": false,
+      "tipsAndFeedback": {
+        "tip": "",
+        "chosenFeedback": "That&#8217;s not correct. Customer loyalty programs are reward programs geared toward frequent purchasers of a brand or product.",
+        "notChosenFeedback": ""
+      }
+    },
+    {
+      "text": "Collaborative CRM",
+      "correct": true,
+      "tipsAndFeedback": {
+        "tip": "",
+        "chosenFeedback": "Collaborative CRM is sharing customer data with outside companies. It can give the company a fuller perspective on customers by collaborating with other companies in order to obtain data to which it would not otherwise have access.",
+        "notChosenFeedback": ""
+      }
+    }
+  ],
+  "subContentId": "2798b1a4-2650-4f31-9747-6bf8da0a6a9b",
+  "detailedSolution": "Collaborative CRM is sharing customer data with outside companies. It can give the company a fuller perspective on customers by collaborating with other companies in order to obtain data to which it would not otherwise have access."
+}
