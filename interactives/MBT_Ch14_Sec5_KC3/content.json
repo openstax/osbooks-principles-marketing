@@ -1,0 +1,91 @@
+{
+  "UI": {
+    "showSolutionButton": "Show solution",
+    "tryAgainButton": "Retry",
+    "checkAnswerButton": "Check",
+    "tipsLabel": "Show tip",
+    "scoreBarLabel": "You got :num out of :total points",
+    "tipAvailable": "Tip available",
+    "feedbackAvailable": "Feedback available",
+    "readFeedback": "Read feedback",
+    "wrongAnswer": "Wrong answer",
+    "correctAnswer": "Correct answer",
+    "shouldCheck": "Should have been checked",
+    "shouldNotCheck": "Should not have been checked",
+    "noInput": "Please answer before viewing the solution"
+  },
+  "behaviour": {
+    "enableRetry": true,
+    "enableSolutionsButton": true,
+    "singlePoint": true,
+    "randomAnswers": true,
+    "showSolutionsRequiresInput": true,
+    "type": "auto",
+    "confirmCheckDialog": false,
+    "confirmRetryDialog": false,
+    "autoCheck": false,
+    "passPercentage": 100,
+    "showScorePoints": true,
+    "enableCheckButton": true
+  },
+  "overallFeedback": [
+    {
+      "from": 0,
+      "to": 0,
+      "feedback": "Wrong"
+    },
+    {
+      "from": 1,
+      "to": 99,
+      "feedback": "Almost!"
+    },
+    {
+      "from": 100,
+      "to": 100,
+      "feedback": "Correct!"
+    }
+  ],
+  "question": "When Story Land, a children’s museum in New Hampshire, reopened, it utilized public relations. Numerous local television stations picked up and reported the story, providing free marketing to potential customers. The company bet on the positive virality of its press release, which worked in its favor. Which of the following disadvantages explains why Story Land “bet on the positive virality”? ",
+  "isSolutionPublic": true,
+  "isFreeResponseSupported": false,
+  "answers": [
+    {
+      "text": "No direct control",
+      "correct": false,
+      "tipsAndFeedback": {
+        "tip": "",
+        "chosenFeedback": "That&#8217;s not correct. Although the news stations picked up the story, there was still no guarantee of results.",
+        "notChosenFeedback": ""
+      }
+    },
+    {
+      "text": "Increased brand recognition",
+      "correct": false,
+      "tipsAndFeedback": {
+        "tip": "",
+        "chosenFeedback": "That&#8217;s not correct. Increased sales is an advantage of public relations.",
+        "notChosenFeedback": ""
+      }
+    },
+    {
+      "text": "Increased sales",
+      "correct": false,
+      "tipsAndFeedback": {
+        "tip": "",
+        "chosenFeedback": "That&#8217;s not correct. Increased brand recognition is an advantage of public relations.",
+        "notChosenFeedback": ""
+      }
+    },
+    {
+      "text": "Guarantee of results",
+      "correct": true,
+      "tipsAndFeedback": {
+        "tip": "",
+        "chosenFeedback": "The company had no direct control over whether the press release would be picked up by news stations.",
+        "notChosenFeedback": ""
+      }
+    }
+  ],
+  "subContentId": "73164dd8-3143-43a9-ba21-5704298cbefe",
+  "detailedSolution": "The company had no direct control over whether the press release would be picked up by news stations."
+}

@@ -1,0 +1,22 @@
+{
+  "errata_id": "35e801474b565ad997332054fe2aba65ed98a8b886751e479f5bc99dea986955",
+  "attachments": [],
+  "tags": [
+    "book:stax-mktg",
+    "context-cnxmod:4c00228c-e6c5-4295-853c-e4db855daf95",
+    "lo:stax-mktg:14-5-2",
+    "book-slug:principles-marketing",
+    "module-slug:principles-marketing:14-5-the-advantages-and-disadvantages-of-public-relations"
+  ],
+  "books": [
+    {
+      "name": "stax-mktg",
+      "lo": [
+        "14-5-2"
+      ]
+    }
+  ],
+  "context": [
+    "m00093"
+  ]
+}
