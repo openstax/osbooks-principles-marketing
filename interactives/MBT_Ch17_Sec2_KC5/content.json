@@ -1,0 +1,91 @@
+{
+  "UI": {
+    "showSolutionButton": "Show solution",
+    "tryAgainButton": "Retry",
+    "checkAnswerButton": "Check",
+    "tipsLabel": "Show tip",
+    "scoreBarLabel": "You got :num out of :total points",
+    "tipAvailable": "Tip available",
+    "feedbackAvailable": "Feedback available",
+    "readFeedback": "Read feedback",
+    "wrongAnswer": "Wrong answer",
+    "correctAnswer": "Correct answer",
+    "shouldCheck": "Should have been checked",
+    "shouldNotCheck": "Should not have been checked",
+    "noInput": "Please answer before viewing the solution"
+  },
+  "behaviour": {
+    "enableRetry": true,
+    "enableSolutionsButton": true,
+    "singlePoint": true,
+    "randomAnswers": true,
+    "showSolutionsRequiresInput": true,
+    "type": "auto",
+    "confirmCheckDialog": false,
+    "confirmRetryDialog": false,
+    "autoCheck": false,
+    "passPercentage": 100,
+    "showScorePoints": true,
+    "enableCheckButton": true
+  },
+  "overallFeedback": [
+    {
+      "from": 0,
+      "to": 0,
+      "feedback": "Wrong"
+    },
+    {
+      "from": 1,
+      "to": 99,
+      "feedback": "Almost!"
+    },
+    {
+      "from": 100,
+      "to": 100,
+      "feedback": "Correct!"
+    }
+  ],
+  "question": "What is the difference between multichannel and omnichannel marketing systems?",
+  "isSolutionPublic": true,
+  "isFreeResponseSupported": false,
+  "answers": [
+    {
+      "text": "Multichannel marketing systems are designed primarily for online distribution.",
+      "correct": false,
+      "tipsAndFeedback": {
+        "tip": "",
+        "chosenFeedback": "That&#8217;s not correct. Multichannel marketing systems are not designed to be flexible and seamless.",
+        "notChosenFeedback": ""
+      }
+    },
+    {
+      "text": "Omnichannel marketing systems are designed primarily for in-store distribution.",
+      "correct": false,
+      "tipsAndFeedback": {
+        "tip": "",
+        "chosenFeedback": "That&#8217;s not correct. Omnichannel systems are not primarily designed for in-store distribution.",
+        "notChosenFeedback": ""
+      }
+    },
+    {
+      "text": "Omnichannel marketing systems are more flexible and seamless in how consumers can buy and receive products and services.",
+      "correct": false,
+      "tipsAndFeedback": {
+        "tip": "",
+        "chosenFeedback": "That&#8217;s not correct. Multichannel systems are not designed primarily for online distribution.",
+        "notChosenFeedback": ""
+      }
+    },
+    {
+      "text": "Multichannel marketing systems are more flexible and seamless in how consumers can buy and receive products and services.",
+      "correct": true,
+      "tipsAndFeedback": {
+        "tip": "",
+        "chosenFeedback": "Omnichannel marketing systems allow consumers to buy and receive products and services seamlessly across a variety of channels, including online and in-store.",
+        "notChosenFeedback": ""
+      }
+    }
+  ],
+  "subContentId": "1c718948-d77e-4621-95a2-bec31c4e9a2b",
+  "detailedSolution": "Omnichannel marketing systems allow consumers to buy and receive products and services seamlessly across a variety of channels, including online and in-store."
+}

@@ -1,0 +1,22 @@
+{
+  "errata_id": "db79c435cb0596b1439c5173f588eb44166d8bb09731f3baa1b8c91e5b1e5910",
+  "attachments": [],
+  "tags": [
+    "book:stax-mktg",
+    "context-cnxmod:79623763-6a42-4e3a-9bf6-7d4ea56304a3",
+    "lo:stax-mktg:17-2-3",
+    "book-slug:principles-marketing",
+    "module-slug:principles-marketing:17-2-types-of-marketing-channels"
+  ],
+  "books": [
+    {
+      "name": "stax-mktg",
+      "lo": [
+        "17-2-3"
+      ]
+    }
+  ],
+  "context": [
+    "m00111"
+  ]
+}
