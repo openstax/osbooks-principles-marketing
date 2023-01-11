@@ -1,0 +1,30 @@
+{
+  "errata_id": "64a503e3ee9d9a2eb508cee750ec734bc31f804c0c8459077a9f49d0d8fb8a98",
+  "attachments": [],
+  "tags": [
+    "type:practice",
+    "book:stax-mktg",
+    "lo:stax-mktg:16-1-2",
+    "context-cnxmod:de412e9b-5a5c-44b1-8c99-1943f9b8f7a8",
+    "lo:stax-mktg:16-2-1",
+    "context-cnxmod:5d12968f-8fe1-4b98-865b-8c42213c33fd",
+    "lo:stax-mktg:16-2-2",
+    "book-slug:principles-marketing",
+    "module-slug:principles-marketing:16-1-traditional-direct-marketing",
+    "module-slug:principles-marketing:16-2-social-media-and-mobile-marketing"
+  ],
+  "books": [
+    {
+      "name": "stax-mktg",
+      "lo": [
+        "16-1-2",
+        "16-2-1",
+        "16-2-2"
+      ]
+    }
+  ],
+  "context": [
+    "m00105",
+    "m00106"
+  ]
+}
