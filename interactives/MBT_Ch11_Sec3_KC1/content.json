@@ -1,0 +1,91 @@
+{
+  "UI": {
+    "showSolutionButton": "Show solution",
+    "tryAgainButton": "Retry",
+    "checkAnswerButton": "Check",
+    "tipsLabel": "Show tip",
+    "scoreBarLabel": "You got :num out of :total points",
+    "tipAvailable": "Tip available",
+    "feedbackAvailable": "Feedback available",
+    "readFeedback": "Read feedback",
+    "wrongAnswer": "Wrong answer",
+    "correctAnswer": "Correct answer",
+    "shouldCheck": "Should have been checked",
+    "shouldNotCheck": "Should not have been checked",
+    "noInput": "Please answer before viewing the solution"
+  },
+  "behaviour": {
+    "enableRetry": true,
+    "enableSolutionsButton": true,
+    "singlePoint": true,
+    "randomAnswers": true,
+    "showSolutionsRequiresInput": true,
+    "type": "auto",
+    "confirmCheckDialog": false,
+    "confirmRetryDialog": false,
+    "autoCheck": false,
+    "passPercentage": 100,
+    "showScorePoints": true,
+    "enableCheckButton": true
+  },
+  "overallFeedback": [
+    {
+      "from": 0,
+      "to": 0,
+      "feedback": "Wrong"
+    },
+    {
+      "from": 1,
+      "to": 99,
+      "feedback": "Almost!"
+    },
+    {
+      "from": 100,
+      "to": 100,
+      "feedback": "Correct!"
+    }
+  ],
+  "question": "Which gap in the Gap Model of Service Quality represents the difference between what customers expect and what the company thinks they expect?",
+  "isSolutionPublic": true,
+  "isFreeResponseSupported": false,
+  "answers": [
+    {
+      "text": "Communication gap",
+      "correct": false,
+      "tipsAndFeedback": {
+        "tip": "",
+        "chosenFeedback": "That&#8217;s not correct. The policy gap is the difference between management&#8217;s perception of the customer&#8217;s needs and the translation of that understanding into service delivery policies and standards.",
+        "notChosenFeedback": ""
+      }
+    },
+    {
+      "text": "Customer gap",
+      "correct": false,
+      "tipsAndFeedback": {
+        "tip": "",
+        "chosenFeedback": "That&#8217;s not correct. The customer gap is the difference between the customer&#8217;s expectations of the service or experience and their perception of the experience.",
+        "notChosenFeedback": ""
+      }
+    },
+    {
+      "text": "Knowledge gap",
+      "correct": false,
+      "tipsAndFeedback": {
+        "tip": "",
+        "chosenFeedback": "That&#8217;s not correct. The communication gap is the difference between the delivery of the customer experience and what is communicated to the customer.",
+        "notChosenFeedback": ""
+      }
+    },
+    {
+      "text": "Policy gap",
+      "correct": true,
+      "tipsAndFeedback": {
+        "tip": "",
+        "chosenFeedback": "The knowledge gap represents the difference between what customers expect and what the company <i>thinks</i> they expect.",
+        "notChosenFeedback": ""
+      }
+    }
+  ],
+  "subContentId": "6033e1a8-4d10-4bd9-9e5c-5546de97b77f",
+  "detailedSolution": "The knowledge gap represents the difference between what customers expect and what the company <i>thinks</i> they expect."
+}
