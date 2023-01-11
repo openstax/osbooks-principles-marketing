@@ -1,0 +1,91 @@
+{
+  "UI": {
+    "showSolutionButton": "Show solution",
+    "tryAgainButton": "Retry",
+    "checkAnswerButton": "Check",
+    "tipsLabel": "Show tip",
+    "scoreBarLabel": "You got :num out of :total points",
+    "tipAvailable": "Tip available",
+    "feedbackAvailable": "Feedback available",
+    "readFeedback": "Read feedback",
+    "wrongAnswer": "Wrong answer",
+    "correctAnswer": "Correct answer",
+    "shouldCheck": "Should have been checked",
+    "shouldNotCheck": "Should not have been checked",
+    "noInput": "Please answer before viewing the solution"
+  },
+  "behaviour": {
+    "enableRetry": true,
+    "enableSolutionsButton": true,
+    "singlePoint": true,
+    "randomAnswers": true,
+    "showSolutionsRequiresInput": true,
+    "type": "auto",
+    "confirmCheckDialog": false,
+    "confirmRetryDialog": false,
+    "autoCheck": false,
+    "passPercentage": 100,
+    "showScorePoints": true,
+    "enableCheckButton": true
+  },
+  "overallFeedback": [
+    {
+      "from": 0,
+      "to": 0,
+      "feedback": "Wrong"
+    },
+    {
+      "from": 1,
+      "to": 99,
+      "feedback": "Almost!"
+    },
+    {
+      "from": 100,
+      "to": 100,
+      "feedback": "Correct!"
+    }
+  ],
+  "question": "Which of the following best describes a satisfactory exchange process?",
+  "isSolutionPublic": true,
+  "isFreeResponseSupported": false,
+  "answers": [
+    {
+      "text": "One that allows the seller to incur the highest profit possible",
+      "correct": false,
+      "tipsAndFeedback": {
+        "tip": "",
+        "chosenFeedback": "That&#8217;s not correct. For an exchange process to be effective, both the seller and buyer must benefit.",
+        "notChosenFeedback": ""
+      }
+    },
+    {
+      "text": "One that allows the buyer to pay the lowest price possible",
+      "correct": false,
+      "tipsAndFeedback": {
+        "tip": "",
+        "chosenFeedback": "That&#8217;s not correct. The seller&#8217;s satisfaction with price is important, but it cannot occur at the cost of the seller; otherwise, the business would fail and not allow for future sales.",
+        "notChosenFeedback": ""
+      }
+    },
+    {
+      "text": "One that fairly addresses the needs of both the seller and buyer",
+      "correct": false,
+      "tipsAndFeedback": {
+        "tip": "",
+        "chosenFeedback": "That&#8217;s not correct. Profit is important, but it cannot be attained at the cost of the customer.",
+        "notChosenFeedback": ""
+      }
+    },
+    {
+      "text": "One that is most convenient without regard for either the seller or buyer",
+      "correct": true,
+      "tipsAndFeedback": {
+        "tip": "",
+        "chosenFeedback": "The exchange process is designed to allow for the transaction to occur without either party feeling like the other has benefitted at its own cost.",
+        "notChosenFeedback": ""
+      }
+    }
+  ],
+  "subContentId": "c76b98a3-c591-4c94-9cc0-b574bac655e0",
+  "detailedSolution": "The exchange process is designed to allow for the transaction to occur without either party feeling like the other has benefitted at its own cost."
+}
