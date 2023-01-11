@@ -1,0 +1,91 @@
+{
+  "UI": {
+    "showSolutionButton": "Show solution",
+    "tryAgainButton": "Retry",
+    "checkAnswerButton": "Check",
+    "tipsLabel": "Show tip",
+    "scoreBarLabel": "You got :num out of :total points",
+    "tipAvailable": "Tip available",
+    "feedbackAvailable": "Feedback available",
+    "readFeedback": "Read feedback",
+    "wrongAnswer": "Wrong answer",
+    "correctAnswer": "Correct answer",
+    "shouldCheck": "Should have been checked",
+    "shouldNotCheck": "Should not have been checked",
+    "noInput": "Please answer before viewing the solution"
+  },
+  "behaviour": {
+    "enableRetry": true,
+    "enableSolutionsButton": true,
+    "singlePoint": true,
+    "randomAnswers": true,
+    "showSolutionsRequiresInput": true,
+    "type": "auto",
+    "confirmCheckDialog": false,
+    "confirmRetryDialog": false,
+    "autoCheck": false,
+    "passPercentage": 100,
+    "showScorePoints": true,
+    "enableCheckButton": true
+  },
+  "overallFeedback": [
+    {
+      "from": 0,
+      "to": 0,
+      "feedback": "Wrong"
+    },
+    {
+      "from": 1,
+      "to": 99,
+      "feedback": "Almost!"
+    },
+    {
+      "from": 100,
+      "to": 100,
+      "feedback": "Correct!"
+    }
+  ],
+  "question": "Luis is planning to introduce a new product to the market. Their aim is to gain as much of the market share as possible in the early introduction stage, so they are thinking of setting an initially low price. Which pricing strategy is Luis using?",
+  "isSolutionPublic": true,
+  "isFreeResponseSupported": false,
+  "answers": [
+    {
+      "text": "Break-even analysis",
+      "correct": false,
+      "tipsAndFeedback": {
+        "tip": "",
+        "chosenFeedback": "That&#8217;s not correct. Psychological pricing refers to pricing strategies that utilize the subconscious of the consumer to set prices.",
+        "notChosenFeedback": ""
+      }
+    },
+    {
+      "text": "Price skimming",
+      "correct": false,
+      "tipsAndFeedback": {
+        "tip": "",
+        "chosenFeedback": "That&#8217;s not correct. Price skimming refers to a new product pricing strategy that charges an initially high price and then progressively lowers the price to capture incremental shares of the market.",
+        "notChosenFeedback": ""
+      }
+    },
+    {
+      "text": "Penetration pricing",
+      "correct": false,
+      "tipsAndFeedback": {
+        "tip": "",
+        "chosenFeedback": "That&#8217;s not correct. Break-even analysis allows marketers to determine how many units must be sold to cover all costs associated with the product.",
+        "notChosenFeedback": ""
+      }
+    },
+    {
+      "text": "Psychological pricing",
+      "correct": true,
+      "tipsAndFeedback": {
+        "tip": "",
+        "chosenFeedback": "Penetration pricing is setting an initially low price to capture as much market share as possible.",
+        "notChosenFeedback": ""
+      }
+    }
+  ],
+  "subContentId": "31d58dfd-7996-4a35-9545-2c70814ced9c",
+  "detailedSolution": "Penetration pricing is setting an initially low price to capture as much market share as possible."
+}
