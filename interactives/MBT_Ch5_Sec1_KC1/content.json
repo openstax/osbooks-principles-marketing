@@ -1,0 +1,91 @@
+{
+  "UI": {
+    "showSolutionButton": "Show solution",
+    "tryAgainButton": "Retry",
+    "checkAnswerButton": "Check",
+    "tipsLabel": "Show tip",
+    "scoreBarLabel": "You got :num out of :total points",
+    "tipAvailable": "Tip available",
+    "feedbackAvailable": "Feedback available",
+    "readFeedback": "Read feedback",
+    "wrongAnswer": "Wrong answer",
+    "correctAnswer": "Correct answer",
+    "shouldCheck": "Should have been checked",
+    "shouldNotCheck": "Should not have been checked",
+    "noInput": "Please answer before viewing the solution"
+  },
+  "behaviour": {
+    "enableRetry": true,
+    "enableSolutionsButton": true,
+    "singlePoint": true,
+    "randomAnswers": true,
+    "showSolutionsRequiresInput": true,
+    "type": "auto",
+    "confirmCheckDialog": false,
+    "confirmRetryDialog": false,
+    "autoCheck": false,
+    "passPercentage": 100,
+    "showScorePoints": true,
+    "enableCheckButton": true
+  },
+  "overallFeedback": [
+    {
+      "from": 0,
+      "to": 0,
+      "feedback": "Wrong"
+    },
+    {
+      "from": 1,
+      "to": 99,
+      "feedback": "Almost!"
+    },
+    {
+      "from": 100,
+      "to": 100,
+      "feedback": "Correct!"
+    }
+  ],
+  "question": "In China, Starbucks offers tea-based drinks featuring regional ingredients. On what basis has Starbucks segmented its market?",
+  "isSolutionPublic": true,
+  "isFreeResponseSupported": false,
+  "answers": [
+    {
+      "text": "Demographic",
+      "correct": false,
+      "tipsAndFeedback": {
+        "tip": "",
+        "chosenFeedback": "That&#8217;s not correct. Psychographic segmentation divides consumers into different groups based on internal characteristics like personality, values, and beliefs.",
+        "notChosenFeedback": ""
+      }
+    },
+    {
+      "text": "Behavioral",
+      "correct": false,
+      "tipsAndFeedback": {
+        "tip": "",
+        "chosenFeedback": "That&#8217;s not correct. Behavioral segmentation is a method of grouping consumers by their behavior patterns.",
+        "notChosenFeedback": ""
+      }
+    },
+    {
+      "text": "Geographic",
+      "correct": false,
+      "tipsAndFeedback": {
+        "tip": "",
+        "chosenFeedback": "That&#8217;s not correct. Demographic segmentation groups consumers by focusing on traits such as age, gender, income, etc.",
+        "notChosenFeedback": ""
+      }
+    },
+    {
+      "text": "Psychographic",
+      "correct": true,
+      "tipsAndFeedback": {
+        "tip": "",
+        "chosenFeedback": "Starbucks researches the culture of the countries in which it operates so that beverages appeal to local tastes.",
+        "notChosenFeedback": ""
+      }
+    }
+  ],
+  "subContentId": "3046381b-4674-4eba-9a15-18244818cdc1",
+  "detailedSolution": "Starbucks researches the culture of the countries in which it operates so that beverages appeal to local tastes."
+}
