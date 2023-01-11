@@ -1,0 +1,91 @@
+{
+  "UI": {
+    "showSolutionButton": "Show solution",
+    "tryAgainButton": "Retry",
+    "checkAnswerButton": "Check",
+    "tipsLabel": "Show tip",
+    "scoreBarLabel": "You got :num out of :total points",
+    "tipAvailable": "Tip available",
+    "feedbackAvailable": "Feedback available",
+    "readFeedback": "Read feedback",
+    "wrongAnswer": "Wrong answer",
+    "correctAnswer": "Correct answer",
+    "shouldCheck": "Should have been checked",
+    "shouldNotCheck": "Should not have been checked",
+    "noInput": "Please answer before viewing the solution"
+  },
+  "behaviour": {
+    "enableRetry": true,
+    "enableSolutionsButton": true,
+    "singlePoint": true,
+    "randomAnswers": true,
+    "showSolutionsRequiresInput": true,
+    "type": "auto",
+    "confirmCheckDialog": false,
+    "confirmRetryDialog": false,
+    "autoCheck": false,
+    "passPercentage": 100,
+    "showScorePoints": true,
+    "enableCheckButton": true
+  },
+  "overallFeedback": [
+    {
+      "from": 0,
+      "to": 0,
+      "feedback": "Wrong"
+    },
+    {
+      "from": 1,
+      "to": 99,
+      "feedback": "Almost!"
+    },
+    {
+      "from": 100,
+      "to": 100,
+      "feedback": "Correct!"
+    }
+  ],
+  "question": "Shane’s company has been experiencing a downturn in sales, and cash is tight right now. This has caused Shane to look only at suppliers who offer credit to the company. Which factor appears to be influencing the B2B purchase?",
+  "isSolutionPublic": true,
+  "isFreeResponseSupported": false,
+  "answers": [
+    {
+      "text": "External factors",
+      "correct": false,
+      "tipsAndFeedback": {
+        "tip": "",
+        "chosenFeedback": "That&#8217;s not correct. Interpersonal factors include formal/informal authority, technical expertise, influence, and organizational politics and culture.",
+        "notChosenFeedback": ""
+      }
+    },
+    {
+      "text": "Internal factors",
+      "correct": false,
+      "tipsAndFeedback": {
+        "tip": "",
+        "chosenFeedback": "That&#8217;s not correct. Internal factors include business objectives and goals, technology, and workforce skills.",
+        "notChosenFeedback": ""
+      }
+    },
+    {
+      "text": "Interpersonal factors",
+      "correct": false,
+      "tipsAndFeedback": {
+        "tip": "",
+        "chosenFeedback": "That&#8217;s not correct. External factors include economic conditions, the political/legal environment, competition, and the social environment.",
+        "notChosenFeedback": ""
+      }
+    },
+    {
+      "text": "Conditional factors",
+      "correct": true,
+      "tipsAndFeedback": {
+        "tip": "",
+        "chosenFeedback": "Conditional factors include the present financial condition of the organization, as well as product/service availability.",
+        "notChosenFeedback": ""
+      }
+    }
+  ],
+  "subContentId": "8dc78fa6-9928-4101-a256-94b147c7e72e",
+  "detailedSolution": "Conditional factors include the present financial condition of the organization, as well as product/service availability."
+}

@@ -1,0 +1,22 @@
+{
+  "errata_id": "a55403bb2dbdc1d65a61dceda266dd148e1f2bb794c0dc656ef55a95c4319f52",
+  "attachments": [],
+  "tags": [
+    "book:stax-mktg",
+    "context-cnxmod:84522200-8c9a-4a97-8ec9-57a2de4a45cf",
+    "lo:stax-mktg:4-3-5",
+    "book-slug:principles-marketing",
+    "module-slug:principles-marketing:4-3-major-influences-on-b2b-buyer-behavior"
+  ],
+  "books": [
+    {
+      "name": "stax-mktg",
+      "lo": [
+        "4-3-5"
+      ]
+    }
+  ],
+  "context": [
+    "m00023"
+  ]
+}
