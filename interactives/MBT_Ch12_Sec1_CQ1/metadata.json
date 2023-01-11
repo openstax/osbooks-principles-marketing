@@ -1,0 +1,23 @@
+{
+  "errata_id": "727a4b63e56e12a4bda34528853559e9f49a59e1937c9594d370ca3e174cc1a9",
+  "attachments": [],
+  "tags": [
+    "type:practice",
+    "book:stax-mktg",
+    "lo:stax-mktg:12-1-3",
+    "context-cnxmod:d0d6f212-bbd2-4405-b784-aaf40e6c7456",
+    "book-slug:principles-marketing",
+    "module-slug:principles-marketing:12-1-pricing-and-its-role-in-the-marketing-mix"
+  ],
+  "books": [
+    {
+      "name": "stax-mktg",
+      "lo": [
+        "12-1-3"
+      ]
+    }
+  ],
+  "context": [
+    "m00076"
+  ]
+}
