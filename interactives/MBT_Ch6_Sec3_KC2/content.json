@@ -1,0 +1,91 @@
+{
+  "UI": {
+    "showSolutionButton": "Show solution",
+    "tryAgainButton": "Retry",
+    "checkAnswerButton": "Check",
+    "tipsLabel": "Show tip",
+    "scoreBarLabel": "You got :num out of :total points",
+    "tipAvailable": "Tip available",
+    "feedbackAvailable": "Feedback available",
+    "readFeedback": "Read feedback",
+    "wrongAnswer": "Wrong answer",
+    "correctAnswer": "Correct answer",
+    "shouldCheck": "Should have been checked",
+    "shouldNotCheck": "Should not have been checked",
+    "noInput": "Please answer before viewing the solution"
+  },
+  "behaviour": {
+    "enableRetry": true,
+    "enableSolutionsButton": true,
+    "singlePoint": true,
+    "randomAnswers": true,
+    "showSolutionsRequiresInput": true,
+    "type": "auto",
+    "confirmCheckDialog": false,
+    "confirmRetryDialog": false,
+    "autoCheck": false,
+    "passPercentage": 100,
+    "showScorePoints": true,
+    "enableCheckButton": true
+  },
+  "overallFeedback": [
+    {
+      "from": 0,
+      "to": 0,
+      "feedback": "Wrong"
+    },
+    {
+      "from": 1,
+      "to": 99,
+      "feedback": "Almost!"
+    },
+    {
+      "from": 100,
+      "to": 100,
+      "feedback": "Correct!"
+    }
+  ],
+  "question": "A strength of mailing a survey is that ________.",
+  "isSolutionPublic": true,
+  "isFreeResponseSupported": false,
+  "answers": [
+    {
+      "text": "you are able to send it to all households in an area",
+      "correct": false,
+      "tipsAndFeedback": {
+        "tip": "",
+        "chosenFeedback": "That&#8217;s not correct. Mailed survey responses take more time to receive than other methods&#8212;there is a lag due to the survey being mailed out to potential respondents as well as the time it takes to have the completed survey sent back.",
+        "notChosenFeedback": ""
+      }
+    },
+    {
+      "text": "it is inexpensive",
+      "correct": false,
+      "tipsAndFeedback": {
+        "tip": "",
+        "chosenFeedback": "That&#8217;s not correct. Surveys that are sent through the mail are returned and then must be entered into a database through electronic or manual entry.",
+        "notChosenFeedback": ""
+      }
+    },
+    {
+      "text": "responses are automatically loaded into the software",
+      "correct": false,
+      "tipsAndFeedback": {
+        "tip": "",
+        "chosenFeedback": "That&#8217;s not correct. Mailed surveys can be quite expensive to implement.",
+        "notChosenFeedback": ""
+      }
+    },
+    {
+      "text": "the data comes in quickly",
+      "correct": true,
+      "tipsAndFeedback": {
+        "tip": "",
+        "chosenFeedback": "A mailed survey can be sent to all households easily through a postal service.",
+        "notChosenFeedback": ""
+      }
+    }
+  ],
+  "subContentId": "e304f9bc-4b40-4de1-86db-e9629a7ed45f",
+  "detailedSolution": "A mailed survey can be sent to all households easily through a postal service."
+}
