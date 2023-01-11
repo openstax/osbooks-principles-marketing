@@ -1,0 +1,22 @@
+{
+  "errata_id": "41ff644173fbf404cb811f0f97ba52d6309efd2e450e6bf059a7770d1838a954",
+  "attachments": [],
+  "tags": [
+    "book:stax-mktg",
+    "lo:stax-mktg:10-2-2",
+    "context-cnxmod:124a90d2-52df-4c41-afbf-c21290d1fc62",
+    "book-slug:principles-marketing",
+    "module-slug:principles-marketing:10-2-stages-of-the-new-product-development-process"
+  ],
+  "books": [
+    {
+      "name": "stax-mktg",
+      "lo": [
+        "10-2-2"
+      ]
+    }
+  ],
+  "context": [
+    "m00065"
+  ]
+}

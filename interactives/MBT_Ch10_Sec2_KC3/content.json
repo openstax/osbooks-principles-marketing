@@ -1,0 +1,91 @@
+{
+  "UI": {
+    "showSolutionButton": "Show solution",
+    "tryAgainButton": "Retry",
+    "checkAnswerButton": "Check",
+    "tipsLabel": "Show tip",
+    "scoreBarLabel": "You got :num out of :total points",
+    "tipAvailable": "Tip available",
+    "feedbackAvailable": "Feedback available",
+    "readFeedback": "Read feedback",
+    "wrongAnswer": "Wrong answer",
+    "correctAnswer": "Correct answer",
+    "shouldCheck": "Should have been checked",
+    "shouldNotCheck": "Should not have been checked",
+    "noInput": "Please answer before viewing the solution"
+  },
+  "behaviour": {
+    "enableRetry": true,
+    "enableSolutionsButton": true,
+    "singlePoint": true,
+    "randomAnswers": true,
+    "showSolutionsRequiresInput": true,
+    "type": "auto",
+    "confirmCheckDialog": false,
+    "confirmRetryDialog": false,
+    "autoCheck": false,
+    "passPercentage": 100,
+    "showScorePoints": true,
+    "enableCheckButton": true
+  },
+  "overallFeedback": [
+    {
+      "from": 0,
+      "to": 0,
+      "feedback": "Wrong"
+    },
+    {
+      "from": 1,
+      "to": 99,
+      "feedback": "Almost!"
+    },
+    {
+      "from": 100,
+      "to": 100,
+      "feedback": "Correct!"
+    }
+  ],
+  "question": "At what stage in the new product development process would you launch the product, complete with full-scale production, distribution, advertising, and sales promotion?",
+  "isSolutionPublic": true,
+  "isFreeResponseSupported": false,
+  "answers": [
+    {
+      "text": "Test-marketing",
+      "correct": false,
+      "tipsAndFeedback": {
+        "tip": "",
+        "chosenFeedback": "That&#8217;s not correct. Business analysis helps marketers determine the costs involved in the proposed new product development, as well as forecast the profits to be made in future years.",
+        "notChosenFeedback": ""
+      }
+    },
+    {
+      "text": "Product development",
+      "correct": false,
+      "tipsAndFeedback": {
+        "tip": "",
+        "chosenFeedback": "That&#8217;s not correct. In the product development phase, R&#38;D develops one or more physical versions of the product concept, called prototypes.",
+        "notChosenFeedback": ""
+      }
+    },
+    {
+      "text": "Business analysis",
+      "correct": false,
+      "tipsAndFeedback": {
+        "tip": "",
+        "chosenFeedback": "That&#8217;s not correct. Test-marketing aims to explore consumer response to a product or service by making it available on a limited basis.",
+        "notChosenFeedback": ""
+      }
+    },
+    {
+      "text": "Commercialization",
+      "correct": true,
+      "tipsAndFeedback": {
+        "tip": "",
+        "chosenFeedback": "Commercialization is where the &#8220;rubber hits the road&#8221; and the company introduces the product to the market on a full-scale basis, involving production, marketing, distribution, and customer support.",
+        "notChosenFeedback": ""
+      }
+    }
+  ],
+  "subContentId": "1adb54df-4dcf-40bf-aaf6-d743e5a89487",
+  "detailedSolution": "Commercialization is where the “rubber hits the road” and the company introduces the product to the market on a full-scale basis, involving production, marketing, distribution, and customer support."
+}
