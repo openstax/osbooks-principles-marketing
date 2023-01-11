@@ -1,0 +1,28 @@
+{
+  "errata_id": "ccbaa42ffde56bb75273c12e9b196d81c4e475ac6e664526a8f7b9771de2ca1e",
+  "attachments": [],
+  "tags": [
+    "type:practice",
+    "book:stax-mktg",
+    "lo:stax-mktg:12-4-2",
+    "context-cnxmod:40051640-09c7-4a04-84ba-d8cd23211b97",
+    "lo:stax-mktg:12-5-2",
+    "context-cnxmod:ffb1a8b5-3e4b-4d38-8597-a62841a01230",
+    "book-slug:principles-marketing",
+    "module-slug:principles-marketing:12-4-pricing-strategies-for-new-products",
+    "module-slug:principles-marketing:12-5-pricing-strategies-and-tactics-for-existing-products"
+  ],
+  "books": [
+    {
+      "name": "stax-mktg",
+      "lo": [
+        "12-4-2",
+        "12-5-2"
+      ]
+    }
+  ],
+  "context": [
+    "m00079",
+    "m00080"
+  ]
+}
