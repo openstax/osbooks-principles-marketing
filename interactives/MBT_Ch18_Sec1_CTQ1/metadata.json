@@ -1,0 +1,35 @@
+{
+  "errata_id": "2b770daa4098fa7625b336436ae435dbd37491c1d542c55951964d533f590ce5",
+  "attachments": [],
+  "tags": [
+    "type:practice",
+    "book:stax-mktg",
+    "context-cnxmod:490e604a-2c0e-47c7-8c6b-c706e4b48359",
+    "lo:stax-mktg:18-1-2",
+    "lo:stax-mktg:18-4-2",
+    "context-cnxmod:f8ac9c94-ca40-4797-bebc-7352c945bfb1",
+    "lo:stax-mktg:18-6-2",
+    "context-cnxmod:108d5151-1570-4c07-9903-645aee3c0ca6",
+    "lo:stax-mktg:18-6-1",
+    "book-slug:principles-marketing",
+    "module-slug:principles-marketing:18-1-retailing-and-the-role-of-retailers-in-the-distribution-channel",
+    "module-slug:principles-marketing:18-4-recent-trends-in-retailing",
+    "module-slug:principles-marketing:18-6-recent-trends-in-wholesaling"
+  ],
+  "books": [
+    {
+      "name": "stax-mktg",
+      "lo": [
+        "18-1-2",
+        "18-4-2",
+        "18-6-2",
+        "18-6-1"
+      ]
+    }
+  ],
+  "context": [
+    "m00117",
+    "m00120",
+    "m00122"
+  ]
+}
