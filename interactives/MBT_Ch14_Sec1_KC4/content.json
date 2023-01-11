@@ -1,0 +1,91 @@
+{
+  "UI": {
+    "showSolutionButton": "Show solution",
+    "tryAgainButton": "Retry",
+    "checkAnswerButton": "Check",
+    "tipsLabel": "Show tip",
+    "scoreBarLabel": "You got :num out of :total points",
+    "tipAvailable": "Tip available",
+    "feedbackAvailable": "Feedback available",
+    "readFeedback": "Read feedback",
+    "wrongAnswer": "Wrong answer",
+    "correctAnswer": "Correct answer",
+    "shouldCheck": "Should have been checked",
+    "shouldNotCheck": "Should not have been checked",
+    "noInput": "Please answer before viewing the solution"
+  },
+  "behaviour": {
+    "enableRetry": true,
+    "enableSolutionsButton": true,
+    "singlePoint": true,
+    "randomAnswers": true,
+    "showSolutionsRequiresInput": true,
+    "type": "auto",
+    "confirmCheckDialog": false,
+    "confirmRetryDialog": false,
+    "autoCheck": false,
+    "passPercentage": 100,
+    "showScorePoints": true,
+    "enableCheckButton": true
+  },
+  "overallFeedback": [
+    {
+      "from": 0,
+      "to": 0,
+      "feedback": "Wrong"
+    },
+    {
+      "from": 1,
+      "to": 99,
+      "feedback": "Almost!"
+    },
+    {
+      "from": 100,
+      "to": 100,
+      "feedback": "Correct!"
+    }
+  ],
+  "question": "Breana sees an advertisement that compares Colgate toothpaste with that of Crest. She decides to change her toothpaste brand based on this new information. Which term best describes what Breana was exposed to?",
+  "isSolutionPublic": true,
+  "isFreeResponseSupported": false,
+  "answers": [
+    {
+      "text": "Institutional advertisement",
+      "correct": false,
+      "tipsAndFeedback": {
+        "tip": "",
+        "chosenFeedback": "That&#8217;s not correct. Social media is a function of public relations.",
+        "notChosenFeedback": ""
+      }
+    },
+    {
+      "text": "Public relations",
+      "correct": false,
+      "tipsAndFeedback": {
+        "tip": "",
+        "chosenFeedback": "That&#8217;s not correct. Public relations is nonpaid communication focused on the brand or company image.",
+        "notChosenFeedback": ""
+      }
+    },
+    {
+      "text": "Social media",
+      "correct": false,
+      "tipsAndFeedback": {
+        "tip": "",
+        "chosenFeedback": "That&#8217;s not correct. Institutional advertising focuses its message on the organization as a whole rather than a specific product.",
+        "notChosenFeedback": ""
+      }
+    },
+    {
+      "text": "Product advertisement",
+      "correct": true,
+      "tipsAndFeedback": {
+        "tip": "",
+        "chosenFeedback": "Product advertisements focus on one product from an organization&#8217;s product mix and/or comparing it with competitors.",
+        "notChosenFeedback": ""
+      }
+    }
+  ],
+  "subContentId": "eabd0ac5-48c5-4d52-a767-e2d670dc8e4b",
+  "detailedSolution": "Product advertisements focus on one product from an organization’s product mix and/or comparing it with competitors."
+}
