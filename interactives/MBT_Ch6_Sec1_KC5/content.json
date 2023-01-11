@@ -1,0 +1,91 @@
+{
+  "UI": {
+    "showSolutionButton": "Show solution",
+    "tryAgainButton": "Retry",
+    "checkAnswerButton": "Check",
+    "tipsLabel": "Show tip",
+    "scoreBarLabel": "You got :num out of :total points",
+    "tipAvailable": "Tip available",
+    "feedbackAvailable": "Feedback available",
+    "readFeedback": "Read feedback",
+    "wrongAnswer": "Wrong answer",
+    "correctAnswer": "Correct answer",
+    "shouldCheck": "Should have been checked",
+    "shouldNotCheck": "Should not have been checked",
+    "noInput": "Please answer before viewing the solution"
+  },
+  "behaviour": {
+    "enableRetry": true,
+    "enableSolutionsButton": true,
+    "singlePoint": true,
+    "randomAnswers": true,
+    "showSolutionsRequiresInput": true,
+    "type": "auto",
+    "confirmCheckDialog": false,
+    "confirmRetryDialog": false,
+    "autoCheck": false,
+    "passPercentage": 100,
+    "showScorePoints": true,
+    "enableCheckButton": true
+  },
+  "overallFeedback": [
+    {
+      "from": 0,
+      "to": 0,
+      "feedback": "Wrong"
+    },
+    {
+      "from": 1,
+      "to": 99,
+      "feedback": "Almost!"
+    },
+    {
+      "from": 100,
+      "to": 100,
+      "feedback": "Correct!"
+    }
+  ],
+  "question": "Which of the following would not be considered marketing research?",
+  "isSolutionPublic": true,
+  "isFreeResponseSupported": false,
+  "answers": [
+    {
+      "text": "Analyzing the product purchases of current customers",
+      "correct": false,
+      "tipsAndFeedback": {
+        "tip": "",
+        "chosenFeedback": "That&#8217;s not correct. Surveying potential employees about what is interesting about the company is valuable marketing research so that companies can continue to enhance the good features about working there.",
+        "notChosenFeedback": ""
+      }
+    },
+    {
+      "text": "Measuring the number of reactions to a social media post",
+      "correct": false,
+      "tipsAndFeedback": {
+        "tip": "",
+        "chosenFeedback": "That&#8217;s not correct. Social media reactions or mentions are valuable marketing research as companies want to know their reach on individual social media platforms.",
+        "notChosenFeedback": ""
+      }
+    },
+    {
+      "text": "Examining a competitor’s database of information",
+      "correct": false,
+      "tipsAndFeedback": {
+        "tip": "",
+        "chosenFeedback": "That&#8217;s not correct. Understanding a customer&#8217;s purchase habits is valuable marketing research. This data can tell a company what is or is not working with its product offering or promotional campaign.",
+        "notChosenFeedback": ""
+      }
+    },
+    {
+      "text": "Surveying potential employees about why they are interested in working for a company",
+      "correct": true,
+      "tipsAndFeedback": {
+        "tip": "",
+        "chosenFeedback": "Although a competitor&#8217;s information is interesting, your company would not have access to it, and therefore it would not be considered marketing research.",
+        "notChosenFeedback": ""
+      }
+    }
+  ],
+  "subContentId": "4d334aa6-59f7-4f9a-b405-a64d0c22fd7f",
+  "detailedSolution": "Although a competitor’s information is interesting, your company would not have access to it, and therefore it would not be considered marketing research."
+}
