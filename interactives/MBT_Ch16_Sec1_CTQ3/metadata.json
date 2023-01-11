@@ -1,0 +1,37 @@
+{
+  "errata_id": "bdb327275508d0b3352c1f9b4fea16aba47b75dcbf61e36986e969df35154992",
+  "attachments": [],
+  "tags": [
+    "type:practice",
+    "book:stax-mktg",
+    "lo:stax-mktg:16-1-2",
+    "context-cnxmod:de412e9b-5a5c-44b1-8c99-1943f9b8f7a8",
+    "lo:stax-mktg:16-2-1",
+    "context-cnxmod:5d12968f-8fe1-4b98-865b-8c42213c33fd",
+    "lo:stax-mktg:16-2-2",
+    "lo:stax-mktg:16-3-1",
+    "context-cnxmod:74872890-be5d-4ea0-b696-5d01eacd9ece",
+    "lo:stax-mktg:16-1-1",
+    "book-slug:principles-marketing",
+    "module-slug:principles-marketing:16-1-traditional-direct-marketing",
+    "module-slug:principles-marketing:16-2-social-media-and-mobile-marketing",
+    "module-slug:principles-marketing:16-3-metrics-used-to-evaluate-the-success-of-online-marketing"
+  ],
+  "books": [
+    {
+      "name": "stax-mktg",
+      "lo": [
+        "16-1-2",
+        "16-2-1",
+        "16-2-2",
+        "16-3-1",
+        "16-1-1"
+      ]
+    }
+  ],
+  "context": [
+    "m00105",
+    "m00106",
+    "m00107"
+  ]
+}
