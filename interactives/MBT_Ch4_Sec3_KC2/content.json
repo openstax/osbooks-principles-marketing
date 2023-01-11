@@ -1,0 +1,91 @@
+{
+  "UI": {
+    "showSolutionButton": "Show solution",
+    "tryAgainButton": "Retry",
+    "checkAnswerButton": "Check",
+    "tipsLabel": "Show tip",
+    "scoreBarLabel": "You got :num out of :total points",
+    "tipAvailable": "Tip available",
+    "feedbackAvailable": "Feedback available",
+    "readFeedback": "Read feedback",
+    "wrongAnswer": "Wrong answer",
+    "correctAnswer": "Correct answer",
+    "shouldCheck": "Should have been checked",
+    "shouldNotCheck": "Should not have been checked",
+    "noInput": "Please answer before viewing the solution"
+  },
+  "behaviour": {
+    "enableRetry": true,
+    "enableSolutionsButton": true,
+    "singlePoint": true,
+    "randomAnswers": true,
+    "showSolutionsRequiresInput": true,
+    "type": "auto",
+    "confirmCheckDialog": false,
+    "confirmRetryDialog": false,
+    "autoCheck": false,
+    "passPercentage": 100,
+    "showScorePoints": true,
+    "enableCheckButton": true
+  },
+  "overallFeedback": [
+    {
+      "from": 0,
+      "to": 0,
+      "feedback": "Wrong"
+    },
+    {
+      "from": 1,
+      "to": 99,
+      "feedback": "Almost!"
+    },
+    {
+      "from": 100,
+      "to": 100,
+      "feedback": "Correct!"
+    }
+  ],
+  "question": "The local government has just passed an ordinance requiring manufacturing firms to reduce pollutants from their manufacturing processes. As a result, Shereace Manufacturing Company is investigating the purchase of pollution control equipment. What factor appears to be influencing the B2B purchase?",
+  "isSolutionPublic": true,
+  "isFreeResponseSupported": false,
+  "answers": [
+    {
+      "text": "Political and legal factors",
+      "correct": false,
+      "tipsAndFeedback": {
+        "tip": "",
+        "chosenFeedback": "That&#8217;s not correct. Workforce skills are an important consideration in many B2B purchases, since the workers are the ones who are going to be using the new equipment but not government ordinance requirements.",
+        "notChosenFeedback": ""
+      }
+    },
+    {
+      "text": "Economic factors",
+      "correct": false,
+      "tipsAndFeedback": {
+        "tip": "",
+        "chosenFeedback": "That&#8217;s not correct. Competition affects B2B buying behavior in that competitive pressures can create a strong sense of urgency around organizational decision making and purchasing but not government ordinance requirements.",
+        "notChosenFeedback": ""
+      }
+    },
+    {
+      "text": "Competition",
+      "correct": false,
+      "tipsAndFeedback": {
+        "tip": "",
+        "chosenFeedback": "That&#8217;s not correct. Economic factors include such things as the level of primary demand, the economic outlook, and the cost of money but not government ordinance requirements.",
+        "notChosenFeedback": ""
+      }
+    },
+    {
+      "text": "Workforce skills",
+      "correct": true,
+      "tipsAndFeedback": {
+        "tip": "",
+        "chosenFeedback": "Legal factors include laws, rules, and regulations with which a business or individual must comply.",
+        "notChosenFeedback": ""
+      }
+    }
+  ],
+  "subContentId": "5cdd20e8-9666-462d-b442-8b64163938b5",
+  "detailedSolution": "Legal factors include laws, rules, and regulations with which a business or individual must comply."
+}
