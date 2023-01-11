@@ -1,0 +1,91 @@
+{
+  "UI": {
+    "showSolutionButton": "Show solution",
+    "tryAgainButton": "Retry",
+    "checkAnswerButton": "Check",
+    "tipsLabel": "Show tip",
+    "scoreBarLabel": "You got :num out of :total points",
+    "tipAvailable": "Tip available",
+    "feedbackAvailable": "Feedback available",
+    "readFeedback": "Read feedback",
+    "wrongAnswer": "Wrong answer",
+    "correctAnswer": "Correct answer",
+    "shouldCheck": "Should have been checked",
+    "shouldNotCheck": "Should not have been checked",
+    "noInput": "Please answer before viewing the solution"
+  },
+  "behaviour": {
+    "enableRetry": true,
+    "enableSolutionsButton": true,
+    "singlePoint": true,
+    "randomAnswers": true,
+    "showSolutionsRequiresInput": true,
+    "type": "auto",
+    "confirmCheckDialog": false,
+    "confirmRetryDialog": false,
+    "autoCheck": false,
+    "passPercentage": 100,
+    "showScorePoints": true,
+    "enableCheckButton": true
+  },
+  "overallFeedback": [
+    {
+      "from": 0,
+      "to": 0,
+      "feedback": "Wrong"
+    },
+    {
+      "from": 1,
+      "to": 99,
+      "feedback": "Almost!"
+    },
+    {
+      "from": 100,
+      "to": 100,
+      "feedback": "Correct!"
+    }
+  ],
+  "question": "Nathan and his husband have decided to purchase a new car. They have narrowed their list to a few models and visited a few dealerships to see the models and test-drive them. Which stage of the consumer decision process does this illustrate?",
+  "isSolutionPublic": true,
+  "isFreeResponseSupported": false,
+  "answers": [
+    {
+      "text": "Need recognition",
+      "correct": false,
+      "tipsAndFeedback": {
+        "tip": "",
+        "chosenFeedback": "That&#8217;s not correct. Nathan and his husband are still visiting dealerships and taking test drives. They have not yet reached their purchase decision.",
+        "notChosenFeedback": ""
+      }
+    },
+    {
+      "text": "Information search",
+      "correct": false,
+      "tipsAndFeedback": {
+        "tip": "",
+        "chosenFeedback": "That&#8217;s not correct. It appears that Nathan and his husband have already done an information search and narrowed their alternatives down to a few models.",
+        "notChosenFeedback": ""
+      }
+    },
+    {
+      "text": "Evaluation of alternatives",
+      "correct": false,
+      "tipsAndFeedback": {
+        "tip": "",
+        "chosenFeedback": "That&#8217;s not correct. Need recognition involves perceiving a difference between your actual state and your desired state.",
+        "notChosenFeedback": ""
+      }
+    },
+    {
+      "text": "Purchase decision",
+      "correct": true,
+      "tipsAndFeedback": {
+        "tip": "",
+        "chosenFeedback": "It appears that Nathan and his husband have already done an information search and are now evaluating their new car alternatives.",
+        "notChosenFeedback": ""
+      }
+    }
+  ],
+  "subContentId": "80b3bbb9-3de1-4c90-9ab3-428c0cf2ae00",
+  "detailedSolution": "It appears that Nathan and his husband have already done an information search and are now evaluating their new car alternatives."
+}

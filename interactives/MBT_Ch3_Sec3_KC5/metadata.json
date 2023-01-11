@@ -1,0 +1,22 @@
+{
+  "errata_id": "f8bd162402df2d9b478ffbad9e48e1aaab75381d15a6a879d58cc744aa5890b2",
+  "attachments": [],
+  "tags": [
+    "context-cnxmod:bfb84abd-4471-4dbc-98ed-0b8ca1d8eae3",
+    "book:stax-mktg",
+    "lo:stax-mktg:3-3-3",
+    "book-slug:principles-marketing",
+    "module-slug:principles-marketing:3-3-the-consumer-purchasing-decision-process"
+  ],
+  "books": [
+    {
+      "name": "stax-mktg",
+      "lo": [
+        "3-3-3"
+      ]
+    }
+  ],
+  "context": [
+    "m00004"
+  ]
+}
