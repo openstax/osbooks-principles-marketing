@@ -1,0 +1,91 @@
+{
+  "UI": {
+    "showSolutionButton": "Show solution",
+    "tryAgainButton": "Retry",
+    "checkAnswerButton": "Check",
+    "tipsLabel": "Show tip",
+    "scoreBarLabel": "You got :num out of :total points",
+    "tipAvailable": "Tip available",
+    "feedbackAvailable": "Feedback available",
+    "readFeedback": "Read feedback",
+    "wrongAnswer": "Wrong answer",
+    "correctAnswer": "Correct answer",
+    "shouldCheck": "Should have been checked",
+    "shouldNotCheck": "Should not have been checked",
+    "noInput": "Please answer before viewing the solution"
+  },
+  "behaviour": {
+    "enableRetry": true,
+    "enableSolutionsButton": true,
+    "singlePoint": true,
+    "randomAnswers": true,
+    "showSolutionsRequiresInput": true,
+    "type": "auto",
+    "confirmCheckDialog": false,
+    "confirmRetryDialog": false,
+    "autoCheck": false,
+    "passPercentage": 100,
+    "showScorePoints": true,
+    "enableCheckButton": true
+  },
+  "overallFeedback": [
+    {
+      "from": 0,
+      "to": 0,
+      "feedback": "Wrong"
+    },
+    {
+      "from": 1,
+      "to": 99,
+      "feedback": "Almost!"
+    },
+    {
+      "from": 100,
+      "to": 100,
+      "feedback": "Correct!"
+    }
+  ],
+  "question": "You’re at the grocery store buying potato chips for a barbeque you’re having this weekend. You normally buy Lay’s potato chips, but you notice that Ruffles are on sale, so you pick up a few bags of Ruffles. What buying behavior have you displayed?",
+  "isSolutionPublic": true,
+  "isFreeResponseSupported": false,
+  "answers": [
+    {
+      "text": "Dissonance-reducing buying behavior",
+      "correct": false,
+      "tipsAndFeedback": {
+        "tip": "",
+        "chosenFeedback": "That&#8217;s not correct. Complex buying behavior involves high involvement in the buying decision and doesn&#8217;t perceive much brand differentiation.",
+        "notChosenFeedback": ""
+      }
+    },
+    {
+      "text": "Habitual buying behavior",
+      "correct": false,
+      "tipsAndFeedback": {
+        "tip": "",
+        "chosenFeedback": "That&#8217;s not correct. Variety-seeking buying behavior has low involvement in the purchase.",
+        "notChosenFeedback": ""
+      }
+    },
+    {
+      "text": "Variety-seeking buying behavior",
+      "correct": false,
+      "tipsAndFeedback": {
+        "tip": "",
+        "chosenFeedback": "That&#8217;s not correct. Dissonance-reducing buying behavior occurs when you&#8217;re highly involved in the purchase but see little difference among brands.",
+        "notChosenFeedback": ""
+      }
+    },
+    {
+      "text": "Complex buying behavior",
+      "correct": true,
+      "tipsAndFeedback": {
+        "tip": "",
+        "chosenFeedback": "Habitual buying behavior has low involvement in the purchase decision and doesn&#8217;t perceive much brand differentiation. If your regular brand isn&#8217;t available or another brand is on sale, you&#8217;ll probably buy the other brand.",
+        "notChosenFeedback": ""
+      }
+    }
+  ],
+  "subContentId": "a54e45c2-7a02-4ded-8f1a-7e6e6d43f135",
+  "detailedSolution": "Habitual buying behavior has low involvement in the purchase decision and doesn’t perceive much brand differentiation. If your regular brand isn’t available or another brand is on sale, you’ll probably buy the other brand."
+}
