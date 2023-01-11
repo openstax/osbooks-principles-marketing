@@ -1,0 +1,91 @@
+{
+  "UI": {
+    "showSolutionButton": "Show solution",
+    "tryAgainButton": "Retry",
+    "checkAnswerButton": "Check",
+    "tipsLabel": "Show tip",
+    "scoreBarLabel": "You got :num out of :total points",
+    "tipAvailable": "Tip available",
+    "feedbackAvailable": "Feedback available",
+    "readFeedback": "Read feedback",
+    "wrongAnswer": "Wrong answer",
+    "correctAnswer": "Correct answer",
+    "shouldCheck": "Should have been checked",
+    "shouldNotCheck": "Should not have been checked",
+    "noInput": "Please answer before viewing the solution"
+  },
+  "behaviour": {
+    "enableRetry": true,
+    "enableSolutionsButton": true,
+    "singlePoint": true,
+    "randomAnswers": true,
+    "showSolutionsRequiresInput": true,
+    "type": "auto",
+    "confirmCheckDialog": false,
+    "confirmRetryDialog": false,
+    "autoCheck": false,
+    "passPercentage": 100,
+    "showScorePoints": true,
+    "enableCheckButton": true
+  },
+  "overallFeedback": [
+    {
+      "from": 0,
+      "to": 0,
+      "feedback": "Wrong"
+    },
+    {
+      "from": 1,
+      "to": 99,
+      "feedback": "Almost!"
+    },
+    {
+      "from": 100,
+      "to": 100,
+      "feedback": "Correct!"
+    }
+  ],
+  "question": "After class, Drue realized that the cafeteria was closed, so instead he purchased a candy bar and soft drink from a vending machine. Which type of retailing did Drue utilize?",
+  "isSolutionPublic": true,
+  "isFreeResponseSupported": false,
+  "answers": [
+    {
+      "text": "Factory outlet",
+      "correct": false,
+      "tipsAndFeedback": {
+        "tip": "",
+        "chosenFeedback": "That&#8217;s not correct. Direct mail involves solicited or unsolicited advertising of products and services to prospective customers through the mail.",
+        "notChosenFeedback": ""
+      }
+    },
+    {
+      "text": "Automatic vending",
+      "correct": false,
+      "tipsAndFeedback": {
+        "tip": "",
+        "chosenFeedback": "That&#8217;s not correct. Warehouse clubs are physical stores that sell goods in bulk at discounted prices.",
+        "notChosenFeedback": ""
+      }
+    },
+    {
+      "text": "Warehouse club",
+      "correct": false,
+      "tipsAndFeedback": {
+        "tip": "",
+        "chosenFeedback": "That&#8217;s not correct. Factory outlets are physical stores that typically sell over-manufactured items lower prices.",
+        "notChosenFeedback": ""
+      }
+    },
+    {
+      "text": "Direct mail",
+      "correct": true,
+      "tipsAndFeedback": {
+        "tip": "",
+        "chosenFeedback": "Automatic vending includes vending machines, in which there is no buyer-seller interaction.",
+        "notChosenFeedback": ""
+      }
+    }
+  ],
+  "subContentId": "7931119c-6dfc-4274-b5d6-2fc1aa6920f4",
+  "detailedSolution": "Automatic vending includes vending machines, in which there is no buyer-seller interaction."
+}
