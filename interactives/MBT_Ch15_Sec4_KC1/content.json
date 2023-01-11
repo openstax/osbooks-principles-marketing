@@ -1,0 +1,91 @@
+{
+  "UI": {
+    "showSolutionButton": "Show solution",
+    "tryAgainButton": "Retry",
+    "checkAnswerButton": "Check",
+    "tipsLabel": "Show tip",
+    "scoreBarLabel": "You got :num out of :total points",
+    "tipAvailable": "Tip available",
+    "feedbackAvailable": "Feedback available",
+    "readFeedback": "Read feedback",
+    "wrongAnswer": "Wrong answer",
+    "correctAnswer": "Correct answer",
+    "shouldCheck": "Should have been checked",
+    "shouldNotCheck": "Should not have been checked",
+    "noInput": "Please answer before viewing the solution"
+  },
+  "behaviour": {
+    "enableRetry": true,
+    "enableSolutionsButton": true,
+    "singlePoint": true,
+    "randomAnswers": true,
+    "showSolutionsRequiresInput": true,
+    "type": "auto",
+    "confirmCheckDialog": false,
+    "confirmRetryDialog": false,
+    "autoCheck": false,
+    "passPercentage": 100,
+    "showScorePoints": true,
+    "enableCheckButton": true
+  },
+  "overallFeedback": [
+    {
+      "from": 0,
+      "to": 0,
+      "feedback": "Wrong"
+    },
+    {
+      "from": 1,
+      "to": 99,
+      "feedback": "Almost!"
+    },
+    {
+      "from": 100,
+      "to": 100,
+      "feedback": "Correct!"
+    }
+  ],
+  "question": "Lev is the sales manager for John Paul Mitchell Systems. He is responsible for the North American sales division. Lev is currently reviewing the total number of salons and looking to estimate the size of his sales force. What sales force management function is Lev performing?",
+  "isSolutionPublic": true,
+  "isFreeResponseSupported": false,
+  "answers": [
+    {
+      "text": "Setting sales goals",
+      "correct": false,
+      "tipsAndFeedback": {
+        "tip": "",
+        "chosenFeedback": "That&#8217;s not correct. Writing job descriptions requires the sales manager to document what the roles and expectations are for the sales force.",
+        "notChosenFeedback": ""
+      }
+    },
+    {
+      "text": "Looking at territories",
+      "correct": false,
+      "tipsAndFeedback": {
+        "tip": "",
+        "chosenFeedback": "That&#8217;s not correct. If Lev were determining territories, he would be reviewing the geographical locations as well as the types of salons the sales professionals would be working with.",
+        "notChosenFeedback": ""
+      }
+    },
+    {
+      "text": "Estimating the number of sales professionals he will need",
+      "correct": false,
+      "tipsAndFeedback": {
+        "tip": "",
+        "chosenFeedback": "That&#8217;s not correct. Setting sales goals typically looks at the dollar amount of sales the company should anticipate.",
+        "notChosenFeedback": ""
+      }
+    },
+    {
+      "text": "Writing job descriptions",
+      "correct": true,
+      "tipsAndFeedback": {
+        "tip": "",
+        "chosenFeedback": "Lev needs to know how many sales professionals he will need to hire.",
+        "notChosenFeedback": ""
+      }
+    }
+  ],
+  "subContentId": "14ce2318-d7ee-4808-a3a2-f08d1f0a19fa",
+  "detailedSolution": "Lev needs to know how many sales professionals he will need to hire."
+}
