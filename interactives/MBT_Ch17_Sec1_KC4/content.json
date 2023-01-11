@@ -1,0 +1,91 @@
+{
+  "UI": {
+    "showSolutionButton": "Show solution",
+    "tryAgainButton": "Retry",
+    "checkAnswerButton": "Check",
+    "tipsLabel": "Show tip",
+    "scoreBarLabel": "You got :num out of :total points",
+    "tipAvailable": "Tip available",
+    "feedbackAvailable": "Feedback available",
+    "readFeedback": "Read feedback",
+    "wrongAnswer": "Wrong answer",
+    "correctAnswer": "Correct answer",
+    "shouldCheck": "Should have been checked",
+    "shouldNotCheck": "Should not have been checked",
+    "noInput": "Please answer before viewing the solution"
+  },
+  "behaviour": {
+    "enableRetry": true,
+    "enableSolutionsButton": true,
+    "singlePoint": true,
+    "randomAnswers": true,
+    "showSolutionsRequiresInput": true,
+    "type": "auto",
+    "confirmCheckDialog": false,
+    "confirmRetryDialog": false,
+    "autoCheck": false,
+    "passPercentage": 100,
+    "showScorePoints": true,
+    "enableCheckButton": true
+  },
+  "overallFeedback": [
+    {
+      "from": 0,
+      "to": 0,
+      "feedback": "Wrong"
+    },
+    {
+      "from": 1,
+      "to": 99,
+      "feedback": "Almost!"
+    },
+    {
+      "from": 100,
+      "to": 100,
+      "feedback": "Correct!"
+    }
+  ],
+  "question": "What do intermediaries do to add value in the marketing channel?",
+  "isSolutionPublic": true,
+  "isFreeResponseSupported": false,
+  "answers": [
+    {
+      "text": "They perform important activities that manufacturers are not experts at performing.",
+      "correct": false,
+      "tipsAndFeedback": {
+        "tip": "",
+        "chosenFeedback": "That&#8217;s not correct. Intermediaries to not directly work on product improvement.",
+        "notChosenFeedback": ""
+      }
+    },
+    {
+      "text": "They increase the price of products and services for customers.",
+      "correct": false,
+      "tipsAndFeedback": {
+        "tip": "",
+        "chosenFeedback": "That&#8217;s not correct. Adding time for products to reach consumers is not a value added to the marketing channel.",
+        "notChosenFeedback": ""
+      }
+    },
+    {
+      "text": "They increase the amount of time it takes for products and services to reach consumers.",
+      "correct": false,
+      "tipsAndFeedback": {
+        "tip": "",
+        "chosenFeedback": "That&#8217;s not correct. Increasing product price is not adding value to the marketing channel.",
+        "notChosenFeedback": ""
+      }
+    },
+    {
+      "text": "They make improvements to the product so that it functions better.",
+      "correct": true,
+      "tipsAndFeedback": {
+        "tip": "",
+        "chosenFeedback": "Intermediaries add value by performing important activities that manufacturers are not expert at performing. This helps create efficiency in the marketing channel, which helps meet the wants and needs of targeted customers.",
+        "notChosenFeedback": ""
+      }
+    }
+  ],
+  "subContentId": "b68fafde-8833-44f8-b5cb-670cc54d8127",
+  "detailedSolution": "Intermediaries add value by performing important activities that manufacturers are not expert at performing. This helps create efficiency in the marketing channel, which helps meet the wants and needs of targeted customers."
+}
