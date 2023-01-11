@@ -1,0 +1,91 @@
+{
+  "UI": {
+    "showSolutionButton": "Show solution",
+    "tryAgainButton": "Retry",
+    "checkAnswerButton": "Check",
+    "tipsLabel": "Show tip",
+    "scoreBarLabel": "You got :num out of :total points",
+    "tipAvailable": "Tip available",
+    "feedbackAvailable": "Feedback available",
+    "readFeedback": "Read feedback",
+    "wrongAnswer": "Wrong answer",
+    "correctAnswer": "Correct answer",
+    "shouldCheck": "Should have been checked",
+    "shouldNotCheck": "Should not have been checked",
+    "noInput": "Please answer before viewing the solution"
+  },
+  "behaviour": {
+    "enableRetry": true,
+    "enableSolutionsButton": true,
+    "singlePoint": true,
+    "randomAnswers": true,
+    "showSolutionsRequiresInput": true,
+    "type": "auto",
+    "confirmCheckDialog": false,
+    "confirmRetryDialog": false,
+    "autoCheck": false,
+    "passPercentage": 100,
+    "showScorePoints": true,
+    "enableCheckButton": true
+  },
+  "overallFeedback": [
+    {
+      "from": 0,
+      "to": 0,
+      "feedback": "Wrong"
+    },
+    {
+      "from": 1,
+      "to": 99,
+      "feedback": "Almost!"
+    },
+    {
+      "from": 100,
+      "to": 100,
+      "feedback": "Correct!"
+    }
+  ],
+  "question": "In which section of the marketing plan would you identify key internal and external influences on the company’s current position?",
+  "isSolutionPublic": true,
+  "isFreeResponseSupported": false,
+  "answers": [
+    {
+      "text": "Objectives and issues",
+      "correct": false,
+      "tipsAndFeedback": {
+        "tip": "",
+        "chosenFeedback": "That&#8217;s not correct. The current marketing situation portion of a marketing plan provides the reader with a clear description of the current marketplace.",
+        "notChosenFeedback": ""
+      }
+    },
+    {
+      "text": "SWOT analysis",
+      "correct": false,
+      "tipsAndFeedback": {
+        "tip": "",
+        "chosenFeedback": "That&#8217;s not correct. A buyer person is a semi-fictional representation of a company&#8217;s ideal customer.",
+        "notChosenFeedback": ""
+      }
+    },
+    {
+      "text": "Buyer personas",
+      "correct": false,
+      "tipsAndFeedback": {
+        "tip": "",
+        "chosenFeedback": "That&#8217;s not correct. In the objectives and issues section of a marketing plan, objectives communicate what needs to be achieved and who is responsible for each activity.",
+        "notChosenFeedback": ""
+      }
+    },
+    {
+      "text": "Current marketing situation",
+      "correct": true,
+      "tipsAndFeedback": {
+        "tip": "",
+        "chosenFeedback": "A SWOT analysis identifies key internal influences (strengths and weaknesses) and external influences (threats and opportunities).",
+        "notChosenFeedback": ""
+      }
+    }
+  ],
+  "subContentId": "ce133824-a989-47a2-84a5-7b1ea69a7c99",
+  "detailedSolution": "A SWOT analysis identifies key internal influences (strengths and weaknesses) and external influences (threats and opportunities)."
+}
