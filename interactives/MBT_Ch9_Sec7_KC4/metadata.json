@@ -1,0 +1,22 @@
+{
+  "errata_id": "ca19573ceedecdacc7824033d479219a58ba03a0ec47f26ed40d70c1d51fd3d3",
+  "attachments": [],
+  "tags": [
+    "book:stax-mktg",
+    "context-cnxmod:c841c09d-d783-4582-a473-f03fc244cfd6",
+    "lo:stax-mktg:9-7-2",
+    "book-slug:principles-marketing",
+    "module-slug:principles-marketing:9-7-creating-value-through-packaging-and-labeling"
+  ],
+  "books": [
+    {
+      "name": "stax-mktg",
+      "lo": [
+        "9-7-2"
+      ]
+    }
+  ],
+  "context": [
+    "m00060"
+  ]
+}
