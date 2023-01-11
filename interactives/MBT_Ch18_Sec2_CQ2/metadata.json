@@ -1,0 +1,25 @@
+{
+  "errata_id": "693845fc1f406921d980384a36d30cef6cf9961c79d6e6f635dc4a506cc7f933",
+  "attachments": [],
+  "tags": [
+    "type:practice",
+    "book:stax-mktg",
+    "lo:stax-mktg:18-2-2",
+    "context-cnxmod:9169e283-0b5a-4e1d-aee2-efe0ac93c1e0",
+    "lo:stax-mktg:18-2-1",
+    "book-slug:principles-marketing",
+    "module-slug:principles-marketing:18-2-major-types-of-retailers"
+  ],
+  "books": [
+    {
+      "name": "stax-mktg",
+      "lo": [
+        "18-2-2",
+        "18-2-1"
+      ]
+    }
+  ],
+  "context": [
+    "m00118"
+  ]
+}
