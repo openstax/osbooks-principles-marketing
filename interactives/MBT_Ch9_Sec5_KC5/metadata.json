@@ -1,0 +1,22 @@
+{
+  "errata_id": "32220a71dc6281020e2b32fb290e90bddd3411c22a50b904fb853c33c9da1ec4",
+  "attachments": [],
+  "tags": [
+    "book:stax-mktg",
+    "context-cnxmod:13bfa896-d1be-4f2f-9adb-e8091a29a905",
+    "lo:stax-mktg:9-5-2",
+    "book-slug:principles-marketing",
+    "module-slug:principles-marketing:9-5-branding-and-brand-development"
+  ],
+  "books": [
+    {
+      "name": "stax-mktg",
+      "lo": [
+        "9-5-2"
+      ]
+    }
+  ],
+  "context": [
+    "m00058"
+  ]
+}
