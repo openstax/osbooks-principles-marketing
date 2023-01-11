@@ -1,0 +1,91 @@
+{
+  "UI": {
+    "showSolutionButton": "Show solution",
+    "tryAgainButton": "Retry",
+    "checkAnswerButton": "Check",
+    "tipsLabel": "Show tip",
+    "scoreBarLabel": "You got :num out of :total points",
+    "tipAvailable": "Tip available",
+    "feedbackAvailable": "Feedback available",
+    "readFeedback": "Read feedback",
+    "wrongAnswer": "Wrong answer",
+    "correctAnswer": "Correct answer",
+    "shouldCheck": "Should have been checked",
+    "shouldNotCheck": "Should not have been checked",
+    "noInput": "Please answer before viewing the solution"
+  },
+  "behaviour": {
+    "enableRetry": true,
+    "enableSolutionsButton": true,
+    "singlePoint": true,
+    "randomAnswers": true,
+    "showSolutionsRequiresInput": true,
+    "type": "auto",
+    "confirmCheckDialog": false,
+    "confirmRetryDialog": false,
+    "autoCheck": false,
+    "passPercentage": 100,
+    "showScorePoints": true,
+    "enableCheckButton": true
+  },
+  "overallFeedback": [
+    {
+      "from": 0,
+      "to": 0,
+      "feedback": "Wrong"
+    },
+    {
+      "from": 1,
+      "to": 99,
+      "feedback": "Almost!"
+    },
+    {
+      "from": 100,
+      "to": 100,
+      "feedback": "Correct!"
+    }
+  ],
+  "question": "When a company’s website adapts to whatever screen consumers are using and users don’t need to pinch, expand, or scroll the screen to view content, this is known as ________.",
+  "isSolutionPublic": true,
+  "isFreeResponseSupported": false,
+  "answers": [
+    {
+      "text": "website design",
+      "correct": false,
+      "tipsAndFeedback": {
+        "tip": "",
+        "chosenFeedback": "That&#8217;s not correct. Content marketing relates to creating and distributing online content that is valuable and relevant to a company&#8217;s target customers.",
+        "notChosenFeedback": ""
+      }
+    },
+    {
+      "text": "responsive marketing",
+      "correct": false,
+      "tipsAndFeedback": {
+        "tip": "",
+        "chosenFeedback": "That&#8217;s not correct. Responsive marketing is a concept covered in this chapter.",
+        "notChosenFeedback": ""
+      }
+    },
+    {
+      "text": "content marketing",
+      "correct": false,
+      "tipsAndFeedback": {
+        "tip": "",
+        "chosenFeedback": "That&#8217;s not correct. Although website design is important in communicating important information, engaging customers, and facilitating a transaction, it does not relate to the responsiveness of web design.",
+        "notChosenFeedback": ""
+      }
+    },
+    {
+      "text": "responsive web design",
+      "correct": true,
+      "tipsAndFeedback": {
+        "tip": "",
+        "chosenFeedback": "Responsive web design is a website development approach that results in a website&#8217;s display dynamically changing to adapt to whatever device a consumer uses. This approach is important to ensuring that consumers have a good user experience regardless of the device they are using.",
+        "notChosenFeedback": ""
+      }
+    }
+  ],
+  "subContentId": "7bb2a400-2651-46e3-ab2b-245896225f0c",
+  "detailedSolution": "Responsive web design is a website development approach that results in a website’s display dynamically changing to adapt to whatever device a consumer uses. This approach is important to ensuring that consumers have a good user experience regardless of the device they are using."
+}
