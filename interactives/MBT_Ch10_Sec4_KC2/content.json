@@ -1,0 +1,91 @@
+{
+  "UI": {
+    "showSolutionButton": "Show solution",
+    "tryAgainButton": "Retry",
+    "checkAnswerButton": "Check",
+    "tipsLabel": "Show tip",
+    "scoreBarLabel": "You got :num out of :total points",
+    "tipAvailable": "Tip available",
+    "feedbackAvailable": "Feedback available",
+    "readFeedback": "Read feedback",
+    "wrongAnswer": "Wrong answer",
+    "correctAnswer": "Correct answer",
+    "shouldCheck": "Should have been checked",
+    "shouldNotCheck": "Should not have been checked",
+    "noInput": "Please answer before viewing the solution"
+  },
+  "behaviour": {
+    "enableRetry": true,
+    "enableSolutionsButton": true,
+    "singlePoint": true,
+    "randomAnswers": true,
+    "showSolutionsRequiresInput": true,
+    "type": "auto",
+    "confirmCheckDialog": false,
+    "confirmRetryDialog": false,
+    "autoCheck": false,
+    "passPercentage": 100,
+    "showScorePoints": true,
+    "enableCheckButton": true
+  },
+  "overallFeedback": [
+    {
+      "from": 0,
+      "to": 0,
+      "feedback": "Wrong"
+    },
+    {
+      "from": 1,
+      "to": 99,
+      "feedback": "Almost!"
+    },
+    {
+      "from": 100,
+      "to": 100,
+      "feedback": "Correct!"
+    }
+  ],
+  "question": "A study by the Product Development and Management Association found that new product failure rates varied among industries, ranging from 35 percent for ________ to 49 percent for ________.",
+  "isSolutionPublic": true,
+  "isFreeResponseSupported": false,
+  "answers": [
+    {
+      "text": "health care products; consumer goods",
+      "correct": false,
+      "tipsAndFeedback": {
+        "tip": "",
+        "chosenFeedback": "That&#8217;s not correct. The study did not find that failure rates ranged from 35 percent for technology products to 49 percent for health care products.",
+        "notChosenFeedback": ""
+      }
+    },
+    {
+      "text": "consumer goods; pharmaceuticals",
+      "correct": false,
+      "tipsAndFeedback": {
+        "tip": "",
+        "chosenFeedback": "That&#8217;s not correct. The study did not find that failure rates ranged from 35 percent for consumer goods to 49 percent for technology products.",
+        "notChosenFeedback": ""
+      }
+    },
+    {
+      "text": "consumer goods; technology products",
+      "correct": false,
+      "tipsAndFeedback": {
+        "tip": "",
+        "chosenFeedback": "That&#8217;s not correct. The study did not find that failure rates ranged from 35 percent for consumer goods to 49 percent for pharmaceuticals.",
+        "notChosenFeedback": ""
+      }
+    },
+    {
+      "text": "technology products; health care products",
+      "correct": true,
+      "tipsAndFeedback": {
+        "tip": "",
+        "chosenFeedback": "The study found that new product failure rates varied among industries, ranging from 35 percent for health care products to 49 percent for consumer goods.",
+        "notChosenFeedback": ""
+      }
+    }
+  ],
+  "subContentId": "59578940-0063-4347-9131-85e27cbf47ea",
+  "detailedSolution": "The study found that new product failure rates varied among industries, ranging from 35 percent for health care products to 49 percent for consumer goods."
+}
