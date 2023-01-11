@@ -1,0 +1,91 @@
+{
+  "UI": {
+    "showSolutionButton": "Show solution",
+    "tryAgainButton": "Retry",
+    "checkAnswerButton": "Check",
+    "tipsLabel": "Show tip",
+    "scoreBarLabel": "You got :num out of :total points",
+    "tipAvailable": "Tip available",
+    "feedbackAvailable": "Feedback available",
+    "readFeedback": "Read feedback",
+    "wrongAnswer": "Wrong answer",
+    "correctAnswer": "Correct answer",
+    "shouldCheck": "Should have been checked",
+    "shouldNotCheck": "Should not have been checked",
+    "noInput": "Please answer before viewing the solution"
+  },
+  "behaviour": {
+    "enableRetry": true,
+    "enableSolutionsButton": true,
+    "singlePoint": true,
+    "randomAnswers": true,
+    "showSolutionsRequiresInput": true,
+    "type": "auto",
+    "confirmCheckDialog": false,
+    "confirmRetryDialog": false,
+    "autoCheck": false,
+    "passPercentage": 100,
+    "showScorePoints": true,
+    "enableCheckButton": true
+  },
+  "overallFeedback": [
+    {
+      "from": 0,
+      "to": 0,
+      "feedback": "Wrong"
+    },
+    {
+      "from": 1,
+      "to": 99,
+      "feedback": "Almost!"
+    },
+    {
+      "from": 100,
+      "to": 100,
+      "feedback": "Correct!"
+    }
+  ],
+  "question": "Graham, a marketer for ABC Corporation, was concerned about the new product launch because R&amp;D was months behind in development and the economy appeared to be heading toward a recession. Which factor contributing to the failure of new products is Graham’s concern?",
+  "isSolutionPublic": true,
+  "isFreeResponseSupported": false,
+  "answers": [
+    {
+      "text": "Lack of product differentiation",
+      "correct": false,
+      "tipsAndFeedback": {
+        "tip": "",
+        "chosenFeedback": "That&#8217;s not correct. Although this is a factor contributing to the failure of new products, there is a better answer.",
+        "notChosenFeedback": ""
+      }
+    },
+    {
+      "text": "Prolonged development/delayed market entry",
+      "correct": false,
+      "tipsAndFeedback": {
+        "tip": "",
+        "chosenFeedback": "That&#8217;s not correct. Although this is a factor contributing to the failure of new products, there is a better answer.",
+        "notChosenFeedback": ""
+      }
+    },
+    {
+      "text": "Targeting the wrong market",
+      "correct": false,
+      "tipsAndFeedback": {
+        "tip": "",
+        "chosenFeedback": "That&#8217;s not correct. Although this is a factor contributing to the failure of new products, there is a better answer.",
+        "notChosenFeedback": ""
+      }
+    },
+    {
+      "text": "Failure to understand customer needs/wants",
+      "correct": true,
+      "tipsAndFeedback": {
+        "tip": "",
+        "chosenFeedback": "The prolonged delay of a new product can have many implications: changing customer needs/wants, an economic downturn, rising unemployment rates, or even the evolution of different market segments.",
+        "notChosenFeedback": ""
+      }
+    }
+  ],
+  "subContentId": "319bb931-2cc0-497f-9f60-be10b2876e8b",
+  "detailedSolution": "The prolonged delay of a new product can have many implications: changing customer needs/wants, an economic downturn, rising unemployment rates, or even the evolution of different market segments."
+}
