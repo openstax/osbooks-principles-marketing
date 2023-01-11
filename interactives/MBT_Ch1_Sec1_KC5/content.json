@@ -1,0 +1,91 @@
+{
+  "UI": {
+    "showSolutionButton": "Show solution",
+    "tryAgainButton": "Retry",
+    "checkAnswerButton": "Check",
+    "tipsLabel": "Show tip",
+    "scoreBarLabel": "You got :num out of :total points",
+    "tipAvailable": "Tip available",
+    "feedbackAvailable": "Feedback available",
+    "readFeedback": "Read feedback",
+    "wrongAnswer": "Wrong answer",
+    "correctAnswer": "Correct answer",
+    "shouldCheck": "Should have been checked",
+    "shouldNotCheck": "Should not have been checked",
+    "noInput": "Please answer before viewing the solution"
+  },
+  "behaviour": {
+    "enableRetry": true,
+    "enableSolutionsButton": true,
+    "singlePoint": true,
+    "randomAnswers": true,
+    "showSolutionsRequiresInput": true,
+    "type": "auto",
+    "confirmCheckDialog": false,
+    "confirmRetryDialog": false,
+    "autoCheck": false,
+    "passPercentage": 100,
+    "showScorePoints": true,
+    "enableCheckButton": true
+  },
+  "overallFeedback": [
+    {
+      "from": 0,
+      "to": 0,
+      "feedback": "Wrong"
+    },
+    {
+      "from": 1,
+      "to": 99,
+      "feedback": "Almost!"
+    },
+    {
+      "from": 100,
+      "to": 100,
+      "feedback": "Correct!"
+    }
+  ],
+  "question": "At which step in the marketing process would the lifetime values to a company’s customers be considered?",
+  "isSolutionPublic": true,
+  "isFreeResponseSupported": false,
+  "answers": [
+    {
+      "text": "Developing a customer-driven marketing strategy",
+      "correct": false,
+      "tipsAndFeedback": {
+        "tip": "",
+        "chosenFeedback": "That&#8217;s not correct. Growing profitable customer relations is when marketers focus on building strong relationships and place an emphasis on customer relationship management.",
+        "notChosenFeedback": ""
+      }
+    },
+    {
+      "text": "Delivering high customer value",
+      "correct": false,
+      "tipsAndFeedback": {
+        "tip": "",
+        "chosenFeedback": "That&#8217;s not correct. Delivering high customer value entails giving customers value for their money&#8212;i.e., the difference between the perceived benefits and the costs incurred by the customer.",
+        "notChosenFeedback": ""
+      }
+    },
+    {
+      "text": "Growing profitable customer relations",
+      "correct": false,
+      "tipsAndFeedback": {
+        "tip": "",
+        "chosenFeedback": "That&#8217;s not correct. Developing a customer-driven marketing strategy focuses on customers and their needs.",
+        "notChosenFeedback": ""
+      }
+    },
+    {
+      "text": "Capturing value from customers",
+      "correct": true,
+      "tipsAndFeedback": {
+        "tip": "",
+        "chosenFeedback": "The aim of successful customer relationship management is to produce high customer equity.",
+        "notChosenFeedback": ""
+      }
+    }
+  ],
+  "subContentId": "8d47744f-59c1-4389-a48b-f8983100594b",
+  "detailedSolution": "The aim of successful customer relationship management is to produce high customer equity."
+}
