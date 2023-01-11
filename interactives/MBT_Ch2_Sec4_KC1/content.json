@@ -1,0 +1,91 @@
+{
+  "UI": {
+    "showSolutionButton": "Show solution",
+    "tryAgainButton": "Retry",
+    "checkAnswerButton": "Check",
+    "tipsLabel": "Show tip",
+    "scoreBarLabel": "You got :num out of :total points",
+    "tipAvailable": "Tip available",
+    "feedbackAvailable": "Feedback available",
+    "readFeedback": "Read feedback",
+    "wrongAnswer": "Wrong answer",
+    "correctAnswer": "Correct answer",
+    "shouldCheck": "Should have been checked",
+    "shouldNotCheck": "Should not have been checked",
+    "noInput": "Please answer before viewing the solution"
+  },
+  "behaviour": {
+    "enableRetry": true,
+    "enableSolutionsButton": true,
+    "singlePoint": true,
+    "randomAnswers": true,
+    "showSolutionsRequiresInput": true,
+    "type": "auto",
+    "confirmCheckDialog": false,
+    "confirmRetryDialog": false,
+    "autoCheck": false,
+    "passPercentage": 100,
+    "showScorePoints": true,
+    "enableCheckButton": true
+  },
+  "overallFeedback": [
+    {
+      "from": 0,
+      "to": 0,
+      "feedback": "Wrong"
+    },
+    {
+      "from": 1,
+      "to": 99,
+      "feedback": "Almost!"
+    },
+    {
+      "from": 100,
+      "to": 100,
+      "feedback": "Correct!"
+    }
+  ],
+  "question": "What are key performance indicators (KPIs)?",
+  "isSolutionPublic": true,
+  "isFreeResponseSupported": false,
+  "answers": [
+    {
+      "text": "Industry economic forecasts gathered during external analysis",
+      "correct": false,
+      "tipsAndFeedback": {
+        "tip": "",
+        "chosenFeedback": "That&#8217;s not correct. KPIs are not concerned with a firm&#8217;s competitive analysis.",
+        "notChosenFeedback": ""
+      }
+    },
+    {
+      "text": "A collection of all the detailed statistics we can find regarding firm performance",
+      "correct": false,
+      "tipsAndFeedback": {
+        "tip": "",
+        "chosenFeedback": "That&#8217;s not correct. KPIs include some firm performance statistics, but not all of them.",
+        "notChosenFeedback": ""
+      }
+    },
+    {
+      "text": "A competitive analysis that allows a company to understand the strategic direction of competitors",
+      "correct": false,
+      "tipsAndFeedback": {
+        "tip": "",
+        "chosenFeedback": "That&#8217;s not correct. KPIs do not include industry economic forecasts.",
+        "notChosenFeedback": ""
+      }
+    },
+    {
+      "text": "Specific variables that allow us to monitor the health/performance of the organization",
+      "correct": true,
+      "tipsAndFeedback": {
+        "tip": "",
+        "chosenFeedback": "KPIs consist of a very focused selection of core variables that allow us to monitor the health/performance of the organization. We need enough indicators to evaluate the various critical aspects of the organization. We need to avoid having so many that the clutter obscures symptoms that should be highlighted.",
+        "notChosenFeedback": ""
+      }
+    }
+  ],
+  "subContentId": "c23b424a-e780-4a35-904d-65ee0c986d5b",
+  "detailedSolution": "KPIs consist of a very focused selection of core variables that allow us to monitor the health/performance of the organization. We need enough indicators to evaluate the various critical aspects of the organization. We need to avoid having so many that the clutter obscures symptoms that should be highlighted."
+}
