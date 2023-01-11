@@ -1,0 +1,22 @@
+{
+  "errata_id": "eeb07c665fadd5dd64075e49eca7062780c6e2e45281ca3a37ca9518b9e2865d",
+  "attachments": [],
+  "tags": [
+    "book:stax-mktg",
+    "context-cnxmod:3a5a2721-226f-462b-8532-406c6be6a65a",
+    "lo:stax-mktg:15-1-1",
+    "book-slug:principles-marketing",
+    "module-slug:principles-marketing:15-1-personal-selling-and-its-role-in-the-promotion-mix"
+  ],
+  "books": [
+    {
+      "name": "stax-mktg",
+      "lo": [
+        "15-1-1"
+      ]
+    }
+  ],
+  "context": [
+    "m00097"
+  ]
+}

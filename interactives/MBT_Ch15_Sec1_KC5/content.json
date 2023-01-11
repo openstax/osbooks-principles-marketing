@@ -1,0 +1,91 @@
+{
+  "UI": {
+    "showSolutionButton": "Show solution",
+    "tryAgainButton": "Retry",
+    "checkAnswerButton": "Check",
+    "tipsLabel": "Show tip",
+    "scoreBarLabel": "You got :num out of :total points",
+    "tipAvailable": "Tip available",
+    "feedbackAvailable": "Feedback available",
+    "readFeedback": "Read feedback",
+    "wrongAnswer": "Wrong answer",
+    "correctAnswer": "Correct answer",
+    "shouldCheck": "Should have been checked",
+    "shouldNotCheck": "Should not have been checked",
+    "noInput": "Please answer before viewing the solution"
+  },
+  "behaviour": {
+    "enableRetry": true,
+    "enableSolutionsButton": true,
+    "singlePoint": true,
+    "randomAnswers": true,
+    "showSolutionsRequiresInput": true,
+    "type": "auto",
+    "confirmCheckDialog": false,
+    "confirmRetryDialog": false,
+    "autoCheck": false,
+    "passPercentage": 100,
+    "showScorePoints": true,
+    "enableCheckButton": true
+  },
+  "overallFeedback": [
+    {
+      "from": 0,
+      "to": 0,
+      "feedback": "Wrong"
+    },
+    {
+      "from": 1,
+      "to": 99,
+      "feedback": "Almost!"
+    },
+    {
+      "from": 100,
+      "to": 100,
+      "feedback": "Correct!"
+    }
+  ],
+  "question": "Jasmine works for a Honda dealership. Jasmine has spent considerable time listening to a potential customer talk about what features they are looking for in a new car. Jasmine is able to identify the best Honda automobile to meet the needs of the customer. What feature of sales is Jasmine demonstrating?",
+  "isSolutionPublic": true,
+  "isFreeResponseSupported": false,
+  "answers": [
+    {
+      "text": "One-on-one interaction",
+      "correct": false,
+      "tipsAndFeedback": {
+        "tip": "",
+        "chosenFeedback": "That&#8217;s not correct. Personal communication is only one aspect that Jasmine has demonstrated. She has also demonstrated others.",
+        "notChosenFeedback": ""
+      }
+    },
+    {
+      "text": "Meeting the needs and wants",
+      "correct": false,
+      "tipsAndFeedback": {
+        "tip": "",
+        "chosenFeedback": "That&#8217;s not correct. Meeting a customer&#8217;s needs and wants is only one aspect that Jasmine has demonstrated. She has also demonstrated others.",
+        "notChosenFeedback": ""
+      }
+    },
+    {
+      "text": "Personal communication",
+      "correct": false,
+      "tipsAndFeedback": {
+        "tip": "",
+        "chosenFeedback": "That&#8217;s not correct. One-on-one interaction is only one aspect that Jasmine has demonstrated. She has also demonstrated others.",
+        "notChosenFeedback": ""
+      }
+    },
+    {
+      "text": "All of these features are correct.",
+      "correct": true,
+      "tipsAndFeedback": {
+        "tip": "",
+        "chosenFeedback": "Jasmine has effectively demonstrated the personal selling skills of one-on-one interaction with the customer, meeting the needs and wants of the customer, and having personal communication with the customer to satisfy their needs and wants.",
+        "notChosenFeedback": ""
+      }
+    }
+  ],
+  "subContentId": "9dfc4410-8c73-4bb8-afdc-a1891689f6e5",
+  "detailedSolution": "Jasmine has effectively demonstrated the personal selling skills of one-on-one interaction with the customer, meeting the needs and wants of the customer, and having personal communication with the customer to satisfy their needs and wants."
+}
