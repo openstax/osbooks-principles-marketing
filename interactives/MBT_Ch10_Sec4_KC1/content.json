@@ -1,0 +1,91 @@
+{
+  "UI": {
+    "showSolutionButton": "Show solution",
+    "tryAgainButton": "Retry",
+    "checkAnswerButton": "Check",
+    "tipsLabel": "Show tip",
+    "scoreBarLabel": "You got :num out of :total points",
+    "tipAvailable": "Tip available",
+    "feedbackAvailable": "Feedback available",
+    "readFeedback": "Read feedback",
+    "wrongAnswer": "Wrong answer",
+    "correctAnswer": "Correct answer",
+    "shouldCheck": "Should have been checked",
+    "shouldNotCheck": "Should not have been checked",
+    "noInput": "Please answer before viewing the solution"
+  },
+  "behaviour": {
+    "enableRetry": true,
+    "enableSolutionsButton": true,
+    "singlePoint": true,
+    "randomAnswers": true,
+    "showSolutionsRequiresInput": true,
+    "type": "auto",
+    "confirmCheckDialog": false,
+    "confirmRetryDialog": false,
+    "autoCheck": false,
+    "passPercentage": 100,
+    "showScorePoints": true,
+    "enableCheckButton": true
+  },
+  "overallFeedback": [
+    {
+      "from": 0,
+      "to": 0,
+      "feedback": "Wrong"
+    },
+    {
+      "from": 1,
+      "to": 99,
+      "feedback": "Almost!"
+    },
+    {
+      "from": 100,
+      "to": 100,
+      "feedback": "Correct!"
+    }
+  ],
+  "question": "The degree to which a new product is built on the firm’s existing technological resources is known as ________.",
+  "isSolutionPublic": true,
+  "isFreeResponseSupported": false,
+  "answers": [
+    {
+      "text": "market attractiveness",
+      "correct": false,
+      "tipsAndFeedback": {
+        "tip": "",
+        "chosenFeedback": "That&#8217;s not correct. Cost-benefit analysis is simply an assessment of whether the value of the benefits exceed the costs involved.",
+        "notChosenFeedback": ""
+      }
+    },
+    {
+      "text": "marketing synergy",
+      "correct": false,
+      "tipsAndFeedback": {
+        "tip": "",
+        "chosenFeedback": "That&#8217;s not correct. Marketing synergy refers to how much of a fit there is between the firm&#8217;s current marketing capabilities and the needs of the new product development project.",
+        "notChosenFeedback": ""
+      }
+    },
+    {
+      "text": "technological synergy",
+      "correct": false,
+      "tipsAndFeedback": {
+        "tip": "",
+        "chosenFeedback": "That&#8217;s not correct. Market attractiveness is a measure of potential value and considers factors like short- and long-term profit, market growth rate, how much competition currently exists in the market, the cost of entry into the market, and how much the product satisfies the needs of customers in the target market.",
+        "notChosenFeedback": ""
+      }
+    },
+    {
+      "text": "cost-benefit analysis",
+      "correct": true,
+      "tipsAndFeedback": {
+        "tip": "",
+        "chosenFeedback": "Technological synergy is how much of a match there is between the existing technological skills of the firm and the technological skills needed to execute the new product initiative.",
+        "notChosenFeedback": ""
+      }
+    }
+  ],
+  "subContentId": "3272609f-0190-4bc8-8ffb-d5666fa2d27f",
+  "detailedSolution": "Technological synergy is how much of a match there is between the existing technological skills of the firm and the technological skills needed to execute the new product initiative."
+}
