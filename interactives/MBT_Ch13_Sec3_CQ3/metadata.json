@@ -1,0 +1,23 @@
+{
+  "errata_id": "eb133c48a6e655c0bf123ab527d5c54ab84651bd37377f26446e64afdfee5e36",
+  "attachments": [],
+  "tags": [
+    "type:practice",
+    "book:stax-mktg",
+    "lo:stax-mktg:13-3-1",
+    "context-cnxmod:9154fe93-088b-44b7-9b1a-112eda4c2c85",
+    "book-slug:principles-marketing",
+    "module-slug:principles-marketing:13-3-integrated-marketing-communications"
+  ],
+  "books": [
+    {
+      "name": "stax-mktg",
+      "lo": [
+        "13-3-1"
+      ]
+    }
+  ],
+  "context": [
+    "m00085"
+  ]
+}
