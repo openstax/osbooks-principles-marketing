@@ -1,0 +1,91 @@
+{
+  "UI": {
+    "showSolutionButton": "Show solution",
+    "tryAgainButton": "Retry",
+    "checkAnswerButton": "Check",
+    "tipsLabel": "Show tip",
+    "scoreBarLabel": "You got :num out of :total points",
+    "tipAvailable": "Tip available",
+    "feedbackAvailable": "Feedback available",
+    "readFeedback": "Read feedback",
+    "wrongAnswer": "Wrong answer",
+    "correctAnswer": "Correct answer",
+    "shouldCheck": "Should have been checked",
+    "shouldNotCheck": "Should not have been checked",
+    "noInput": "Please answer before viewing the solution"
+  },
+  "behaviour": {
+    "enableRetry": true,
+    "enableSolutionsButton": true,
+    "singlePoint": true,
+    "randomAnswers": true,
+    "showSolutionsRequiresInput": true,
+    "type": "auto",
+    "confirmCheckDialog": false,
+    "confirmRetryDialog": false,
+    "autoCheck": false,
+    "passPercentage": 100,
+    "showScorePoints": true,
+    "enableCheckButton": true
+  },
+  "overallFeedback": [
+    {
+      "from": 0,
+      "to": 0,
+      "feedback": "Wrong"
+    },
+    {
+      "from": 1,
+      "to": 99,
+      "feedback": "Almost!"
+    },
+    {
+      "from": 100,
+      "to": 100,
+      "feedback": "Correct!"
+    }
+  ],
+  "question": "Which group of consumers tends to be unwilling to take a chance on a new product or innovation until the majority of consumers has already adopted the product?",
+  "isSolutionPublic": true,
+  "isFreeResponseSupported": false,
+  "answers": [
+    {
+      "text": "Innovators",
+      "correct": false,
+      "tipsAndFeedback": {
+        "tip": "",
+        "chosenFeedback": "That&#8217;s not correct. Laggards are skeptical of new ideas, and by the time they adopt an innovation, there is likely a new one beginning to emerge in the market.",
+        "notChosenFeedback": ""
+      }
+    },
+    {
+      "text": "Early majority",
+      "correct": false,
+      "tipsAndFeedback": {
+        "tip": "",
+        "chosenFeedback": "That&#8217;s not correct. Consumers in the early adopter category typically purchase the new product fairly early after its introduction in the market but not as quickly as innovators.",
+        "notChosenFeedback": ""
+      }
+    },
+    {
+      "text": "Laggards",
+      "correct": false,
+      "tipsAndFeedback": {
+        "tip": "",
+        "chosenFeedback": "That&#8217;s not correct. Innovators usually buy new products as soon as they hit the market.",
+        "notChosenFeedback": ""
+      }
+    },
+    {
+      "text": "Late majority",
+      "correct": true,
+      "tipsAndFeedback": {
+        "tip": "",
+        "chosenFeedback": "Consumers in the late majority category are typically slow to catch on to the popularity of new products or services.",
+        "notChosenFeedback": ""
+      }
+    }
+  ],
+  "subContentId": "bed38bb6-ecfe-4043-8e53-359743f1e53b",
+  "detailedSolution": "Consumers in the late majority category are typically slow to catch on to the popularity of new products or services."
+}
