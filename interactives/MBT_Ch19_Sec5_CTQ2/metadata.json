@@ -1,0 +1,25 @@
+{
+  "errata_id": "f911124c9e6c5a457f7dda77be0afbc7e0668171e3c6bcd0fc84c5edab8f0737",
+  "attachments": [],
+  "tags": [
+    "type:practice",
+    "book:stax-mktg",
+    "lo:stax-mktg:19-5-1",
+    "lo:stax-mktg:19-5-2",
+    "context-cnxmod:e3d02fbb-002a-4834-bd2b-99da18ada0f0",
+    "book-slug:principles-marketing",
+    "module-slug:principles-marketing:19-4-sustainable-marketing-principles"
+  ],
+  "books": [
+    {
+      "name": "stax-mktg",
+      "lo": [
+        "19-5-1",
+        "19-5-2"
+      ]
+    }
+  ],
+  "context": [
+    "m00134"
+  ]
+}
