@@ -1,0 +1,23 @@
+{
+  "errata_id": "0e75ca955381fd2135fcff4d45359ea520f1846b6b8322dc162098d87e79ecf9",
+  "attachments": [],
+  "tags": [
+    "type:practice",
+    "book:stax-mktg",
+    "lo:stax-mktg:10-6-1",
+    "context-cnxmod:32a7c6c9-0d33-41a6-8232-30895c359fcb",
+    "book-slug:principles-marketing",
+    "module-slug:principles-marketing:10-6-ethical-considerations-in-new-product-development"
+  ],
+  "books": [
+    {
+      "name": "stax-mktg",
+      "lo": [
+        "10-6-1"
+      ]
+    }
+  ],
+  "context": [
+    "m00069"
+  ]
+}
