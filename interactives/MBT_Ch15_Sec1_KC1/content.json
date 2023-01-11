@@ -1,0 +1,91 @@
+{
+  "UI": {
+    "showSolutionButton": "Show solution",
+    "tryAgainButton": "Retry",
+    "checkAnswerButton": "Check",
+    "tipsLabel": "Show tip",
+    "scoreBarLabel": "You got :num out of :total points",
+    "tipAvailable": "Tip available",
+    "feedbackAvailable": "Feedback available",
+    "readFeedback": "Read feedback",
+    "wrongAnswer": "Wrong answer",
+    "correctAnswer": "Correct answer",
+    "shouldCheck": "Should have been checked",
+    "shouldNotCheck": "Should not have been checked",
+    "noInput": "Please answer before viewing the solution"
+  },
+  "behaviour": {
+    "enableRetry": true,
+    "enableSolutionsButton": true,
+    "singlePoint": true,
+    "randomAnswers": true,
+    "showSolutionsRequiresInput": true,
+    "type": "auto",
+    "confirmCheckDialog": false,
+    "confirmRetryDialog": false,
+    "autoCheck": false,
+    "passPercentage": 100,
+    "showScorePoints": true,
+    "enableCheckButton": true
+  },
+  "overallFeedback": [
+    {
+      "from": 0,
+      "to": 0,
+      "feedback": "Wrong"
+    },
+    {
+      "from": 1,
+      "to": 99,
+      "feedback": "Almost!"
+    },
+    {
+      "from": 100,
+      "to": 100,
+      "feedback": "Correct!"
+    }
+  ],
+  "question": "Companies typically use personal selling as the promotional strategy of choice when which of these is true?",
+  "isSolutionPublic": true,
+  "isFreeResponseSupported": false,
+  "answers": [
+    {
+      "text": "The product is higher in price.",
+      "correct": false,
+      "tipsAndFeedback": {
+        "tip": "",
+        "chosenFeedback": "That&#8217;s not correct. Product variation is only one factor in deciding to use a personal selling strategy.",
+        "notChosenFeedback": ""
+      }
+    },
+    {
+      "text": "The product requires the sales professional to spend significant time educating the customer.",
+      "correct": false,
+      "tipsAndFeedback": {
+        "tip": "",
+        "chosenFeedback": "That&#8217;s not correct. Time educating the customer is only one factor in deciding to use a personal selling strategy.",
+        "notChosenFeedback": ""
+      }
+    },
+    {
+      "text": "The product has a lot of variation.",
+      "correct": false,
+      "tipsAndFeedback": {
+        "tip": "",
+        "chosenFeedback": "That&#8217;s not correct. Price is only one factor in deciding to use a personal selling strategy.",
+        "notChosenFeedback": ""
+      }
+    },
+    {
+      "text": "All of these statements are true.",
+      "correct": true,
+      "tipsAndFeedback": {
+        "tip": "",
+        "chosenFeedback": "Personal selling is used by companies when they have a product that needs explanation and education, it is higher in price, and it can be varied according to the needs of the customer.",
+        "notChosenFeedback": ""
+      }
+    }
+  ],
+  "subContentId": "5558b2f7-05fc-4884-b421-9a40b0fe28b5",
+  "detailedSolution": "Personal selling is used by companies when they have a product that needs explanation and education, it is higher in price, and it can be varied according to the needs of the customer."
+}
