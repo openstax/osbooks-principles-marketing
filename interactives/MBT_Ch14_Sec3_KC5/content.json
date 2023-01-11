@@ -1,0 +1,91 @@
+{
+  "UI": {
+    "showSolutionButton": "Show solution",
+    "tryAgainButton": "Retry",
+    "checkAnswerButton": "Check",
+    "tipsLabel": "Show tip",
+    "scoreBarLabel": "You got :num out of :total points",
+    "tipAvailable": "Tip available",
+    "feedbackAvailable": "Feedback available",
+    "readFeedback": "Read feedback",
+    "wrongAnswer": "Wrong answer",
+    "correctAnswer": "Correct answer",
+    "shouldCheck": "Should have been checked",
+    "shouldNotCheck": "Should not have been checked",
+    "noInput": "Please answer before viewing the solution"
+  },
+  "behaviour": {
+    "enableRetry": true,
+    "enableSolutionsButton": true,
+    "singlePoint": true,
+    "randomAnswers": true,
+    "showSolutionsRequiresInput": true,
+    "type": "auto",
+    "confirmCheckDialog": false,
+    "confirmRetryDialog": false,
+    "autoCheck": false,
+    "passPercentage": 100,
+    "showScorePoints": true,
+    "enableCheckButton": true
+  },
+  "overallFeedback": [
+    {
+      "from": 0,
+      "to": 0,
+      "feedback": "Wrong"
+    },
+    {
+      "from": 1,
+      "to": 99,
+      "feedback": "Almost!"
+    },
+    {
+      "from": 100,
+      "to": 100,
+      "feedback": "Correct!"
+    }
+  ],
+  "question": "Liam is interested in the ratings of a recent television advertisement. They are interested in calculating the impressions of this ad. Liam knows that the target population of this ad is 500,000, and the ad runs three times. Which information is Liam missing to calculate impressions?",
+  "isSolutionPublic": true,
+  "isFreeResponseSupported": false,
+  "answers": [
+    {
+      "text": "Converts",
+      "correct": false,
+      "tipsAndFeedback": {
+        "tip": "",
+        "chosenFeedback": "That&#8217;s not correct. Liam does not need this information to make the calculation.",
+        "notChosenFeedback": ""
+      }
+    },
+    {
+      "text": "Rating",
+      "correct": false,
+      "tipsAndFeedback": {
+        "tip": "",
+        "chosenFeedback": "That&#8217;s not correct. Liam does not need to know the conversion rate to make the calculation.",
+        "notChosenFeedback": ""
+      }
+    },
+    {
+      "text": "Conversion rate",
+      "correct": false,
+      "tipsAndFeedback": {
+        "tip": "",
+        "chosenFeedback": "That&#8217;s not correct. Liam does not need to know the converts to make the calculation.",
+        "notChosenFeedback": ""
+      }
+    },
+    {
+      "text": "Number of weeks the ad ran",
+      "correct": true,
+      "tipsAndFeedback": {
+        "tip": "",
+        "chosenFeedback": "Impressions &#61; Rating &#215; Target Population &#215; Number of Ads. In this scenario, Liam is missing the rating information.",
+        "notChosenFeedback": ""
+      }
+    }
+  ],
+  "subContentId": "e0f5ca2d-7a00-4df7-91f8-6b671d9abe71",
+  "detailedSolution": "Impressions = Rating × Target Population × Number of Ads. In this scenario, Liam is missing the rating information."
+}
