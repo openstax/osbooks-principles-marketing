@@ -1,0 +1,91 @@
+{
+  "UI": {
+    "showSolutionButton": "Show solution",
+    "tryAgainButton": "Retry",
+    "checkAnswerButton": "Check",
+    "tipsLabel": "Show tip",
+    "scoreBarLabel": "You got :num out of :total points",
+    "tipAvailable": "Tip available",
+    "feedbackAvailable": "Feedback available",
+    "readFeedback": "Read feedback",
+    "wrongAnswer": "Wrong answer",
+    "correctAnswer": "Correct answer",
+    "shouldCheck": "Should have been checked",
+    "shouldNotCheck": "Should not have been checked",
+    "noInput": "Please answer before viewing the solution"
+  },
+  "behaviour": {
+    "enableRetry": true,
+    "enableSolutionsButton": true,
+    "singlePoint": true,
+    "randomAnswers": true,
+    "showSolutionsRequiresInput": true,
+    "type": "auto",
+    "confirmCheckDialog": false,
+    "confirmRetryDialog": false,
+    "autoCheck": false,
+    "passPercentage": 100,
+    "showScorePoints": true,
+    "enableCheckButton": true
+  },
+  "overallFeedback": [
+    {
+      "from": 0,
+      "to": 0,
+      "feedback": "Wrong"
+    },
+    {
+      "from": 1,
+      "to": 99,
+      "feedback": "Almost!"
+    },
+    {
+      "from": 100,
+      "to": 100,
+      "feedback": "Correct!"
+    }
+  ],
+  "question": "A(n) ________ is a group of people, organizations, processes, and activities that work together to deliver products and services to the consumer.",
+  "isSolutionPublic": true,
+  "isFreeResponseSupported": false,
+  "answers": [
+    {
+      "text": "wholesaler",
+      "correct": false,
+      "tipsAndFeedback": {
+        "tip": "",
+        "chosenFeedback": "That&#8217;s not correct. An intermediary is a person or company through whom a product passes on its path to reaching the consumer.",
+        "notChosenFeedback": ""
+      }
+    },
+    {
+      "text": "manufacturer",
+      "correct": false,
+      "tipsAndFeedback": {
+        "tip": "",
+        "chosenFeedback": "That&#8217;s not correct. A manufacturer is a person or company that produces finished goods using raw materials, tools, technology, and other processes.",
+        "notChosenFeedback": ""
+      }
+    },
+    {
+      "text": "intermediary",
+      "correct": false,
+      "tipsAndFeedback": {
+        "tip": "",
+        "chosenFeedback": "That&#8217;s not correct. A wholesaler is an intermediary that buys a variety of products in bulk to sell to retailers or other intermediaries for a profit.",
+        "notChosenFeedback": ""
+      }
+    },
+    {
+      "text": "marketing channel",
+      "correct": true,
+      "tipsAndFeedback": {
+        "tip": "",
+        "chosenFeedback": "A marketing channel is a collection of people, organizations, processes, and activities that work together to deliver products and services to the consumer.",
+        "notChosenFeedback": ""
+      }
+    }
+  ],
+  "subContentId": "22088ee6-3414-402d-8d43-e86ad17538e7",
+  "detailedSolution": "A marketing channel is a collection of people, organizations, processes, and activities that work together to deliver products and services to the consumer."
+}

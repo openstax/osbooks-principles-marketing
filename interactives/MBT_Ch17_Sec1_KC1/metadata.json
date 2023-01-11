@@ -1,0 +1,22 @@
+{
+  "errata_id": "8cf04e6840e12f5b900bf21cda5e618b9703f8de83e546b67855af46cb4f0705",
+  "attachments": [],
+  "tags": [
+    "book:stax-mktg",
+    "lo:stax-mktg:17-1-1",
+    "context-cnxmod:e2be2b11-13b5-4c01-b9ba-721e3029f5c1",
+    "book-slug:principles-marketing",
+    "module-slug:principles-marketing:17-1-the-use-and-value-of-marketing-channels"
+  ],
+  "books": [
+    {
+      "name": "stax-mktg",
+      "lo": [
+        "17-1-1"
+      ]
+    }
+  ],
+  "context": [
+    "m00110"
+  ]
+}
