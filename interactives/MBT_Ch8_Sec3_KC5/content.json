@@ -1,0 +1,91 @@
+{
+  "UI": {
+    "showSolutionButton": "Show solution",
+    "tryAgainButton": "Retry",
+    "checkAnswerButton": "Check",
+    "tipsLabel": "Show tip",
+    "scoreBarLabel": "You got :num out of :total points",
+    "tipAvailable": "Tip available",
+    "feedbackAvailable": "Feedback available",
+    "readFeedback": "Read feedback",
+    "wrongAnswer": "Wrong answer",
+    "correctAnswer": "Correct answer",
+    "shouldCheck": "Should have been checked",
+    "shouldNotCheck": "Should not have been checked",
+    "noInput": "Please answer before viewing the solution"
+  },
+  "behaviour": {
+    "enableRetry": true,
+    "enableSolutionsButton": true,
+    "singlePoint": true,
+    "randomAnswers": true,
+    "showSolutionsRequiresInput": true,
+    "type": "auto",
+    "confirmCheckDialog": false,
+    "confirmRetryDialog": false,
+    "autoCheck": false,
+    "passPercentage": 100,
+    "showScorePoints": true,
+    "enableCheckButton": true
+  },
+  "overallFeedback": [
+    {
+      "from": 0,
+      "to": 0,
+      "feedback": "Wrong"
+    },
+    {
+      "from": 1,
+      "to": 99,
+      "feedback": "Almost!"
+    },
+    {
+      "from": 100,
+      "to": 100,
+      "feedback": "Correct!"
+    }
+  ],
+  "question": "An advertisement that is visually appealing and emphasizes quality of life, people, and relationships is an example of which of Hofstede’s cultural dimensions?",
+  "isSolutionPublic": true,
+  "isFreeResponseSupported": false,
+  "answers": [
+    {
+      "text": "Femininity",
+      "correct": false,
+      "tipsAndFeedback": {
+        "tip": "",
+        "chosenFeedback": "That&#8217;s not correct. The short-term dimension describes how individuals believe and behave in society. It is also based on links to the past and challenges in the future. Short-term cultures focus more on personal steadiness, happiness, and stability.",
+        "notChosenFeedback": ""
+      }
+    },
+    {
+      "text": "Masculinity",
+      "correct": false,
+      "tipsAndFeedback": {
+        "tip": "",
+        "chosenFeedback": "That&#8217;s not correct. Uncertainty avoidance, or a high dislike for ambiguity and the unknown, is not just an individual trait; it is a characteristic of societies in general. It is not related to the Hofstede dimension related to quality of life.",
+        "notChosenFeedback": ""
+      }
+    },
+    {
+      "text": "Uncertainty avoidance",
+      "correct": false,
+      "tipsAndFeedback": {
+        "tip": "",
+        "chosenFeedback": "That&#8217;s not correct. Gender can strongly impact the creative concept and messaging behind marketing promotions, ads, and social media. Achievement, power, and strength are considered masculine traits.",
+        "notChosenFeedback": ""
+      }
+    },
+    {
+      "text": "Short-term orientation",
+      "correct": true,
+      "tipsAndFeedback": {
+        "tip": "",
+        "chosenFeedback": "An advertisement that is visually appealing and emphasizes quality of life, people, and relationships is an example of femininity.",
+        "notChosenFeedback": ""
+      }
+    }
+  ],
+  "subContentId": "b516200d-ed78-41f1-9df0-2d9ba6b6e4a1",
+  "detailedSolution": "An advertisement that is visually appealing and emphasizes quality of life, people, and relationships is an example of femininity."
+}
