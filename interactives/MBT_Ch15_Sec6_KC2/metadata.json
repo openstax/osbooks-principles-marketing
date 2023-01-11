@@ -1,0 +1,22 @@
+{
+  "errata_id": "b2692708493f25e130282b34767629c6cac10b8aaf17b474b9c5eb2fa4312fd8",
+  "attachments": [],
+  "tags": [
+    "book:stax-mktg",
+    "lo:stax-mktg:15-6-1",
+    "context-cnxmod:5dac0ee8-7577-46c8-862b-683ed71c9702",
+    "book-slug:principles-marketing",
+    "module-slug:principles-marketing:15-6-main-types-of-sales-promotion"
+  ],
+  "books": [
+    {
+      "name": "stax-mktg",
+      "lo": [
+        "15-6-1"
+      ]
+    }
+  ],
+  "context": [
+    "m00102"
+  ]
+}
