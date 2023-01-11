@@ -1,0 +1,91 @@
+{
+  "UI": {
+    "showSolutionButton": "Show solution",
+    "tryAgainButton": "Retry",
+    "checkAnswerButton": "Check",
+    "tipsLabel": "Show tip",
+    "scoreBarLabel": "You got :num out of :total points",
+    "tipAvailable": "Tip available",
+    "feedbackAvailable": "Feedback available",
+    "readFeedback": "Read feedback",
+    "wrongAnswer": "Wrong answer",
+    "correctAnswer": "Correct answer",
+    "shouldCheck": "Should have been checked",
+    "shouldNotCheck": "Should not have been checked",
+    "noInput": "Please answer before viewing the solution"
+  },
+  "behaviour": {
+    "enableRetry": true,
+    "enableSolutionsButton": true,
+    "singlePoint": true,
+    "randomAnswers": true,
+    "showSolutionsRequiresInput": true,
+    "type": "auto",
+    "confirmCheckDialog": false,
+    "confirmRetryDialog": false,
+    "autoCheck": false,
+    "passPercentage": 100,
+    "showScorePoints": true,
+    "enableCheckButton": true
+  },
+  "overallFeedback": [
+    {
+      "from": 0,
+      "to": 0,
+      "feedback": "Wrong"
+    },
+    {
+      "from": 1,
+      "to": 99,
+      "feedback": "Almost!"
+    },
+    {
+      "from": 100,
+      "to": 100,
+      "feedback": "Correct!"
+    }
+  ],
+  "question": "A(n) ________ is someone who acts as an extension of the manufacturer. While they never take possession of the product or service they represent, they earn a commission or collect a fee for facilitating the transaction between the customer and the manufacturer.",
+  "isSolutionPublic": true,
+  "isFreeResponseSupported": false,
+  "answers": [
+    {
+      "text": "retailer",
+      "correct": false,
+      "tipsAndFeedback": {
+        "tip": "",
+        "chosenFeedback": "That&#8217;s not correct. A distributor aligns itself closely with a manufacturer by buying exclusively from the manufacturer before selling to other intermediaries.",
+        "notChosenFeedback": ""
+      }
+    },
+    {
+      "text": "wholesaler",
+      "correct": false,
+      "tipsAndFeedback": {
+        "tip": "",
+        "chosenFeedback": "That&#8217;s not correct. Wholesalers buy in bulk from manufacturers then sell to other intermediaries, such as retailers, in smaller quantities. They take possession of the products and services before selling them.",
+        "notChosenFeedback": ""
+      }
+    },
+    {
+      "text": "distributor",
+      "correct": false,
+      "tipsAndFeedback": {
+        "tip": "",
+        "chosenFeedback": "That&#8217;s not correct. Retailers buy from wholesalers and distributors and sell directly to end users or consumers.",
+        "notChosenFeedback": ""
+      }
+    },
+    {
+      "text": "agent",
+      "correct": true,
+      "tipsAndFeedback": {
+        "tip": "",
+        "chosenFeedback": "Agents serve as representatives of manufacturers. While they never take possession of a product or service, they earn a commission or collect a fee for facilitating the transaction between the customers and the manufacturer.",
+        "notChosenFeedback": ""
+      }
+    }
+  ],
+  "subContentId": "31d70c3b-00c2-4f1b-bfa3-fcf1470815c5",
+  "detailedSolution": "Agents serve as representatives of manufacturers. While they never take possession of a product or service, they earn a commission or collect a fee for facilitating the transaction between the customers and the manufacturer."
+}
