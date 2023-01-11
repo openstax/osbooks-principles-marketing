@@ -1,0 +1,91 @@
+{
+  "UI": {
+    "showSolutionButton": "Show solution",
+    "tryAgainButton": "Retry",
+    "checkAnswerButton": "Check",
+    "tipsLabel": "Show tip",
+    "scoreBarLabel": "You got :num out of :total points",
+    "tipAvailable": "Tip available",
+    "feedbackAvailable": "Feedback available",
+    "readFeedback": "Read feedback",
+    "wrongAnswer": "Wrong answer",
+    "correctAnswer": "Correct answer",
+    "shouldCheck": "Should have been checked",
+    "shouldNotCheck": "Should not have been checked",
+    "noInput": "Please answer before viewing the solution"
+  },
+  "behaviour": {
+    "enableRetry": true,
+    "enableSolutionsButton": true,
+    "singlePoint": true,
+    "randomAnswers": true,
+    "showSolutionsRequiresInput": true,
+    "type": "auto",
+    "confirmCheckDialog": false,
+    "confirmRetryDialog": false,
+    "autoCheck": false,
+    "passPercentage": 100,
+    "showScorePoints": true,
+    "enableCheckButton": true
+  },
+  "overallFeedback": [
+    {
+      "from": 0,
+      "to": 0,
+      "feedback": "Wrong"
+    },
+    {
+      "from": 1,
+      "to": 99,
+      "feedback": "Almost!"
+    },
+    {
+      "from": 100,
+      "to": 100,
+      "feedback": "Correct!"
+    }
+  ],
+  "question": "When the price of a product increases and the demand for its substitute product increases, this is explained by ________.",
+  "isSolutionPublic": true,
+  "isFreeResponseSupported": false,
+  "answers": [
+    {
+      "text": "elasticity",
+      "correct": false,
+      "tipsAndFeedback": {
+        "tip": "",
+        "chosenFeedback": "That&#8217;s not correct. The income effect on pricing refers to buyers&#8217; belief in how much discretionary income they will have to spend. However, it does affect the demand for products.",
+        "notChosenFeedback": ""
+      }
+    },
+    {
+      "text": "inelasticity",
+      "correct": false,
+      "tipsAndFeedback": {
+        "tip": "",
+        "chosenFeedback": "That&#8217;s not correct. Inelasticity suggests there is no change in demand.",
+        "notChosenFeedback": ""
+      }
+    },
+    {
+      "text": "a change in income",
+      "correct": false,
+      "tipsAndFeedback": {
+        "tip": "",
+        "chosenFeedback": "That&#8217;s not correct. A product&#8217;s degree of elasticity explains the change in demand based on the change in price.",
+        "notChosenFeedback": ""
+      }
+    },
+    {
+      "text": "cross-elasticity of demand",
+      "correct": true,
+      "tipsAndFeedback": {
+        "tip": "",
+        "chosenFeedback": "Cross-elasticity of demand refers to the increase in demand for a substitute product when the price of a product increases.",
+        "notChosenFeedback": ""
+      }
+    }
+  ],
+  "subContentId": "8418dd96-d1ec-4d37-a78b-fda18901616c",
+  "detailedSolution": "Cross-elasticity of demand refers to the increase in demand for a substitute product when the price of a product increases."
+}
