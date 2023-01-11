@@ -1,0 +1,91 @@
+{
+  "UI": {
+    "showSolutionButton": "Show solution",
+    "tryAgainButton": "Retry",
+    "checkAnswerButton": "Check",
+    "tipsLabel": "Show tip",
+    "scoreBarLabel": "You got :num out of :total points",
+    "tipAvailable": "Tip available",
+    "feedbackAvailable": "Feedback available",
+    "readFeedback": "Read feedback",
+    "wrongAnswer": "Wrong answer",
+    "correctAnswer": "Correct answer",
+    "shouldCheck": "Should have been checked",
+    "shouldNotCheck": "Should not have been checked",
+    "noInput": "Please answer before viewing the solution"
+  },
+  "behaviour": {
+    "enableRetry": true,
+    "enableSolutionsButton": true,
+    "singlePoint": true,
+    "randomAnswers": true,
+    "showSolutionsRequiresInput": true,
+    "type": "auto",
+    "confirmCheckDialog": false,
+    "confirmRetryDialog": false,
+    "autoCheck": false,
+    "passPercentage": 100,
+    "showScorePoints": true,
+    "enableCheckButton": true
+  },
+  "overallFeedback": [
+    {
+      "from": 0,
+      "to": 0,
+      "feedback": "Wrong"
+    },
+    {
+      "from": 1,
+      "to": 99,
+      "feedback": "Almost!"
+    },
+    {
+      "from": 100,
+      "to": 100,
+      "feedback": "Correct!"
+    }
+  ],
+  "question": "________ entails managing all the members and activities from the procurement and transformation of raw materials into finished goods through their distribution to targeted consumers.",
+  "isSolutionPublic": true,
+  "isFreeResponseSupported": false,
+  "answers": [
+    {
+      "text": "Logistics",
+      "correct": false,
+      "tipsAndFeedback": {
+        "tip": "",
+        "chosenFeedback": "That&#8217;s not correct. Warehousing involves the stocking, maintaining, and controlling of products while they await the next step in their journey to the end consumer.",
+        "notChosenFeedback": ""
+      }
+    },
+    {
+      "text": "Integrated logistics management",
+      "correct": false,
+      "tipsAndFeedback": {
+        "tip": "",
+        "chosenFeedback": "That&#8217;s not correct. Integrated logistics management involves the cohesive, synergistic integration of all logistics activities.",
+        "notChosenFeedback": ""
+      }
+    },
+    {
+      "text": "Supply chain management",
+      "correct": false,
+      "tipsAndFeedback": {
+        "tip": "",
+        "chosenFeedback": "That&#8217;s not correct. Logistics is a function that involves the coordination of all supply chain activities, such as warehousing, inventory management, and transportation.",
+        "notChosenFeedback": ""
+      }
+    },
+    {
+      "text": "Warehousing",
+      "correct": true,
+      "tipsAndFeedback": {
+        "tip": "",
+        "chosenFeedback": "Supply chain management entails managing all the members and activities from the procurement and transformation of raw materials into finished goods through their distribution to targeted consumers.",
+        "notChosenFeedback": ""
+      }
+    }
+  ],
+  "subContentId": "5b154ff3-6c10-4cfc-a414-5166dbef84dc",
+  "detailedSolution": "Supply chain management entails managing all the members and activities from the procurement and transformation of raw materials into finished goods through their distribution to targeted consumers."
+}

@@ -1,0 +1,22 @@
+{
+  "errata_id": "9a9e7b85dbdf8c23c3d0213ce28e2fe243e09fb1aef9483b08aeb10e1381ffc6",
+  "attachments": [],
+  "tags": [
+    "book:stax-mktg",
+    "lo:stax-mktg:17-5-1",
+    "context-cnxmod:18393d7c-73bf-4a00-b46b-fbb9e85619ce",
+    "book-slug:principles-marketing",
+    "module-slug:principles-marketing:17-5-the-supply-chain-and-its-functions"
+  ],
+  "books": [
+    {
+      "name": "stax-mktg",
+      "lo": [
+        "17-5-1"
+      ]
+    }
+  ],
+  "context": [
+    "m00114"
+  ]
+}
