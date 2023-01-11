@@ -1,0 +1,91 @@
+{
+  "UI": {
+    "showSolutionButton": "Show solution",
+    "tryAgainButton": "Retry",
+    "checkAnswerButton": "Check",
+    "tipsLabel": "Show tip",
+    "scoreBarLabel": "You got :num out of :total points",
+    "tipAvailable": "Tip available",
+    "feedbackAvailable": "Feedback available",
+    "readFeedback": "Read feedback",
+    "wrongAnswer": "Wrong answer",
+    "correctAnswer": "Correct answer",
+    "shouldCheck": "Should have been checked",
+    "shouldNotCheck": "Should not have been checked",
+    "noInput": "Please answer before viewing the solution"
+  },
+  "behaviour": {
+    "enableRetry": true,
+    "enableSolutionsButton": true,
+    "singlePoint": true,
+    "randomAnswers": true,
+    "showSolutionsRequiresInput": true,
+    "type": "auto",
+    "confirmCheckDialog": false,
+    "confirmRetryDialog": false,
+    "autoCheck": false,
+    "passPercentage": 100,
+    "showScorePoints": true,
+    "enableCheckButton": true
+  },
+  "overallFeedback": [
+    {
+      "from": 0,
+      "to": 0,
+      "feedback": "Wrong"
+    },
+    {
+      "from": 1,
+      "to": 99,
+      "feedback": "Almost!"
+    },
+    {
+      "from": 100,
+      "to": 100,
+      "feedback": "Correct!"
+    }
+  ],
+  "question": "Companies that manufacture goods rely on raw materials to produce the products they sell. This describes the function of ________.",
+  "isSolutionPublic": true,
+  "isFreeResponseSupported": false,
+  "answers": [
+    {
+      "text": "inventory management",
+      "correct": false,
+      "tipsAndFeedback": {
+        "tip": "",
+        "chosenFeedback": "That&#8217;s not correct. Transportation involves the transfer or movement of goods from origin to destination.",
+        "notChosenFeedback": ""
+      }
+    },
+    {
+      "text": "supply chain management",
+      "correct": false,
+      "tipsAndFeedback": {
+        "tip": "",
+        "chosenFeedback": "That&#8217;s not correct. Supply chain management entails managing all the members and activities from the procurement and transformation of raw materials into finished goods through their distribution to targeted consumers.",
+        "notChosenFeedback": ""
+      }
+    },
+    {
+      "text": "transportation",
+      "correct": false,
+      "tipsAndFeedback": {
+        "tip": "",
+        "chosenFeedback": "That&#8217;s not correct. Inventory management is a function that involves identifying the type of inventory and how much a company has on hand at any given time.",
+        "notChosenFeedback": ""
+      }
+    },
+    {
+      "text": "purchasing",
+      "correct": true,
+      "tipsAndFeedback": {
+        "tip": "",
+        "chosenFeedback": "Companies that manufacture goods rely on raw materials to produce the products they sell. They purchase the required materials from suppliers, who must be able to deliver them in accordance with the manufacturer&#8217;s timeline.",
+        "notChosenFeedback": ""
+      }
+    }
+  ],
+  "subContentId": "0c0832cc-0957-47dc-86ce-95a443310fc8",
+  "detailedSolution": "Companies that manufacture goods rely on raw materials to produce the products they sell. They purchase the required materials from suppliers, who must be able to deliver them in accordance with the manufacturer’s timeline."
+}
