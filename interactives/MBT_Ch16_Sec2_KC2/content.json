@@ -1,0 +1,91 @@
+{
+  "UI": {
+    "showSolutionButton": "Show solution",
+    "tryAgainButton": "Retry",
+    "checkAnswerButton": "Check",
+    "tipsLabel": "Show tip",
+    "scoreBarLabel": "You got :num out of :total points",
+    "tipAvailable": "Tip available",
+    "feedbackAvailable": "Feedback available",
+    "readFeedback": "Read feedback",
+    "wrongAnswer": "Wrong answer",
+    "correctAnswer": "Correct answer",
+    "shouldCheck": "Should have been checked",
+    "shouldNotCheck": "Should not have been checked",
+    "noInput": "Please answer before viewing the solution"
+  },
+  "behaviour": {
+    "enableRetry": true,
+    "enableSolutionsButton": true,
+    "singlePoint": true,
+    "randomAnswers": true,
+    "showSolutionsRequiresInput": true,
+    "type": "auto",
+    "confirmCheckDialog": false,
+    "confirmRetryDialog": false,
+    "autoCheck": false,
+    "passPercentage": 100,
+    "showScorePoints": true,
+    "enableCheckButton": true
+  },
+  "overallFeedback": [
+    {
+      "from": 0,
+      "to": 0,
+      "feedback": "Wrong"
+    },
+    {
+      "from": 1,
+      "to": 99,
+      "feedback": "Almost!"
+    },
+    {
+      "from": 100,
+      "to": 100,
+      "feedback": "Correct!"
+    }
+  ],
+  "question": "Which of the following is a challenge that marketers face when using social media marketing?",
+  "isSolutionPublic": true,
+  "isFreeResponseSupported": false,
+  "answers": [
+    {
+      "text": "Social media marketing does not allow companies to target multiple audiences at the same time.",
+      "correct": false,
+      "tipsAndFeedback": {
+        "tip": "",
+        "chosenFeedback": "That&#8217;s not correct. If executed well, social media marketing can be an effective tool to drive traffic to a company&#8217;s website.",
+        "notChosenFeedback": ""
+      }
+    },
+    {
+      "text": "Social media use is unpredictable, with users only logging in once or twice per week.",
+      "correct": false,
+      "tipsAndFeedback": {
+        "tip": "",
+        "chosenFeedback": "That&#8217;s not correct. Social media usage is predictable. With billions of users accessing social media platforms daily, marketers can expect to reach their target audience.",
+        "notChosenFeedback": ""
+      }
+    },
+    {
+      "text": "Companies do not have control over the message.",
+      "correct": false,
+      "tipsAndFeedback": {
+        "tip": "",
+        "chosenFeedback": "That&#8217;s not correct. Social media does allow companies to target multiple audiences.",
+        "notChosenFeedback": ""
+      }
+    },
+    {
+      "text": "Social media does a poor job of driving traffic to websites.",
+      "correct": true,
+      "tipsAndFeedback": {
+        "tip": "",
+        "chosenFeedback": "Lack of control over the message is a challenge for social media marketers. Consumers who are dissatisfied with the company can use social media to make negative comments that could hurt brand reputation.",
+        "notChosenFeedback": ""
+      }
+    }
+  ],
+  "subContentId": "d6fc43d8-cbb4-4441-8409-3eabf01b05ba",
+  "detailedSolution": "Lack of control over the message is a challenge for social media marketers. Consumers who are dissatisfied with the company can use social media to make negative comments that could hurt brand reputation."
+}

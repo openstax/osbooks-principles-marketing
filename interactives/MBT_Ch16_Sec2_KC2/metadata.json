@@ -1,0 +1,22 @@
+{
+  "errata_id": "e32fa6cc2c2d882bbbe727cf09cc83519f8a2486ccaacc6062913bc832f63295",
+  "attachments": [],
+  "tags": [
+    "book:stax-mktg",
+    "lo:stax-mktg:16-2-1",
+    "context-cnxmod:5d12968f-8fe1-4b98-865b-8c42213c33fd",
+    "book-slug:principles-marketing",
+    "module-slug:principles-marketing:16-2-social-media-and-mobile-marketing"
+  ],
+  "books": [
+    {
+      "name": "stax-mktg",
+      "lo": [
+        "16-2-1"
+      ]
+    }
+  ],
+  "context": [
+    "m00106"
+  ]
+}
