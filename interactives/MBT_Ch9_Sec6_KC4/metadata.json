@@ -1,0 +1,22 @@
+{
+  "errata_id": "2fbe72f73c1cd641e45876e32547585f6f8834160ff7d3565d96ce080f5cc200",
+  "attachments": [],
+  "tags": [
+    "book:stax-mktg",
+    "context-cnxmod:e5bb0ff2-8a3b-40d2-9f03-8b50f8025d4a",
+    "lo:stax-mktg:9-6-2",
+    "book-slug:principles-marketing",
+    "module-slug:principles-marketing:9-6-forms-of-brand-development-brand-loyalty-and-brand-metrics"
+  ],
+  "books": [
+    {
+      "name": "stax-mktg",
+      "lo": [
+        "9-6-2"
+      ]
+    }
+  ],
+  "context": [
+    "m00059"
+  ]
+}
