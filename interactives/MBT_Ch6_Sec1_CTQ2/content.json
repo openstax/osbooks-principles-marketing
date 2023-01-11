@@ -1,0 +1,48 @@
+{
+  "overallFeedback": [
+    {
+      "from": 0,
+      "to": 100
+    }
+  ],
+  "behaviour": {
+    "inputFieldSize": "10",
+    "enableRetry": true,
+    "ignoreScoring": false,
+    "pointsHost": 1,
+    "linebreakReplacement": " "
+  },
+  "checkAnswer": "Check",
+  "submitAnswer": "Submit",
+  "tryAgain": "Retry",
+  "showSolution": "Show solution",
+  "feedbackHeader": "Feedback",
+  "solutionTitle": "Sample solution",
+  "remainingChars": "Remaining characters: @chars",
+  "notEnoughChars": "You must enter at least @chars characters!",
+  "messageSave": "saved",
+  "ariaYourResult": "You got @score out of @total points",
+  "ariaNavigatedToSolution": "Navigated to newly included sample solution after textarea.",
+  "ariaCheck": "Check the answers.",
+  "ariaShowSolution": "Show the solution. You will be provided with a sample solution.",
+  "ariaRetry": "Retry the task. You can improve your previous answer if the author allowed that.",
+  "taskDescription": "Conduct a survey of five college students via email, social media, telephone, or in person to learn more about the student demographic. Explain that you are collecting data for a classroom assignment only and will not identify them by name.\n<p>Ask these questions:</p>\n<ol style=\"list-style:upper-alpha;padding-left:1.5em;margin-left:1.5em;\">\n<li>If you could adopt a rescue animal today, what would it be?</li>\n<li>What is the best pizza topping?</li>\n<li>Would you rather sneeze for an hour or have hiccups for an hour?</li>\n<li>Would you rather get $1 million right now or $10,000 per month for a lifetime?</li>\n<li>What is your least favorite food?</li>\n</ol>\n<ul style=\"list-style:none;padding-left:1.5em;margin-left:1.5em;text-indent:-1.8em;\">\n<li>2a. Summarize and report your results in a chart.</li>\n<li>2b. C and D are structurally different questions than A, B, and E. What is different between these questions?</li>\n<li>2c. Can your findings be applied to all college students? Why or why not?</li>\n</ul>",
+  "isSolutionPublic": true,
+  "solution": {
+    "introduction": "",
+    "sample": ""
+  },
+  "keywords": [
+    {
+      "options": {
+        "points": 1,
+        "occurrences": 1,
+        "caseSensitive": false,
+        "forgiveMistakes": false,
+        "feedbackIncludedWord": "keyword",
+        "feedbackMissedWord": "none"
+      },
+      "keyword": "*"
+    }
+  ]
+}
