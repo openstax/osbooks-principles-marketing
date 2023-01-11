@@ -1,0 +1,91 @@
+{
+  "UI": {
+    "showSolutionButton": "Show solution",
+    "tryAgainButton": "Retry",
+    "checkAnswerButton": "Check",
+    "tipsLabel": "Show tip",
+    "scoreBarLabel": "You got :num out of :total points",
+    "tipAvailable": "Tip available",
+    "feedbackAvailable": "Feedback available",
+    "readFeedback": "Read feedback",
+    "wrongAnswer": "Wrong answer",
+    "correctAnswer": "Correct answer",
+    "shouldCheck": "Should have been checked",
+    "shouldNotCheck": "Should not have been checked",
+    "noInput": "Please answer before viewing the solution"
+  },
+  "behaviour": {
+    "enableRetry": true,
+    "enableSolutionsButton": true,
+    "singlePoint": true,
+    "randomAnswers": true,
+    "showSolutionsRequiresInput": true,
+    "type": "auto",
+    "confirmCheckDialog": false,
+    "confirmRetryDialog": false,
+    "autoCheck": false,
+    "passPercentage": 100,
+    "showScorePoints": true,
+    "enableCheckButton": true
+  },
+  "overallFeedback": [
+    {
+      "from": 0,
+      "to": 0,
+      "feedback": "Wrong"
+    },
+    {
+      "from": 1,
+      "to": 99,
+      "feedback": "Almost!"
+    },
+    {
+      "from": 100,
+      "to": 100,
+      "feedback": "Correct!"
+    }
+  ],
+  "question": "Tomas is selling his bottled sodas for $2.00 each at the vendor fair. His fixed costs are $100. He estimates that his variable costs are $0.25 per bottle. How many bottles of soda must Tomas sell to break even?",
+  "isSolutionPublic": true,
+  "isFreeResponseSupported": false,
+  "answers": [
+    {
+      "text": "57",
+      "correct": false,
+      "tipsAndFeedback": {
+        "tip": "",
+        "chosenFeedback": "That&#8217;s not correct. Please refer to the formula and check your math.",
+        "notChosenFeedback": ""
+      }
+    },
+    {
+      "text": "2",
+      "correct": false,
+      "tipsAndFeedback": {
+        "tip": "",
+        "chosenFeedback": "That&#8217;s not correct. Please refer to the formula and check your math.",
+        "notChosenFeedback": ""
+      }
+    },
+    {
+      "text": "Less than 1",
+      "correct": false,
+      "tipsAndFeedback": {
+        "tip": "",
+        "chosenFeedback": "That&#8217;s not correct. Please refer to the formula and check your math.",
+        "notChosenFeedback": ""
+      }
+    },
+    {
+      "text": "25",
+      "correct": true,
+      "tipsAndFeedback": {
+        "tip": "",
+        "chosenFeedback": "<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><semantics><mrow>\n  <mi>B</mi>\n  <mi>r</mi>\n  <mi>e</mi>\n  <mi>a</mi>\n  <mi>k</mi>\n  <mspace width=\"thickmathspace\"></mspace>\n  <mi>E</mi>\n  <mi>v</mi>\n  <mi>e</mi>\n  <mi>n</mi>\n  <mspace width=\"thickmathspace\"></mspace>\n  <mi>i</mi>\n  <mi>n</mi>\n  <mspace width=\"thickmathspace\"></mspace>\n  <mi>U</mi>\n  <mi>n</mi>\n  <mi>i</mi>\n  <mi>t</mi>\n  <mi>s</mi>\n  <mo>=</mo>\n  <mi>F</mi>\n  <mi>i</mi>\n  <mi>x</mi>\n  <mi>e</mi>\n  <mi>d</mi>\n  <mspace width=\"thickmathspace\"></mspace>\n  <mi>C</mi>\n  <mi>o</mi>\n  <mi>s</mi>\n  <mi>t</mi>\n  <mi>s</mi>\n  <mrow class=\"MJX-TeXAtom-ORD\">\n    <mo>/</mo>\n  </mrow>\n  <mo stretchy=\"false\">(</mo>\n  <mi>U</mi>\n  <mi>n</mi>\n  <mi>i</mi>\n  <mi>t</mi>\n  <mspace width=\"thickmathspace\"></mspace>\n  <mi>P</mi>\n  <mi>r</mi>\n  <mi>i</mi>\n  <mi>c</mi>\n  <mi>e</mi>\n  <mo>−<!-- − --></mo>\n  <mi>V</mi>\n  <mi>a</mi>\n  <mi>r</mi>\n  <mi>i</mi>\n  <mi>a</mi>\n  <mi>b</mi>\n  <mi>l</mi>\n  <mi>e</mi>\n  <mspace width=\"thickmathspace\"></mspace>\n  <mi>U</mi>\n  <mi>n</mi>\n  <mi>i</mi>\n  <mi>t</mi>\n  <mspace width=\"thickmathspace\"></mspace>\n  <mi>C</mi>\n  <mi>o</mi>\n  <mi>s</mi>\n  <mi>t</mi>\n  <mo stretchy=\"false\">)</mo>\n  <mo>=</mo>\n  <mn>100</mn>\n  <mrow class=\"MJX-TeXAtom-ORD\">\n    <mo>/</mo>\n  </mrow>\n  <mo stretchy=\"false\">(</mo>\n  <mn>2.00</mn>\n  <mo>−<!-- − --></mo>\n  <mn>0.25</mn>\n  <mo stretchy=\"false\">)</mo>\n</mrow><annotation encoding=\"LaTeX\">Break\\;Even\\;in\\;Units = Fixed\\;Costs/(Unit\\;Price-Variable\\;Unit\\;Cost) = 100/(2.00 - 0.25)</annotation></semantics></math>",
+        "notChosenFeedback": ""
+      }
+    }
+  ],
+  "subContentId": "55f00872-b027-48c9-826a-5c5cf23e67de",
+  "detailedSolution": "<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><semantics><mrow>\n  <mi>B</mi>\n  <mi>r</mi>\n  <mi>e</mi>\n  <mi>a</mi>\n  <mi>k</mi>\n  <mspace width=\"thickmathspace\"></mspace>\n  <mi>E</mi>\n  <mi>v</mi>\n  <mi>e</mi>\n  <mi>n</mi>\n  <mspace width=\"thickmathspace\"></mspace>\n  <mi>i</mi>\n  <mi>n</mi>\n  <mspace width=\"thickmathspace\"></mspace>\n  <mi>U</mi>\n  <mi>n</mi>\n  <mi>i</mi>\n  <mi>t</mi>\n  <mi>s</mi>\n  <mo>=</mo>\n  <mi>F</mi>\n  <mi>i</mi>\n  <mi>x</mi>\n  <mi>e</mi>\n  <mi>d</mi>\n  <mspace width=\"thickmathspace\"></mspace>\n  <mi>C</mi>\n  <mi>o</mi>\n  <mi>s</mi>\n  <mi>t</mi>\n  <mi>s</mi>\n  <mrow class=\"MJX-TeXAtom-ORD\">\n    <mo>/</mo>\n  </mrow>\n  <mo stretchy=\"false\">(</mo>\n  <mi>U</mi>\n  <mi>n</mi>\n  <mi>i</mi>\n  <mi>t</mi>\n  <mspace width=\"thickmathspace\"></mspace>\n  <mi>P</mi>\n  <mi>r</mi>\n  <mi>i</mi>\n  <mi>c</mi>\n  <mi>e</mi>\n  <mo>−<!-- − --></mo>\n  <mi>V</mi>\n  <mi>a</mi>\n  <mi>r</mi>\n  <mi>i</mi>\n  <mi>a</mi>\n  <mi>b</mi>\n  <mi>l</mi>\n  <mi>e</mi>\n  <mspace width=\"thickmathspace\"></mspace>\n  <mi>U</mi>\n  <mi>n</mi>\n  <mi>i</mi>\n  <mi>t</mi>\n  <mspace width=\"thickmathspace\"></mspace>\n  <mi>C</mi>\n  <mi>o</mi>\n  <mi>s</mi>\n  <mi>t</mi>\n  <mo stretchy=\"false\">)</mo>\n  <mo>=</mo>\n  <mn>100</mn>\n  <mrow class=\"MJX-TeXAtom-ORD\">\n    <mo>/</mo>\n  </mrow>\n  <mo stretchy=\"false\">(</mo>\n  <mn>2.00</mn>\n  <mo>−<!-- − --></mo>\n  <mn>0.25</mn>\n  <mo stretchy=\"false\">)</mo>\n</mrow><annotation encoding=\"LaTeX\">Break\\;Even\\;in\\;Units = Fixed\\;Costs/(Unit\\;Price-Variable\\;Unit\\;Cost) = 100/(2.00 - 0.25)</annotation></semantics></math>"
+}
