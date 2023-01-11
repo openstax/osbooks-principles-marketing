@@ -1,0 +1,91 @@
+{
+  "UI": {
+    "showSolutionButton": "Show solution",
+    "tryAgainButton": "Retry",
+    "checkAnswerButton": "Check",
+    "tipsLabel": "Show tip",
+    "scoreBarLabel": "You got :num out of :total points",
+    "tipAvailable": "Tip available",
+    "feedbackAvailable": "Feedback available",
+    "readFeedback": "Read feedback",
+    "wrongAnswer": "Wrong answer",
+    "correctAnswer": "Correct answer",
+    "shouldCheck": "Should have been checked",
+    "shouldNotCheck": "Should not have been checked",
+    "noInput": "Please answer before viewing the solution"
+  },
+  "behaviour": {
+    "enableRetry": true,
+    "enableSolutionsButton": true,
+    "singlePoint": true,
+    "randomAnswers": true,
+    "showSolutionsRequiresInput": true,
+    "type": "auto",
+    "confirmCheckDialog": false,
+    "confirmRetryDialog": false,
+    "autoCheck": false,
+    "passPercentage": 100,
+    "showScorePoints": true,
+    "enableCheckButton": true
+  },
+  "overallFeedback": [
+    {
+      "from": 0,
+      "to": 0,
+      "feedback": "Wrong"
+    },
+    {
+      "from": 1,
+      "to": 99,
+      "feedback": "Almost!"
+    },
+    {
+      "from": 100,
+      "to": 100,
+      "feedback": "Correct!"
+    }
+  ],
+  "question": "Kilee sees an advertisement for a new computer. The advertisement portrays an initial price of $699 that has a large red “X” through it with a new price of $499. The advertisement is utilizing which pricing concept?        ",
+  "isSolutionPublic": true,
+  "isFreeResponseSupported": false,
+  "answers": [
+    {
+      "text": "Artificial time constraints",
+      "correct": false,
+      "tipsAndFeedback": {
+        "tip": "",
+        "chosenFeedback": "That&#8217;s not correct. Price gouging is an unethical pricing strategy that takes advantage of inflated demand.",
+        "notChosenFeedback": ""
+      }
+    },
+    {
+      "text": "Price appearance",
+      "correct": false,
+      "tipsAndFeedback": {
+        "tip": "",
+        "chosenFeedback": "That&#8217;s not correct. Price appearance is the literal way in which a price is posted, such as the use of dollar signs and decimals.",
+        "notChosenFeedback": ""
+      }
+    },
+    {
+      "text": "Price gouging",
+      "correct": false,
+      "tipsAndFeedback": {
+        "tip": "",
+        "chosenFeedback": "That&#8217;s not correct. Artificial time constraints are used to make buyers feel time is of the essence and they should purchase immediately.",
+        "notChosenFeedback": ""
+      }
+    },
+    {
+      "text": "Price anchoring",
+      "correct": true,
+      "tipsAndFeedback": {
+        "tip": "",
+        "chosenFeedback": "Price anchoring is a strategy that utilizes a psychological theory that buyers frame their price reference around the first piece of information they see.",
+        "notChosenFeedback": ""
+      }
+    }
+  ],
+  "subContentId": "a78e6439-99fc-47e1-a7d7-03d4a90d7e34",
+  "detailedSolution": "Price anchoring is a strategy that utilizes a psychological theory that buyers frame their price reference around the first piece of information they see."
+}
