@@ -1,0 +1,91 @@
+{
+  "UI": {
+    "showSolutionButton": "Show solution",
+    "tryAgainButton": "Retry",
+    "checkAnswerButton": "Check",
+    "tipsLabel": "Show tip",
+    "scoreBarLabel": "You got :num out of :total points",
+    "tipAvailable": "Tip available",
+    "feedbackAvailable": "Feedback available",
+    "readFeedback": "Read feedback",
+    "wrongAnswer": "Wrong answer",
+    "correctAnswer": "Correct answer",
+    "shouldCheck": "Should have been checked",
+    "shouldNotCheck": "Should not have been checked",
+    "noInput": "Please answer before viewing the solution"
+  },
+  "behaviour": {
+    "enableRetry": true,
+    "enableSolutionsButton": true,
+    "singlePoint": true,
+    "randomAnswers": true,
+    "showSolutionsRequiresInput": true,
+    "type": "auto",
+    "confirmCheckDialog": false,
+    "confirmRetryDialog": false,
+    "autoCheck": false,
+    "passPercentage": 100,
+    "showScorePoints": true,
+    "enableCheckButton": true
+  },
+  "overallFeedback": [
+    {
+      "from": 0,
+      "to": 0,
+      "feedback": "Wrong"
+    },
+    {
+      "from": 1,
+      "to": 99,
+      "feedback": "Almost!"
+    },
+    {
+      "from": 100,
+      "to": 100,
+      "feedback": "Correct!"
+    }
+  ],
+  "question": "Coca-Cola’s mission is to refresh the world, and to that end, it has ensured that you can buy a Coke product at numerous locations—vending machines, convenience stores, restaurant fountains, stadiums, etc. What type of utility has marketing created through this process?",
+  "isSolutionPublic": true,
+  "isFreeResponseSupported": false,
+  "answers": [
+    {
+      "text": "Form utility",
+      "correct": false,
+      "tipsAndFeedback": {
+        "tip": "",
+        "chosenFeedback": "That&#8217;s not correct. Possession utility means the satisfaction the consumer feels from buying a product or service.",
+        "notChosenFeedback": ""
+      }
+    },
+    {
+      "text": "Time utility",
+      "correct": false,
+      "tipsAndFeedback": {
+        "tip": "",
+        "chosenFeedback": "That&#8217;s not correct. Time utility involves making products or services available to consumers when they&#8217;re ready to buy, such as stores that are open 24-7.",
+        "notChosenFeedback": ""
+      }
+    },
+    {
+      "text": "Place utility",
+      "correct": false,
+      "tipsAndFeedback": {
+        "tip": "",
+        "chosenFeedback": "That&#8217;s not correct. Form utility refers to the appeal of a finished product; for example, a baker combining eggs, flour, sugar, and milk to create a cake.",
+        "notChosenFeedback": ""
+      }
+    },
+    {
+      "text": "Possession utility",
+      "correct": true,
+      "tipsAndFeedback": {
+        "tip": "",
+        "chosenFeedback": "Place utility addresses convenience in terms of where a consumer can purchase your company&#8217;s product.",
+        "notChosenFeedback": ""
+      }
+    }
+  ],
+  "subContentId": "a76aaa34-5177-47d5-9669-21a92ef9cc63",
+  "detailedSolution": "Place utility addresses convenience in terms of where a consumer can purchase your company’s product."
+}
