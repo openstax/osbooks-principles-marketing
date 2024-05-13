@@ -195,11 +195,11 @@
     <section class="knowledge-check" id="sect-00018">
     <title>Knowledge Check</title>
     <para id="para-00047">It’s time to check your knowledge on the concepts presented in this section. Refer to the Answer Key at the end of the book for feedback.</para>
-    <exercise id="exer-00004"><problem id="prob-00004"><para id="para-00048"><link class="os-embed" url="#exercise/MBT_Ch13_Sec4_KC1"/></para></problem></exercise>
-    <exercise id="exer-00005"><problem id="prob-00005"><para id="para-00049"><link class="os-embed" url="#exercise/MBT_Ch13_Sec4_KC2"/></para></problem></exercise>
-    <exercise id="exer-00006"><problem id="prob-00006"><para id="para-00050"><link class="os-embed" url="#exercise/MBT_Ch13_Sec4_KC3"/></para></problem></exercise>
-    <exercise id="exer-00007"><problem id="prob-00007"><para id="para-00051"><link class="os-embed" url="#exercise/MBT_Ch13_Sec4_KC4"/></para></problem></exercise>
-    <exercise id="exer-00008"><problem id="prob-00008"><para id="para-00052"><link class="os-embed" url="#exercise/MBT_Ch13_Sec4_KC5"/></para></problem></exercise>
+    <exercise id="exer-00004"><problem id="prob-00004"><para id="para-00048"><link class="os-embed" url="{INTERACTIVES_ROOT}/MBT_Ch13_Sec4_KC1"/></para></problem></exercise>
+    <exercise id="exer-00005"><problem id="prob-00005"><para id="para-00049"><link class="os-embed" url="{INTERACTIVES_ROOT}/MBT_Ch13_Sec4_KC2"/></para></problem></exercise>
+    <exercise id="exer-00006"><problem id="prob-00006"><para id="para-00050"><link class="os-embed" url="{INTERACTIVES_ROOT}/MBT_Ch13_Sec4_KC3"/></para></problem></exercise>
+    <exercise id="exer-00007"><problem id="prob-00007"><para id="para-00051"><link class="os-embed" url="{INTERACTIVES_ROOT}/MBT_Ch13_Sec4_KC4"/></para></problem></exercise>
+    <exercise id="exer-00008"><problem id="prob-00008"><para id="para-00052"><link class="os-embed" url="{INTERACTIVES_ROOT}/MBT_Ch13_Sec4_KC5"/></para></problem></exercise>
     </section>
     <section class="references" id="sect-00019">
     <title>Endnotes</title>

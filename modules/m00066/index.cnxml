@@ -50,11 +50,11 @@
     <section class="knowledge-check" id="sect-00004" xmlns="http://cnx.rice.edu/cnxml">
     <title>Knowledge Check</title>
     <para id="para-00009">It’s time to check your knowledge on the concepts presented in this section. Refer to the Answer Key at the end of the book for feedback.</para>
-    <exercise id="exer-00001"><problem id="prob-00001"><para id="para-00010"><link class="os-embed" url="#exercise/MBT_Ch10_Sec3_KC1"/></para></problem></exercise>
-    <exercise id="exer-00002"><problem id="prob-00002"><para id="para-00011"><link class="os-embed" url="#exercise/MBT_Ch10_Sec3_KC2"/></para></problem></exercise>
-    <exercise id="exer-00003"><problem id="prob-00003"><para id="para-00012"><link class="os-embed" url="#exercise/MBT_Ch10_Sec3_KC3"/></para></problem></exercise>
-    <exercise id="exer-00004"><problem id="prob-00004"><para id="para-00013"><link class="os-embed" url="#exercise/MBT_Ch10_Sec3_KC4"/></para></problem></exercise>
-    <exercise id="exer-00005"><problem id="prob-00005"><para id="para-00014"><link class="os-embed" url="#exercise/MBT_Ch10_Sec3_KC5"/></para></problem></exercise>
+    <exercise id="exer-00001"><problem id="prob-00001"><para id="para-00010"><link class="os-embed" url="{INTERACTIVES_ROOT}/MBT_Ch10_Sec3_KC1"/></para></problem></exercise>
+    <exercise id="exer-00002"><problem id="prob-00002"><para id="para-00011"><link class="os-embed" url="{INTERACTIVES_ROOT}/MBT_Ch10_Sec3_KC2"/></para></problem></exercise>
+    <exercise id="exer-00003"><problem id="prob-00003"><para id="para-00012"><link class="os-embed" url="{INTERACTIVES_ROOT}/MBT_Ch10_Sec3_KC3"/></para></problem></exercise>
+    <exercise id="exer-00004"><problem id="prob-00004"><para id="para-00013"><link class="os-embed" url="{INTERACTIVES_ROOT}/MBT_Ch10_Sec3_KC4"/></para></problem></exercise>
+    <exercise id="exer-00005"><problem id="prob-00005"><para id="para-00014"><link class="os-embed" url="{INTERACTIVES_ROOT}/MBT_Ch10_Sec3_KC5"/></para></problem></exercise>
     </section>
     <section class="references" id="sect-00005">
     <title>Endnotes</title>
