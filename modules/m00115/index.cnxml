@@ -36,13 +36,14 @@
     <para id="para-00012">For some companies, more than one mode of transportation is needed. Multimodal transportation involves companies using two or more types of transportation to move goods from origin to destination. For example, <term class="no-emphasis" id="term-00003">Apple</term> may use air to ship iPhones to European airports but then trucks to continue the journey in getting iPhones to warehouses or distribution centers and retailers.</para>
     <table summary="" id="table-00001">
     <tgroup cols="4">
-    <tbody>
-    <row class="header-row">
+      <thead>   <row class="header-row">
     <entry align="center"><emphasis effect="bold">Mode</emphasis></entry>
     <entry align="center"><emphasis effect="bold">Speed</emphasis></entry>
     <entry align="center"><emphasis effect="bold">Cost</emphasis></entry>
     <entry align="center"><emphasis effect="bold">Accessibility</emphasis></entry>
-    </row>
+    </row></thead>
+    <tbody>
+ 
     <row>
     <entry>Trucking</entry>
     <entry>Moderate</entry>

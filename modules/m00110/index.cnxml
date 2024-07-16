@@ -46,10 +46,11 @@
     <para id="para-00014">The intermediaries’ role is critical, and they perform a variety of functions (as shown in <link target-id="table-00001" document="m00110"/>) that create value for other members in the marketing channel.</para>
     <table summary="" id="table-00001">
     <tgroup cols="1">
-    <tbody>
-    <row class="header-row">
+      <thead>    <row class="header-row">
     <entry align="center">Intermediary Functions</entry>
-    </row>
+    </row></thead>
+    <tbody>
+
     <row>
     <entry>Transactional: Buying, selling, and temporary risk-bearing</entry>
     </row>
